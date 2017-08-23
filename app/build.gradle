@@ -31,15 +31,15 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
 
             // For formatting apk file name, like com.by_syk.template_v1.0.0(17012500).apk
-            /*android.applicationVariants.all { variant ->
+            android.applicationVariants.all { variant ->
                 variant.outputs.each { output ->
                     def outputFile = output.outputFile
                     if (outputFile != null) {
-                        def fileName = "${defaultConfig.applicationId}_v${defaultConfig.versionName}(${defaultConfig.versionCode}).apk"
+                        def fileName = "${defaultConfig.applicationId}.apk"
                         output.outputFile = new File((String) outputFile.parent, fileName)
                     }
                 }
-            }*/
+            }
         }
     }
 

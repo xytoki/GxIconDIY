@@ -1,20 +1,10 @@
 local.properties
-# Created by https://www.gitignore.io/api/gradle
-
-### Gradle ###
+.idea
 .gradle
 /build/
 gradle.properties
-# Ignore Gradle GUI config
 gradle-app.setting
-
-# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
 !gradle-wrapper.jar
 my.keystore
-# Cache of project
 .gradletasknamecache
-
-# # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
-# gradle/wrapper/gradle-wrapper.properties
-
-# End of https://www.gitignore.io/api/gradle
+gradle/wrapper/gradle-wrapper.properties
