@@ -9,7 +9,7 @@ android:
   - extra-android-support
 script:
 - "./gradlew assembleRelease"
-- ls ./app/build/outputs/apk/com.e123.gxicon.apk -l
+- ls app/build/outputs/apk/com.e123.gxicon.apk -l
 deploy:
   provider: releases
   api_key:
