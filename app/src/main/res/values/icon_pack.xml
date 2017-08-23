@@ -20,7 +20,8 @@
     <!-- File name (no suffix) list of all icons in /res/drawable-nodpi/ -->
     <!-- Names like "Calendar", "500px", "camera_360" are not allowed or recommended. -->
     <string-array name="icons" translatable="false">
-
+	<!--AutoInjector Start-->
+	<!--AutoInjector End-->
     </string-array>
 
     <!-- Corresponding app name list of all icons in /res/drawable-nodpi/ -->

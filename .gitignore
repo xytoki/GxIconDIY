@@ -9,3 +9,4 @@ my.keystore
 .gradletasknamecache
 gradle/wrapper/gradle-wrapper.properties
 app/*.apk
+autoInjectionTool/node_modules

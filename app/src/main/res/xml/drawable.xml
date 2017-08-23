@@ -20,25 +20,8 @@
 
     <version>1</version>
 
-    <category title="Basic" /><!-- Copy basic icons here from All category -->
-    <!--<item drawable="browser" />-->
-    <!--<item drawable="calculator" />-->
-    <item drawable="calendar" />
-    <!--<item drawable="camera" />-->
-    <!--<item drawable="clock" />-->
-    <!--<item drawable="contacts" />-->
-    <!--<item drawable="email" />-->
-    <!--<item drawable="gallery" />-->
-    <!--<item drawable="music" />-->
-    <!--<item drawable="phone" />-->
-    <!--<item drawable="settings" />-->
-    <!--<item drawable="sms" />-->
-
-    <category title="Game" /><!-- Copy game icons here from All category -->
-
-    <category title="Alternative" /><!-- Copy alternative icons here from All category -->
-
-
     <category title="All" />
+	<!--AutoInjector Start-->
+    <!--AutoInjector End-->
 
 </resources>
