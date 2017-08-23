@@ -21,7 +21,7 @@ request(exporter, function (error, response, body) {
 	console.log("Ready to download...");
 	var next=function(i,cb){
 		if(typeof(j[i])=="undefined")return cb();
-		var basefn=j[i][1].replace(new RegExp("\\.","g"),"")+"_"+j[i][0];
+		var basefn=j[i][1].replace(new RegExp("\\.","g"),"_")+"_"+j[i][0];
 		var fn=drawable_folder+"/"+basefn+path.extname("http:"+j[i][2]);
 		wget({url: "http:"+j[i][2], dest: fn}, function(){
 			//Write drawable.xml
