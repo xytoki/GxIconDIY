@@ -10,7 +10,7 @@ android:
 script:
 - "./gradlew assembleRelease"
 - ls app/build/outputs/apk/com.e123.gxicon.apk -l
-- jarsigner -verbose -keystore weng.jks -storepass $KEYSTORE_PASS -keypass $ALIAS_PASS -signedjar app/build/outputs/apk/com.e123.gxicon.signed.apk app/build/outputs/apk/com.e123.gxicon.signed.apk $ALIAS_NAME
+- jarsigner -verbose -keystore weng.jks -storepass $KEYSTORE_PASS -keypass $ALIAS_PASS -signedjar app/build/outputs/apk/com.e123.gxicon.signed.apk app/build/outputs/apk/com.e123.gxicon.apk $ALIAS_NAME
 deploy:
   provider: releases
   api_key:
