@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="TextTag-1.1.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/92c4eb7c954761b1dd03ce81adb33b98e41312a1/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/92c4eb7c954761b1dd03ce81adb33b98e41312a1/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.by-syk/TextTag/1.1.0/2a8a7c5162630c2b6e1d418f258068007dcbebdb/TextTag-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

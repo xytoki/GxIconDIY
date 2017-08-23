@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright 2017 By_syk
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+
+<!-- For Nova, Apex, ADW, Smart, Action 3 -->
+<resources>
+
+    <!--<iconback
+        img1="iconback" />
+    <iconmask
+        img1="iconmask" />
+    <iconupon
+        img1="iconupon" />
+    <scale
+        factor="0.6" />-->
+
+    <!-- Just for Nova -->
+    <!--<item
+        component=":LAUNCHER_ACTION_APP_DRAWER"
+        drawable="drawer" />-->
+    <!--<item
+        component=":LAUNCHER_ACTION_APP_DRAWER_NIGHT"
+        drawable="drawer_night" />-->
+    <!--<item
+        component=":BROWSER"
+        drawable="browser" />-->
+    <!--<item
+        component=":CALCULATOR"
+        drawable="calculator" />-->
+    <!--<item
+        component=":CALENDAR"
+        drawable="calendar" />-->
+    <!--<item
+        component=":CAMERA"
+        drawable="camera" />-->
+    <!--<item
+        component=":CLOCK"
+        drawable="clock" />-->
+    <!--<item
+        component=":CONTACTS"
+        drawable="contacts" />-->
+    <!--<item
+        component=":EMAIL"
+        drawable="email" />-->
+    <!--<item
+        component=":GALLERY"
+        drawable="gallery" />-->
+    <!--<item
+        component=":PHONE"
+        drawable="phone" />-->
+    <!--<item
+        component=":SMS"
+        drawable="sms" />-->
+
+    <!-- The whole 31 icons are required, or it doesn't work. -->
+    <!--<calendar
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="calendar_d" />-->
+
+    <!--<item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        drawable="calendar" />-->
+
+</resources>

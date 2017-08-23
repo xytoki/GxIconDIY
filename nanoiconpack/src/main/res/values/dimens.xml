@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright 2017 By_syk
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horz_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--<dimen name="padding_title_body_dlg">20dp</dimen>-->
+    <!--<dimen name="padding_content_dlg">24dp</dimen>-->
+    <dimen name="dlg_horz_padding">24dp</dimen>
+    <dimen name="dlg_vertical_padding">20dp</dimen>
+
+    <dimen name="unit_padding">8dp</dimen>
+    <dimen name="half_unit_padding">4dp</dimen>
+    <dimen name="double_unit_padding">16dp</dimen>
+
+    <dimen name="grid_size">80dp</dimen>
+    <dimen name="grid_icon_size">72dp</dimen>
+    <dimen name="grid_small_icon_size">52dp</dimen>
+    <dimen name="list_icon_size">48dp</dimen>
+    <dimen name="dlg_icon_size">128dp</dimen>
+    <dimen name="dlg_small_icon_size">72dp</dimen>
+    <dimen name="padding_above_list">8dp</dimen>
+    <dimen name="app_list_item_height">72dp</dimen>
+    <dimen name="padding_before_list_text">72dp</dimen>
+    <dimen name="handle_bar_width">12dp</dimen>
+    <dimen name="qrcode_size">224dp</dimen>
+    <dimen name="tag_width">6dp</dimen>
+    <dimen name="half_tag_width">3dp</dimen>
+    <!-- 56 + 48 + 48 + 8 -->
+    <dimen name="req_bottom_menu_height">160dp</dimen>
+
+</resources>
