@@ -22,6 +22,10 @@
 
     <category title="All" />
 	<!--AutoInjector Start-->
-    <!--AutoInjector End-->
+    	<item drawable="com_coolapk_market_100" />
+		<item drawable="com_coolapk_market_101" />
+		<item drawable="com_goodseed_iconapck_102" />
+		<item drawable="com_topjohnwu_magisk_103" />
+	<!--AutoInjector End-->
 
 </resources>
