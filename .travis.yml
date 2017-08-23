@@ -9,16 +9,12 @@ android:
   - extra-android-support
 script:
 - "./gradlew assembleRelease"
-- ls
-- ls app
-- ls app/build
-- ls app/build/outputs
 - ls app/build/outputs/apk
 deploy:
   provider: releases
   api_key:
     secure: ff2zXKaNPGnoTfVoqPqKDlJG1zl9L5SRVCUsdx3nZQqp1fhFoT7v2HudSdcUKhT2XLrkZjYi0ueWYUnNRISvIO+xwhnCXto8J2phxxBHnDiK0G4+oCGg/EH8QKkNmI4bBMQCa6KAdQCUJtZOE/Oa3+78TBBo9LzJAl+feunqzccFpKpoaAdB24LQ1zhtHejXTzV15uAwnITvuWjs2IRM7OAyDL6WCP7CFukwz3sWFcbIbwL3lZns/v8+YDfgD5um5ekdGwhOKHimoJb+UkUBLWI+r6upWZH5PKLhF+aRxJJ7nzdS6amVRVCZsm87kEJzI+tbQ8k1dn/juhD1DkJtt/hF6SfgHSLWAfF1TdYsXuiKXy+cGeTszjPj0rsLJe9TP2CtfQtfmDjtKdsBoNy25+dFSO0TZ8wKEWLEEDyfOomYehdoGdzZZjWeuWe1PXEEj4q6UfTZ7T6ZvFsD/bC2638mAcs5TG5MSFRq+sAPdvtwEiC9f8SLHFXbvpiLK4QlFfKnkj1kBex3crWex9+1eFi4pHMpGFTRuCPAID6DZeQXXGS2iTjkX5VECfldK+578Eoznd9w2y1su8yc+QYcUWjMNRnLQpkW5gtz5lS6V3Eh6OIzxVmtyjyiYt9hG2qvG0CDJg/zePBusXsOA9WsC8RXs+D3QdkLW0r6XTw7i9k=
-  file: app/com.e123.gxicon.apk
+  file: app/build/outputs/apk/com.e123.gxicon.apk
   on:
     repo: homeii/GxIconAndroid
 before_install:
