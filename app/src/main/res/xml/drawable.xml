@@ -37,21 +37,8 @@
     <category title="Game" /><!-- Copy game icons here from All category -->
 
     <category title="Alternative" /><!-- Copy alternative icons here from All category -->
-    <item drawable="nano_icon_pack_1" />
-    <item drawable="nano_icon_pack_2" />
-    <item drawable="nano_icon_pack_3" />
-    <item drawable="nano_icon_pack_4" />
-    <item drawable="nano_icon_pack_5" />
-    <item drawable="nano_icon_pack_6" />
 
-    <category title="All(8)" /><!-- All icons here -->
-    <item drawable="calendar" />
-    <item drawable="nano_icon_pack" />
-    <item drawable="nano_icon_pack_1" />
-    <item drawable="nano_icon_pack_2" />
-    <item drawable="nano_icon_pack_3" />
-    <item drawable="nano_icon_pack_4" />
-    <item drawable="nano_icon_pack_5" />
-    <item drawable="nano_icon_pack_6" />
+
+    <category title="All" />
 
 </resources>

@@ -17,7 +17,7 @@ deploy:
   file: app/build/outputs/apk/com.e123.gxicon.apk
   skip_cleanup: true
   on:
-    repo: homeii/GxIconAndroid
+    tags: true
 before_install:
 - openssl aes-256-cbc -K $encrypted_1f83da9f01bd_key -iv $encrypted_1f83da9f01bd_iv
   -in my.keystore.enc -out my.keystore -d
