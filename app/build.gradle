@@ -17,6 +17,14 @@ android {
     }
 
     buildTypes {
+        signingConfigs {
+            releaseConfig {
+                storeFile file("../my.keystore")
+                storePassword project.hasProperty("KEYSTORE_PASS") ? KEYSTORE_PASS : System.getenv("KEYSTORE_PASS")
+                keyAlias project.hasProperty("ALIAS_NAME") ? ALIAS_NAME : System.getenv("ALIAS_NAME")
+                keyPassword project.hasProperty("ALIAS_PASS") ? ALIAS_PASS : System.getenv("ALIAS_PASS")
+            }
+        }
         release {
             shrinkResources false // Keep false, or icons in /drawable-nodpi/ will become black.
             minifyEnabled true
