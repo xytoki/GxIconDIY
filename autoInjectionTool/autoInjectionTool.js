@@ -11,6 +11,7 @@ var iconpack_xml=path.normalize(__dirname+"/../"+folder+"/src/main/res/values/ic
 console.log(drawable_folder);
 console.log(drawable_xml);
 console.log(iconpack_xml);
+fs.mkdir(drawable_folder,function(){})
 request(exporter, function (error, response, body) {
 	if(error){
 		throw error;
