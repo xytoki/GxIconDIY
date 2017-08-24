@@ -22,13 +22,6 @@
 
     <category title="All" />
 	<!--AutoInjector Start-->
-		<item drawable="com_coolapk_market_100" />
-		<item drawable="com_coolapk_market_101" />
-		<item drawable="com_goodseed_iconapck_102" />
-		<item drawable="com_topjohnwu_magisk_103" />
-		<item drawable="com_quark_browser_104" />
-		<item drawable="com_android_phone_105" />
-		<item drawable="com_coolapk_market_106" />
 	<!--AutoInjector End-->
 
 </resources>
