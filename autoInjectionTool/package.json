@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "moment": "^2.18.1",
     "node-wget": "^0.4.2",
     "request": "^2.81.0"
   }
