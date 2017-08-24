@@ -32,21 +32,19 @@
          [xxx](xxx)
          -->
     <string name="preference_icons_summary_note"></string>
-    <string name="preference_icons_title_author">灵魂图匠</string>
+    <string name="preference_icons_title_author">程序猿</string>
     <string name="preference_icons_summary_author">[@Weng](copy:@Weng)</string>
     <string name="preference_icons_title_contact">联系作者</string>
-    <string name="preference_icons_summary_contact">[By_syk@163.com](email:By_syk@163.com)</string>
-    <string name="preference_icons_title_todo_1"></string>
-    <string name="preference_icons_summary_todo_1"></string>
+    <string name="preference_icons_summary_contact">[https://blog.e123.pw](https://blog.e123.pw)</string>
     <string name="preference_icons_title_copyright">版权所有</string>
-    <string name="preference_icons_summary_copyright">Copyright &#169; 2017 By_syk. All rights reserved.</string>
-    <string name="preference_support_title_donate">通过支付宝捐赠</string>
-    <string name="preference_support_title_todo_1">通过微信捐赠</string>
+    <string name="preference_icons_summary_copyright">Copyright &#169; 2017 Weng. All rights reserved.</string>
+    <string name="preference_support_title_donate">通过QQ捐赠</string>
+    <string name="preference_support_summary_donate">[抱歉不常用微信支付宝，点击显示二维码](qrcode:"https://cdn.homeii.info/images/donate/qq.png)</string>
+    <string name="preference_support_title_todo_1">上传图标</string>
     <string name="preference_support_title_sponsors">赞助者们</string>
     <string name="preference_support_summary_sponsors">[感谢捐赠支持的用户们。](usr:bysyk)</string>
     <string name="preference_app_title_app">@string/app_name</string>
     <string name="preference_app_summary_app">v%1$s (%2$d)</string>
-    <string name="preference_app_title_todo_1"></string>
-    <string name="preference_app_summary_todo_1"></string>
+    <string name="preference_support_summary_todo_1">[打开http://gxicon.e123.pw/上传后等待自动编译](http://gxicon.e123.pw/)</string>
 
 </resources>

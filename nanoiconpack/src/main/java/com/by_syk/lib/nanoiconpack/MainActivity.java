@@ -126,7 +126,7 @@ public class MainActivity extends AppCompatActivity
 
         // Set the default page to show.
         // 0: Lost, 1: Matched 2. All
-        viewPager.setCurrentItem(1);
+        viewPager.setCurrentItem(2);
     }
 
     public void prepareReqPrompt() {

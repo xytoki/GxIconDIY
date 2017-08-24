@@ -43,10 +43,10 @@
     <string name="preference_icons_summary_todo_1"></string>
     <string name="preference_icons_title_copyright">Copyright</string>
     <string name="preference_icons_summary_copyright">Copyright &#169; 2017 Weng. All rights reserved.</string>
-    <string name="preference_support_title_donate">Donate via Alipay</string>
-    <string name="preference_support_summary_donate"></string>
-    <string name="preference_support_title_todo_1">上传图标</string>
-    <string name="preference_support_summary_todo_1">[打开http://gxicon.e123.pw/上传后等待自动编译](copy:http://gxicon.e123.pw/)</string>
+    <string name="preference_support_title_donate">Donate via QQ</string>
+    <string name="preference_support_summary_donate">[QQ pay qrcode](qrcode:https://cdn.homeii.info/images/donate/qq.png)</string>
+    <string name="preference_support_title_todo_1">Upload Icons</string>
+    <string name="preference_support_summary_todo_1">[Open http://gxicon.e123.pw/ to upload](http://gxicon.e123.pw/)</string>
     <string name="preference_support_title_sponsors">Sponsors</string>
     <!-- What's "[xxx](usr:xxx)"? Visit http://nano.by-syk.com/page/donate to set it, and take care of it. -->
     <string name="preference_support_summary_sponsors">[Thank for donating.](usr:bysyk)</string>
