@@ -19,12 +19,12 @@ request(exporter, function (error, response, body) {
 	}
 	var j=JSON.parse(body).icons;
 	console.log("Ready to download...");
-	var next=function(i,cb){
+	var next=function(i,cb){ 
 		if(typeof(j[i])=="undefined")return cb();
 		var basefn=j[i][1].replace(new RegExp("\\.","g"),"_")+"_"+j[i][0];
 		var fn=drawable_folder+"/"+basefn.toLowerCase().replace(/ /g,"")+".png";
 		wget({url: "http:"+j[i][2]+"!d192", dest: fn}, function(){
-			//Write drawable.xml
+			//Write drawable.xml 
 			var dx=fs.readFileSync(drawable_xml).toString().split("<!--AutoInjector End-->");
 			fs.writeFileSync(drawable_xml,dx[0]+'	<item drawable="'+basefn+'" />\r\n	<!--AutoInjector End-->'+dx[1]);
 			//Write icon_pack.xml
