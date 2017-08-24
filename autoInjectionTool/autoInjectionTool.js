@@ -21,7 +21,8 @@ request(exporter, function (error, response, body) {
 	console.log("Ready to download...");
 	var next=function(i,cb){ 
 		if(typeof(j[i])=="undefined")return cb();
-		var basefn=j[i][1].replace(new RegExp("\\.","g"),"_")+"_"+j[i][0].toLowerCase().replace(/ /g,"");
+		var basefn=j[i][1].replace(new RegExp("\\.","g"),"_")+"_"+j[i][0];
+		basefn=basefn.toLowerCase().replace(/ /g,"");
 		var fn=drawable_folder+"/"+basefn+".png";
 		wget({url: "http:"+j[i][2]+"!d192", dest: fn}, function(){
 			//Write drawable.xml 
