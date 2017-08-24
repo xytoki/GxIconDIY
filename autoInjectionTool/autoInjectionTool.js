@@ -22,7 +22,7 @@ request(exporter, function (error, response, body) {
 	var next=function(i,cb){
 		if(typeof(j[i])=="undefined")return cb();
 		var basefn=j[i][1].replace(new RegExp("\\.","g"),"_")+"_"+j[i][0];
-		var fn=drawable_folder+"/"+basefn.toLowerCase()+".png";
+		var fn=drawable_folder+"/"+basefn.toLowerCase().replace(/ /g,"")+".png";
 		wget({url: "http:"+j[i][2]+"!d192", dest: fn}, function(){
 			//Write drawable.xml
 			var dx=fs.readFileSync(drawable_xml).toString().split("<!--AutoInjector End-->");
