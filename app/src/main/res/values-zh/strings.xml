@@ -18,7 +18,7 @@
 <resources>
 
     <!-- App name -->
-    <string name="app_name">共享图标包</string>
+    <string name="app_name">共享图标包</string><!--appname-->
 
     <!-- About information -->
     <!-- Keep its summary EMPTY (NOT DELETE IT) if you don't want to show certain line. -->
@@ -33,13 +33,13 @@
          -->
     <string name="preference_icons_summary_note"></string>
     <string name="preference_icons_title_author">程序猿</string>
-    <string name="preference_icons_summary_author">[@Weng](copy:@Weng)</string>
-    <string name="preference_icons_title_contact">联系作者</string>
-    <string name="preference_icons_summary_contact">[https://blog.e123.pw](https://blog.e123.pw)</string>
+    <string name="preference_icons_summary_author">[@Weng](copy:@Weng)</string><!--author-->
+    <string name="preference_icons_title_contact">由共享图标包生成</string>
+    <string name="preference_icons_summary_contact">[属于每个人的图标包 https://gxicon.e123.pw](https://gxicon.e123.pw)</string>
     <string name="preference_icons_title_copyright">版权所有</string>
     <string name="preference_icons_summary_copyright">Copyright &#169; 2017 Weng. All rights reserved.</string>
-    <string name="preference_support_title_donate">通过QQ捐赠</string>
-    <string name="preference_support_summary_donate">[抱歉不常用微信支付宝，点击显示二维码](qrcode:"https://cdn.homeii.info/images/donate/qq.png)</string>
+    <string name="preference_support_title_donate">QQ捐赠给@weng</string>
+    <string name="preference_support_summary_donate">[共享图标包的服务器支出什么的...](qrcode:"https://cdn.homeii.info/images/donate/qq.png)</string>
     <string name="preference_support_title_todo_1">上传图标</string>
     <string name="preference_support_title_sponsors">赞助者们</string>
     <string name="preference_support_summary_sponsors">[感谢捐赠支持的用户们。](usr:bysyk)</string>

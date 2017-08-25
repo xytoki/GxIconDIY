@@ -2,6 +2,8 @@ var folder="app";
 var p_vname=['/*AutoVersionName Start*/versionName "','"/*AutoVersionName End*/'];
 var p_pname=['/*AutoPackageName Start*/applicationId "','"/*AutoPackageName End*/'];
 var p_vcode=['/*AutoVersionCode Start*/versionCode ','/*AutoVersionCode End*/'];
+var p_appname=['<string name="app_name">','</string><!--appname-->'];
+var p_author=['<string name="preference_icons_summary_author">','</string><!--author-->'];
 var exporter="http://gxicon.e123.pw/api.php?icon/export";
 var folder="app";
 
@@ -15,6 +17,7 @@ var drawable_folder=path.normalize(__dirname+"/"+folder+"/src/main/res/drawable-
 var drawable_xml=path.normalize(__dirname+"/"+folder+"/src/main/res/xml/drawable.xml");
 var iconpack_xml=path.normalize(__dirname+"/"+folder+"/src/main/res/values/icon_pack.xml");
 var appfilter_xml=path.normalize(__dirname+"/"+folder+"/src/main/res/xml/appfilter.xml");
+var strings_xml=path.normalize(__dirname+"/"+folder+"/src/main/res/values-zh/strings.xml");
 var build_gradle=path.normalize(__dirname+"/"+folder+"/build.gradle");
 var config=JSON.parse(fs.readFileSync("_autoMake.json"));
 log.info("INFO","GxIcon Packager v1");
@@ -88,7 +91,14 @@ var f=fs.readFileSync(build_gradle).toString();
 f=(f.split(p_vcode[0])[0]+p_vcode[0]+config.vcode+p_vcode[1]+f.split(p_vcode[1])[1]);
 f=(f.split(p_vname[0])[0]+p_vname[0]+config.vname+p_vname[1]+f.split(p_vname[1])[1]);
 f=(f.split(p_pname[0])[0]+p_pname[0]+config.pkg+p_pname[1]+f.split(p_pname[1])[1]);
-//fs.writeFileSync(build_gradle,f);
+fs.writeFileSync(build_gradle,f);
+
+//Update appname
+log.info("APP",[config.appname,config.author]);
+var f=fs.readFileSync(strings_xml).toString();
+f=(f.split(p_appname[0])[0]+p_appname[0]+config.app+p_appname[1]+f.split(p_appname[1])[1]);
+f=(f.split(p_author[0])[0]+p_author[0]+config.author+p_author[1]+f.split(p_author[1])[1]);
+fs.writeFileSync(strings_xml,f);
 
 /* Update icons */
 fs.mkdir(drawable_folder,function(){})
