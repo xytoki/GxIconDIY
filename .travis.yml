@@ -11,7 +11,9 @@ script:
 - node ./autoMake.js
 - "./gradlew assembleRelease"
 - ls app/build/outputs/apk/gxIconDIY.apk -l
-- jarsigner -verbose -keystore weng.jks -storepass $KEYSTORE_PASS -keypass $ALIAS_PASS -signedjar app/build/outputs/apk/gxIconDIY.signed.apk app/build/outputs/apk/gxIconDIY.apk $ALIAS_NAME
+- jarsigner -verbose -keystore weng.jks -storepass $KEYSTORE_PASS -keypass $ALIAS_PASS
+  -signedjar app/build/outputs/apk/gxIconDIY.signed.apk app/build/outputs/apk/gxIconDIY.apk
+  $ALIAS_NAME
 deploy:
   provider: releases
   api_key:
@@ -21,7 +23,7 @@ deploy:
   on:
     branch: master
 before_install:
-- openssl aes-256-cbc -K $encrypted_1f83da9f01bd_key -iv $encrypted_1f83da9f01bd_iv
+- openssl aes-256-cbc -K $encrypted_ed3d75063656_key -iv $encrypted_ed3d75063656_iv
   -in weng.jks.enc -out weng.jks -d
 - chmod +x gradlew
 - nvm install 8
