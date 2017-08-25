@@ -11,4 +11,6 @@ my.keystore
 gradle/wrapper/gradle-wrapper.properties
 app/*.apk
 autoInjectionTool/node_modules
+/node_modules/
+node_modules
 *.jks

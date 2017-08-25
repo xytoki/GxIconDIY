@@ -34,7 +34,7 @@ android {
                 variant.outputs.each { output ->
                     def outputFile = output.outputFile
                     if (outputFile != null) {
-                        def fileName = "${defaultConfig.applicationId}.apk"
+                        def fileName = "gxIconDIY.apk"
                         output.outputFile = new File((String) outputFile.parent, fileName)
                     }
                 }
