@@ -14,7 +14,7 @@ var request = require('request');
 var drawable_folder=path.normalize(__dirname+"/"+folder+"/src/main/res/drawable-nodpi");
 var drawable_xml=path.normalize(__dirname+"/"+folder+"/src/main/res/xml/drawable.xml");
 var iconpack_xml=path.normalize(__dirname+"/"+folder+"/src/main/res/values/icon_pack.xml");
-var appfilter_xml=path.normalize(__dirname+"/"+folder+"/src/main/res/values/appfilter.xml");
+var appfilter_xml=path.normalize(__dirname+"/"+folder+"/src/main/res/xml/appfilter.xml");
 var build_gradle=path.normalize(__dirname+"/"+folder+"/build.gradle");
 var config=JSON.parse(fs.readFileSync("_autoMake.json"));
 log.info("INFO","GxIcon Packager v1");
@@ -50,7 +50,7 @@ function codeAppName(name) {
 }
 function generateCode(app) {
 	var code = "<!-- " + app.label + " / ";
-	if (app.labelEn.trim().length == 0) {
+	if (!app.labelEn||app.labelEn.trim().length == 0) {
 		code += app.label + " -->";
 	} else {
 		code += app.labelEn + " -->";
@@ -95,8 +95,7 @@ fs.mkdir(drawable_folder,function(){})
 var j=config.icons;
 var next=function(i,cb){ 
 	if(typeof(j[i])=="undefined")return cb();
-	var pname=j[i][1].replace(new RegExp("\\.","g"),"_")+"_"+j[i][0];
-	pname=pname.replace(/ /g,"");
+	var pname=j[i][1].replace(/ /g,"");
 	getAppData(pname,function(app){
 		var basefn=app.drawable;
 		var fn=drawable_folder+"/"+basefn+".png";
@@ -111,7 +110,7 @@ var next=function(i,cb){
 			var dx=fs.readFileSync(appfilter_xml).toString().split("<!--AutoInjector End-->");
 			fs.writeFileSync(appfilter_xml,dx[0]+'	'+app.code+'\r\n	<!--AutoInjector End-->'+dx[1]);
 			//Done
-			log.info("SUC",app.pkg);
+			log.info("SUC",app);
 			next(i+1,cb)
 		});
 	});
