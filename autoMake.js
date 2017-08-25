@@ -17,6 +17,7 @@ var iconpack_xml=path.normalize(__dirname+"/"+folder+"/src/main/res/values/icon_
 var appfilter_xml=path.normalize(__dirname+"/"+folder+"/src/main/res/values/appfilter.xml");
 var build_gradle=path.normalize(__dirname+"/"+folder+"/build.gradle");
 var config=JSON.parse(fs.readFileSync("_autoMake.json"));
+log.info("INFO","GxIcon Packager v1");
 log.info("CFG",config);
 log.info("DIR",drawable_folder);
 log.info("DIR",drawable_xml);
@@ -96,20 +97,25 @@ var next=function(i,cb){
 	if(typeof(j[i])=="undefined")return cb();
 	var pname=j[i][1].replace(new RegExp("\\.","g"),"_")+"_"+j[i][0];
 	pname=pname.replace(/ /g,"");
-	
-	var fn=drawable_folder+"/"+basefn+".png";
-	com.tencent.mobileqq
-	wget({url: "http:"+j[i][2]+"!d192", dest: fn}, function(){
-		//Write drawable.xml 
-		var dx=fs.readFileSync(drawable_xml).toString().split("<!--AutoInjector End-->");
-		fs.writeFileSync(drawable_xml,dx[0]+'	<item drawable="'+basefn+'" />\r\n	<!--AutoInjector End-->'+dx[1]);
-		//Write icon_pack.xml
-		var dx=fs.readFileSync(iconpack_xml).toString().split("<!--AutoInjector End-->");
-		fs.writeFileSync(iconpack_xml,dx[0]+'	<item>'+basefn+'</item>\r\n	<!--AutoInjector End-->'+dx[1]);
-		//Done
-		console.log(fn);
-		next(i+1,cb)
+	getAppData(pname,function(app){
+		var basefn=app.drawable;
+		var fn=drawable_folder+"/"+basefn+".png";
+		wget({url: "http:"+j[i][2]+"!d192", dest: fn}, function(){
+			//Write drawable.xml 
+			var dx=fs.readFileSync(drawable_xml).toString().split("<!--AutoInjector End-->");
+			fs.writeFileSync(drawable_xml,dx[0]+'	<item drawable="'+basefn+'" />\r\n	<!--AutoInjector End-->'+dx[1]);
+			//Write icon_pack.xml
+			var dx=fs.readFileSync(iconpack_xml).toString().split("<!--AutoInjector End-->");
+			fs.writeFileSync(iconpack_xml,dx[0]+'	<item>'+basefn+'</item>\r\n	<!--AutoInjector End-->'+dx[1]);
+			//Write appfilter.xml
+			var dx=fs.readFileSync(appfilter_xml).toString().split("<!--AutoInjector End-->");
+			fs.writeFileSync(appfilter_xml,dx[0]+'	'+app.code+'\r\n	<!--AutoInjector End-->'+dx[1]);
+			//Done
+			log.info("SUC",app.pkg);
+			next(i+1,cb)
+		});
 	});
 }
-//next(0,function(){})
-getAppData("com.tencent.mobileqq",function(e){log.info(e)});
+next(0,function(){
+	log.info("PKG","All done");
+})
