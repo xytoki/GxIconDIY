@@ -28,3 +28,4 @@ before_install:
 - chmod +x gradlew
 - nvm install 8
 - node --version
+- npm install
