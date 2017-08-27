@@ -1,39 +1,19 @@
 {
-    "pkg": "com.diyt",
-    "app": "diyt",
-    "vname": "1.2.1.1",
-    "vcode": "12345678",
-    "author": "[111](copy:111)",
+    "pkg": "com.gxicon.diytest0",
+    "app": "测试打包",
+    "vname": "1.0.0.0",
+    "vcode": "12345378",
+    "author": "[weng](copy:weng)",
     "icons": [
-        [
-            "345",
-            "bos.consoar.imagestitch",
-            "//gxicon.b0.upaiyun.com/2017/08/27/19/20170827075428_5d84aef2f951ebce26ef3b4c3b7bb017.png"
-        ],
-        [
-            "344",
-            "com.ct.client",
-            "//gxicon.b0.upaiyun.com/2017/08/27/19/20170827073354_c36f0d58b5a804775b170944d5de6656.png"
-        ],
-        [
-            "343",
-            "com.sinovatech.unicom.ui",
-            "//gxicon.b0.upaiyun.com/2017/08/27/19/20170827073322_f8bd8041e3e8e823642b0dcc0c12bf0c.png"
-        ],
-        [
-            "341",
-            "com.quark.browser",
-            "//gxicon.b0.upaiyun.com/2017/08/27/19/20170827071050_9322a0959c070fac940e105d9095bf91.png"
-        ],
         [
             "340",
             "com.coolapk.market",
             "//gxicon.b0.upaiyun.com/2017/08/27/18/20170827065308_10221aa90755c7d7e08929d6eb2b45fc.png"
         ],
         [
-            "338",
-            "com.bilibili.app.blue",
-            "//gxicon.b0.upaiyun.com/2017/08/27/15/20170827035147_59d9633a82056cf92fca8bd28ad1d952.png"
+            "337",
+            "tv.danmaku.bili",
+            "//gxicon.b0.upaiyun.com/2017/08/27/15/20170827034352_8cd328d51d23b09166e551b5104a357a.png"
         ],
         [
             "331",
@@ -41,14 +21,14 @@
             "//gxicon.b0.upaiyun.com/2017/08/26/14/20170826022632_513abaabf4099004bdceb23be47bdbed.png"
         ],
         [
-            "346",
-            "me.denley.android.ninepatch",
-            "//gxicon.b0.upaiyun.com/2017/08/27/20/20170827084353_002f699526313ee2cc35b75b58ea95fd.png"
+            "316",
+            "com.tencent.tmgp.cf",
+            "//gxicon.b0.upaiyun.com/2017/08/25/22/20170825102923_cb21aa25fb7a68eca1aff1181b93f29b.png"
         ],
         [
-            "324",
-            "me.yourbay.airfrozen",
-            "//gxicon.b0.upaiyun.com/2017/08/26/09/20170826093850_598cea46d8ee319f13be27b145247f87.jpg"
+            "308",
+            "mark.via",
+            "//gxicon.b0.upaiyun.com/2017/08/25/16/20170825043850_b97150d9a583ea844badd7aafbd076f0.png"
         ],
         [
             "317",
