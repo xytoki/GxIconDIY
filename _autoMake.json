@@ -1,9 +1,9 @@
 {
-    "pkg": "com.gxicon.diyt2",
-    "app": "diyt2",
-    "vname": "1.2.4.2",
+    "pkg": "com.diyt",
+    "app": "diyt",
+    "vname": "1.2.1.1",
     "vcode": "12345678",
-    "author": "[@weng](copy:@weng)",
+    "author": "[111](copy:111)",
     "icons": [
         [
             "345",
