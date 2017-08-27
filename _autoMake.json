@@ -1,7 +1,7 @@
 {
-    "pkg": "com.e123.gxdiy",
-    "app": "gxdiy",
-    "vname": "1.2.3.4",
+    "pkg": "com.gxicon.diyt2",
+    "app": "diyt2",
+    "vname": "1.2.4.2",
     "vcode": "12345678",
     "author": "[@weng](copy:@weng)",
     "icons": [
@@ -39,6 +39,21 @@
             "331",
             "com.netease.cloudmusic",
             "//gxicon.b0.upaiyun.com/2017/08/26/14/20170826022632_513abaabf4099004bdceb23be47bdbed.png"
+        ],
+        [
+            "346",
+            "me.denley.android.ninepatch",
+            "//gxicon.b0.upaiyun.com/2017/08/27/20/20170827084353_002f699526313ee2cc35b75b58ea95fd.png"
+        ],
+        [
+            "324",
+            "me.yourbay.airfrozen",
+            "//gxicon.b0.upaiyun.com/2017/08/26/09/20170826093850_598cea46d8ee319f13be27b145247f87.jpg"
+        ],
+        [
+            "317",
+            "com.tencent.mobileqq",
+            "//gxicon.b0.upaiyun.com/2017/08/25/22/20170825103047_6218c8dbbb3969678aceea0c4f1a876e.png"
         ]
     ]
 }
