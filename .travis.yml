@@ -1,6 +1,8 @@
 language: android
 jdk: openjdk8
 sudo: false
+notifications:
+  email: false
 android:
   components:
   - build-tools-25.0.3
