@@ -1,10 +1,15 @@
 {
-    "pkg": "com.2333zi.gxdiy",
+    "pkg": "com.e123.gxdiy",
     "app": "梓御用图标包",
     "vname": "1.0.0.0",
     "vcode": "233",
-    "author": "[2333zi](copy:2333zi)",
+    "author": "[@2333ZI](copy:@2333ZI)",
     "icons": [
+        [
+            "367",
+            "com.magnets.toolbox",
+            "//gxicon.b0.upaiyun.com/2017/08/28/16/20170828044313_ba7983990bb089dc22ebe83ebec9b231.png"
+        ],
         [
             "333",
             "com.atypicalgames.radiationisland",
@@ -14,6 +19,11 @@
             "332",
             "com.mdroid.read",
             "//gxicon.b0.upaiyun.com/2017/08/26/19/20170826075036_f63941ed9e1c18a8441d87647733b569.png"
+        ],
+        [
+            "312",
+            "com.taobao.idlefish",
+            "//gxicon.b0.upaiyun.com/2017/08/25/18/20170825064855_1671f01a0dc26062bdd70719749e03a6.png"
         ],
         [
             "310",
@@ -29,16 +39,6 @@
             "309",
             "com.duapps.gif.emoji.gifmaker",
             "//gxicon.b0.upaiyun.com/2017/08/25/17/20170825050106_7d36e3ee954252fd187ba3595529b80c.png"
-        ],
-        [
-            "312",
-            "com.taobao.idlefish",
-            "//gxicon.b0.upaiyun.com/2017/08/25/18/20170825064855_1671f01a0dc26062bdd70719749e03a6.png"
-        ],
-        [
-            "205",
-            "com.tencent.mobileqq",
-            "//gxicon.b0.upaiyun.com/2017/08/24/11/20170824114824_2dda039e2906575f5dc66eb60f87b60a.png"
         ],
         [
             "225",
@@ -76,9 +76,9 @@
             "//gxicon.b0.upaiyun.com/2017/08/24/10/20170824100052_fd90a9f158e907e409451c562b54a531.png"
         ],
         [
-            "199",
-            "com.tencent.tmgp.hlxq",
-            "//gxicon.b0.upaiyun.com/2017/08/24/11/20170824110445_0375749571ccc86d9235e5dd1e527f5b.png"
+            "205",
+            "com.tencent.mobileqq",
+            "//gxicon.b0.upaiyun.com/2017/08/24/11/20170824114824_2dda039e2906575f5dc66eb60f87b60a.png"
         ]
     ]
 }
