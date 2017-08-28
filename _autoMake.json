@@ -1,84 +1,49 @@
 {
-    "pkg": "com.e123.gxdiy",
-    "app": "梓御用图标包",
+    "pkg": "com.xperia.z5",
+    "app": "YOYO",
     "vname": "1.0.0.0",
-    "vcode": "233",
-    "author": "[@2333ZI](copy:@2333ZI)",
+    "vcode": "170828",
+    "author": "[xperia](copy:xperia)",
     "icons": [
         [
-            "367",
-            "com.magnets.toolbox",
-            "//gxicon.b0.upaiyun.com/2017/08/28/16/20170828044313_ba7983990bb089dc22ebe83ebec9b231.png"
+            "361",
+            "com.sonymobile.sketch",
+            "//gxicon.b0.upaiyun.com/2017/08/28/14/20170828023655_838b54d9868f35b4f13d9712f1f1313c.jpg"
         ],
         [
-            "333",
-            "com.atypicalgames.radiationisland",
-            "//gxicon.b0.upaiyun.com/2017/08/26/19/20170826075056_fd002d2a884b05cc439d3aa37e7cb726.png"
+            "360",
+            "com.tencent.mm",
+            "//gxicon.b0.upaiyun.com/2017/08/28/14/20170828023539_19b83fc51c522e108d3408d2da95b664.jpg"
         ],
         [
-            "332",
-            "com.mdroid.read",
-            "//gxicon.b0.upaiyun.com/2017/08/26/19/20170826075036_f63941ed9e1c18a8441d87647733b569.png"
-        ],
-        [
-            "312",
-            "com.taobao.idlefish",
-            "//gxicon.b0.upaiyun.com/2017/08/25/18/20170825064855_1671f01a0dc26062bdd70719749e03a6.png"
-        ],
-        [
-            "310",
-            "com.thingiverse",
-            "//gxicon.b0.upaiyun.com/2017/08/25/17/20170825050126_7dd0ac7e8c8767f5d7105717edbcc59c.png"
-        ],
-        [
-            "311",
-            "com.aurora.advance.settings",
-            "//gxicon.b0.upaiyun.com/2017/08/25/17/20170825051259_92788e6e4ba16a4c0f5e39a65b8b201b.png"
-        ],
-        [
-            "309",
-            "com.duapps.gif.emoji.gifmaker",
-            "//gxicon.b0.upaiyun.com/2017/08/25/17/20170825050106_7d36e3ee954252fd187ba3595529b80c.png"
-        ],
-        [
-            "225",
-            "com.netease.cloudmusic",
-            "//gxicon.b0.upaiyun.com/2017/08/24/13/20170824015941_860a2e7885852b2c620f724ff51320d6.png"
-        ],
-        [
-            "224",
-            "com.advasoft.touchretouch",
-            "//gxicon.b0.upaiyun.com/2017/08/24/13/20170824015909_c82964b727635351db2800706de8c9fa.png"
-        ],
-        [
-            "233",
-            "com.taobao.taobao",
-            "//gxicon.b0.upaiyun.com/2017/08/24/14/20170824022348_d5a93012bb2b67f40fe5d01881aec0e6.png"
-        ],
-        [
-            "160",
-            "com.sinovatech.unicom.ui",
-            "//gxicon.b0.upaiyun.com/2017/08/24/09/20170824095639_68ce07d918245e7d951ec5d137037e93.png"
-        ],
-        [
-            "161",
-            "com.ct.client",
-            "//gxicon.b0.upaiyun.com/2017/08/24/09/20170824095728_c5ca81430d48888ab1562ee4d6dbde6a.png"
-        ],
-        [
-            "159",
-            "com.greenpoint.android.mc10086.activity",
-            "//gxicon.b0.upaiyun.com/2017/08/24/09/20170824095552_efbd4a5512f5d8421528202214c086ca.png"
-        ],
-        [
-            "166",
+            "365",
             "com.coolapk.market",
-            "//gxicon.b0.upaiyun.com/2017/08/24/10/20170824100052_fd90a9f158e907e409451c562b54a531.png"
+            "//gxicon.b0.upaiyun.com/2017/08/28/15/20170828031915_77fe7655e60d6ee8946e4007bab3726a.png"
         ],
         [
-            "205",
-            "com.tencent.mobileqq",
-            "//gxicon.b0.upaiyun.com/2017/08/24/11/20170824114824_2dda039e2906575f5dc66eb60f87b60a.png"
+            "364",
+            "com.netease.cloudmusic",
+            "//gxicon.b0.upaiyun.com/2017/08/28/14/20170828024420_4a2c71748ccf6e5dbddbedb9f1c98135.jpg"
+        ],
+        [
+            "352",
+            "com.taobao.taobao",
+            "//gxicon.b0.upaiyun.com/2017/08/28/14/20170828022501_5c3ce37d4547a182874ce8695185b615.jpg"
+        ],
+        [
+            "351",
+            "com.eg.android.AlipayGphone",
+            "//gxicon.b0.upaiyun.com/2017/08/28/14/20170828022338_1c72fe5fb4be3503feef8fea1c08b0ad.jpg"
+        ],
+        [
+            "349",
+            "com.dv.adm.pay",
+            "//gxicon.b0.upaiyun.com/2017/08/28/14/20170828022020_c04a25bdbdbd8988409435599aed3fd0.jpg"
+        ],
+        [
+            "308",
+            "mark.via",
+            "//gxicon.b0.upaiyun.com/2017/08/25/16/20170825043850_b97150d9a583ea844badd7aafbd076f0.png"
         ]
     ]
 }
