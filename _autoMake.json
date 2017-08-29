@@ -1,10 +1,15 @@
 {
-    "pkg": "com.ex123.gxzi",
-    "app": "DIY",
+    "pkg": "com.gxicon.test233",
+    "app": "SB图标包",
     "vname": "1.0.0.0",
-    "vcode": "17082900",
-    "author": "[@zi](copy:@zi)",
+    "vcode": "12345678",
+    "author": "[wz](copy:wz)",
     "icons": [
+        [
+            "373",
+            "com.magnets.toolbox",
+            "//gxicon.b0.upaiyun.com/2017/08/28/18/20170828062213_ba7983990bb089dc22ebe83ebec9b231.png"
+        ],
         [
             "333",
             "com.atypicalgames.radiationisland",
@@ -69,6 +74,16 @@
             "205",
             "com.tencent.mobileqq",
             "//gxicon.b0.upaiyun.com/2017/08/24/11/20170824114824_2dda039e2906575f5dc66eb60f87b60a.png"
+        ],
+        [
+            "224",
+            "com.advasoft.touchretouch",
+            "//gxicon.b0.upaiyun.com/2017/08/24/13/20170824015909_c82964b727635351db2800706de8c9fa.png"
+        ],
+        [
+            "225",
+            "com.netease.cloudmusic",
+            "//gxicon.b0.upaiyun.com/2017/08/24/13/20170824015941_860a2e7885852b2c620f724ff51320d6.png"
         ]
     ]
 }
