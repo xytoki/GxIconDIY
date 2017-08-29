@@ -4,6 +4,9 @@ var p_pname=['/*AutoPackageName Start*/applicationId "','"/*AutoPackageName End*
 var p_vcode=['/*AutoVersionCode Start*/versionCode ','/*AutoVersionCode End*/'];
 var p_appname=['<string name="app_name">','</string><!--appname-->'];
 var p_author=['<string name="preference_icons_summary_author">','</string><!--author-->'];
+var p_color1=['<color name="color_primary">','</color><!--1-->'];
+var p_color2=['<color name="color_primary_dark">','</color><!--2-->'];
+var p_color3=['<color name="color_accent">','</color><!--3-->'];
 var exporter="http://gxicon.e123.pw/api.php?icon/export";
 var folder="app";
 
@@ -16,6 +19,7 @@ var request = require('request');
 var drawable_folder=path.normalize(__dirname+"/"+folder+"/src/main/res/drawable-nodpi");
 var drawable_xml=path.normalize(__dirname+"/"+folder+"/src/main/res/xml/drawable.xml");
 var iconpack_xml=path.normalize(__dirname+"/"+folder+"/src/main/res/values/icon_pack.xml");
+var colors_xml=path.normalize(__dirname+"/"+folder+"/src/main/res/values/colors.xml");
 var appfilter_xml=path.normalize(__dirname+"/"+folder+"/src/main/res/xml/appfilter.xml");
 var strings_xml=path.normalize(__dirname+"/"+folder+"/src/main/res/values-zh/strings.xml");
 var build_gradle=path.normalize(__dirname+"/"+folder+"/build.gradle");
@@ -96,11 +100,22 @@ f=(f.split(p_pname[0])[0]+p_pname[0]+config.pkg+p_pname[1]+f.split(p_pname[1])[1
 fs.writeFileSync(build_gradle,f);
 
 //Update appname
-log.info("APP",[config.appname,config.author]);
+log.info("APP",[config.app,config.author]);
 var f=fs.readFileSync(strings_xml).toString();
 f=(f.split(p_appname[0])[0]+p_appname[0]+config.app+p_appname[1]+f.split(p_appname[1])[1]);
 f=(f.split(p_author[0])[0]+p_author[0]+config.author+p_author[1]+f.split(p_author[1])[1]);
 fs.writeFileSync(strings_xml,f);
+
+//Update Color
+var c1=config.color_primary||"#f44336";
+var c2=config.color_primary_dark||"#d80f00";
+var c3=config.color_accent||"#ff5252";
+log.info("CLR",[c1,c2,c3]);
+var f=fs.readFileSync(colors_xml).toString();
+f=(f.split(p_color1[0])[0]+p_color1[0]+c1+p_color1[1]+f.split(p_color1[1])[1]);
+f=(f.split(p_color2[0])[0]+p_color2[0]+c2+p_color2[1]+f.split(p_color2[1])[1]);
+f=(f.split(p_color3[0])[0]+p_color3[0]+c3+p_color3[1]+f.split(p_color3[1])[1]);
+fs.writeFileSync(colors_xml,f);
 
 /* Update icons */
 fs.mkdir(drawable_folder,function(){})
@@ -108,6 +123,7 @@ var j=config.icons;
 var next=function(i,cb){ 
 	if(typeof(j[i])=="undefined")return cb();
 	var pname=j[i][1].replace(/ /g,"");
+	log.info('');
 	getAppData(pname,function(app){
 		var basefn=app.drawable;
 		var fn=drawable_folder+"/"+basefn+".png";
