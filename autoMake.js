@@ -52,6 +52,7 @@ function codeAppName(name) {
   return "";
 }
 function generateCode(app) {
+	if(typeof(app.launcher)=="undefined")return "";
 	var code = "<!-- " + app.label + " / ";
 	if (!app.labelEn||app.labelEn.trim().length == 0) {
 		code += app.label + " -->";
@@ -79,6 +80,7 @@ function getAppData(pname,cb){
 				theCount=j[i].sum;
 			}
 		}
+		theApp.pkg=theApp.pkg||pname;
 		theApp.drawable=codeAppName(theApp.labelEn||theApp.label);
 		if(theApp.drawable.trim()=="")theApp.drawable=codeAppName(theApp.pkg);
 		theApp.code=generateCode(theApp);
