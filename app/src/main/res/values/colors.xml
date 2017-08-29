@@ -17,8 +17,8 @@
 
 <resources>
 
-    <color name="color_primary">#f44336</color>
-    <color name="color_primary_dark">#d80f00</color>
-    <color name="color_accent">#ff5252</color>
+    <color name="color_primary">#f44336</color><!--1-->
+    <color name="color_primary_dark">#d80f00</color><!--2-->
+    <color name="color_accent">#ff5252</color><!--3-->
 
 </resources>
