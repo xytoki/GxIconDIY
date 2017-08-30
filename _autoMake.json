@@ -1,17 +1,42 @@
 {
-    "pkg": "com.gxicon.Stylization",
-    "app": "px风格化图标包",
-    "vname": "1.0",
+    "pkg": "com.gxicon.tucaoonline",
+    "app": " 钦定图标包",
+    "vname": "0.0.0.2",
     "vcode": "170830",
-    "author": "[@Railgun](copy:@Railgun)",
+    "author": "[直男不懂哲学](copy:直男不懂哲学)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
     "icons": [
         [
-            "490",
-            "com.android.providers.telephony",
-            "//gxicon.b0.upaiyun.com/2017/08/30/12/20170830120705_471d14088f3a069859550b3f64d684c6.png"
+            "496",
+            "tv.danmaku.bili",
+            "//gxicon.b0.upaiyun.com/2017/08/30/12/20170830125150_f86b5c5e24f3424d8a36fda23269df3d.png"
+        ],
+        [
+            "497",
+            "com.tencent.tmgp.sgame",
+            "//gxicon.b0.upaiyun.com/2017/08/30/12/20170830125155_9f0fceabe635aa969c7cf68061656a90.png"
+        ],
+        [
+            "492",
+            "com.tencent.qqlite",
+            "//gxicon.b0.upaiyun.com/2017/08/30/12/20170830125129_3d51c85e573322cd7c552febf4815093.png"
+        ],
+        [
+            "493",
+            "com.tencent.minihd.qq",
+            "//gxicon.b0.upaiyun.com/2017/08/30/12/20170830125132_6cc2d122a7a609c689aaf50ce2e23fe5.png"
+        ],
+        [
+            "494",
+            "com.tencent.mm",
+            "//gxicon.b0.upaiyun.com/2017/08/30/12/20170830125142_a2f594477d6244cef980b4b4868dcff6.png"
+        ],
+        [
+            "495",
+            "com.taptap",
+            "//gxicon.b0.upaiyun.com/2017/08/30/12/20170830125148_ba358f79276788fe760a1b7ce551b9bd.png"
         ],
         [
             "485",
@@ -34,14 +59,14 @@
             "//gxicon.b0.upaiyun.com/2017/08/29/18/20170829063900_092141f29a7d488f9db4223e70d77ce8.png"
         ],
         [
-            "479",
-            "com.oasisfeng.greenify",
-            "//gxicon.b0.upaiyun.com/2017/08/29/18/20170829062615_7d803be13633bdb28bb7a19707ed273b.png"
-        ],
-        [
             "480",
             "com.github.shadowsocks",
             "//gxicon.b0.upaiyun.com/2017/08/29/18/20170829063630_f51539bcdf09879509226c78f0b86556.png"
+        ],
+        [
+            "479",
+            "com.oasisfeng.greenify",
+            "//gxicon.b0.upaiyun.com/2017/08/29/18/20170829062615_7d803be13633bdb28bb7a19707ed273b.png"
         ],
         [
             "478",
