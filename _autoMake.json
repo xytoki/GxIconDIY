@@ -1,13 +1,18 @@
 {
     "pkg": "com.gxicon.it",
     "app": "IT图标包",
-    "vname": "1.0.0.1",
-    "vcode": "170831",
+    "vname": "1.0.0.2",
+    "vcode": "170832",
     "author": "[flijo](copy:flijo)",
-    "color_primary": "#1BC6E8",
-    "color_primary_dark": "#0FA4C5",
-    "color_accent": "#15AD86",
+    "color_primary": "#15EAF5",
+    "color_primary_dark": "#0DBBC9",
+    "color_accent": "#0CA683",
     "icons": [
+        [
+            "532",
+            "com.gxicon.it",
+            "//gxicon.b0.upaiyun.com/2017/08/31/12/20170831124211_7d3ea6cb6e488c268bee8951e421d5f3.png"
+        ],
         [
             "529",
             "com.eg.android.AlipayGphone",
@@ -99,14 +104,14 @@
             "//gxicon.b0.upaiyun.com/2017/08/29/18/20170829064729_2b919f0d9cb025166e3f5498c20feaa0.png"
         ],
         [
-            "386",
-            "com.One.WoodenLetter",
-            "//gxicon.b0.upaiyun.com/2017/08/29/13/20170829011511_8b1084f56a391a6fe3c5d2f823b22fc4.png"
-        ],
-        [
             "384",
             "com.coolapk.market",
             "//gxicon.b0.upaiyun.com/2017/08/29/12/20170829123532_88e393d4231d19033b8b4874ca05ce7b.png"
+        ],
+        [
+            "386",
+            "com.One.WoodenLetter",
+            "//gxicon.b0.upaiyun.com/2017/08/29/13/20170829011511_8b1084f56a391a6fe3c5d2f823b22fc4.png"
         ]
     ]
 }
