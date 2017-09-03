@@ -1,142 +1,112 @@
 {
-    "pkg": "com.gxicon.wumai",
-    "app": "雾霾图标包",
-    "vname": "1.1.5",
-    "vcode": "1213888",
-    "author": "[@雾霾12138](copy:@雾霾12138)",
-    "color_primary": "#7EE7F5",
-    "color_primary_dark": "#81E9F8",
-    "color_accent": "#1F1F1F",
+    "pkg": "com.gxicon.wzdiy",
+    "app": "2333ZI图标包",
+    "vname": "1.0.0.0",
+    "vcode": "12345678",
+    "author": "[2333ZI](copy:2333ZI)",
+    "color_primary": "#000000",
+    "color_primary_dark": "#070707",
+    "color_accent": "#000000",
     "icons": [
         [
-            "549",
-            "com.kuaikan.comic",
-            "//gxicon.b0.upaiyun.com/2017/09/01/14/20170901020544_259a5e2f097113f0fe9124cc9b10fb5a.jpg"
-        ],
-        [
-            "548",
-            "com.tgelec.aqsh",
-            "//gxicon.b0.upaiyun.com/2017/09/01/14/20170901020223_e708cda1efce4612e87c06b85aa4fad5.jpg"
-        ],
-        [
-            "547",
-            "cn.wps.moffice_eng",
-            "//gxicon.b0.upaiyun.com/2017/09/01/13/20170901015926_9788878a2173af3ee60c54b3286a62ed.jpg"
-        ],
-        [
-            "546",
+            "582",
             "com.tencent.tmgp.sgame",
-            "//gxicon.b0.upaiyun.com/2017/09/01/13/20170901015506_420821213aa4248cccaedd73fe15319e.jpg"
+            "//gxicon.b0.upaiyun.com/2017/09/03/13/20170903010256_1209fbe3395086524eef5753a3f5f0a7.png"
         ],
         [
-            "544",
-            "com.gxicon.wumai",
-            "//gxicon.b0.upaiyun.com/2017/09/01/07/20170901074112_e18b9c66d8b27be3b0cbae88371033b1.jpg"
+            "489",
+            "com.duowan.bbs",
+            "//gxicon.b0.upaiyun.com/2017/08/30/10/20170830101303_3f1e77cdc8dc8122cbc536b04d24112d.png"
         ],
         [
-            "543",
-            "com.account.book.quanzi",
-            "//gxicon.b0.upaiyun.com/2017/08/31/18/20170831062201_6731fdb896ca0e78c2543b62f73e71a8.jpg"
+            "409",
+            "com.duowan.groundhog.mctools",
+            "//gxicon.b0.upaiyun.com/2017/08/29/16/20170829044238_92f652e2678e2dd715debb7bf52533a8.png"
         ],
         [
-            "542",
-            "com.baidu.tieba",
-            "//gxicon.b0.upaiyun.com/2017/08/31/18/20170831061913_3a93948559e843505a9b614e894a2e92.jpg"
+            "427",
+            "com.xunlei.downloadprovider",
+            "//gxicon.b0.upaiyun.com/2017/08/29/17/20170829050734_0682fc28ef8311220e3d32f0375b4d7d.png"
         ],
         [
-            "540",
-            "com.e123.gxicon",
-            "//gxicon.b0.upaiyun.com/2017/08/31/18/20170831061428_6f03202de3a455b9d208aaac6286a289.jpg"
+            "410",
+            "com.vjson.anime",
+            "//gxicon.b0.upaiyun.com/2017/08/29/16/20170829044238_b5e9c0535aef332e44e3c6036c630702.png"
         ],
         [
-            "539",
-            "com.ruguoapp.jike",
-            "//gxicon.b0.upaiyun.com/2017/08/31/18/20170831061329_153834efc8a38365bfe1d9f324228652.jpg"
+            "373",
+            "com.magnets.toolbox",
+            "//gxicon.b0.upaiyun.com/2017/08/28/18/20170828062213_ba7983990bb089dc22ebe83ebec9b231.png"
         ],
         [
-            "538",
-            "com.bilibili.app.blue",
-            "//gxicon.b0.upaiyun.com/2017/08/31/18/20170831061246_245b67204c771624e7fe53d8bb04856b.jpg"
+            "333",
+            "com.atypicalgames.radiationisland",
+            "//gxicon.b0.upaiyun.com/2017/08/26/19/20170826075056_fd002d2a884b05cc439d3aa37e7cb726.png"
         ],
         [
-            "537",
-            "me.gfuil.bmap",
-            "//gxicon.b0.upaiyun.com/2017/08/31/18/20170831061119_f4ad61b9fc729ad2016505f8a33a523a.jpg"
+            "332",
+            "com.mdroid.read",
+            "//gxicon.b0.upaiyun.com/2017/08/26/19/20170826075036_f63941ed9e1c18a8441d87647733b569.png"
         ],
         [
-            "349",
-            "com.dv.adm.pay",
-            "//gxicon.b0.upaiyun.com/2017/08/28/14/20170828022020_c04a25bdbdbd8988409435599aed3fd0.jpg"
+            "312",
+            "com.taobao.idlefish",
+            "//gxicon.b0.upaiyun.com/2017/08/25/18/20170825064855_1671f01a0dc26062bdd70719749e03a6.png"
         ],
         [
-            "348",
-            "com.android.dialer",
-            "//gxicon.b0.upaiyun.com/2017/08/28/14/20170828021806_7565b54c6031df22e0bd947a7a3f09ee.jpg"
+            "311",
+            "com.aurora.advance.settings",
+            "//gxicon.b0.upaiyun.com/2017/08/25/17/20170825051259_92788e6e4ba16a4c0f5e39a65b8b201b.png"
         ],
         [
-            "351",
-            "com.eg.android.AlipayGphone",
-            "//gxicon.b0.upaiyun.com/2017/08/28/14/20170828022338_1c72fe5fb4be3503feef8fea1c08b0ad.jpg"
+            "310",
+            "com.thingiverse",
+            "//gxicon.b0.upaiyun.com/2017/08/25/17/20170825050126_7dd0ac7e8c8767f5d7105717edbcc59c.png"
         ],
         [
-            "350",
-            "com.mojang.minecraftpe",
-            "//gxicon.b0.upaiyun.com/2017/08/28/14/20170828022229_dad224044368e9a91360b5d356171cd2.jpg"
+            "309",
+            "com.duapps.gif.emoji.gifmaker",
+            "//gxicon.b0.upaiyun.com/2017/08/25/17/20170825050106_7d36e3ee954252fd187ba3595529b80c.png"
         ],
         [
-            "353",
-            "com.smile.gifmaker",
-            "//gxicon.b0.upaiyun.com/2017/08/28/14/20170828022612_a48674ce47de1a58eed367d1e20e14df.jpg"
+            "227",
+            "kh.android.funnyiconpack ",
+            "//gxicon.b0.upaiyun.com/2017/08/24/14/20170824022714_daffef87f2feba6e01ba34ba68c404c9.png"
         ],
         [
-            "352",
-            "com.taobao.taobao",
-            "//gxicon.b0.upaiyun.com/2017/08/28/14/20170828022501_5c3ce37d4547a182874ce8695185b615.jpg"
-        ],
-        [
-            "355",
-            "com.downloading.main.baiduyundownload",
-            "//gxicon.b0.upaiyun.com/2017/08/28/14/20170828022912_1db34a9ba661fe542b54e29a849b496f.jpg"
-        ],
-        [
-            "354",
-            "com.tencent.qqmusic",
-            "//gxicon.b0.upaiyun.com/2017/08/28/14/20170828022759_4e7d328917e0e5da969ea9b8e18df8e1.jpg"
-        ],
-        [
-            "357",
-            "com.One.WoodenLetter",
-            "//gxicon.b0.upaiyun.com/2017/08/28/14/20170828023138_f0952a9d0f5733e7a29bc88f115bf55a.jpg"
-        ],
-        [
-            "356",
-            "com.snda.wifilocating",
-            "//gxicon.b0.upaiyun.com/2017/08/28/14/20170828023014_75b543b154af7fe9512bdc931ff7b3c9.jpg"
-        ],
-        [
-            "358",
-            "com.tencent.karaoke",
-            "//gxicon.b0.upaiyun.com/2017/08/28/14/20170828023235_1905c26cbbdc8c7a7d395cf997a205cf.jpg"
-        ],
-        [
-            "361",
-            "com.sonymobile.sketch",
-            "//gxicon.b0.upaiyun.com/2017/08/28/14/20170828023655_838b54d9868f35b4f13d9712f1f1313c.jpg"
-        ],
-        [
-            "360",
-            "com.tencent.mm",
-            "//gxicon.b0.upaiyun.com/2017/08/28/14/20170828023539_19b83fc51c522e108d3408d2da95b664.jpg"
-        ],
-        [
-            "363",
-            "com.picsart.studio",
-            "//gxicon.b0.upaiyun.com/2017/08/28/14/20170828024117_fbe8e70c8e4139a75b056fa6f72272ef.jpg"
-        ],
-        [
-            "364",
+            "225",
             "com.netease.cloudmusic",
-            "//gxicon.b0.upaiyun.com/2017/08/28/14/20170828024420_4a2c71748ccf6e5dbddbedb9f1c98135.jpg"
+            "//gxicon.b0.upaiyun.com/2017/08/24/13/20170824015941_860a2e7885852b2c620f724ff51320d6.png"
+        ],
+        [
+            "224",
+            "com.advasoft.touchretouch",
+            "//gxicon.b0.upaiyun.com/2017/08/24/13/20170824015909_c82964b727635351db2800706de8c9fa.png"
+        ],
+        [
+            "205",
+            "com.tencent.mobileqq",
+            "//gxicon.b0.upaiyun.com/2017/08/24/11/20170824114824_2dda039e2906575f5dc66eb60f87b60a.png"
+        ],
+        [
+            "166",
+            "com.coolapk.market",
+            "//gxicon.b0.upaiyun.com/2017/08/24/10/20170824100052_fd90a9f158e907e409451c562b54a531.png"
+        ],
+        [
+            "159",
+            "com.greenpoint.android.mc10086.activity",
+            "//gxicon.b0.upaiyun.com/2017/08/24/09/20170824095552_efbd4a5512f5d8421528202214c086ca.png"
+        ],
+        [
+            "160",
+            "com.sinovatech.unicom.ui",
+            "//gxicon.b0.upaiyun.com/2017/08/24/09/20170824095639_68ce07d918245e7d951ec5d137037e93.png"
+        ],
+        [
+            "161",
+            "com.ct.client",
+            "//gxicon.b0.upaiyun.com/2017/08/24/09/20170824095728_c5ca81430d48888ab1562ee4d6dbde6a.png"
         ]
     ]
 }
