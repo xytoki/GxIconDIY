@@ -2,11 +2,11 @@
     "pkg": "com.gxicon.com.miaopaei.iconpack.suibian",
     "app": "随便图标包",
     "vname": "1.0.0.0",
-    "vcode": "17090505",
+    "vcode": "17090506",
     "author": "[@喵帕坷拉酱黑鴨](copy:@喵帕坷拉酱黑鴨)",
-    "color_primary": "#36C1F4",
-    "color_primary_dark": "#00D4D8",
-    "color_accent": "#171015",
+    "color_primary": "#36DDF4",
+    "color_primary_dark": "#00B6D8",
+    "color_accent": "#080808",
     "icons": [
         [
             "592",
