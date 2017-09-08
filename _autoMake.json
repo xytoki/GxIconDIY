@@ -1,22 +1,17 @@
 {
-    "pkg": "com.gxicon.jamie",
-    "app": "JAM图标包",
-    "vname": "1.0",
-    "vcode": "17090501",
-    "author": "[@Jamie](copy:@Jamie)",
-    "color_primary": "#f44336",
-    "color_primary_dark": "#d80f00",
-    "color_accent": "#ff5252",
+    "pkg": "com.gxicon.Rinne",
+    "app": "Rinne",
+    "vname": "1.0.ʕ•ٹ•ʔ",
+    "vcode": "170908",
+    "author": "[Rizumu85](copy:Rizumu85)",
+    "color_primary": "#FFB0E2",
+    "color_primary_dark": "#FCB4E1",
+    "color_accent": "#FF0C66",
     "icons": [
         [
-            "590",
-            "com.dushe.movie",
-            "//gxicon.b0.upaiyun.com/2017/09/05/01/20170905011103_e513b3d0557738e1aa2d95b9b1ae997c.png"
-        ],
-        [
-            "591",
-            "com.max.xiaoheihe",
-            "//gxicon.b0.upaiyun.com/2017/09/05/01/20170905011637_5e16895fd778e43e58fa41f88fd16020.png"
+            "606",
+            "Fairywardrobe",
+            "//gxicon.b0.upaiyun.com/2017/09/09/04/20170909042413_3a94dd058af9839f78169227341fa5e7.png"
         ]
     ]
 }
