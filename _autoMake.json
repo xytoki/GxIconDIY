@@ -1,17 +1,137 @@
 {
-    "pkg": "com.gxicon.Rinne",
-    "app": "Rinne",
-    "vname": "1.0.ʕ•ٹ•ʔ",
-    "vcode": "170908",
-    "author": "[Rizumu85](copy:Rizumu85)",
-    "color_primary": "#FFB0E2",
-    "color_primary_dark": "#FCB4E1",
-    "color_accent": "#FF0C66",
+    "pkg": "com.gxicon.com.qiyi.video.WelcomeActivity",
+    "app": "共享",
+    "vname": "1.2.3.4",
+    "vcode": "17090901",
+    "author": "[辰烬化思羽](copy:辰烬化思羽)",
+    "color_primary": "#f44336",
+    "color_primary_dark": "#d80f00",
+    "color_accent": "#ff5252",
     "icons": [
         [
-            "606",
-            "Fairywardrobe",
-            "//gxicon.b0.upaiyun.com/2017/09/09/04/20170909042413_3a94dd058af9839f78169227341fa5e7.png"
+            "608",
+            "com.qiyi.video.WelcomeActivity",
+            "//gxicon.b0.upaiyun.com/2017/09/09/14/20170909021910_2b3b92183c268b2b02f58405b1fedfc9.jpg"
+        ],
+        [
+            "628",
+            "com.qiyi.video.WelcomeActivity",
+            "//gxicon.b0.upaiyun.com/2017/09/09/14/20170909022111_3eb60b0959b7e670eaac38512a66b783.jpg"
+        ],
+        [
+            "628",
+            "com.qiyi.video.WelcomeActivity",
+            "//gxicon.b0.upaiyun.com/2017/09/09/14/20170909022111_3eb60b0959b7e670eaac38512a66b783.jpg"
+        ],
+        [
+            "629",
+            "com.qiyi.video.WelcomeActivity",
+            "//gxicon.b0.upaiyun.com/2017/09/09/14/20170909022124_c6cd004433746b387b7fae72ffaec6b8.jpg"
+        ],
+        [
+            "625",
+            "com.qiyi.video.WelcomeActivity",
+            "//gxicon.b0.upaiyun.com/2017/09/09/14/20170909022110_c9901121a7b4045ff3652f349e29e393.jpg"
+        ],
+        [
+            "626",
+            "com.qiyi.video.WelcomeActivity",
+            "//gxicon.b0.upaiyun.com/2017/09/09/14/20170909022115_90f526eee0aa39d083f0b214131dbb62.jpg"
+        ],
+        [
+            "627",
+            "com.qiyi.video.WelcomeActivity",
+            "//gxicon.b0.upaiyun.com/2017/09/09/14/20170909022102_a05abd608157ebace6655399fcd1ccd6.jpg"
+        ],
+        [
+            "621",
+            "com.qiyi.video.WelcomeActivity",
+            "//gxicon.b0.upaiyun.com/2017/09/09/14/20170909022104_663c4b4f2ba627d3253cab7e2ff245cf.jpg"
+        ],
+        [
+            "622",
+            "com.qiyi.video.WelcomeActivity",
+            "//gxicon.b0.upaiyun.com/2017/09/09/14/20170909022107_01f4ca5bee16e4ea4a68d2004c92de27.jpg"
+        ],
+        [
+            "623",
+            "com.qiyi.video.WelcomeActivity",
+            "//gxicon.b0.upaiyun.com/2017/09/09/14/20170909022109_52ef7bf3c76224fe5f9f47417429e3af.jpg"
+        ],
+        [
+            "624",
+            "com.qiyi.video.WelcomeActivity",
+            "//gxicon.b0.upaiyun.com/2017/09/09/14/20170909022118_eaf6f56cddeb69198ce0a3ed2dc2fa8c.jpg"
+        ],
+        [
+            "619",
+            "com.qiyi.video.WelcomeActivity",
+            "//gxicon.b0.upaiyun.com/2017/09/09/14/20170909022109_1a5371cf3478b94e52f22324a95ad3af.jpg"
+        ],
+        [
+            "620",
+            "com.qiyi.video.WelcomeActivity",
+            "//gxicon.b0.upaiyun.com/2017/09/09/14/20170909022111_eebda4c1fbe724925d0d2d8945bf0e90.jpg"
+        ],
+        [
+            "618",
+            "com.qiyi.video.WelcomeActivity",
+            "//gxicon.b0.upaiyun.com/2017/09/09/14/20170909022106_e114236652761ec04645606668b6c736.jpg"
+        ],
+        [
+            "616",
+            "com.qiyi.video.WelcomeActivity",
+            "//gxicon.b0.upaiyun.com/2017/09/09/14/20170909022101_175c1281045f55677b149718a9851c41.jpg"
+        ],
+        [
+            "617",
+            "com.qiyi.video.WelcomeActivity",
+            "//gxicon.b0.upaiyun.com/2017/09/09/14/20170909022106_2fde7d4a2e396783b275774ca6296107.jpg"
+        ],
+        [
+            "615",
+            "com.qiyi.video.WelcomeActivity",
+            "//gxicon.b0.upaiyun.com/2017/09/09/14/20170909022106_61be48922e272e262038fc7b9bf964ed.jpg"
+        ],
+        [
+            "611",
+            "com.qiyi.video.WelcomeActivity",
+            "//gxicon.b0.upaiyun.com/2017/09/09/14/20170909022112_073e1676ea29c681bda2756d130c9db1.jpg"
+        ],
+        [
+            "612",
+            "com.qiyi.video.WelcomeActivity",
+            "//gxicon.b0.upaiyun.com/2017/09/09/14/20170909022109_b6facd845421bb2038055a383da6ebf2.jpg"
+        ],
+        [
+            "613",
+            "com.qiyi.video.WelcomeActivity",
+            "//gxicon.b0.upaiyun.com/2017/09/09/14/20170909022103_b9995be0adeafe4bd2f5a435ff8ecf4a.jpg"
+        ],
+        [
+            "614",
+            "com.qiyi.video.WelcomeActivity",
+            "//gxicon.b0.upaiyun.com/2017/09/09/14/20170909022110_f6ab360313e0cde365dfe527bf965b54.jpg"
+        ],
+        [
+            "610",
+            "com.qiyi.video.WelcomeActivity",
+            "//gxicon.b0.upaiyun.com/2017/09/09/14/20170909022100_cf1c14b74eb314a665f2c2012b8932b4.jpg"
+        ],
+        [
+            "608",
+            "com.qiyi.video.WelcomeActivity",
+            "//gxicon.b0.upaiyun.com/2017/09/09/14/20170909021910_2b3b92183c268b2b02f58405b1fedfc9.jpg"
+        ],
+        [
+            "609",
+            "com.qiyi.video.WelcomeActivity",
+            "//gxicon.b0.upaiyun.com/2017/09/09/14/20170909021910_01f4ca5bee16e4ea4a68d2004c92de27.jpg"
+        ],
+        [
+            "607",
+            "com.qiyi.video.WelcomeActivity",
+            "//gxicon.b0.upaiyun.com/2017/09/09/14/20170909021859_8f156af939c88886ecb0fcb1e25ba141.jpg"
         ]
     ]
 }
