@@ -1,23 +1,13 @@
 {
-    "pkg": "com.gxicon.guanzhenhua",
-    "app": "辰烬",
-    "vname": "1.2.3",
-    "vcode": "17090901",
-    "author": "[思羽](copy:思羽)",
+    "pkg": "com.gxicon.gzh",
+    "app": "王者",
+    "vname": "1.0.0.0",
+    "vcode": "17091001",
+    "author": "[gzh](copy:gzh)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
     "icons": [
-        [
-            "608",
-            "com.qiyi.video.WelcomeActivity",
-            "//gxicon.b0.upaiyun.com/2017/09/09/14/20170909021910_2b3b92183c268b2b02f58405b1fedfc9.jpg"
-        ],
-        [
-            "628",
-            "com.qiyi.video.WelcomeActivity",
-            "//gxicon.b0.upaiyun.com/2017/09/09/14/20170909022111_3eb60b0959b7e670eaac38512a66b783.jpg"
-        ],
         [
             "628",
             "com.qiyi.video.WelcomeActivity",
@@ -42,11 +32,6 @@
             "627",
             "com.qiyi.video.WelcomeActivity",
             "//gxicon.b0.upaiyun.com/2017/09/09/14/20170909022102_a05abd608157ebace6655399fcd1ccd6.jpg"
-        ],
-        [
-            "621",
-            "com.qiyi.video.WelcomeActivity",
-            "//gxicon.b0.upaiyun.com/2017/09/09/14/20170909022104_663c4b4f2ba627d3253cab7e2ff245cf.jpg"
         ],
         [
             "622",
