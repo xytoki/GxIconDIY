@@ -1,113 +1,13 @@
 {
-    "pkg": "com.gxicon.gzhhzg",
-    "app": "没想好",
-    "vname": "1.1.1.1",
-    "vcode": "17091001",
-    "author": "[gzh](copy:gzh)",
+    "pkg": "com.gxicon.369",
+    "app": "dxc",
+    "vname": "1.0",
+    "vcode": "10",
+    "author": "[ci](copy:ci)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
     "icons": [
-        [
-            "636",
-            "com.android.browser",
-            "//gxicon.b0.upaiyun.com/2017/09/10/14/20170910021515_cf1c14b74eb314a665f2c2012b8932b4.jpg"
-        ],
-        [
-            "637",
-            "com.tencent.karaoke",
-            "//gxicon.b0.upaiyun.com/2017/09/10/14/20170910021538_073e1676ea29c681bda2756d130c9db1.jpg"
-        ],
-        [
-            "638",
-            "com.tencent.qqmusic",
-            "//gxicon.b0.upaiyun.com/2017/09/10/14/20170910021532_b6facd845421bb2038055a383da6ebf2.jpg"
-        ],
-        [
-            "639",
-            "com.keramidas.TitaniumBackup",
-            "//gxicon.b0.upaiyun.com/2017/09/10/14/20170910021527_f6ab360313e0cde365dfe527bf965b54.jpg"
-        ],
-        [
-            "640",
-            "com.tencent.qqpinyin",
-            "//gxicon.b0.upaiyun.com/2017/09/10/14/20170910021520_61be48922e272e262038fc7b9bf964ed.jpg"
-        ],
-        [
-            "641",
-            "eu.chainfire.supersu",
-            "//gxicon.b0.upaiyun.com/2017/09/10/14/20170910021515_175c1281045f55677b149718a9851c41.jpg"
-        ],
-        [
-            "642",
-            "com.oneplus.gallery",
-            "//gxicon.b0.upaiyun.com/2017/09/10/14/20170910021517_2fde7d4a2e396783b275774ca6296107.jpg"
-        ],
-        [
-            "643",
-            "com.sinovatech.unicom.ui",
-            "//gxicon.b0.upaiyun.com/2017/09/10/14/20170910021516_e114236652761ec04645606668b6c736.jpg"
-        ],
-        [
-            "644",
-            "com.tencent.token",
-            "//gxicon.b0.upaiyun.com/2017/09/10/14/20170910021515_b9995be0adeafe4bd2f5a435ff8ecf4a.jpg"
-        ],
-        [
-            "645",
-            "com.tmall.wireless",
-            "//gxicon.b0.upaiyun.com/2017/09/10/14/20170910021526_1a5371cf3478b94e52f22324a95ad3af.jpg"
-        ],
-        [
-            "646",
-            "com.eg.android.AlipayGphone",
-            "//gxicon.b0.upaiyun.com/2017/09/10/14/20170910021534_eebda4c1fbe724925d0d2d8945bf0e90.jpg"
-        ],
-        [
-            "647",
-            "com.sina.weibo",
-            "//gxicon.b0.upaiyun.com/2017/09/10/14/20170910021515_663c4b4f2ba627d3253cab7e2ff245cf.jpg"
-        ],
-        [
-            "648",
-            "com.qiyi.video",
-            "//gxicon.b0.upaiyun.com/2017/09/10/14/20170910021519_8f156af939c88886ecb0fcb1e25ba141.jpg"
-        ],
-        [
-            "649",
-            "com.youku.phone",
-            "//gxicon.b0.upaiyun.com/2017/09/10/14/20170910021526_2b3b92183c268b2b02f58405b1fedfc9.jpg"
-        ],
-        [
-            "650",
-            "com.android.settings",
-            "//gxicon.b0.upaiyun.com/2017/09/10/14/20170910021516_01f4ca5bee16e4ea4a68d2004c92de27.jpg"
-        ],
-        [
-            "651",
-            "com.oneplus.camera",
-            "//gxicon.b0.upaiyun.com/2017/09/10/14/20170910021518_52ef7bf3c76224fe5f9f47417429e3af.jpg"
-        ],
-        [
-            "652",
-            "com.android.mms",
-            "//gxicon.b0.upaiyun.com/2017/09/10/14/20170910021534_eaf6f56cddeb69198ce0a3ed2dc2fa8c.jpg"
-        ],
-        [
-            "653",
-            "com.android.incallui",
-            "//gxicon.b0.upaiyun.com/2017/09/10/14/20170910021521_c9901121a7b4045ff3652f349e29e393.jpg"
-        ],
-        [
-            "654",
-            "com.tencent.qqlive",
-            "//gxicon.b0.upaiyun.com/2017/09/10/14/20170910021529_90f526eee0aa39d083f0b214131dbb62.jpg"
-        ],
-        [
-            "655",
-            "com.tencent.mobileqq",
-            "//gxicon.b0.upaiyun.com/2017/09/10/14/20170910021514_a05abd608157ebace6655399fcd1ccd6.jpg"
-        ],
         [
             "656",
             "com.tencent.mm",
@@ -117,6 +17,11 @@
             "657",
             "com.tencent.tmgp.sgame",
             "//gxicon.b0.upaiyun.com/2017/09/10/14/20170910021537_c6cd004433746b387b7fae72ffaec6b8.jpg"
+        ],
+        [
+            "648",
+            "com.qiyi.video",
+            "//gxicon.b0.upaiyun.com/2017/09/10/14/20170910021519_8f156af939c88886ecb0fcb1e25ba141.jpg"
         ]
     ]
 }
