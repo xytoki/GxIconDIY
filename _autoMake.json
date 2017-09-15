@@ -1,47 +1,32 @@
 {
-    "pkg": "com.gxicon.fresh",
-    "app": "Fresh图标包",
-    "vname": "0.1.0",
-    "vcode": "170914",
-    "author": "[酷安@Mingxily](copy:酷安@Mingxily)",
-    "color_primary": "#73A6FB",
-    "color_primary_dark": "#7499FC",
-    "color_accent": "#FBF7F7",
+    "pkg": "com.gxicon.jamie",
+    "app": "JAM图标包",
+    "vname": "0.2",
+    "vcode": "17091601",
+    "author": "[@Jamie](copy:@Jamie)",
+    "color_primary": "#f44336",
+    "color_primary_dark": "#d80f00",
+    "color_accent": "#ff5252",
     "icons": [
         [
-            "665",
-            "mark.via",
-            "//gxicon.b0.upaiyun.com/2017/09/14/22/20170914103019_c6cc0be9d055a8d6c3138edd85d46326.png"
+            "664",
+            "com.kkeji.news.client",
+            "//gxicon.b0.upaiyun.com/2017/09/12/11/20170912110704_3f31be76aa1ee56d07d7809ea3d1de2f.png"
         ],
         [
-            "666",
-            "com.quark.browser",
-            "//gxicon.b0.upaiyun.com/2017/09/14/22/20170914103029_8ccbb5e3bf7a814be0ba1bc2de88c7a0.png"
+            "605",
+            "com.qb.qtranslator",
+            "//gxicon.b0.upaiyun.com/2017/09/08/01/20170908011839_b83fc411e76193d62179e5ad58361528.png"
         ],
         [
-            "667",
-            "com.netease.cloudmusic",
-            "//gxicon.b0.upaiyun.com/2017/09/14/22/20170914103033_0e55e6e490920a79891b7960e0c9ace5.png"
+            "590",
+            "com.dushe.movie",
+            "//gxicon.b0.upaiyun.com/2017/09/05/01/20170905011103_e513b3d0557738e1aa2d95b9b1ae997c.png"
         ],
         [
-            "668",
-            "com.baidu.tieba",
-            "//gxicon.b0.upaiyun.com/2017/09/14/22/20170914103036_0fdd00717a33aa273e69cf070c75f0bf.png"
-        ],
-        [
-            "669",
-            "tv.danmaku.bili",
-            "//gxicon.b0.upaiyun.com/2017/09/14/22/20170914103040_56d80bab50c761aed6bfbc15eae844ab.png"
-        ],
-        [
-            "670",
-            "com.audlabs.viperfx",
-            "//gxicon.b0.upaiyun.com/2017/09/14/22/20170914103044_0007c0eefb5a11ddd3e3ba8406df3b36.png"
-        ],
-        [
-            "671",
-            "com.estrongs.android.pop",
-            "//gxicon.b0.upaiyun.com/2017/09/14/22/20170914103048_7467a09084cf7f62fd3689e75aa3203c.png"
+            "591",
+            "com.max.xiaoheihe",
+            "//gxicon.b0.upaiyun.com/2017/09/05/01/20170905011637_5e16895fd778e43e58fa41f88fd16020.png"
         ]
     ]
 }
