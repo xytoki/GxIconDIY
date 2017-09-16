@@ -1,32 +1,107 @@
 {
-    "pkg": "com.gxicon.jamie",
-    "app": "JAM图标包",
-    "vname": "0.2",
-    "vcode": "17091601",
-    "author": "[@Jamie](copy:@Jamie)",
-    "color_primary": "#f44336",
-    "color_primary_dark": "#d80f00",
-    "color_accent": "#ff5252",
+    "pkg": "com.gxicon.ggbox",
+    "app": "末言",
+    "vname": "1.1.1.1",
+    "vcode": "1998325",
+    "author": "[@胡](copy:@胡)",
+    "color_primary": "#000000",
+    "color_primary_dark": "#19AA6F",
+    "color_accent": "#527FFF",
     "icons": [
         [
-            "664",
-            "com.kkeji.news.client",
-            "//gxicon.b0.upaiyun.com/2017/09/12/11/20170912110704_3f31be76aa1ee56d07d7809ea3d1de2f.png"
+            "576",
+            "com.ushaqi.zhuishushenqi",
+            "//gxicon.b0.upaiyun.com/2017/09/02/17/20170902053348_9f1c35a5dc288603ad90de3b1f1dc0c3.png"
         ],
         [
-            "605",
-            "com.qb.qtranslator",
-            "//gxicon.b0.upaiyun.com/2017/09/08/01/20170908011839_b83fc411e76193d62179e5ad58361528.png"
+            "577",
+            "com.netease.cloudmusic",
+            "//gxicon.b0.upaiyun.com/2017/09/02/17/20170902053348_7282928f0bf02cb9f86c9b5a710ccb97.png"
         ],
         [
-            "590",
-            "com.dushe.movie",
-            "//gxicon.b0.upaiyun.com/2017/09/05/01/20170905011103_e513b3d0557738e1aa2d95b9b1ae997c.png"
+            "534",
+            "tv.danmaku.bili",
+            "//gxicon.b0.upaiyun.com/2017/08/31/16/20170831044651_03e1cda1a9a78b00b5f46557bfb231b3.png"
         ],
         [
-            "591",
-            "com.max.xiaoheihe",
-            "//gxicon.b0.upaiyun.com/2017/09/05/01/20170905011637_5e16895fd778e43e58fa41f88fd16020.png"
+            "464",
+            "com.mxtech.videoplayer.ad",
+            "//gxicon.b0.upaiyun.com/2017/08/29/17/20170829054846_877b6006f437908c0c4f2e624981f4a2.png"
+        ],
+        [
+            "467",
+            "com.baidu.netdisk",
+            "//gxicon.b0.upaiyun.com/2017/08/29/17/20170829054948_96768d7ba8643fa1d0cde41eea19c907.png"
+        ],
+        [
+            "468",
+            "com.tencent.mtt",
+            "//gxicon.b0.upaiyun.com/2017/08/29/17/20170829055002_b16f93e364b9d088588064cee2cbc6bf.png"
+        ],
+        [
+            "458",
+            "com.tencent.tmgp.supercell.clashroyale",
+            "//gxicon.b0.upaiyun.com/2017/08/29/17/20170829054717_ef905dec5aa01fff9dd3c8fd9f8de4e5.png"
+        ],
+        [
+            "459",
+            "com.android.settings",
+            "//gxicon.b0.upaiyun.com/2017/08/29/17/20170829054733_1cf422db85d8ff8a43f747349d53e724.png"
+        ],
+        [
+            "463",
+            "me.ele",
+            "//gxicon.b0.upaiyun.com/2017/08/29/17/20170829054835_caf47c8691060f40605a5c5c3760c562.png"
+        ],
+        [
+            "460",
+            "com.chinamworld.main",
+            "//gxicon.b0.upaiyun.com/2017/08/29/17/20170829054744_55e088c24be4241449638844d4140789.png"
+        ],
+        [
+            "420",
+            "rikka.notificationforqq",
+            "//gxicon.b0.upaiyun.com/2017/08/29/16/20170829045739_18d23deb91f9f6895e1e83e7b81f4aab.png"
+        ],
+        [
+            "409",
+            "com.duowan.groundhog.mctools",
+            "//gxicon.b0.upaiyun.com/2017/08/29/16/20170829044238_92f652e2678e2dd715debb7bf52533a8.png"
+        ],
+        [
+            "409",
+            "com.duowan.groundhog.mctools",
+            "//gxicon.b0.upaiyun.com/2017/08/29/16/20170829044238_92f652e2678e2dd715debb7bf52533a8.png"
+        ],
+        [
+            "400",
+            "com.hyphenate.chatuidemo",
+            "//gxicon.b0.upaiyun.com/2017/08/29/16/20170829044146_84567b81d7567dc3fd4b088af714f2e9.png"
+        ],
+        [
+            "337",
+            "tv.danmaku.bili",
+            "//gxicon.b0.upaiyun.com/2017/08/27/15/20170827034352_8cd328d51d23b09166e551b5104a357a.png"
+        ],
+        [
+            "338",
+            "com.bilibili.app.blue",
+            "//gxicon.b0.upaiyun.com/2017/08/27/15/20170827035147_59d9633a82056cf92fca8bd28ad1d952.png"
+        ],
+        [
+            "169",
+            "tv.danmaku.bili",
+            "//gxicon.b0.upaiyun.com/2017/08/24/10/20170824100443_3e3876ba0fc84fa9f5bbc0089ba807f1.png"
+        ],
+        [
+            "162",
+            "com.tencent.gamehelper.smoba",
+            "//gxicon.b0.upaiyun.com/2017/08/24/09/20170824095758_e13d4280c8e4ebca16114e4d3f1cdd32.png"
+        ],
+        [
+            "165",
+            "com.netease.cloudmusic",
+            "//gxicon.b0.upaiyun.com/2017/08/24/10/20170824100008_567a373664db636f995a8d2ced793bf6.png"
         ]
     ]
 }
