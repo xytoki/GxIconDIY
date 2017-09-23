@@ -1,212 +1,137 @@
 {
-    "pkg": "com.gxicon.s8Symphony",
-    "app": "幻彩",
+    "pkg": "com.gxicon.dgxtb",
+    "app": "短歌行图标",
     "vname": "1.0.0.0",
-    "vcode": "17092301",
-    "author": "[@蓝翔学渣](copy:@蓝翔学渣)",
-    "color_primary": "#f44336",
-    "color_primary_dark": "#d80f00",
-    "color_accent": "#ff5252",
+    "vcode": "170923",
+    "author": "[行泽](copy:行泽)",
+    "color_primary": "#2D8CF0",
+    "color_primary_dark": "#2D8CF0",
+    "color_accent": "#2D8CF0",
     "icons": [
         [
-            "753",
+            "165",
+            "com.netease.cloudmusic",
+            "//gxicon.b0.upaiyun.com/2017/08/24/10/20170824100008_567a373664db636f995a8d2ced793bf6.png"
+        ],
+        [
+            "162",
+            "com.tencent.gamehelper.smoba",
+            "//gxicon.b0.upaiyun.com/2017/08/24/09/20170824095758_e13d4280c8e4ebca16114e4d3f1cdd32.png"
+        ],
+        [
+            "159",
+            "com.greenpoint.android.mc10086.activity",
+            "//gxicon.b0.upaiyun.com/2017/08/24/09/20170824095552_efbd4a5512f5d8421528202214c086ca.png"
+        ],
+        [
+            "166",
+            "com.coolapk.market",
+            "//gxicon.b0.upaiyun.com/2017/08/24/10/20170824100052_fd90a9f158e907e409451c562b54a531.png"
+        ],
+        [
+            "225",
+            "com.netease.cloudmusic",
+            "//gxicon.b0.upaiyun.com/2017/08/24/13/20170824015941_860a2e7885852b2c620f724ff51320d6.png"
+        ],
+        [
+            "229",
+            "com.lerist.go_hosts",
+            "//gxicon.b0.upaiyun.com/2017/08/24/14/20170824021758_dce19dda74162aded7720f0e199ecd24.png"
+        ],
+        [
+            "230",
+            "com.tencent.mm",
+            "//gxicon.b0.upaiyun.com/2017/08/24/14/20170824021905_093516639225d1f85d08a3d0fcf4ce1d.png"
+        ],
+        [
+            "338",
+            "com.bilibili.app.blue",
+            "//gxicon.b0.upaiyun.com/2017/08/27/15/20170827035147_59d9633a82056cf92fca8bd28ad1d952.png"
+        ],
+        [
+            "334",
+            "com.android.messaging",
+            "//gxicon.b0.upaiyun.com/2017/08/27/08/20170827084445_d20b33cf8520765df104113e37b463f1.png"
+        ],
+        [
+            "342",
+            "com.greenpoint.android.mc10086.activity",
+            "//gxicon.b0.upaiyun.com/2017/08/27/19/20170827071928_3cfd68352dd6ba06361f663b4c14fc4f.png"
+        ],
+        [
+            "460",
+            "com.chinamworld.main",
+            "//gxicon.b0.upaiyun.com/2017/08/29/17/20170829054744_55e088c24be4241449638844d4140789.png"
+        ],
+        [
+            "453",
+            "com.youku.phone",
+            "//gxicon.b0.upaiyun.com/2017/08/29/17/20170829053334_cf8002278f13e6d909218c083b1b3dbd.png"
+        ],
+        [
+            "467",
+            "com.baidu.netdisk",
+            "//gxicon.b0.upaiyun.com/2017/08/29/17/20170829054948_96768d7ba8643fa1d0cde41eea19c907.png"
+        ],
+        [
+            "495",
+            "com.taptap",
+            "//gxicon.b0.upaiyun.com/2017/08/30/12/20170830125148_ba358f79276788fe760a1b7ce551b9bd.png"
+        ],
+        [
+            "494",
+            "com.tencent.mm",
+            "//gxicon.b0.upaiyun.com/2017/08/30/12/20170830125142_a2f594477d6244cef980b4b4868dcff6.png"
+        ],
+        [
+            "485",
+            "com.coolapk.market",
+            "//gxicon.b0.upaiyun.com/2017/08/29/19/20170829070749_aad0b47212e58570a4de00ec51e6f761.png"
+        ],
+        [
+            "497",
+            "com.tencent.tmgp.sgame",
+            "//gxicon.b0.upaiyun.com/2017/08/30/12/20170830125155_9f0fceabe635aa969c7cf68061656a90.png"
+        ],
+        [
+            "518",
             "com.android.vending",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113337_fecf041815e97b11108bbe9019ea453a.png"
+            "//gxicon.b0.upaiyun.com/2017/08/30/21/20170830090426_d4e7e2997700136d36a18f7e03882f64.png"
         ],
         [
-            "754",
-            "com.samsung.android.globalroaming",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113338_d0432432f095910b09228c96e42eaf2c.png"
+            "557",
+            "com.niksoftware.snapseed",
+            "//gxicon.b0.upaiyun.com/2017/09/01/17/20170901050126_96a9128360b23daeda8de3a3ef7e71b1.png"
         ],
         [
-            "755",
-            "com.samsung.android.globalroaming",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113338_745f827a1df0373a58e1535c199f24ca.png"
+            "554",
+            "com.bilibili.app.blue",
+            "//gxicon.b0.upaiyun.com/2017/09/01/17/20170901050126_4919af5e1eb09a24ca98cab3c4252749.png"
         ],
         [
-            "756",
-            "com.samsung.android.app.sreminder",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113338_84ca8622e5fb74788ec0d7a9475f1561.png"
+            "583",
+            "com.tencent.tmgp.sgame",
+            "//gxicon.b0.upaiyun.com/2017/09/03/15/20170903032959_1ab91f8af7152cbadb8bdf2674c57bcb.png"
         ],
         [
-            "757",
-            "com.samsung.knox.securefolder",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113337_333f5a52a8d70e3d748b5093b17c8c43.png"
+            "633",
+            "com.baidu.tieba",
+            "//gxicon.b0.upaiyun.com/2017/09/10/12/20170910122624_a4348af7a3abaa78c549d58a4c9c2e34.png"
         ],
         [
-            "762",
-            "com.samsung.android.voc",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113338_83729ea056536ef3f590a3aa14fe832b.png"
+            "634",
+            "com.halo.wifikey.wifilocating",
+            "//gxicon.b0.upaiyun.com/2017/09/10/12/20170910125217_e2834e0613063fa24ed718a158e926db.png"
         ],
         [
-            "761",
-            "com.sec.android.app.translator",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113338_b1a4535b6316724754a64964a4aef18a.png"
+            "667",
+            "com.netease.cloudmusic",
+            "//gxicon.b0.upaiyun.com/2017/09/14/22/20170914103033_0e55e6e490920a79891b7960e0c9ace5.png"
         ],
         [
-            "760",
-            "com.samsung.android.messaging",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113338_0cdc16d8a94a1c8e566149161d57d717.png"
-        ],
-        [
-            "759",
-            "com.samsung.android.contacts1",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113338_edaaebcea995338fb322692482f4e5c6.png"
-        ],
-        [
-            "758",
-            "com.samsung.android.app.notes",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113338_b908ac7ffab255625a1c0e1f796bbe9f.png"
-        ],
-        [
-            "763",
-            "com.tianxing.android.contentblocker",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113338_a67ac25daf886c926c5a7d4342862ef5.png"
-        ],
-        [
-            "764",
-            "com.samsung.smartcalli",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113340_18b3daf0b82f590633cfb3066bd8ab86.png"
-        ],
-        [
-            "765",
-            "com.sec.android.app.popupcalculator",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113340_eb26001dbe6b755d297ae07a3d685589.png"
-        ],
-        [
-            "766",
-            "com.sec.android.app.shealth",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113341_fc4bd591068d9425f608fe32ba4861d6.png"
-        ],
-        [
-            "767",
-            "com.sec.android.automotive.drivelink",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113340_e05e97c86474360a05a3e6530b770e74.png"
-        ],
-        [
-            "772",
-            "com.samsung.android.themestore",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113341_1a91af5b38e40e5f63e8593ddf94d74d.png"
-        ],
-        [
-            "771",
-            "com.samsung.android.app.music.chn",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113341_b05c1858ee116d9bca3a49e822e72dbd.png"
-        ],
-        [
-            "770",
-            "com.sec.android.app.bcocr",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113340_d110e42f41769b0a933ef25f0767f5af.png"
-        ],
-        [
-            "769",
-            "com.sec.android.app.sbrowser",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113340_f70e4abd99efbbc8091fa9f487ba10e6.png"
-        ],
-        [
-            "768",
-            "com.samsung.android.contacts2",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113340_2cd863cfb3776bc6670871f3962d6002.png"
-        ],
-        [
-            "773",
-            "com.android.settings",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113338_c6d643debdbb169bc0b10c52f52ddec4.png"
-        ],
-        [
-            "774",
-            "com.sec.android.app.clockpackage",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113340_661f2cafd7329c43cc1c91b4d780bb47.png"
-        ],
-        [
-            "775",
-            "com.samsung.android.onlinevideo",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113340_faa8425dc79c0aebd93d75b6e7fa4bcc.png"
-        ],
-        [
-            "776",
-            "com.sec.android.app.vefull",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113340_e77d6c3d4816bb5549551ffe1bd6e423.png"
-        ],
-        [
-            "777",
-            "com.sec.android.app.voicenote",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113340_0e2b665e3dd94374009345c6122bf8c3.png"
-        ],
-        [
-            "782",
-            "com.sec.musicstudio",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113341_7bd267ef252111e30be083f2210f3890.png"
-        ],
-        [
-            "781",
-            "tianqi",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113341_53686fdfdf2eac147aaaf6904aebb801.png"
-        ],
-        [
-            "780",
-            "com.samsung.android.app.reminder",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113341_d9a9e5554e553b13e6c4cd5d80898ce1.png"
-        ],
-        [
-            "779",
-            "com.samsung.android.app.watchmanager",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113340_b26da44c12dfcf1dc3a6be1cc030b699.png"
-        ],
-        [
-            "778",
-            "com.sec.android.app.fm",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113340_d7e6d93d983c0ddb2e65b500e12b61b9.png"
-        ],
-        [
-            "783",
-            "com.sec.android.app.myfiles",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113340_c0be8cc00b749a567640ee8f98e6d953.png"
-        ],
-        [
-            "784",
-            "com.sec.android.app.ocr4",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113340_8556c358dc85170666d6cbb7884f7dbb.png"
-        ],
-        [
-            "785",
-            "com.sec.android.gallery3d",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113340_baef954ec752735c852294bd11fb8654.png"
-        ],
-        [
-            "786",
-            "com.sec.android.app.camera",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113341_7d6ffdcffef96f966e522bc547eea7fd.png"
-        ],
-        [
-            "787",
-            "com.samsung.android.email.provider",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113341_003da694007d4650e7d7828163c0b295.png"
-        ],
-        [
-            "792",
-            "com.sec.android.app.samsungapps",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113341_f5c8f5b275c9acd5b8006f8d85e690b4.png"
-        ],
-        [
-            "791",
-            "com.samsung.android.oneconnect",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113341_89aa433eabb0ec7329c1a88e37be00d0.png"
-        ],
-        [
-            "790",
-            "com.samsung.android.sm_cn",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113341_f22ae202e27d08e0027ebb0c334b2500.png"
-        ],
-        [
-            "789",
-            "com.samsung.voiceserviceplatform",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113341_45e8b9166ce3a140b33afbb36a1e93f5.png"
-        ],
-        [
-            "788",
-            "com.samsung.android.game.gamehome",
-            "//gxicon.b0.upaiyun.com/2017/09/23/11/20170923113341_e887fc7111c3b2974e5c710765b487b3.png"
+            "674",
+            "com.eg.android.AlipayGphone",
+            "//gxicon.b0.upaiyun.com/2017/09/17/14/20170917025829_2160bdc71e58dc410c756e5c4e210823.png"
         ]
     ]
 }
