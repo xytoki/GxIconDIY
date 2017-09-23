@@ -1,177 +1,22 @@
 {
-    "pkg": "com.gxicon.s8Colorful",
-    "app": "S8幻彩",
+    "pkg": "com.gxicon.s88",
+    "app": "幻彩",
     "vname": "1.0.0.0",
-    "vcode": "17092101",
+    "vcode": "17092302",
     "author": "[@蓝翔学渣](copy:@蓝翔学渣)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
     "icons": [
         [
-            "745",
-            "com.sec.android.app.myfiles",
-            "//gxicon.b0.upaiyun.com/2017/09/21/09/20170921092617_eaeb1ebda179a01949eb60864a66da05.png"
-        ],
-        [
-            "746",
-            "com.sec.android.gallery3d",
-            "//gxicon.b0.upaiyun.com/2017/09/21/09/20170921092618_2d586a144350092d3f09e0af1a1fb5f2.png"
-        ],
-        [
-            "747",
-            "com.sec.android.app.camera",
-            "//gxicon.b0.upaiyun.com/2017/09/21/09/20170921092620_44c5f533b2762a1d8551b4eeeb2c40f8.png"
-        ],
-        [
-            "748",
-            "com.samsung.android.app.music.chn",
-            "//gxicon.b0.upaiyun.com/2017/09/21/09/20170921092621_c4c3df44624dcb8fdbab11d96eb77939.png"
-        ],
-        [
-            "749",
-            "com.sec.android.app.samsungapps",
-            "//gxicon.b0.upaiyun.com/2017/09/21/09/20170921092620_dc777be0b9ed8b1a6e081b407838d7fd.png"
-        ],
-        [
-            "738",
-            "com.samsung.android.spay",
-            "//gxicon.b0.upaiyun.com/2017/09/21/09/20170921092616_b6aaba2b80369d3fe7c63aab516d9f5f.png"
-        ],
-        [
-            "737",
-            "com.samsung.android.calendar",
-            "//gxicon.b0.upaiyun.com/2017/09/21/09/20170921092615_f654e4f2c2ac20d441a07754004c24bc.png"
-        ],
-        [
-            "752",
-            "com.samsung.android.sm_cn",
-            "//gxicon.b0.upaiyun.com/2017/09/21/09/20170921092619_8d37cf694ec4c8dfea6371e511fd3d17.png"
-        ],
-        [
-            "751",
-            "com.samsung.android.game.gamehome",
-            "//gxicon.b0.upaiyun.com/2017/09/21/09/20170921092620_d7dfcdb4d2673f3f135c53a9b4f8f128.png"
-        ],
-        [
-            "750",
-            "com.sumsung.android.email.porvider",
-            "//gxicon.b0.upaiyun.com/2017/09/21/09/20170921092618_78340deef2c9d4b35a6e4dfda5be6264.png"
-        ],
-        [
-            "739",
-            "com.android.settings",
-            "//gxicon.b0.upaiyun.com/2017/09/21/09/20170921092618_889ef3cd11dca090207cf15a81c91a5b.png"
-        ],
-        [
-            "740",
-            "com.samsung.android.onlinevideo",
-            "//gxicon.b0.upaiyun.com/2017/09/21/09/20170921092615_c17a1290098cf43c1fc2dc390782e51c.png"
-        ],
-        [
-            "741",
-            "com.sec.android.app.fm",
-            "//gxicon.b0.upaiyun.com/2017/09/21/09/20170921092615_53109274927a872278ec11aa07cce8f0.png"
-        ],
-        [
-            "742",
-            "com.samsung.android.app.watchmanager",
-            "//gxicon.b0.upaiyun.com/2017/09/21/09/20170921092616_e9123421683c5d6feedf51008d57bcb0.png"
-        ],
-        [
-            "743",
-            "hanjie.app.pureweather",
-            "//gxicon.b0.upaiyun.com/2017/09/21/09/20170921092617_53686fdfdf2eac147aaaf6904aebb801.png"
-        ],
-        [
-            "731",
-            "com.sec.android.app.translator",
-            "//gxicon.b0.upaiyun.com/2017/09/21/09/20170921092615_d5f12883f44c25db1bea7afcd02eddd8.png"
-        ],
-        [
-            "730",
-            "com.samsung.android.messaging",
-            "//gxicon.b0.upaiyun.com/2017/09/21/09/20170921092615_1e392146156e4fae08408c5979e3ac37.png"
-        ],
-        [
             "729",
             "com.samsung.android.contacts",
             "//gxicon.b0.upaiyun.com/2017/09/21/09/20170921092617_8db2c6d9afaed5f176a08acd8e55c6ab.png"
         ],
         [
-            "728",
-            "com.samsung.android.app.notes",
-            "//gxicon.b0.upaiyun.com/2017/09/21/09/20170921092615_62dfe65cab45dedd118cfccbd253ecf6.png"
-        ],
-        [
-            "744",
-            "com.sec.android.app.ocr4",
-            "//gxicon.b0.upaiyun.com/2017/09/21/09/20170921092615_1885bbd5b5b06eed9f029b4139d427f2.png"
-        ],
-        [
-            "732",
-            "com.samsung.smartcalli",
-            "//gxicon.b0.upaiyun.com/2017/09/21/09/20170921092617_4eb33d5329bed0709fed3ae1725b99e1.png"
-        ],
-        [
-            "733",
-            "com.sec.android.app.popupcalculator",
-            "//gxicon.b0.upaiyun.com/2017/09/21/09/20170921092615_408dd519cd616b5900284c20773017a4.png"
-        ],
-        [
             "734",
             "com.samsung.android.contacts",
             "//gxicon.b0.upaiyun.com/2017/09/21/09/20170921092616_8992be370424d6144c0f386dd75d75b8.png"
-        ],
-        [
-            "735",
-            "com.sec.android.sbrowser",
-            "//gxicon.b0.upaiyun.com/2017/09/21/09/20170921092618_7d676393f1046573d42f6ab094b14300.png"
-        ],
-        [
-            "736",
-            "com.sec.android.app.voicenote",
-            "//gxicon.b0.upaiyun.com/2017/09/21/09/20170921092615_b710d510c7056929d4be16f2b803e610.png"
-        ],
-        [
-            "721",
-            "com.sec.android.app.vefull",
-            "//gxicon.b0.upaiyun.com/2017/09/20/20/20170920081241_005087257dc1f2a8a2f3666fb958f1db.png"
-        ],
-        [
-            "724",
-            "com.samsung.android.voc",
-            "//gxicon.b0.upaiyun.com/2017/09/20/20/20170920081327_31d782dae3580b3c3f8e15aabe4b5ef4.png"
-        ],
-        [
-            "727",
-            "com.samsung.android.app.sreminder",
-            "//gxicon.b0.upaiyun.com/2017/09/21/09/20170921092620_adf4f084c60217fe427620b844190d7c.png"
-        ],
-        [
-            "726",
-            "com.sec.android.app.bcocr",
-            "//gxicon.b0.upaiyun.com/2017/09/21/09/20170921092615_2d34cefb7b9972cec4d7249cc4128257.png"
-        ],
-        [
-            "725",
-            "com.sec.musicstudio",
-            "//gxicon.b0.upaiyun.com/2017/09/21/09/20170921092619_22d9c83e4d5e7b69d8e19c6776a80873.png"
-        ],
-        [
-            "722",
-            "com.sec.android.app.clockpackage",
-            "//gxicon.b0.upaiyun.com/2017/09/20/20/20170920081309_5dc2f54bb3593309e8924a23fa5eabbc.png"
-        ],
-        [
-            "723",
-            "com.samsung.knox.securefolder",
-            "//gxicon.b0.upaiyun.com/2017/09/20/20/20170920081319_3314cdf0bd166722f6a4dc0f1072bea5.png"
-        ],
-        [
-            "720",
-            "com.sec.android.app.shealth",
-            "//gxicon.b0.upaiyun.com/2017/09/20/20/20170920081218_fb7532bac5aa9fabaee0d52f273b4373.png"
         ]
     ]
 }
