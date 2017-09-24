@@ -16,6 +16,7 @@ script:
 - jarsigner -verbose -keystore weng.jks -storepass $KEYSTORE_PASS -keypass $ALIAS_PASS
   -signedjar app/build/outputs/apk/gxIconDIY.signed.apk app/build/outputs/apk/gxIconDIY.apk
   $ALIAS_NAME
+- node ./autoUpload.js
 deploy:
   provider: releases
   api_key:

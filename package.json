@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "ftp": "^0.3.10",
     "moment": "^2.18.1",
     "node-wget": "^0.4.2",
     "npmlog": "^4.1.2",
