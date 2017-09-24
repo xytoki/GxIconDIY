@@ -13,7 +13,7 @@ var c = new Client();
 	c.on('ready', function() {
 		c.mkdir(remote[0],true,function(err){
 			if (err) throw err;
-			c.put(__dirname.'/app/build/outputs/apk/gxIconDIY.signed.apk',remote.join(""), function(err) {
+			c.put(__dirname+'/app/build/outputs/apk/gxIconDIY.signed.apk',remote.join(""), function(err) {
 				if (err) throw err;
 				c.end();
 				console.log("DONE\r\n",remote.join(""));
