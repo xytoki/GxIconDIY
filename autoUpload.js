@@ -1,4 +1,3 @@
-var Upyun = require('upyun-classic');
 var u=process.env.UPY_STOR.split(",");
 var Client = require('ftp');
 var fs = require('fs');
