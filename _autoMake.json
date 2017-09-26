@@ -1,252 +1,257 @@
 {
-    "pkg": "com.gxicon.tucaoo",
-    "app": "钦定图标包",
-    "vname": "1.0.0.1",
-    "vcode": "1000001",
-    "author": "[@tucaoo](copy:@tucaoo)",
-    "color_primary": "#f44336",
+    "pkg": "com.gxicon.huaweiarsenal",
+    "app": "Arsenal Icons by Huawei",
+    "vname": "0.1",
+    "vcode": "170926",
+    "author": "[Huawei (Exported from P7)](copy:Huawei (Exported from P7))",
+    "color_primary": "#EF0106",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
     "icons": [
         [
-            "911",
-            "com.android.dialer",
-            "//gxicon.b0.upaiyun.com/2017/09/24/11/20170924110237_f47e3984bef7cd7a8aa35f99b12ffea0.png"
+            "929",
+            "com.android.contacts",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926031112_fe06e657b1275aa360a123267ff0d9fe.png"
         ],
         [
-            "912",
-            "com.android.messaging",
-            "//gxicon.b0.upaiyun.com/2017/09/24/11/20170924110237_44cff9601d54405cd46e14f8e5181e01.png"
+            "930",
+            "com.android.bluetooth",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926031201_5a8ed4db7b35e3cd249b1bfabd318a19.png"
         ],
         [
-            "909",
-            "com.android.contracts",
-            "//gxicon.b0.upaiyun.com/2017/09/24/11/20170924110237_8083721dff20da338e2c6a02d5124af4.png"
+            "931",
+            "com.android.browser",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926031646_eff0b81f821be4f9f82c9bbe6b0ca361.png"
         ],
         [
-            "910",
+            "932",
+            "com.android.calculator2",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926031706_d64f29a0ac60ed332c4ca806ad361af4.png"
+        ],
+        [
+            "933",
+            "com.android.contacts.activities.DialtactsActivity",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926031822_60dd66fe9e081dfe465c32fdd21ef672.png"
+        ],
+        [
+            "934",
+            "com.google.android.deskclock",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926031928_37b3f4e85cba77519e18ae3ae2cfdc42.png"
+        ],
+        [
+            "935",
+            "com.android.email",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032013_0737cc6fd2712471037781f1ec7d0712.png"
+        ],
+        [
+            "936",
+            "com.android.gallery3d",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032040_97c607d721317e885f38db55d565e211.png"
+        ],
+        [
+            "937",
             "com.android.camera",
-            "//gxicon.b0.upaiyun.com/2017/09/24/11/20170924110237_5fed264e865adc6193a834bbda3cabae.png"
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032056_e5a332048347367319c9f939d1576d6d.png"
         ],
         [
-            "681",
-            "cn.wps.moffice_eng",
-            "//gxicon.b0.upaiyun.com/2017/09/17/15/20170917031835_95d5f5dcfa6f9614104dcd18681e24a9.png"
+            "938",
+            "com.android.hwmirror.Mirror",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032121_e7a36fbec606ed6e8f1161bb12da1b19.png"
         ],
         [
-            "673",
-            "com.eg.android.AlipayGphone",
-            "//gxicon.b0.upaiyun.com/2017/09/17/14/20170917025829_55368f238ca535826cef738268f60ad2.png"
+            "943",
+            "com.android.soundrecorder",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032328_a57342e562a5f91b33e515fcd57a7449.png"
         ],
         [
-            "674",
-            "com.eg.android.AlipayGphone",
-            "//gxicon.b0.upaiyun.com/2017/09/17/14/20170917025829_2160bdc71e58dc410c756e5c4e210823.png"
+            "942",
+            "com.android.settings",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032305_18da7b92e5ced9669a13a982c7cec931.png"
         ],
         [
-            "675",
-            "com.baidu.netdisk",
-            "//gxicon.b0.upaiyun.com/2017/09/17/14/20170917025830_d4f1973e5effe7801c1fdad7520d449b.png"
+            "941",
+            "com.android.providers.downloads.ui",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032241_08ab254fe752491b15dbb9ee69acc4f3.png"
         ],
         [
-            "676",
-            "com.quark.browser",
-            "//gxicon.b0.upaiyun.com/2017/09/17/14/20170917025830_8741d0c5dd834ea50225408bcdd1e909.png"
+            "940",
+            "com.android.mms",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032213_9bbdd6237a613f1e32b0c2ca617a5629.png"
         ],
         [
-            "677",
-            "com.taobao.taobao",
-            "//gxicon.b0.upaiyun.com/2017/09/17/14/20170917025830_ed2bd56cdc2efdf1fb444816d2515991.png"
+            "939",
+            "com.android.mediacenter",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032143_e669e7dc0c20fee129d3b08b553f5e33.png"
         ],
         [
-            "678",
-            "com.taobao.taobao",
-            "//gxicon.b0.upaiyun.com/2017/09/17/14/20170917025830_737d4b4b838dd9c19940b1aa09694e4e.png"
+            "944",
+            "com.android.stk",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032401_9660a1397241233318f59886d0cd2ee1.png"
         ],
         [
-            "679",
-            "mark.via",
-            "//gxicon.b0.upaiyun.com/2017/09/17/14/20170917025830_1e82ae74afd966e6286a08f850b58093.png"
+            "945",
+            "com.android.wallpaper",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032434_97c607d721317e885f38db55d565e211.png"
         ],
         [
-            "680",
-            "mark.via.z",
-            "//gxicon.b0.upaiyun.com/2017/09/17/14/20170917025830_387d226614be7913111b337384992296.png"
+            "946",
+            "com.example.android.notepad",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032504_4231bafcd66038d19990fce1d60f9a01.png"
         ],
         [
-            "672",
-            "one.codehz.container",
-            "//gxicon.b0.upaiyun.com/2017/09/17/12/20170917122940_f77b877eb52ab7e7ba2f82a51495691b.png"
+            "947",
+            "com.huawei.accountagent",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032522_9ba94748418b3ecc54e24d1261beaa29.png"
         ],
         [
-            "661",
-            "one.codehz.container",
-            "//gxicon.b0.upaiyun.com/2017/09/10/18/20170910062246_8528813060cbf31076bc6b8f4ab257ae.png"
+            "948",
+            "com.huawei.android.airsharingcast",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032536_7599bc53381e65549f023dd1338440a4.png"
         ],
         [
-            "660",
-            "com.google.android.gm",
-            "//gxicon.b0.upaiyun.com/2017/09/10/17/20170910055333_1492f504602a82e1a634ff6abcc3b5fb.png"
+            "953",
+            "com.huawei.android.hwouc",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032651_848eb4d20da84441eddbc6cc7337e82e.png"
         ],
         [
-            "658",
-            "com.ilongyuan.implosion",
-            "//gxicon.b0.upaiyun.com/2017/09/10/17/20170910054032_6618784f548d28a683588b6c7e17acad.png"
+            "952",
+            "com.huawei.android.FMRadio",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032613_2f4ec715617ff9ba7fd9aff679816a11.png"
         ],
         [
-            "659",
-            "com.hippo.ehviewer",
-            "//gxicon.b0.upaiyun.com/2017/09/10/17/20170910054031_3e56a43428fe943c875db63c3af4b628.png"
+            "951",
+            "com.huawei.android.dlna",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032606_34d41c54e4d108fc083a03ceb8e6c699.png"
         ],
         [
-            "662",
-            "com.smartisanos.smartfolder.aoa",
-            "//gxicon.b0.upaiyun.com/2017/09/10/18/20170910062404_a8589a52ac9d7d82952424ec0caf2aad.png"
+            "950",
+            "com.huawei.android.browser",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032558_eff0b81f821be4f9f82c9bbe6b0ca361.png"
         ],
         [
-            "634",
-            "com.halo.wifikey.wifilocating",
-            "//gxicon.b0.upaiyun.com/2017/09/10/12/20170910125217_e2834e0613063fa24ed718a158e926db.png"
+            "949",
+            "com.huawei.android.apkbatchinstall",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032546_6a423ae0919e4186765bed3204b1c8e4.png"
         ],
         [
-            "633",
-            "com.baidu.tieba",
-            "//gxicon.b0.upaiyun.com/2017/09/10/12/20170910122624_a4348af7a3abaa78c549d58a4c9c2e34.png"
+            "954",
+            "com.huawei.android.multiscreen",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032705_7599bc53381e65549f023dd1338440a4.png"
         ],
         [
-            "631",
-            "\tcom.baidu.tiebabz",
-            "//gxicon.b0.upaiyun.com/2017/09/10/12/20170910122624_1072fab7ab3ebef997acfec949314a49.png"
+            "955",
+            "com.huawei.android.nfctag",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032715_69c6f013059a34c3eaeb52c483eab28a.png"
         ],
         [
-            "632",
-            "com.baidu.tieba_mini",
-            "//gxicon.b0.upaiyun.com/2017/09/10/12/20170910122624_8b16cebb0ce0fb63b4bb407f5a10965b.png"
+            "956",
+            "com.android.phone",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032758_60dd66fe9e081dfe465c32fdd21ef672.png"
         ],
         [
-            "573",
-            "com.chrome.canary",
-            "//gxicon.b0.upaiyun.com/2017/09/02/13/20170902012920_1efaca96f5eafcd3e7a82686e5fed1ac.png"
+            "957",
+            "com.huawei.android.ProfileSwitcher",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032814_140375a7b94d9c4a687c97953c565751.png"
         ],
         [
-            "574",
-            "com.google.android.apps.photos",
-            "//gxicon.b0.upaiyun.com/2017/09/02/13/20170902012920_7222dd54cdbd76d26421ddc84feb79f1.png"
+            "958",
+            "com.huawei.android.thememanager",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032823_57c138998be86691acd2b914bbb1abb8.png"
         ],
         [
-            "575",
-            "com.flarejune.perfectcolorbar",
-            "//gxicon.b0.upaiyun.com/2017/09/02/13/20170902012920_027c5e4ace81c9a6e6955f6c11f2ea50.png"
+            "963",
+            "com.huawei.gamebox",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032853_b0e9e434cf0f20dbba6fee82078734e9.png"
         ],
         [
-            "571",
-            "com.One.WoodenLetter",
-            "//gxicon.b0.upaiyun.com/2017/09/02/12/20170902122830_c84506bface9292535c431d11dc74b0a.png"
+            "962",
+            "com.huawei.flashlight",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032853_d412b6c23a91e4c69493af2fd709f5c8.png"
         ],
         [
-            "572",
-            "com.google.android.apps.plus",
-            "//gxicon.b0.upaiyun.com/2017/09/02/12/20170902122830_8396f75309a399a6109baea64cdc7c44.png"
+            "961",
+            "com.huawei.appmarket",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032853_f40492bf885b95811ad6dfe4a2ecd7a5.png"
         ],
         [
-            "569",
-            "com.zjns.xposedinstaller ",
-            "//gxicon.b0.upaiyun.com/2017/09/01/23/20170901110129_69299cb5fc35826bc6e871e65f9544f9.png"
+            "960",
+            "com.huawei.android.wfdft",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032853_d8266abc74e0ddbe74841c26aa79ac34.png"
         ],
         [
-            "570",
-            "de.robv.android.xposed.installer",
-            "//gxicon.b0.upaiyun.com/2017/09/01/23/20170901110129_de6f2b07d2cbdcfda30f18622b0b7d3a.png"
+            "959",
+            "com.huawei.android.totemweather",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032853_9f777a9aad43f037f46f8e987c8b2b2a.png"
         ],
         [
-            "566",
-            "com.google.android.apps.genie.geniewidget",
-            "//gxicon.b0.upaiyun.com/2017/09/01/22/20170901105008_b10cd0273b57285dd5e57592a8c53351.png"
+            "964",
+            "com.huawei.hidisk",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032853_8feedd9667aa3b66a21e1d135d73dc8b.png"
         ],
         [
-            "567",
-            "org.kkdev.v2raygo",
-            "//gxicon.b0.upaiyun.com/2017/09/01/22/20170901105009_512a67c34cfc7b45c78e6cf2039d78a4.png"
+            "965",
+            "com.huawei.icos.ar",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032854_a299fa915d8c14177e986d0390ce1349.png"
         ],
         [
-            "568",
-            "com.v2ray.ang",
-            "//gxicon.b0.upaiyun.com/2017/09/01/22/20170901105009_8e759491c88995e3eb71e0b1e161bceb.png"
+            "966",
+            "com.huawei.KoBackup",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032854_bfd4478b8da0a7230366d2520114e10d.png"
         ],
         [
-            "565",
-            "com.e123.gxicon",
-            "//gxicon.b0.upaiyun.com/2017/09/01/22/20170901102410_70bf8bb816b1d282ed038c90cd263b67.png"
+            "967",
+            "com.huawei.magnifier",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032854_09433f80075f95d5cfeb5d5ae2c7fe03.png"
         ],
         [
-            "559",
-            "com.google.android.apps.adm",
-            "//gxicon.b0.upaiyun.com/2017/09/01/18/20170901063357_1f119672bfefae89559e439714b23393.png"
+            "968",
+            "com.huawei.message",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032854_9bbdd6237a613f1e32b0c2ca617a5629.png"
         ],
         [
-            "560",
-            "com.nianticproject.ingress",
-            "//gxicon.b0.upaiyun.com/2017/09/01/18/20170901063357_b8bf58b25d3d9169196d389d71df8a21.png"
+            "973",
+            "com.huawei.vassistant",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032854_61da364fbb9538fbcd7e867deeb10917.png"
         ],
         [
-            "561",
-            "com.nianticlabs.pokemongo",
-            "//gxicon.b0.upaiyun.com/2017/09/01/18/20170901063357_f126c015f1f7cbee7712e60e1d9eec19.png"
+            "972",
+            "com.huawei.systemmanager",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032854_68f6b5a12e042454a5e14b66af823c8f.png"
         ],
         [
-            "562",
-            "com.andguru.telegram.messenger",
-            "//gxicon.b0.upaiyun.com/2017/09/01/18/20170901063357_65ef50147c4907405d73d04a305f1463.png"
+            "971",
+            "com.huawei.shine.airsharingcast",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032854_7599bc53381e65549f023dd1338440a4.png"
         ],
         [
-            "563",
-            "org.telegram.messenger",
-            "//gxicon.b0.upaiyun.com/2017/09/01/18/20170901063357_208e7866b99e042d1a9821afefd15c9e.png"
+            "970",
+            "com.huawei.privacymode",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032854_7d76521450484ec843d915ab1720d404.png"
         ],
         [
-            "564",
-            "com.zhihu.daily.android",
-            "//gxicon.b0.upaiyun.com/2017/09/01/18/20170901063357_1a7f1cb0f43cf69af7027033787c656b.png"
+            "969",
+            "com.huawei.phoneservice",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032854_c4b93327d8df085a459362f641409707.png"
         ],
         [
-            "552",
-            "com.tencent.mobileqqi",
-            "//gxicon.b0.upaiyun.com/2017/09/01/17/20170901050126_cd6ec1d5758e8966bb48bee601468427.png"
+            "974",
+            "com.huawei.vdrive",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032855_cc4ede1e074166fa777413de291b2bc4.png"
         ],
         [
-            "553",
-            "com.tencent.qq.kddi",
-            "//gxicon.b0.upaiyun.com/2017/09/01/17/20170901050126_eff3340ad2460e701ee57db87a0e11d9.png"
+            "975",
+            "com.tiantian.android.player.video",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032855_067f82bfb2ce619d640a3199020ca007.png"
         ],
         [
-            "554",
-            "com.bilibili.app.blue",
-            "//gxicon.b0.upaiyun.com/2017/09/01/17/20170901050126_4919af5e1eb09a24ca98cab3c4252749.png"
+            "976",
+            "com.vmall.client",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032855_dadd89d5cce4dee6e71d41f7a1baa3c9.png"
         ],
         [
-            "555",
-            "com.google.android.apps.fitness",
-            "//gxicon.b0.upaiyun.com/2017/09/01/17/20170901050126_3eac4800b433226b3d1abda5d0ff4b72.png"
-        ],
-        [
-            "556",
-            "com.google.android.apps.maps",
-            "//gxicon.b0.upaiyun.com/2017/09/01/17/20170901050126_9fae289261ecce7f698ba4c15b4b3a5e.png"
-        ],
-        [
-            "557",
-            "com.niksoftware.snapseed",
-            "//gxicon.b0.upaiyun.com/2017/09/01/17/20170901050126_96a9128360b23daeda8de3a3ef7e71b1.png"
-        ],
-        [
-            "558",
-            "com.google.android.youtube",
-            "//gxicon.b0.upaiyun.com/2017/09/01/17/20170901050126_c75583f494cbe65668640dbe800b7c80.png"
-        ],
-        [
-            "533",
-            "com.tencent.tim",
-            "//gxicon.b0.upaiyun.com/2017/08/31/13/20170831015945_30b8ca4963b422f31ecc3d0a8c40b823.png"
+            "977",
+            "huawei.com.android.manager",
+            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032855_cf3e86b1fc6d2788102db48ee9f8815f.png"
         ]
     ]
 }
