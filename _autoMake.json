@@ -1,12 +1,12 @@
 {
-    "pkg": "com.gxicon.ziyongicon",
+    "pkg": "com.gxicon.icons",
     "app": "自用图标包",
-    "vname": "1.0.0.0",
+    "vname": "1.0.0",
     "vcode": "170928",
     "author": "[@奥巴牛](copy:@奥巴牛)",
     "color_primary": "#2D8CF0",
     "color_primary_dark": "#2D8CF0",
-    "color_accent": "#ECEFF4",
+    "color_accent": "#E8EBEE",
     "icons": [
         [
             "979",
