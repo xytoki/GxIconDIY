@@ -1,18 +1,13 @@
 {
-    "pkg": "com.gxicon.ziyong",
+    "pkg": "com.gxicon.ziyongicon",
     "app": "自用图标包",
     "vname": "1.0.0.0",
     "vcode": "170928",
     "author": "[@奥巴牛](copy:@奥巴牛)",
     "color_primary": "#2D8CF0",
     "color_primary_dark": "#2D8CF0",
-    "color_accent": "#EEEEF4",
+    "color_accent": "#ECEFF4",
     "icons": [
-        [
-            "978",
-            "com.niksoftware.snapseed",
-            "//gxicon.b0.upaiyun.com/2017/09/28/11/20170928114053_c71520c756e1f75cce8af59d1e9c3841.png"
-        ],
         [
             "979",
             "com.tencent.mm",
@@ -24,41 +19,6 @@
             "//gxicon.b0.upaiyun.com/2017/09/28/11/20170928115108_328ddd5025433a7d05ffba70d6783c67.png"
         ],
         [
-            "981",
-            "com.netease.cloudmusic",
-            "//gxicon.b0.upaiyun.com/2017/09/28/11/20170928115204_e605b1e28ba007e2aff4726b602d068d.png"
-        ],
-        [
-            "982",
-            "com.bilibili.app.blue",
-            "//gxicon.b0.upaiyun.com/2017/09/28/11/20170928115236_a97caafaacfc5fc915c6a4789a75a1a5.png"
-        ],
-        [
-            "983",
-            "com.bilibili.app.blue",
-            "//gxicon.b0.upaiyun.com/2017/09/28/11/20170928115312_18e9d79483057d29a3177be876896da9.png"
-        ],
-        [
-            "983",
-            "com.bilibili.app.blue",
-            "//gxicon.b0.upaiyun.com/2017/09/28/11/20170928115312_18e9d79483057d29a3177be876896da9.png"
-        ],
-        [
-            "984",
-            "com.bilibili.app.blue",
-            "//gxicon.b0.upaiyun.com/2017/09/28/11/20170928115323_1b2398f424f152fc42e7842c7dfe9088.png"
-        ],
-        [
-            "985",
-            "com.oneplus.camera",
-            "//gxicon.b0.upaiyun.com/2017/09/28/11/20170928115413_edc2524f73a9099bf4e09a49883ceba9.png"
-        ],
-        [
-            "986",
-            "com.oneplus.camera",
-            "//gxicon.b0.upaiyun.com/2017/09/28/11/20170928115425_58afd13edf400ec26c6ae7a82c391ea7.png"
-        ],
-        [
             "987",
             "com.oneplus.camera",
             "//gxicon.b0.upaiyun.com/2017/09/28/11/20170928115438_cff06ab52841f57910080c20a8964bdd.png"
@@ -67,56 +27,6 @@
             "988",
             "net.oneplus.weather",
             "//gxicon.b0.upaiyun.com/2017/09/28/12/20170928123222_418139daac570274b8df4709111650c6.png"
-        ],
-        [
-            "989",
-            "com.bilibili.app.blue",
-            "//gxicon.b0.upaiyun.com/2017/09/28/12/20170928123252_dd1014e0407c4a088c508779da42b8eb.png"
-        ],
-        [
-            "990",
-            "com.downloading.main.baiduyundownload",
-            "//gxicon.b0.upaiyun.com/2017/09/28/12/20170928123355_bd1e96fd74adfb114e5ed2ca5bbe8bbf.png"
-        ],
-        [
-            "991",
-            "com.downloading.main.baiduyundownload",
-            "//gxicon.b0.upaiyun.com/2017/09/28/12/20170928123521_5a1f749201be9690d6f375572f799a7f.png"
-        ],
-        [
-            "992",
-            "com.taptap",
-            "//gxicon.b0.upaiyun.com/2017/09/28/12/20170928123533_0b8da866ce1d13bca64aeb260ea95abe.png"
-        ],
-        [
-            "993",
-            "com.taptap",
-            "//gxicon.b0.upaiyun.com/2017/09/28/12/20170928123635_cef96a0a96597534c86cde548ca04c8a.png"
-        ],
-        [
-            "994",
-            "com.netease.yanxuan",
-            "//gxicon.b0.upaiyun.com/2017/09/28/12/20170928123644_7dc769640bc16feab38876adb8b7ed41.png"
-        ],
-        [
-            "995",
-            "com.netease.yanxuan",
-            "//gxicon.b0.upaiyun.com/2017/09/28/12/20170928123712_2e90260451b66e1edc0e1d7a1f61e42a.png"
-        ],
-        [
-            "996",
-            "com.tencent.tim",
-            "//gxicon.b0.upaiyun.com/2017/09/28/12/20170928123724_20c0d66b6e233fa52fd0a8d0cbac073b.png"
-        ],
-        [
-            "997",
-            "com.tencent.tim",
-            "//gxicon.b0.upaiyun.com/2017/09/28/12/20170928123750_dab92355fca6ddc818fd077fb808ec91.png"
-        ],
-        [
-            "998",
-            "com.netease.cloudmusic",
-            "//gxicon.b0.upaiyun.com/2017/09/28/12/20170928123842_70d05ca0f102f1c5137df9557746cd13.png"
         ],
         [
             "999",
@@ -169,16 +79,6 @@
             "//gxicon.b0.upaiyun.com/2017/09/28/12/20170928124440_22e3242ccffb933452c32814c4f90e03.png"
         ],
         [
-            "1009",
-            "com.oneplus.soundrecorder",
-            "//gxicon.b0.upaiyun.com/2017/09/28/12/20170928124601_29d553ba5bd65a61ea2c887bb3165359.png"
-        ],
-        [
-            "1010",
-            "com.oneplus.soundrecorder",
-            "//gxicon.b0.upaiyun.com/2017/09/28/12/20170928124742_98f179147da5c19a54efb57b1ddf68ee.png"
-        ],
-        [
             "1011",
             "com.eg.android.AlipayGphone",
             "//gxicon.b0.upaiyun.com/2017/09/28/12/20170928124750_41e3ed94d53f0a8e8458a628e7b70f9b.png"
@@ -192,6 +92,106 @@
             "925",
             "011",
             "//gxicon.b0.upaiyun.com/2017/09/24/12/20170924124611_b36c1741a74449e4b5e7feff90f36239.png"
+        ],
+        [
+            "1017",
+            "camera",
+            "//gxicon.b0.upaiyun.com/2017/09/28/13/20170928011249_edc2524f73a9099bf4e09a49883ceba9.png"
+        ],
+        [
+            "1018",
+            "camera1",
+            "//gxicon.b0.upaiyun.com/2017/09/28/13/20170928011302_58afd13edf400ec26c6ae7a82c391ea7.png"
+        ],
+        [
+            "1019",
+            "com.netease.cloudmusic",
+            "//gxicon.b0.upaiyun.com/2017/09/28/13/20170928011437_e605b1e28ba007e2aff4726b602d068d.png"
+        ],
+        [
+            "1020",
+            "com.netease.cloudmusic1",
+            "//gxicon.b0.upaiyun.com/2017/09/28/13/20170928011447_70d05ca0f102f1c5137df9557746cd13.png"
+        ],
+        [
+            "1021",
+            "com.netease.yanxuan1",
+            "//gxicon.b0.upaiyun.com/2017/09/28/13/20170928012112_2e90260451b66e1edc0e1d7a1f61e42a.png"
+        ],
+        [
+            "1022",
+            "com.netease.yanxuan",
+            "//gxicon.b0.upaiyun.com/2017/09/28/13/20170928012115_7dc769640bc16feab38876adb8b7ed41.png"
+        ],
+        [
+            "1023",
+            "com.tencent.tim",
+            "//gxicon.b0.upaiyun.com/2017/09/28/13/20170928012434_20c0d66b6e233fa52fd0a8d0cbac073b.png"
+        ],
+        [
+            "1024",
+            "com.telegram",
+            "//gxicon.b0.upaiyun.com/2017/09/28/13/20170928012436_dab92355fca6ddc818fd077fb808ec91.png"
+        ],
+        [
+            "1025",
+            "com.taptap",
+            "//gxicon.b0.upaiyun.com/2017/09/28/13/20170928012519_0b8da866ce1d13bca64aeb260ea95abe.png"
+        ],
+        [
+            "1026",
+            "com.taptap1",
+            "//gxicon.b0.upaiyun.com/2017/09/28/13/20170928012523_cef96a0a96597534c86cde548ca04c8a.png"
+        ],
+        [
+            "1027",
+            "com.downloading.main.baiduyundownload",
+            "//gxicon.b0.upaiyun.com/2017/09/28/13/20170928012651_5a1f749201be9690d6f375572f799a7f.png"
+        ],
+        [
+            "1028",
+            "com.downloading.main.baiduyundownload1",
+            "//gxicon.b0.upaiyun.com/2017/09/28/13/20170928012654_bd1e96fd74adfb114e5ed2ca5bbe8bbf.png"
+        ],
+        [
+            "1029",
+            "com.oneplus.soundrecorder",
+            "//gxicon.b0.upaiyun.com/2017/09/28/13/20170928012755_29d553ba5bd65a61ea2c887bb3165359.png"
+        ],
+        [
+            "1030",
+            "com.oneplus.soundrecorder1",
+            "//gxicon.b0.upaiyun.com/2017/09/28/13/20170928012759_98f179147da5c19a54efb57b1ddf68ee.png"
+        ],
+        [
+            "1031",
+            "com.bilibili.app.blue4",
+            "//gxicon.b0.upaiyun.com/2017/09/28/13/20170928012950_dd1014e0407c4a088c508779da42b8eb.png"
+        ],
+        [
+            "1032",
+            "com.bilibili.app.blue3",
+            "//gxicon.b0.upaiyun.com/2017/09/28/13/20170928012954_1b2398f424f152fc42e7842c7dfe9088.png"
+        ],
+        [
+            "1033",
+            "com.bilibili.app.blue2",
+            "//gxicon.b0.upaiyun.com/2017/09/28/13/20170928012957_18e9d79483057d29a3177be876896da9.png"
+        ],
+        [
+            "1034",
+            "com.bilibili.app.blue1",
+            "//gxicon.b0.upaiyun.com/2017/09/28/13/20170928013003_ccf2780370d8205bebcb415b00217095.png"
+        ],
+        [
+            "1035",
+            "com.bilibili.app.blue",
+            "//gxicon.b0.upaiyun.com/2017/09/28/13/20170928013007_a97caafaacfc5fc915c6a4789a75a1a5.png"
+        ],
+        [
+            "1036",
+            "com.niksoftware.snapseed",
+            "//gxicon.b0.upaiyun.com/2017/09/28/13/20170928013152_c71520c756e1f75cce8af59d1e9c3841.png"
         ]
     ]
 }
