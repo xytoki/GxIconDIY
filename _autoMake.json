@@ -1,27 +1,22 @@
 {
-    "pkg": "com.gxicon.magic",
-    "app": "Magic图标包",
-    "vname": "1.0.1",
-    "vcode": "31",
+    "pkg": "com.gxicon.magic.icon",
+    "app": "Magic Nano",
+    "vname": "1.0.4",
+    "vcode": "40",
     "author": "[@Concision](copy:@Concision)",
-    "color_primary": "#0495F6",
-    "color_primary_dark": "#0798F9",
-    "color_accent": "#0C74FB",
+    "color_primary": "#f44336",
+    "color_primary_dark": "#d80f00",
+    "color_accent": "#ff5252",
     "icons": [
         [
-            "1078",
-            "com.nearme.themespace",
-            "//gxicon.b0.upaiyun.com/2017/10/04/10/20171004102410_f840abd6e57336f16512900b87284d11.png"
+            "1084",
+            "com.android.mms",
+            "//gxicon.b0.upaiyun.com/2017/10/04/10/20171004102827_035ed50a5c04577ebdacc68731bf9608.png"
         ],
         [
-            "1079",
-            "com.android.incallui",
-            "//gxicon.b0.upaiyun.com/2017/10/04/10/20171004102511_f2853f991d92f457fd5301f4ae5f68a1.png"
-        ],
-        [
-            "1080",
-            "com.android.browser",
-            "//gxicon.b0.upaiyun.com/2017/10/04/10/20171004102548_150a86ed7eaf650f4f0d600483b23d1b.png"
+            "1083",
+            "com.android.calendar",
+            "//gxicon.b0.upaiyun.com/2017/10/04/10/20171004102742_91b37664a358e86fa6c36e02cc142b7b.png"
         ],
         [
             "1081",
@@ -34,14 +29,34 @@
             "//gxicon.b0.upaiyun.com/2017/10/04/10/20171004102715_dfba50c7038cca6d11cc8083d41fdda8.png"
         ],
         [
-            "1083",
-            "com.android.calendar",
-            "//gxicon.b0.upaiyun.com/2017/10/04/10/20171004102742_91b37664a358e86fa6c36e02cc142b7b.png"
+            "1079",
+            "com.android.incallui",
+            "//gxicon.b0.upaiyun.com/2017/10/04/10/20171004102511_f2853f991d92f457fd5301f4ae5f68a1.png"
         ],
         [
-            "1084",
-            "com.android.mms",
-            "//gxicon.b0.upaiyun.com/2017/10/04/10/20171004102827_035ed50a5c04577ebdacc68731bf9608.png"
+            "1080",
+            "com.android.browser",
+            "//gxicon.b0.upaiyun.com/2017/10/04/10/20171004102548_150a86ed7eaf650f4f0d600483b23d1b.png"
+        ],
+        [
+            "1078",
+            "com.nearme.themespace",
+            "//gxicon.b0.upaiyun.com/2017/10/04/10/20171004102410_f840abd6e57336f16512900b87284d11.png"
+        ],
+        [
+            "1075",
+            "com.oppo.contacts",
+            "//gxicon.b0.upaiyun.com/2017/10/03/15/20171003031609_dfba50c7038cca6d11cc8083d41fdda8.png"
+        ],
+        [
+            "1074",
+            "com.android.incallui",
+            "//gxicon.b0.upaiyun.com/2017/10/03/15/20171003031525_f2853f991d92f457fd5301f4ae5f68a1.png"
+        ],
+        [
+            "1073",
+            "com.android.sms",
+            "//gxicon.b0.upaiyun.com/2017/10/03/15/20171003031506_035ed50a5c04577ebdacc68731bf9608.png"
         ],
         [
             "1071",
@@ -54,14 +69,19 @@
             "//gxicon.b0.upaiyun.com/2017/10/03/15/20171003031429_99de9db4ad3d56683e871b24829bac8f.png"
         ],
         [
+            "1069",
+            "com.oppo.camera",
+            "//gxicon.b0.upaiyun.com/2017/10/03/14/20171003025857_8604d83e0edc474172b55704456a1da6.png"
+        ],
+        [
             "1070",
             "com.android.settings",
             "//gxicon.b0.upaiyun.com/2017/10/03/14/20171003025916_2aba87d2f6f072103001fa37cf1c4def.png"
         ],
         [
-            "1069",
-            "com.oppo.camera",
-            "//gxicon.b0.upaiyun.com/2017/10/03/14/20171003025857_8604d83e0edc474172b55704456a1da6.png"
+            "1067",
+            "com.andrpid.calendar",
+            "//gxicon.b0.upaiyun.com/2017/10/03/14/20171003025800_91b37664a358e86fa6c36e02cc142b7b.png"
         ],
         [
             "1068",
@@ -72,6 +92,11 @@
             "1065",
             "com.tencent.mm",
             "//gxicon.b0.upaiyun.com/2017/10/03/14/20171003025714_c7d31e1d6476f77da3507b5e49b88d1c.png"
+        ],
+        [
+            "1066",
+            "com.oppo.gallery",
+            "//gxicon.b0.upaiyun.com/2017/10/03/14/20171003025738_dd95050f302495b0d5710a601e518ae1.png"
         ],
         [
             "1064",
