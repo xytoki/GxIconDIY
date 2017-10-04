@@ -1,13 +1,18 @@
 {
-    "pkg": "com.gxicon.magic.nano",
-    "app": "Magic Nano完整版",
-    "vname": "1.2",
-    "vcode": "17090101",
+    "pkg": "com.gxicon.magic.nano.iconpack",
+    "app": "Magic图标包",
+    "vname": "2.3.6.3",
+    "vcode": "172020",
     "author": "[@Concision](copy:@Concision)",
-    "color_primary": "#048FFE",
-    "color_primary_dark": "#04A3F8",
-    "color_accent": "#2EA3F8",
+    "color_primary": "#057CFB",
+    "color_primary_dark": "#0599FC",
+    "color_accent": "#52BEFF",
     "icons": [
+        [
+            "1085",
+            "com.superevilmegacorp.game",
+            "//gxicon.b0.upaiyun.com/2017/10/04/11/20171004111030_c1119366eae9dbfcb2193e57c2917c41.png"
+        ],
         [
             "1084",
             "com.android.mms",
@@ -19,24 +24,9 @@
             "//gxicon.b0.upaiyun.com/2017/10/04/10/20171004102742_91b37664a358e86fa6c36e02cc142b7b.png"
         ],
         [
-            "1084",
-            "com.android.mms",
-            "//gxicon.b0.upaiyun.com/2017/10/04/10/20171004102827_035ed50a5c04577ebdacc68731bf9608.png"
-        ],
-        [
-            "1081",
-            "com.coloros.gallery3d",
-            "//gxicon.b0.upaiyun.com/2017/10/04/10/20171004102629_dd95050f302495b0d5710a601e518ae1.png"
-        ],
-        [
             "1082",
             "com.android.contacts",
             "//gxicon.b0.upaiyun.com/2017/10/04/10/20171004102715_dfba50c7038cca6d11cc8083d41fdda8.png"
-        ],
-        [
-            "1079",
-            "com.android.incallui",
-            "//gxicon.b0.upaiyun.com/2017/10/04/10/20171004102511_f2853f991d92f457fd5301f4ae5f68a1.png"
         ],
         [
             "1080",
@@ -44,54 +34,24 @@
             "//gxicon.b0.upaiyun.com/2017/10/04/10/20171004102548_150a86ed7eaf650f4f0d600483b23d1b.png"
         ],
         [
+            "1081",
+            "com.coloros.gallery3d",
+            "//gxicon.b0.upaiyun.com/2017/10/04/10/20171004102629_dd95050f302495b0d5710a601e518ae1.png"
+        ],
+        [
+            "1079",
+            "com.android.incallui",
+            "//gxicon.b0.upaiyun.com/2017/10/04/10/20171004102511_f2853f991d92f457fd5301f4ae5f68a1.png"
+        ],
+        [
             "1078",
             "com.nearme.themespace",
             "//gxicon.b0.upaiyun.com/2017/10/04/10/20171004102410_f840abd6e57336f16512900b87284d11.png"
         ],
         [
-            "1076",
-            "com.android.browser",
-            "//gxicon.b0.upaiyun.com/2017/10/04/08/20171004083401_5770988b28d119c0d65089475048cf4f.png"
-        ],
-        [
-            "1076",
-            "com.android.browser",
-            "//gxicon.b0.upaiyun.com/2017/10/04/08/20171004083401_5770988b28d119c0d65089475048cf4f.png"
-        ],
-        [
             "1075",
             "com.oppo.contacts",
             "//gxicon.b0.upaiyun.com/2017/10/03/15/20171003031609_dfba50c7038cca6d11cc8083d41fdda8.png"
-        ],
-        [
-            "1072",
-            "com.aide.ui",
-            "//gxicon.b0.upaiyun.com/2017/10/03/15/20171003031429_99de9db4ad3d56683e871b24829bac8f.png"
-        ],
-        [
-            "1071",
-            "com.tencent.mobileqq",
-            "//gxicon.b0.upaiyun.com/2017/10/03/14/20171003025939_ea5c9016b8f86ba18e423eb6cc6b8fc4.png"
-        ],
-        [
-            "1070",
-            "com.android.settings",
-            "//gxicon.b0.upaiyun.com/2017/10/03/14/20171003025916_2aba87d2f6f072103001fa37cf1c4def.png"
-        ],
-        [
-            "1069",
-            "com.oppo.camera",
-            "//gxicon.b0.upaiyun.com/2017/10/03/14/20171003025857_8604d83e0edc474172b55704456a1da6.png"
-        ],
-        [
-            "1068",
-            "com.coolapk.market",
-            "//gxicon.b0.upaiyun.com/2017/10/03/14/20171003025822_c03ba375883962540f0b0c99f8af2526.png"
-        ],
-        [
-            "1067",
-            "com.andrpid.calendar",
-            "//gxicon.b0.upaiyun.com/2017/10/03/14/20171003025800_91b37664a358e86fa6c36e02cc142b7b.png"
         ],
         [
             "1065",
@@ -104,14 +64,44 @@
             "//gxicon.b0.upaiyun.com/2017/10/03/14/20171003025625_3f323e059651a19379960bfb0572f669.png"
         ],
         [
+            "1067",
+            "com.andrpid.calendar",
+            "//gxicon.b0.upaiyun.com/2017/10/03/14/20171003025800_91b37664a358e86fa6c36e02cc142b7b.png"
+        ],
+        [
+            "1069",
+            "com.oppo.camera",
+            "//gxicon.b0.upaiyun.com/2017/10/03/14/20171003025857_8604d83e0edc474172b55704456a1da6.png"
+        ],
+        [
+            "1068",
+            "com.coolapk.market",
+            "//gxicon.b0.upaiyun.com/2017/10/03/14/20171003025822_c03ba375883962540f0b0c99f8af2526.png"
+        ],
+        [
+            "1070",
+            "com.android.settings",
+            "//gxicon.b0.upaiyun.com/2017/10/03/14/20171003025916_2aba87d2f6f072103001fa37cf1c4def.png"
+        ],
+        [
+            "1071",
+            "com.tencent.mobileqq",
+            "//gxicon.b0.upaiyun.com/2017/10/03/14/20171003025939_ea5c9016b8f86ba18e423eb6cc6b8fc4.png"
+        ],
+        [
+            "1072",
+            "com.aide.ui",
+            "//gxicon.b0.upaiyun.com/2017/10/03/15/20171003031429_99de9db4ad3d56683e871b24829bac8f.png"
+        ],
+        [
+            "1063",
+            "com.android.browser",
+            "//gxicon.b0.upaiyun.com/2017/10/03/14/20171003025515_150a86ed7eaf650f4f0d600483b23d1b.png"
+        ],
+        [
             "1062",
             "mark.via",
             "//gxicon.b0.upaiyun.com/2017/10/03/14/20171003025445_f43de8bff28c7bb0f3e31f14026dccca.png"
-        ],
-        [
-            "1085",
-            "com.superevilmegacorp.game",
-            "//gxicon.b0.upaiyun.com/2017/10/04/11/20171004111030_c1119366eae9dbfcb2193e57c2917c41.png"
         ]
     ]
 }
