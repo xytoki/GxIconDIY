@@ -1,12 +1,12 @@
 {
     "pkg": "com.gxicon.magic.icon",
-    "app": "Magic Nano",
-    "vname": "1.0.4",
-    "vcode": "40",
+    "app": "Magic图标包Nano版",
+    "vname": "1.0",
+    "vcode": "50",
     "author": "[@Concision](copy:@Concision)",
-    "color_primary": "#f44336",
-    "color_primary_dark": "#d80f00",
-    "color_accent": "#ff5252",
+    "color_primary": "#0481F9",
+    "color_primary_dark": "#07B3FC",
+    "color_accent": "#52ABFF",
     "icons": [
         [
             "1084",
