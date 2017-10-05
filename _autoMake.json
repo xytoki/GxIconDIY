@@ -1,12 +1,12 @@
 {
     "pkg": "com.gxicon.icons",
     "app": "icons",
-    "vname": "1.0.0",
+    "vname": "1.0.0.0",
     "vcode": "171006",
     "author": "[奥巴牛](copy:奥巴牛)",
     "color_primary": "#2D8CF0",
     "color_primary_dark": "#2D8CF0",
-    "color_accent": "#EBF1F6",
+    "color_accent": "#EDF0F2",
     "icons": [
         [
             "1161",
