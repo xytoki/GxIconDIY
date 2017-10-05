@@ -1,12 +1,12 @@
 {
     "pkg": "com.gxicon.icon",
-    "app": "icon",
+    "app": "icons",
     "vname": "1.0",
     "vcode": "171006",
     "author": "[奥巴牛](copy:奥巴牛)",
     "color_primary": "#2D8CF0",
     "color_primary_dark": "#2D8CF0",
-    "color_accent": "#F5FAFF",
+    "color_accent": "#F9F9F9",
     "icons": [
         [
             "1161",
@@ -344,11 +344,6 @@
             "//gxicon.b0.upaiyun.com/2017/10/06/02/20171006023205_94a7902214e704ae9a14dbad499e7d05.png"
         ],
         [
-            "1169",
-            "qingting",
-            "//gxicon.b0.upaiyun.com/2017/10/06/02/20171006023509_2938bae891283ac618b5b38efa4ea420.png"
-        ],
-        [
             "1170",
             "xiaomitianqi",
             "//gxicon.b0.upaiyun.com/2017/10/06/02/20171006023629_06e2370bfc399343620c6960a3a4f317.png"
@@ -367,6 +362,11 @@
             "1032",
             "com.bilibili.app.blue3",
             "//gxicon.b0.upaiyun.com/2017/09/28/13/20170928012954_1b2398f424f152fc42e7842c7dfe9088.png"
+        ],
+        [
+            "1172",
+            "qingting2",
+            "//gxicon.b0.upaiyun.com/2017/10/06/04/20171006041503_2938bae891283ac618b5b38efa4ea420.png"
         ]
     ]
 }
