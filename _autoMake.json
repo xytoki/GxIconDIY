@@ -1,12 +1,12 @@
 {
     "pkg": "com.gxicon.icons",
     "app": "icons",
-    "vname": "1.0.0.0",
+    "vname": "1.0.0",
     "vcode": "171006",
     "author": "[奥巴牛](copy:奥巴牛)",
     "color_primary": "#2D8CF0",
     "color_primary_dark": "#2D8CF0",
-    "color_accent": "#EFF4F9",
+    "color_accent": "#F3F8FE",
     "icons": [
         [
             "1161",
@@ -22,11 +22,6 @@
             "1163",
             "mihome2",
             "//gxicon.b0.upaiyun.com/2017/10/06/01/20171006015156_0cf5177171f7e131fc12510ca0c8f8b3.png"
-        ],
-        [
-            "1164",
-            "yingyong",
-            "//gxicon.b0.upaiyun.com/2017/10/06/01/20171006015158_0c6e89428f001f437f91716058c262b3.png"
         ],
         [
             "1165",
@@ -209,11 +204,6 @@
             "//gxicon.b0.upaiyun.com/2017/09/28/13/20170928012957_18e9d79483057d29a3177be876896da9.png"
         ],
         [
-            "1035",
-            "com.bilibili.app.blue",
-            "//gxicon.b0.upaiyun.com/2017/09/28/13/20170928013007_a97caafaacfc5fc915c6a4789a75a1a5.png"
-        ],
-        [
             "1030",
             "com.oneplus.soundrecorder1",
             "//gxicon.b0.upaiyun.com/2017/09/28/13/20170928012759_98f179147da5c19a54efb57b1ddf68ee.png"
@@ -249,11 +239,6 @@
             "//gxicon.b0.upaiyun.com/2017/09/28/13/20170928012434_20c0d66b6e233fa52fd0a8d0cbac073b.png"
         ],
         [
-            "1021",
-            "com.netease.yanxuan1",
-            "//gxicon.b0.upaiyun.com/2017/09/28/13/20170928012112_2e90260451b66e1edc0e1d7a1f61e42a.png"
-        ],
-        [
             "1022",
             "com.netease.yanxuan",
             "//gxicon.b0.upaiyun.com/2017/09/28/13/20170928012115_7dc769640bc16feab38876adb8b7ed41.png"
@@ -277,11 +262,6 @@
             "1017",
             "camera",
             "//gxicon.b0.upaiyun.com/2017/09/28/13/20170928011249_edc2524f73a9099bf4e09a49883ceba9.png"
-        ],
-        [
-            "1013",
-            "bilibili",
-            "//gxicon.b0.upaiyun.com/2017/09/28/13/20170928011026_1b2398f424f152fc42e7842c7dfe9088.png"
         ],
         [
             "1012",
@@ -377,6 +357,16 @@
             "1171",
             "wallet",
             "//gxicon.b0.upaiyun.com/2017/10/06/02/20171006024537_3c8e349154cf09523ee4c9cf75f46957.png"
+        ],
+        [
+            "1035",
+            "com.bilibili.app.blue",
+            "//gxicon.b0.upaiyun.com/2017/09/28/13/20170928013007_a97caafaacfc5fc915c6a4789a75a1a5.png"
+        ],
+        [
+            "1032",
+            "com.bilibili.app.blue3",
+            "//gxicon.b0.upaiyun.com/2017/09/28/13/20170928012954_1b2398f424f152fc42e7842c7dfe9088.png"
         ]
     ]
 }
