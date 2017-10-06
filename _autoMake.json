@@ -1,13 +1,18 @@
 {
     "pkg": "com.gxicon.fa",
-    "app": "发晨不冥",
-    "vname": "1.0.0.3",
-    "vcode": "17100614",
+    "app": "透明",
+    "vname": "1.0.0.4",
+    "vcode": "17100619",
     "author": "[发晨不冥](copy:发晨不冥)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
-    "color_accent": "#000000",
+    "color_accent": "#ff5252",
     "icons": [
+        [
+            "1188",
+            "com.caiyi.fundsh",
+            "//gxicon.b0.upaiyun.com/2017/10/06/15/20171006030132_8a0f8893adfa2103c0900ec5f16f5325.png"
+        ],
         [
             "1187",
             "com.dahuo.sunflower.xad",
@@ -44,11 +49,6 @@
             "//gxicon.b0.upaiyun.com/2017/10/06/14/20171006022947_13ea76d38687a8fde1f23863f45711a5.png"
         ],
         [
-            "1180",
-            "cn.xq.shareelb",
-            "//gxicon.b0.upaiyun.com/2017/10/06/14/20171006022931_28ee53e693335065185e37808ea3cc15.png"
-        ],
-        [
             "1179",
             "cn.vcinema.cinema",
             "//gxicon.b0.upaiyun.com/2017/10/06/14/20171006022915_4194c4cb4ef6f5bb2e57e6df9d4268ce.png"
@@ -67,6 +67,151 @@
             "1176",
             "cm.aptoide.pt",
             "//gxicon.b0.upaiyun.com/2017/10/06/14/20171006022807_2dd82eabc35c36fabc750faf805ee933.png"
+        ],
+        [
+            "1189",
+            "com.example.qyoungde.smsforwarding",
+            "//gxicon.b0.upaiyun.com/2017/10/06/19/20171006070754_e8f9123666749d19de4c2390e8f5706a.png"
+        ],
+        [
+            "1190",
+            "com.feiniu.market",
+            "//gxicon.b0.upaiyun.com/2017/10/06/19/20171006070814_4eb5e3b7373510181bf6aa1650ef6416.png"
+        ],
+        [
+            "1191",
+            "com.funinput.digit",
+            "//gxicon.b0.upaiyun.com/2017/10/06/19/20171006070859_d79cf98b00c2f64a6f33eb2fb9e81834.png"
+        ],
+        [
+            "1192",
+            "com.hpplay.happycast",
+            "//gxicon.b0.upaiyun.com/2017/10/06/19/20171006070914_a6f460ff626fc1b848dad312012933c0.png"
+        ],
+        [
+            "1193",
+            "com.jiuqu.dapaigame",
+            "//gxicon.b0.upaiyun.com/2017/10/06/19/20171006070930_76c6a93b56f50010265f9c927af16331.png"
+        ],
+        [
+            "1194",
+            "com.kevin.videoplay",
+            "//gxicon.b0.upaiyun.com/2017/10/06/19/20171006070948_913fc2bcea86a598d80297da3b4d6d40.png"
+        ],
+        [
+            "1195",
+            "com.meizu.flyme.flymebbs",
+            "//gxicon.b0.upaiyun.com/2017/10/06/19/20171006071004_31cb1627f98f184683058ba9c2c0508f.png"
+        ],
+        [
+            "1196",
+            "com.microsoft.office.excel",
+            "//gxicon.b0.upaiyun.com/2017/10/06/19/20171006071028_31452abec89632bf662a1342fda8cfec.png"
+        ],
+        [
+            "1197",
+            "com.microsoft.office.powerpoint",
+            "//gxicon.b0.upaiyun.com/2017/10/06/19/20171006071045_b4818b2fb88dbd2d17abfcb45269e226.png"
+        ],
+        [
+            "1198",
+            "com.microsoft.office.word",
+            "//gxicon.b0.upaiyun.com/2017/10/06/19/20171006071101_0e4cb5ef9a6fc8cd6f0c59cc64606e71.png"
+        ],
+        [
+            "1200",
+            "com.moliplayer.android",
+            "//gxicon.b0.upaiyun.com/2017/10/06/19/20171006071309_dda77f767d6f04cf1159d170a0eaff5b.png"
+        ],
+        [
+            "1201",
+            "com.nfyg.hsbb",
+            "//gxicon.b0.upaiyun.com/2017/10/06/19/20171006071331_7234cfadb642a148354597a37b5daae1.png"
+        ],
+        [
+            "1202",
+            "com.phicomm.cloud.soho.router",
+            "//gxicon.b0.upaiyun.com/2017/10/06/19/20171006071351_684748f1f2ae553b3bc219a5553a2fbf.png"
+        ],
+        [
+            "1203",
+            "com.pingan.paces.ccms",
+            "//gxicon.b0.upaiyun.com/2017/10/06/19/20171006071406_9e5da2a009426aebf6579a28f66d595f.png"
+        ],
+        [
+            "1204",
+            "com.qihoo.browser",
+            "//gxicon.b0.upaiyun.com/2017/10/06/19/20171006071420_0382c9ac715b47a921af584117df3d6b.png"
+        ],
+        [
+            "1205",
+            "com.ruanmei.lapin",
+            "//gxicon.b0.upaiyun.com/2017/10/06/19/20171006071435_b80f50cb29ec266ae25585375e455b3d.png"
+        ],
+        [
+            "1206",
+            "com.sh.cm.busihall",
+            "//gxicon.b0.upaiyun.com/2017/10/06/19/20171006071453_4f05d7e02b938dfb24b4caf69a1f3082.png"
+        ],
+        [
+            "1207",
+            "com.sh.gj",
+            "//gxicon.b0.upaiyun.com/2017/10/06/19/20171006071521_9d1c05fe5a83e92c7d4b66aad3d49f59.png"
+        ],
+        [
+            "1208",
+            "com.sina.news",
+            "//gxicon.b0.upaiyun.com/2017/10/06/19/20171006071535_a2045e9823fade92c7387d53937b5def.png"
+        ],
+        [
+            "1209",
+            "com.ss.android.article.news",
+            "//gxicon.b0.upaiyun.com/2017/10/06/19/20171006071548_3c8339da65395a52d35186b59b75482b.png"
+        ],
+        [
+            "1210",
+            "com.teewoo.app.bus",
+            "//gxicon.b0.upaiyun.com/2017/10/06/19/20171006071603_1f48c66c03f56147fce195cac09cbb1a.png"
+        ],
+        [
+            "1211",
+            "com.tencent.peng",
+            "//gxicon.b0.upaiyun.com/2017/10/06/19/20171006071630_bd9a0e6a753cf18af33cb64e6052879e.png"
+        ],
+        [
+            "1212",
+            "com.tieyou.bus.ark",
+            "//gxicon.b0.upaiyun.com/2017/10/06/19/20171006071646_a49282ff7a9d10130d81d038a4c6e56a.png"
+        ],
+        [
+            "1213",
+            "com.wandoujia",
+            "//gxicon.b0.upaiyun.com/2017/10/06/19/20171006071703_95a2577dae371ce607d236be4dbdbccd.png"
+        ],
+        [
+            "1214",
+            "com.xsteach.appedu",
+            "//gxicon.b0.upaiyun.com/2017/10/06/19/20171006071721_a8a4185639b9440fa7a26a6aff20fcb7.png"
+        ],
+        [
+            "1215",
+            "com.yl.ubike",
+            "//gxicon.b0.upaiyun.com/2017/10/06/19/20171006071736_57e7469669aa4694840f3a3b190d4a3f.png"
+        ],
+        [
+            "1216",
+            "com.yyets.pro",
+            "//gxicon.b0.upaiyun.com/2017/10/06/19/20171006071751_03182a0914ef5c9cfbc85a4faf6a28ea.png"
+        ],
+        [
+            "1217",
+            "com.zhiguan.m9ikandian",
+            "//gxicon.b0.upaiyun.com/2017/10/06/19/20171006071806_41f5ac49b38ee58c3fcdddabf3a0d858.png"
+        ],
+        [
+            "1218",
+            "com.zhongduomei.rrmj.society",
+            "//gxicon.b0.upaiyun.com/2017/10/06/19/20171006071821_2d00e57d7d550790c8d560f4b13501ae.png"
         ]
     ]
 }
