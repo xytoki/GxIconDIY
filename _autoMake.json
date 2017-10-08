@@ -1,82 +1,52 @@
 {
-    "pkg": "com.gxicon.Native",
-    "app": "Native",
-    "vname": "1.0.0",
-    "vcode": "171008",
-    "author": "[Raligun](copy:Raligun)",
+    "pkg": "com.gxicon.fa",
+    "app": "字体",
+    "vname": "1.0.0.0",
+    "vcode": "17100815",
+    "author": "[发晨不冥](copy:发晨不冥)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
     "icons": [
         [
-            "1233",
-            "com.joe.holi",
-            "//gxicon.b0.upaiyun.com/2017/10/08/10/20171008105633_fba00f290d31490a62cc3abce476b750.png"
+            "1234",
+            "cm.aptoide.pt",
+            "//gxicon.b0.upaiyun.com/2017/10/08/15/20171008030859_71b835b427725dafb978f139dc847330.png"
         ],
         [
-            "1232",
-            "com.umowang.fgo",
-            "//gxicon.b0.upaiyun.com/2017/10/08/10/20171008105406_f098c93c93e675e651e5a1d27e4d47af.png"
+            "1235",
+            "cn.com.shbank.mper",
+            "//gxicon.b0.upaiyun.com/2017/10/08/15/20171008030939_aae8fd27ac4f9173eb5d2b1bcccdb5ca.png"
         ],
         [
-            "1231",
-            "com.estrongs.android.pop",
-            "//gxicon.b0.upaiyun.com/2017/10/08/10/20171008103524_aeea85aac06bff9065fe80902cb420a2.png"
+            "1236",
+            "cn.com.shouji.market",
+            "//gxicon.b0.upaiyun.com/2017/10/08/15/20171008030955_0a31c4aa185aa1b0bd75555247b6c876.png"
         ],
         [
-            "1230",
-            "com.dv.adm.pay",
-            "//gxicon.b0.upaiyun.com/2017/10/08/10/20171008103444_0055ec896579d8a3ba42f266b51daac5.png"
+            "1237",
+            "cn.vcinema.cinema",
+            "//gxicon.b0.upaiyun.com/2017/10/08/15/20171008031013_9cd9c580f62e9e483a6f574fccf3c86e.png"
         ],
         [
-            "1229",
-            "com.android.calendar",
-            "//gxicon.b0.upaiyun.com/2017/10/08/10/20171008103323_5395ce016fd078b506c76979a2143968.png"
+            "1238",
+            "cn.xq.shareelb",
+            "//gxicon.b0.upaiyun.com/2017/10/08/15/20171008031027_db87900ae1167507510b1db0457ff244.png"
         ],
         [
-            "1224",
-            "com.android.messaging",
-            "//gxicon.b0.upaiyun.com/2017/10/08/10/20171008103101_a20d2d7db961b12949ea3d5acee8740f.png"
+            "1239",
+            "com.babytree.apps.pregnancy",
+            "//gxicon.b0.upaiyun.com/2017/10/08/15/20171008031043_b4cf56f20495b69f8cdb42e4390fa8b7.png"
         ],
         [
-            "1225",
-            "com.android.settings",
-            "//gxicon.b0.upaiyun.com/2017/10/08/10/20171008103112_c22b766088f9fd0eb25661567380477c.png"
+            "1240",
+            "com.blemall.okpayment.android",
+            "//gxicon.b0.upaiyun.com/2017/10/08/15/20171008031102_1e731aae91ceb254320df905b5a5c386.png"
         ],
         [
-            "1226",
-            "com.vipercn.mokee.viper4android_v2",
-            "//gxicon.b0.upaiyun.com/2017/10/08/10/20171008103122_de75f016f9131883b06293aa9190f31b.png"
-        ],
-        [
-            "1227",
-            "org.cyanogenmod.snap",
-            "//gxicon.b0.upaiyun.com/2017/10/08/10/20171008103216_9f3819f35adb6f02f542b56e52a07e9c.png"
-        ],
-        [
-            "1228",
-            "com.android.deskclock",
-            "//gxicon.b0.upaiyun.com/2017/10/08/10/20171008103252_15441b7ef4ff1e80ee2959856d289220.png"
-        ],
-        [
-            "1223",
-            "com.android.gallery3d",
-            "//gxicon.b0.upaiyun.com/2017/10/08/10/20171008103048_3a5e22f055d9c3d8797ae6d44924d2a4.png"
-        ],
-        [
-            "1222",
-            "com.android.dialer",
-            "//gxicon.b0.upaiyun.com/2017/10/08/10/20171008103034_75def605470506d330b3f009cd8de133.png"
-        ],
-        [
-            "1221",
-            "com.android.contacts",
-            "//gxicon.b0.upaiyun.com/2017/10/08/10/20171008103022_e7857f6726f01d29dfacc3e598d76416.png"
-        ],
-        [
-            "1220",
-            "com.android.calculator2",
-            "//gxicon.b0.upaiyun.com/2017/10/08/10/20171008102944_bf5e1449171f049a0b6c0aaa5d5c6d67.png"
+            "1241",
+            "com.budejie.www",
+            "//gxicon.b0.upaiyun.com/2017/10/08/15/20171008031120_5d6655f8e3c5741ece6a61b72ed78166.png"
         ]
     ]
 }
