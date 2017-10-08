@@ -1,12 +1,12 @@
 {
-    "pkg": "com.gxicon.com.gxicon.fei",
+    "pkg": "com.gxicon.com.tttle.tttle",
     "app": "图标",
     "vname": "1.0.0.0",
-    "vcode": "265262",
-    "author": "[tttle](copy:tttle)",
-    "color_primary": "#4B4444",
-    "color_primary_dark": "#4D5156",
-    "color_accent": "#4A4242",
+    "vcode": "147258369",
+    "author": "[@wang](copy:@wang)",
+    "color_primary": "#f44336",
+    "color_primary_dark": "#d80f00",
+    "color_accent": "#ff5252",
     "icons": [
         [
             "1223",
