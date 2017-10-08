@@ -1,52 +1,87 @@
 {
-    "pkg": "com.gxicon.fa",
-    "app": "字体",
-    "vname": "1.0.0.0",
-    "vcode": "17100815",
-    "author": "[发晨不冥](copy:发晨不冥)",
-    "color_primary": "#f44336",
-    "color_primary_dark": "#d80f00",
-    "color_accent": "#ff5252",
+    "pkg": "com.gxicon.gxicon",
+    "app": "AfterSunset",
+    "vname": "1",
+    "vcode": "1",
+    "author": "[AfterSunset](copy:AfterSunset)",
+    "color_primary": "#369DF4",
+    "color_primary_dark": "#00A1D8",
+    "color_accent": "#2DA1F0",
     "icons": [
         [
-            "1234",
-            "cm.aptoide.pt",
-            "//gxicon.b0.upaiyun.com/2017/10/08/15/20171008030859_71b835b427725dafb978f139dc847330.png"
+            "1158",
+            "date2",
+            "//gxicon.b0.upaiyun.com/2017/10/06/01/20171006015135_5f4a3924070db8df2ef58104a0b48bae.png"
         ],
         [
-            "1235",
-            "cn.com.shbank.mper",
-            "//gxicon.b0.upaiyun.com/2017/10/08/15/20171008030939_aae8fd27ac4f9173eb5d2b1bcccdb5ca.png"
+            "1159",
+            "date3",
+            "//gxicon.b0.upaiyun.com/2017/10/06/01/20171006015142_87bae4333cc9cce4bb00a19170928b35.png"
         ],
         [
-            "1236",
-            "cn.com.shouji.market",
-            "//gxicon.b0.upaiyun.com/2017/10/08/15/20171008030955_0a31c4aa185aa1b0bd75555247b6c876.png"
+            "1160",
+            "browser2",
+            "//gxicon.b0.upaiyun.com/2017/10/06/01/20171006015148_ff768e2f5865c392cae3468946444ec2.png"
         ],
         [
-            "1237",
-            "cn.vcinema.cinema",
-            "//gxicon.b0.upaiyun.com/2017/10/08/15/20171008031013_9cd9c580f62e9e483a6f574fccf3c86e.png"
+            "1142",
+            "mail",
+            "//gxicon.b0.upaiyun.com/2017/10/06/01/20171006015022_be57ee83220a939fc4667c91f77c82ab.png"
         ],
         [
-            "1238",
-            "cn.xq.shareelb",
-            "//gxicon.b0.upaiyun.com/2017/10/08/15/20171008031027_db87900ae1167507510b1db0457ff244.png"
+            "1143",
+            "bilibili6",
+            "//gxicon.b0.upaiyun.com/2017/10/06/01/20171006015026_03e1cda1a9a78b00b5f46557bfb231b3.png"
         ],
         [
-            "1239",
-            "com.babytree.apps.pregnancy",
-            "//gxicon.b0.upaiyun.com/2017/10/08/15/20171008031043_b4cf56f20495b69f8cdb42e4390fa8b7.png"
+            "1144",
+            "alipay",
+            "//gxicon.b0.upaiyun.com/2017/10/06/01/20171006015030_94a7902214e704ae9a14dbad499e7d05.png"
         ],
         [
-            "1240",
-            "com.blemall.okpayment.android",
-            "//gxicon.b0.upaiyun.com/2017/10/08/15/20171008031102_1e731aae91ceb254320df905b5a5c386.png"
+            "1146",
+            "wechat1",
+            "//gxicon.b0.upaiyun.com/2017/10/06/01/20171006015040_ac9c5b7582592e9f47295a8f9593745e.png"
         ],
         [
-            "1241",
-            "com.budejie.www",
-            "//gxicon.b0.upaiyun.com/2017/10/08/15/20171008031120_5d6655f8e3c5741ece6a61b72ed78166.png"
+            "1145",
+            "weibo",
+            "//gxicon.b0.upaiyun.com/2017/10/06/01/20171006015036_b41a1a38425d4732dd0641aee0e1a55a.png"
+        ],
+        [
+            "1148",
+            "wechat2",
+            "//gxicon.b0.upaiyun.com/2017/10/06/01/20171006015050_96ad0701f71e7ca3e44528f74ff98222.png"
+        ],
+        [
+            "1149",
+            "taobao",
+            "//gxicon.b0.upaiyun.com/2017/10/06/01/20171006015054_0e82f97b2c117c927a846fbb477dd19e.png"
+        ],
+        [
+            "1150",
+            "setting2",
+            "//gxicon.b0.upaiyun.com/2017/10/06/01/20171006015058_e7e51754561d4950e533b34c42379c8c.png"
+        ],
+        [
+            "1139",
+            "map2",
+            "//gxicon.b0.upaiyun.com/2017/10/06/01/20171006015011_966b732fbf12f3194aa9510ae60a4895.png"
+        ],
+        [
+            "1139",
+            "map2",
+            "//gxicon.b0.upaiyun.com/2017/10/06/01/20171006015011_966b732fbf12f3194aa9510ae60a4895.png"
+        ],
+        [
+            "1120",
+            "supersu",
+            "//gxicon.b0.upaiyun.com/2017/10/06/01/20171006014904_d8d0ead6a9caceff5d524c1748c4b41a.png"
+        ],
+        [
+            "1121",
+            "setting",
+            "//gxicon.b0.upaiyun.com/2017/10/06/01/20171006014906_b8f89e10ad6b19f1829479b8fe4b4fa6.png"
         ]
     ]
 }
