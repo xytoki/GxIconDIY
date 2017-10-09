@@ -1,22 +1,37 @@
 {
-    "pkg": "com.gxicon.0.0",
-    "app": "0.0",
-    "vname": "0.0",
-    "vcode": "20170101",
-    "author": "[@0.0](copy:@0.0)",
+    "pkg": "com.gxicon.jamie",
+    "app": "蜡笔图标包",
+    "vname": "1.00",
+    "vcode": "20171010",
+    "author": "[@蜡笔超大新](copy:@蜡笔超大新)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
     "icons": [
         [
-            "1288",
-            "com.xsteach.appedu",
-            "//gxicon.b0.upaiyun.com/2017/10/09/13/20171009014813_2057a078a8d2aa212d2db75c0328abee.png"
+            "1297",
+            "com.jingdong.app.reader",
+            "//gxicon.b0.upaiyun.com/2017/10/10/01/20171010015112_95882a6236ec868bd8401565067f75ed.png"
         ],
         [
-            "1289",
-            "com.yl.ubike",
-            "//gxicon.b0.upaiyun.com/2017/10/09/13/20171009014813_aa9da081c678582fedde92775e997a86.png"
+            "1296",
+            "com.yixia.videoeditor",
+            "//gxicon.b0.upaiyun.com/2017/10/10/01/20171010015035_df916cf752573fd4078f041e7f65bad6.png"
+        ],
+        [
+            "1295",
+            "com.wudaokou.hippo",
+            "//gxicon.b0.upaiyun.com/2017/10/10/01/20171010014249_126544be5a0eec8cb55508cbc6709bca.png"
+        ],
+        [
+            "1294",
+            "com.wanmei.a9vg",
+            "//gxicon.b0.upaiyun.com/2017/10/10/01/20171010014212_4b9eff103d52f1f48a44ee07acf4e0aa.png"
+        ],
+        [
+            "1293",
+            "me.topit.TopAndroid2",
+            "//gxicon.b0.upaiyun.com/2017/10/10/01/20171010014107_8a5328498f463241818cf61740d95690.png"
         ]
     ]
 }
