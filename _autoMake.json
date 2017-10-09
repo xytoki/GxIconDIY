@@ -1,17 +1,17 @@
 {
-    "pkg": "com.gxicon.sundown",
-    "app": "Sundown",
-    "vname": "1.0.0",
-    "vcode": "100",
-    "author": "[Sundown](copy:Sundown)",
-    "color_primary": "#36ACF4",
-    "color_primary_dark": "#0070D8",
-    "color_accent": "#5295FF",
+    "pkg": "com.gxicon.AfterSunset",
+    "app": "AfterSunset",
+    "vname": "1.0",
+    "vcode": "10",
+    "author": "[AfterSunset](copy:AfterSunset)",
+    "color_primary": "#f44336",
+    "color_primary_dark": "#d80f00",
+    "color_accent": "#ff5252",
     "icons": [
         [
-            "1229",
-            "com.android.calendar",
-            "//gxicon.b0.upaiyun.com/2017/10/08/10/20171008103323_5395ce016fd078b506c76979a2143968.png"
+            "1247",
+            "de.payback.client.android",
+            "//gxicon.b0.upaiyun.com/2017/10/09/08/20171009083906_be20ad8d22baeac237086596d85c1a9a.png"
         ],
         [
             "1228",
@@ -19,24 +19,14 @@
             "//gxicon.b0.upaiyun.com/2017/10/08/10/20171008103252_15441b7ef4ff1e80ee2959856d289220.png"
         ],
         [
+            "1227",
+            "org.cyanogenmod.snap",
+            "//gxicon.b0.upaiyun.com/2017/10/08/10/20171008103216_9f3819f35adb6f02f542b56e52a07e9c.png"
+        ],
+        [
             "1225",
             "com.android.settings",
             "//gxicon.b0.upaiyun.com/2017/10/08/10/20171008103112_c22b766088f9fd0eb25661567380477c.png"
-        ],
-        [
-            "1224",
-            "com.android.messaging",
-            "//gxicon.b0.upaiyun.com/2017/10/08/10/20171008103101_a20d2d7db961b12949ea3d5acee8740f.png"
-        ],
-        [
-            "1222",
-            "com.android.dialer",
-            "//gxicon.b0.upaiyun.com/2017/10/08/10/20171008103034_75def605470506d330b3f009cd8de133.png"
-        ],
-        [
-            "1221",
-            "com.android.contacts",
-            "//gxicon.b0.upaiyun.com/2017/10/08/10/20171008103022_e7857f6726f01d29dfacc3e598d76416.png"
         ],
         [
             "1220",
@@ -44,39 +34,9 @@
             "//gxicon.b0.upaiyun.com/2017/10/08/10/20171008102944_bf5e1449171f049a0b6c0aaa5d5c6d67.png"
         ],
         [
-            "1155",
-            "file",
-            "//gxicon.b0.upaiyun.com/2017/10/06/01/20171006015121_3181bb27f68f401fb66952ca929bdf43.png"
-        ],
-        [
-            "1165",
-            "quanmin",
-            "//gxicon.b0.upaiyun.com/2017/10/06/01/20171006015201_00d16ede5d8d33586dfed15ee7c0294e.png"
-        ],
-        [
-            "1152",
-            "music",
-            "//gxicon.b0.upaiyun.com/2017/10/06/01/20171006015109_e0095df67b33beb707b4dea4ad35ca16.png"
-        ],
-        [
-            "1167",
-            "root",
-            "//gxicon.b0.upaiyun.com/2017/10/06/02/20171006023113_d8d0ead6a9caceff5d524c1748c4b41a.png"
-        ],
-        [
-            "1144",
-            "alipay",
-            "//gxicon.b0.upaiyun.com/2017/10/06/01/20171006015030_94a7902214e704ae9a14dbad499e7d05.png"
-        ],
-        [
-            "522",
-            "com.tencent.mobileqq",
-            "//gxicon.b0.upaiyun.com/2017/08/31/08/20170831082327_573ccb931f06263d3963614258f95968.png"
-        ],
-        [
-            "523",
-            "com.tencent.mm",
-            "//gxicon.b0.upaiyun.com/2017/08/31/08/20170831082344_f89b88616d64502337b410dab4ad524b.png"
+            "1221",
+            "com.android.contacts",
+            "//gxicon.b0.upaiyun.com/2017/10/08/10/20171008103022_e7857f6726f01d29dfacc3e598d76416.png"
         ]
     ]
 }
