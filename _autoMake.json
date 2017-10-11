@@ -1,12 +1,12 @@
 {
     "pkg": "com.gxicon.yumen",
     "app": "YMIcon",
-    "vname": "1.0.0.3",
+    "vname": "1.0.0.4",
     "vcode": "171011",
     "author": "[郁闷YM](copy:郁闷YM)",
-    "color_primary": "#f44336",
-    "color_primary_dark": "#d80f00",
-    "color_accent": "#ff5252",
+    "color_primary": "#367BF4",
+    "color_primary_dark": "#36C3F4",
+    "color_accent": "#2DE4D1",
     "icons": [
         [
             "239",
