@@ -1,22 +1,22 @@
 {
     "pkg": "com.gxicon.yumen",
     "app": "YMIcon",
-    "vname": "1.0.0.4",
+    "vname": "1.0.0.5",
     "vcode": "171011",
     "author": "[郁闷YM](copy:郁闷YM)",
-    "color_primary": "#367BF4",
-    "color_primary_dark": "#36C3F4",
-    "color_accent": "#2DE4D1",
+    "color_primary": "#f44336",
+    "color_primary_dark": "#d80f00",
+    "color_accent": "#ff5252",
     "icons": [
-        [
-            "239",
-            "com.cmcc.nqweather",
-            "//gxicon.b0.upaiyun.com/2017/08/24/16/20170824041213_d03b98d117ab5d58877b57f074e2126f.png"
-        ],
         [
             "238",
             "com.feinno.cmcc.ruralitys",
             "//gxicon.b0.upaiyun.com/2017/08/24/16/20170824040541_8057d0a75441caf2aed88bad506ba129.png"
+        ],
+        [
+            "239",
+            "com.cmcc.nqweather",
+            "//gxicon.b0.upaiyun.com/2017/08/24/16/20170824041213_d03b98d117ab5d58877b57f074e2126f.png"
         ],
         [
             "296",
@@ -74,9 +74,24 @@
             "//gxicon.b0.upaiyun.com/2017/08/25/14/20170825024213_ac32378118e57bc0d2477ebf2d213d06.png"
         ],
         [
+            "373",
+            "com.magnets.toolbox",
+            "//gxicon.b0.upaiyun.com/2017/08/28/18/20170828062213_ba7983990bb089dc22ebe83ebec9b231.png"
+        ],
+        [
             "372",
             "com.e123.gxicon",
             "//gxicon.b0.upaiyun.com/2017/08/28/18/20170828062146_694721d1bfd8ba1c9167ec679d865031.png"
+        ],
+        [
+            "371",
+            "com.kiloo.subwaysurf",
+            "//gxicon.b0.upaiyun.com/2017/08/28/18/20170828062119_251e98fe2a34e4cab9b01647fe14aedc.png"
+        ],
+        [
+            "370",
+            "com.dede.oneplusscreen",
+            "//gxicon.b0.upaiyun.com/2017/08/28/18/20170828062048_aec57f2a46420b052960875faac4158a.png"
         ],
         [
             "374",
@@ -84,9 +99,14 @@
             "//gxicon.b0.upaiyun.com/2017/08/28/18/20170828062253_1e451fc8c45f7327c627d7be35a538db.png"
         ],
         [
-            "373",
-            "com.magnets.toolbox",
-            "//gxicon.b0.upaiyun.com/2017/08/28/18/20170828062213_ba7983990bb089dc22ebe83ebec9b231.png"
+            "375",
+            "com.happyelements.AndroidAnimal",
+            "//gxicon.b0.upaiyun.com/2017/08/28/18/20170828062314_03e5c84f8d0571b198a9bda106b747b9.png"
+        ],
+        [
+            "376",
+            "com.yaoyu.fengdu",
+            "//gxicon.b0.upaiyun.com/2017/08/28/18/20170828062332_bbb306719a1017d50fe7b203bd671b0e.png"
         ],
         [
             "377",
@@ -109,11 +129,6 @@
             "//gxicon.b0.upaiyun.com/2017/08/28/23/20170828114957_b59212f271d9ba89d6a592bb3be60a89.png"
         ],
         [
-            "381",
-            "com.kingkr.ksitjlq",
-            "//gxicon.b0.upaiyun.com/2017/08/28/23/20170828115021_f11d6deddcdb0c3dde6d0674b0a1df5c.png"
-        ],
-        [
             "382",
             "xtfen.com",
             "//gxicon.b0.upaiyun.com/2017/08/28/23/20170828115044_9d2ffaba36e479267f5085f09c94a2be.png"
@@ -124,24 +139,9 @@
             "//gxicon.b0.upaiyun.com/2017/08/28/23/20170828115114_11ae618be2c62fd58565120a3c56ecf5.png"
         ],
         [
-            "375",
-            "com.happyelements.AndroidAnimal",
-            "//gxicon.b0.upaiyun.com/2017/08/28/18/20170828062314_03e5c84f8d0571b198a9bda106b747b9.png"
-        ],
-        [
-            "376",
-            "com.yaoyu.fengdu",
-            "//gxicon.b0.upaiyun.com/2017/08/28/18/20170828062332_bbb306719a1017d50fe7b203bd671b0e.png"
-        ],
-        [
-            "371",
-            "com.kiloo.subwaysurf",
-            "//gxicon.b0.upaiyun.com/2017/08/28/18/20170828062119_251e98fe2a34e4cab9b01647fe14aedc.png"
-        ],
-        [
-            "370",
-            "com.dede.oneplusscreen",
-            "//gxicon.b0.upaiyun.com/2017/08/28/18/20170828062048_aec57f2a46420b052960875faac4158a.png"
+            "381",
+            "com.kingkr.ksitjlq",
+            "//gxicon.b0.upaiyun.com/2017/08/28/23/20170828115021_f11d6deddcdb0c3dde6d0674b0a1df5c.png"
         ]
     ]
 }
