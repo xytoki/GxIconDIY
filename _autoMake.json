@@ -1,22 +1,17 @@
 {
-    "pkg": "com.gxicon.2333diy",
+    "pkg": "com.gxicon.2333ZI",
     "app": "2333ZI图标包",
     "vname": "1.2.3.4",
     "vcode": "12345678",
     "author": "[2333ZI](copy:2333ZI)",
-    "color_primary": "#0084FF",
-    "color_primary_dark": "#0084FF",
-    "color_accent": "#0164FF",
+    "color_primary": "#3641F4",
+    "color_primary_dark": "#0023D8",
+    "color_accent": "#001CFF",
     "icons": [
         [
             "1305",
             "com.netease.x19",
             "//gxicon.b0.upaiyun.com/2017/10/12/17/20171012054248_37fcfef0bec369ef7fc96ad9602f16b3.png"
-        ],
-        [
-            "1304",
-            "com.gh0u1l5.wechatmagician",
-            "//gxicon.b0.upaiyun.com/2017/10/12/01/20171012014705_2756ca89b6c13e5b918f9590aa5f39e8.png"
         ],
         [
             "1294",
@@ -117,11 +112,6 @@
             "205",
             "com.tencent.mobileqq",
             "//gxicon.b0.upaiyun.com/2017/08/24/11/20170824114824_2dda039e2906575f5dc66eb60f87b60a.png"
-        ],
-        [
-            "168",
-            "com.netease.yyszs",
-            "//gxicon.b0.upaiyun.com/2017/08/24/10/20170824100342_e51996e61b8e6c401810e4578daff44d.png"
         ],
         [
             "159",
