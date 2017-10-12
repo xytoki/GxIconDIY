@@ -1,12 +1,12 @@
 {
-    "pkg": "com.gxicon.2333ZI",
-    "app": "2333ZI图标包",
+    "pkg": "com.gxicon.wz",
+    "app": "wz图标包",
     "vname": "1.2.3.4",
     "vcode": "12345678",
-    "author": "[2333ZI](copy:2333ZI)",
-    "color_primary": "#3641F4",
-    "color_primary_dark": "#0023D8",
-    "color_accent": "#001CFF",
+    "author": "[Wz](copy:Wz)",
+    "color_primary": "#f44336",
+    "color_primary_dark": "#d80f00",
+    "color_accent": "#ff5252",
     "icons": [
         [
             "1305",
