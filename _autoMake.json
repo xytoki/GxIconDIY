@@ -9,54 +9,9 @@
     "color_accent": "#ff5252",
     "icons": [
         [
-            "410",
-            "com.vjson.anime",
-            "//gxicon.b0.upaiyun.com/2017/08/29/16/20170829044238_b5e9c0535aef332e44e3c6036c630702.png"
-        ],
-        [
-            "409",
-            "com.duowan.groundhog.mctools",
-            "//gxicon.b0.upaiyun.com/2017/08/29/16/20170829044238_92f652e2678e2dd715debb7bf52533a8.png"
-        ],
-        [
-            "231",
-            "com.ss.android.ugc.aweme",
-            "//gxicon.b0.upaiyun.com/2017/08/24/14/20170824021945_51d7a1ffb2af5f188fa13a98d121fedc.png"
-        ],
-        [
-            "233",
-            "com.taobao.taobao",
-            "//gxicon.b0.upaiyun.com/2017/08/24/14/20170824022348_d5a93012bb2b67f40fe5d01881aec0e6.png"
-        ],
-        [
-            "234",
-            "com.sina.weibo",
-            "//gxicon.b0.upaiyun.com/2017/08/24/14/20170824022438_0b48c1da56389bb78ab2ee3afcab89f3.png"
-        ],
-        [
-            "225",
-            "com.netease.cloudmusic",
-            "//gxicon.b0.upaiyun.com/2017/08/24/13/20170824015941_860a2e7885852b2c620f724ff51320d6.png"
-        ],
-        [
-            "159",
-            "com.greenpoint.android.mc10086.activity",
-            "//gxicon.b0.upaiyun.com/2017/08/24/09/20170824095552_efbd4a5512f5d8421528202214c086ca.png"
-        ],
-        [
-            "160",
-            "com.sinovatech.unicom.ui",
-            "//gxicon.b0.upaiyun.com/2017/08/24/09/20170824095639_68ce07d918245e7d951ec5d137037e93.png"
-        ],
-        [
-            "162",
-            "com.tencent.gamehelper.smoba",
-            "//gxicon.b0.upaiyun.com/2017/08/24/09/20170824095758_e13d4280c8e4ebca16114e4d3f1cdd32.png"
-        ],
-        [
-            "161",
-            "com.ct.client",
-            "//gxicon.b0.upaiyun.com/2017/08/24/09/20170824095728_c5ca81430d48888ab1562ee4d6dbde6a.png"
+            "1305",
+            "com.netease.x19",
+            "//gxicon.b0.upaiyun.com/2017/10/12/17/20171012054248_37fcfef0bec369ef7fc96ad9602f16b3.png"
         ]
     ]
 }
