@@ -1,12 +1,12 @@
 {
     "pkg": "com.gxicon.pixelstyle",
     "app": "Pixel Icon",
-    "vname": "1.0",
-    "vcode": "1710152025",
+    "vname": "1.1",
+    "vcode": "1710152134",
     "author": "[Steve](copy:Steve)",
-    "color_primary": "#038CFF",
-    "color_primary_dark": "#0077FF",
-    "color_accent": "#FFFFFF",
+    "color_primary": "#009EFF",
+    "color_primary_dark": "#0084FF",
+    "color_accent": "#009EFF",
     "icons": [
         [
             "1476",
@@ -102,11 +102,6 @@
             "1453",
             "com.tencent.tmgp.sgame",
             "//gxicon.b0.upaiyun.com/2017/10/15/18/20171015060901_68b861aef920bdf4c344f261cf0765ca.png"
-        ],
-        [
-            "1454",
-            "com.netease.cloudmusic",
-            "//gxicon.b0.upaiyun.com/2017/10/15/19/20171015070610_05fe40aa85fa18be090a7741fac1a2ab.png"
         ],
         [
             "1455",
