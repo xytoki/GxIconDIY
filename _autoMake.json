@@ -1,7 +1,7 @@
 {
     "pkg": "com.gxicon.MarkWrite",
     "app": "MarkWrite手绘图标包",
-    "vname": "0.3.b1.weekly",
+    "vname": "0.3.b2.weekly",
     "vcode": "17101515",
     "author": "[@上海申通地铁集团有限公司](copy:@上海申通地铁集团有限公司)",
     "color_primary": "#000000",
@@ -107,11 +107,6 @@
             "1424",
             "com.facebook.katana",
             "//gxicon.b0.upaiyun.com/2017/10/15/09/20171015095710_fd8742fb5a6da8991c71e9236a7cdaa1.png"
-        ],
-        [
-            "1425",
-            "com.google.android.GoogleCamera",
-            "//gxicon.b0.upaiyun.com/2017/10/15/09/20171015095614_953d21680bba5d1c1ab96e644b317ed3.png"
         ],
         [
             "1426",
@@ -262,6 +257,26 @@
             "1103",
             "com.android.mms",
             "//gxicon.b0.upaiyun.com/2017/10/05/22/20171005105502_b3d3ee504d5e2b308311365575ca584a.png"
+        ],
+        [
+            "1439",
+            "cn.wps.moffice_eng",
+            "//gxicon.b0.upaiyun.com/2017/10/15/10/20171015103537_dd86ad6ff134f2749ed2a110695cc5f1.png"
+        ],
+        [
+            "1440",
+            "com.zhihu.android",
+            "//gxicon.b0.upaiyun.com/2017/10/15/10/20171015103537_1b6d12534cb52eebaf280c0333cb1298.png"
+        ],
+        [
+            "1441",
+            "com.android.calendar",
+            "//gxicon.b0.upaiyun.com/2017/10/15/10/20171015103537_3465a1bfb002a7c1a3925dc142041f8a.png"
+        ],
+        [
+            "1442",
+            "com.google.android.GoogleCamera",
+            "//gxicon.b0.upaiyun.com/2017/10/15/10/20171015103808_a6280e65512165d3d4056fe45433a952.png"
         ]
     ]
 }
