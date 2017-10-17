@@ -1,8 +1,8 @@
 {
     "pkg": "com.gxicon.YM",
     "app": "YM圆图标",
-    "vname": "1.0.0.5",
-    "vcode": "1710171238",
+    "vname": "1.0.0.6",
+    "vcode": "1710171247",
     "author": "[郁闷YM](copy:郁闷YM)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
@@ -237,6 +237,11 @@
             "1224",
             "com.android.messaging",
             "//gxicon.b0.upaiyun.com/2017/10/08/10/20171008103101_a20d2d7db961b12949ea3d5acee8740f.png"
+        ],
+        [
+            "1510",
+            "com.kingkr.kupuilf",
+            "//gxicon.b0.upaiyun.com/2017/10/17/12/20171017124608_b2a0a1470a55ac27aef44e95db83416a.png"
         ]
     ]
 }
