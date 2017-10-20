@@ -1,52 +1,22 @@
 {
-    "pkg": "com.gxicon.zhibi",
-    "app": "pixel移植",
-    "vname": "1.0",
-    "vcode": "233333",
+    "pkg": "com.gxicon.zhibi233",
+    "app": "round",
+    "vname": "2.0",
+    "vcode": "101101",
     "author": "[执笔](copy:执笔)",
-    "color_primary": "#3689F4",
-    "color_primary_dark": "#1579EB",
-    "color_accent": "#52C4FF",
+    "color_primary": "#368FF4",
+    "color_primary_dark": "#005ED8",
+    "color_accent": "#527BFF",
     "icons": [
         [
-            "1588",
-            "com.tencent.token",
-            "//gxicon.b0.upaiyun.com/2017/10/20/17/20171020055722_562d0ba7bdf97a61a648c510593e3dce.png"
+            "1608",
+            "com.tencent.androidqqmail",
+            "//gxicon.b0.upaiyun.com/2017/10/20/18/20171020060235_ea9cbc762ba3dbf18b65dee0c2b3d1b2.png"
         ],
         [
-            "1589",
-            "com.downloading.main.baiduyundownload",
-            "//gxicon.b0.upaiyun.com/2017/10/20/17/20171020055733_cffe6920b9821d4e0e27dc2569c65fa0.png"
-        ],
-        [
-            "1590",
-            "com.tencent.qqmusic",
-            "//gxicon.b0.upaiyun.com/2017/10/20/17/20171020055748_33cf44fe2df0cf3194c034a87b8a6e82.png"
-        ],
-        [
-            "1591",
-            "com.baidu.netdisk",
-            "//gxicon.b0.upaiyun.com/2017/10/20/17/20171020055759_e7d405f8a887f8138ee56c396400d0ac.png"
-        ],
-        [
-            "1592",
-            "com.v.study",
-            "//gxicon.b0.upaiyun.com/2017/10/20/17/20171020055821_90256a0c7b6c70caa1e091e866a39a6c.png"
-        ],
-        [
-            "1593",
-            "com.tencent.mobileqq",
-            "//gxicon.b0.upaiyun.com/2017/10/20/17/20171020055830_16636f28e8ed7b353caca7acca44140e.png"
-        ],
-        [
-            "1594",
-            "com.miui.miuibbs",
-            "//gxicon.b0.upaiyun.com/2017/10/20/17/20171020055857_2dfbe571ac312c62bc687bd592ee7fe5.png"
-        ],
-        [
-            "1595",
-            "com.xiaomi.hm.health",
-            "//gxicon.b0.upaiyun.com/2017/10/20/17/20171020055902_20efdd36dc579a029d757947b659a196.png"
+            "1609",
+            "com.speedsoftware.rootexplorer",
+            "//gxicon.b0.upaiyun.com/2017/10/20/18/20171020061015_b80cc91b5832ba7874cdd16803502db1.png"
         ],
         [
             "1596",
@@ -109,14 +79,44 @@
             "//gxicon.b0.upaiyun.com/2017/10/20/18/20171020060150_7a087a27b106c6b2de7238d9ccc66bac.png"
         ],
         [
-            "1608",
-            "com.tencent.androidqqmail",
-            "//gxicon.b0.upaiyun.com/2017/10/20/18/20171020060235_ea9cbc762ba3dbf18b65dee0c2b3d1b2.png"
+            "1588",
+            "com.tencent.token",
+            "//gxicon.b0.upaiyun.com/2017/10/20/17/20171020055722_562d0ba7bdf97a61a648c510593e3dce.png"
         ],
         [
-            "1609",
-            "com.speedsoftware.rootexplorer",
-            "//gxicon.b0.upaiyun.com/2017/10/20/18/20171020061015_b80cc91b5832ba7874cdd16803502db1.png"
+            "1589",
+            "com.downloading.main.baiduyundownload",
+            "//gxicon.b0.upaiyun.com/2017/10/20/17/20171020055733_cffe6920b9821d4e0e27dc2569c65fa0.png"
+        ],
+        [
+            "1590",
+            "com.tencent.qqmusic",
+            "//gxicon.b0.upaiyun.com/2017/10/20/17/20171020055748_33cf44fe2df0cf3194c034a87b8a6e82.png"
+        ],
+        [
+            "1591",
+            "com.baidu.netdisk",
+            "//gxicon.b0.upaiyun.com/2017/10/20/17/20171020055759_e7d405f8a887f8138ee56c396400d0ac.png"
+        ],
+        [
+            "1592",
+            "com.v.study",
+            "//gxicon.b0.upaiyun.com/2017/10/20/17/20171020055821_90256a0c7b6c70caa1e091e866a39a6c.png"
+        ],
+        [
+            "1593",
+            "com.tencent.mobileqq",
+            "//gxicon.b0.upaiyun.com/2017/10/20/17/20171020055830_16636f28e8ed7b353caca7acca44140e.png"
+        ],
+        [
+            "1594",
+            "com.miui.miuibbs",
+            "//gxicon.b0.upaiyun.com/2017/10/20/17/20171020055857_2dfbe571ac312c62bc687bd592ee7fe5.png"
+        ],
+        [
+            "1595",
+            "com.xiaomi.hm.health",
+            "//gxicon.b0.upaiyun.com/2017/10/20/17/20171020055902_20efdd36dc579a029d757947b659a196.png"
         ]
     ]
 }
