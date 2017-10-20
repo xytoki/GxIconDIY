@@ -1,77 +1,32 @@
 {
-    "pkg": "com.gxicon.www",
-    "app": "宝宝",
-    "vname": "1.0.0.0",
-    "vcode": "12312",
-    "author": "[@zhang](copy:@zhang)",
-    "color_primary": "#0FADF2",
-    "color_primary_dark": "#12D2F5",
-    "color_accent": "#32A3E1",
+    "pkg": "com.gxicon.mcl",
+    "app": "补充图标",
+    "vname": "1.0.0.3",
+    "vcode": "139696",
+    "author": "[fzzee](copy:fzzee)",
+    "color_primary": "#3646F4",
+    "color_primary_dark": "#787AE0",
+    "color_accent": "#070707",
     "icons": [
         [
-            "368",
-            "jp.konami.duellinks",
-            "//gxicon.b0.upaiyun.com/2017/08/28/18/20170828060320_7753f5d4e09fe7b213635b636823cc4e.png"
+            "1521",
+            "com.fantablade.icey",
+            "//gxicon.b0.upaiyun.com/2017/10/20/11/20171020115211_571a1012c096b094ee0f2d067c13d31a.png"
         ],
         [
-            "393",
-            "com.sspai.client",
-            "//gxicon.b0.upaiyun.com/2017/08/29/16/20170829041714_00d1931dd4ddbb1b9386e616184fa9c5.png"
+            "1522",
+            "com.xwtec.sd.mobileclient",
+            "//gxicon.b0.upaiyun.com/2017/10/20/11/20171020115303_42ca175c52ddb1049c143d45e2f2f2f1.png"
         ],
         [
-            "408",
-            "com.panda.videoliveplatform",
-            "//gxicon.b0.upaiyun.com/2017/08/29/16/20170829044238_0cd4377b4368b03b5a5c38f1c0661d0a.png"
+            "1520",
+            "com.android.clock.sd",
+            "//gxicon.b0.upaiyun.com/2017/10/19/11/20171019110427_df0053e82292aa5231be41e66020528d.png"
         ],
         [
-            "409",
-            "com.duowan.groundhog.mctools",
-            "//gxicon.b0.upaiyun.com/2017/08/29/16/20170829044238_92f652e2678e2dd715debb7bf52533a8.png"
-        ],
-        [
-            "404",
-            "com.letv.android.client",
-            "//gxicon.b0.upaiyun.com/2017/08/29/16/20170829044237_e234de9f159e66ba242ed57e7ec04c65.png"
-        ],
-        [
-            "403",
-            "com.blueocean.squaremusic",
-            "//gxicon.b0.upaiyun.com/2017/08/29/16/20170829044237_2fee56b4d9366d0070b2b009767f9a73.png"
-        ],
-        [
-            "402",
-            "me.piebridge.nrevent",
-            "//gxicon.b0.upaiyun.com/2017/08/29/16/20170829044237_543fea52143e3b3196757e323d1b228a.png"
-        ],
-        [
-            "401",
-            "com.catchingnow.icebox",
-            "//gxicon.b0.upaiyun.com/2017/08/29/16/20170829044236_7fba0344dabdde2f88d80b266b693262.png"
-        ],
-        [
-            "400",
-            "com.hyphenate.chatuidemo",
-            "//gxicon.b0.upaiyun.com/2017/08/29/16/20170829044146_84567b81d7567dc3fd4b088af714f2e9.png"
-        ],
-        [
-            "399",
-            "com.coderchoy.netspeed",
-            "//gxicon.b0.upaiyun.com/2017/08/29/16/20170829044126_29860a5a4d4a0cd167e4992ecaab2ae7.png"
-        ],
-        [
-            "405",
-            "tv.danmaku.bili",
-            "//gxicon.b0.upaiyun.com/2017/08/29/16/20170829044237_5fd804dd8a4a86848d16b9b85aa9ca58.png"
-        ],
-        [
-            "406",
-            "com.rockstar.gta3",
-            "//gxicon.b0.upaiyun.com/2017/08/29/16/20170829044236_08b3ec57c52e741aeaa7f41735d7db07.png"
-        ],
-        [
-            "1482",
-            "de.robv.android.xposed.installer",
-            "//gxicon.b0.upaiyun.com/2017/10/16/10/20171016102841_a5aa39f40a89995d6f673bb8e954b072.png"
+            "1517",
+            "com.fancywing.s3",
+            "//gxicon.b0.upaiyun.com/2017/10/18/11/20171018115600_965b54ac243994a261a4b2183b04a241.png"
         ]
     ]
 }
