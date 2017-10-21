@@ -1,12 +1,12 @@
 {
-    "pkg": "com.gxicon.Round_pixel",
-    "app": "Round",
+    "pkg": "com.gxicon.Zhibi-pixel",
+    "app": "Zhibi",
     "vname": "2.0",
-    "vcode": "0591",
-    "author": "[Zhibi](copy:Zhibi)",
-    "color_primary": "#0591F4",
-    "color_primary_dark": "#0890F5",
-    "color_accent": "#048BE8",
+    "vcode": "171717",
+    "author": "[Think](copy:Think)",
+    "color_primary": "#f44336",
+    "color_primary_dark": "#d80f00",
+    "color_accent": "#ff5252",
     "icons": [
         [
             "1610",
