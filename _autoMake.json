@@ -1,37 +1,17 @@
 {
-    "pkg": "com.gxicon.mcl",
-    "app": "apkpp",
-    "vname": "1.0.0.5",
-    "vcode": "139696",
-    "author": "[fzzee](copy:fzzee)",
-    "color_primary": "#f44336",
-    "color_primary_dark": "#d80f00",
-    "color_accent": "#ff5252",
+    "pkg": "com.gxicon.okita",
+    "app": "冲田",
+    "vname": "4.2.7.8",
+    "vcode": "427868719",
+    "author": "[无](copy:无)",
+    "color_primary": "#EA3E99",
+    "color_primary_dark": "#E06EB2",
+    "color_accent": "#EE9ED2",
     "icons": [
         [
-            "1651",
-            "com.ss.android.ugc.aweme",
-            "//gxicon.b0.upaiyun.com/2017/10/21/22/20171021100025_d9d20d68082fb83da2640f615b5af577.png"
-        ],
-        [
-            "1522",
-            "com.xwtec.sd.mobileclient",
-            "//gxicon.b0.upaiyun.com/2017/10/20/11/20171020115303_42ca175c52ddb1049c143d45e2f2f2f1.png"
-        ],
-        [
-            "1521",
-            "com.fantablade.icey",
-            "//gxicon.b0.upaiyun.com/2017/10/20/11/20171020115211_571a1012c096b094ee0f2d067c13d31a.png"
-        ],
-        [
-            "1520",
-            "com.android.clock.sd",
-            "//gxicon.b0.upaiyun.com/2017/10/19/11/20171019110427_df0053e82292aa5231be41e66020528d.png"
-        ],
-        [
-            "1517",
-            "com.fancywing.s3",
-            "//gxicon.b0.upaiyun.com/2017/10/18/11/20171018115600_965b54ac243994a261a4b2183b04a241.png"
+            "1652",
+            "com.bilibili.fatego",
+            "//gxicon.b0.upaiyun.com/2017/10/22/00/20171022121618_6903f028186f38b59f2f238a57607cad.png"
         ]
     ]
 }
