@@ -1,92 +1,37 @@
 {
-    "pkg": "com.gxicon.yunos",
-    "app": "YunOS图标包",
-    "vname": "0.1.0.1",
-    "vcode": "17102202",
-    "author": "[净网小分队制作，图标版权归YunOS官方所有](copy:净网小分队制作，图标版权归YunOS官方所有)",
-    "color_primary": "#37DC51",
-    "color_primary_dark": "#21C66A",
-    "color_accent": "#329CCB",
+    "pkg": "com.gxicon.wznew",
+    "app": "wznew",
+    "vname": "1.2.3.4",
+    "vcode": "123456",
+    "author": "[wz](copy:wz)",
+    "color_primary": "#f44336",
+    "color_primary_dark": "#d80f00",
+    "color_accent": "#ff5252",
     "icons": [
         [
-            "1666",
-            "com.UCMobile",
-            "//gxicon.b0.upaiyun.com/2017/10/22/15/20171022033432_c5ebfbdc2298498146a672e421230346.png"
+            "1521",
+            "com.fantablade.icey",
+            "//gxicon.b0.upaiyun.com/2017/10/20/11/20171020115211_571a1012c096b094ee0f2d067c13d31a.png"
         ],
         [
-            "1667",
-            "com.huawei.android.FMRadio",
-            "//gxicon.b0.upaiyun.com/2017/10/22/15/20171022033454_d6786a6806519746c42c04c13b5d5dbb.png"
+            "1516",
+            "com.aurora.advance.settings",
+            "//gxicon.b0.upaiyun.com/2017/10/17/18/20171017062239_87b2f24af1060baeb921438ba74542dc.png"
         ],
         [
-            "1668",
-            "com.android.deskclock",
-            "//gxicon.b0.upaiyun.com/2017/10/22/15/20171022033514_699a9fba9dea0253740b3ac0b6783d04.png"
+            "1515",
+            "com.imbastar.c5game",
+            "//gxicon.b0.upaiyun.com/2017/10/17/18/20171017062114_81f6564257dc460df5d06a073f5505a1.png"
         ],
         [
-            "1669",
-            "com.huawei,vassistant",
-            "//gxicon.b0.upaiyun.com/2017/10/22/15/20171022033553_e42e6999ddb03337bc9da84d55345e3e.png"
+            "1294",
+            "com.wanmei.a9vg",
+            "//gxicon.b0.upaiyun.com/2017/10/10/01/20171010014212_4b9eff103d52f1f48a44ee07acf4e0aa.png"
         ],
         [
-            "1670",
-            "com.eg.android.AlipayGphone",
-            "//gxicon.b0.upaiyun.com/2017/10/22/15/20171022033644_550718d732a78681a7f1cf76cc78fdd7.png"
-        ],
-        [
-            "1664",
-            "com.huawei.android.thememanager",
-            "//gxicon.b0.upaiyun.com/2017/10/22/13/20171022014929_69bb984d30a732c3c6526b6c03324b23.png"
-        ],
-        [
-            "1663",
-            "com.android.settings",
-            "//gxicon.b0.upaiyun.com/2017/10/22/13/20171022014929_db009d2a27abf8f260ad2c99c32b66b5.png"
-        ],
-        [
-            "1662",
-            "com.huawei.systemmanager",
-            "//gxicon.b0.upaiyun.com/2017/10/22/13/20171022014929_b9a132f463a9f593aafbed5b170aeb85.png"
-        ],
-        [
-            "1661",
-            "com.android.soundrecorder",
-            "//gxicon.b0.upaiyun.com/2017/10/22/13/20171022014929_32b5f9d03a9af1ff7ee4db023a8a2042.png"
-        ],
-        [
-            "1660",
-            "com.android.gallery3d",
-            "//gxicon.b0.upaiyun.com/2017/10/22/13/20171022014930_e16a7861cd320a47a1a1ceb9cbe21597.png"
-        ],
-        [
-            "1658",
-            "com.android.mms",
-            "//gxicon.b0.upaiyun.com/2017/10/22/13/20171022014929_bcbf90158b07692751bc0f38ba6faf06.png"
-        ],
-        [
-            "1657",
-            "com.android.contacts",
-            "//gxicon.b0.upaiyun.com/2017/10/22/13/20171022014929_6d88201351ad16221118e6caae6a19ff.png"
-        ],
-        [
-            "1656",
-            "com.huawei.camera",
-            "//gxicon.b0.upaiyun.com/2017/10/22/13/20171022014929_16f443504aaf28e416a1b956238b25e4.png"
-        ],
-        [
-            "1655",
-            "com.android.calendar",
-            "//gxicon.b0.upaiyun.com/2017/10/22/13/20171022014929_62a492696cf4bbe2101b7d1358e4f848.png"
-        ],
-        [
-            "1665",
-            "com.huawei.hwvplayer",
-            "//gxicon.b0.upaiyun.com/2017/10/22/13/20171022014929_0a01acb316633967b446a686f1334fce.png"
-        ],
-        [
-            "1659",
-            "com.android.mediacenter",
-            "//gxicon.b0.upaiyun.com/2017/10/22/13/20171022014930_90e199c0a6b0f1052feeb8053076c121.png"
+            "1128",
+            "yanxuan",
+            "//gxicon.b0.upaiyun.com/2017/10/06/01/20171006014926_556895a2b4f6b8be65da469151e174f4.png"
         ]
     ]
 }
