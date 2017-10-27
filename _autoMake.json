@@ -1,12 +1,12 @@
 {
     "pkg": "com.gxicon.sailingair",
     "app": "航海Air图标包",
-    "vname": "0.2.2.0",
+    "vname": "0.2.2.1",
     "vcode": "17102701",
     "author": "[@净网小分队](copy:@净网小分队)",
-    "color_primary": "#7B7776",
-    "color_primary_dark": "#393837",
-    "color_accent": "#17B84A",
+    "color_primary": "#706F6F",
+    "color_primary_dark": "#3D3B3A",
+    "color_accent": "#149636",
     "icons": [
         [
             "1780",
