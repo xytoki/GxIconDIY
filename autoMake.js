@@ -70,7 +70,7 @@ function generateCode(app) {
 }
 /* 包名获取app名/drawable等，调用@by_syk的nanoiconpack接口 */
 function getAppData(pname,cb){
-	request("http://nano.by-syk.com/code/"+pname, function (error, response, body) {
+	request("http://nano.1tb.win/code/"+pname, function (error, response, body) {
 		if(error){
 			throw error;
 			process.exit(1);
