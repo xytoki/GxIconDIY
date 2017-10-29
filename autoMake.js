@@ -25,7 +25,7 @@ var strings_xml=path.normalize(__dirname+"/"+folder+"/src/main/res/values-zh/str
 var build_gradle=path.normalize(__dirname+"/"+folder+"/build.gradle");
 var config=JSON.parse(fs.readFileSync("_autoMake.json"));
 try{
-	var iconcache=JSON.parse(fs.readFileSync("_iconCache.json"));
+	var iconcache=JSON.parse(fs.readFileSync("node_modules/_iconCache.json"));
 	log.info("CACHE","iconcache loaded");
 }catch(e){
 	var iconcache={};
@@ -77,7 +77,7 @@ function generateCode(app) {
 }
 /* 包名获取app名/drawable等，调用@by_syk的nanoiconpack接口 */
 function getAppData(pname,cb){
-	if(tyoepf(iconcache[pname])!=="undefined"){
+	if(typeof(iconcache[pname])!=="undefined"){
 		var theApp=iconcache[pname];
 		theApp.pkg=theApp.pkg||pname;
 		theApp.drawable=codeAppName(theApp.labelEn||theApp.label);
@@ -165,6 +165,6 @@ var next=function(i,cb){
 next(0,function(){
 	log.info("PKG","All done");
 	//write iconcache
-	fs.writeFileSync("_iconCache.json",JSON.stringify(iconcache));
+	fs.writeFileSync("node_modules/_iconCache.json",JSON.stringify(iconcache));
 	log.info("CACHE","iconcache saved",iconcache);
 })
