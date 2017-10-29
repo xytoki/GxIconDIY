@@ -40,3 +40,4 @@ cache:
  - $HOME/.gradle/wrapper/
  - $HOME/.gradle/nodejs/
  - node_modules
+ - _iconCache.json
