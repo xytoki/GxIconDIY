@@ -24,6 +24,13 @@ var appfilter_xml=path.normalize(__dirname+"/"+folder+"/src/main/res/xml/appfilt
 var strings_xml=path.normalize(__dirname+"/"+folder+"/src/main/res/values-zh/strings.xml");
 var build_gradle=path.normalize(__dirname+"/"+folder+"/build.gradle");
 var config=JSON.parse(fs.readFileSync("_autoMake.json"));
+try{
+	var iconcache=JSON.parse(fs.readFileSync("_iconCache.json"));
+	log.info("CACHE","iconcache loaded");
+}catch(e){
+	var iconcache={};
+	log.info("CACHE","NO ICONCACHE FOUND");
+}
 log.info("INFO","GxIcon Packager v1");
 log.info("CFG",config);
 log.info("DIR",drawable_folder);
@@ -70,6 +77,15 @@ function generateCode(app) {
 }
 /* 包名获取app名/drawable等，调用@by_syk的nanoiconpack接口 */
 function getAppData(pname,cb){
+	if(tyoepf(iconcache[pname])!=="undefined"){
+		var theApp=iconcache[pname];
+		theApp.pkg=theApp.pkg||pname;
+		theApp.drawable=codeAppName(theApp.labelEn||theApp.label);
+		if(theApp.drawable.trim()=="")theApp.drawable=codeAppName(theApp.pkg);
+		theApp.code=generateCode(theApp);
+		cb(theApp);
+		return;
+	}
 	request("http://gxicon.e123.pw:8082/code/"+pname, function (error, response, body) {
 		if(error){
 			throw error;
@@ -83,6 +99,9 @@ function getAppData(pname,cb){
 				theApp=j[i];
 				theCount=j[i].sum;
 			}
+		}
+		if(typeof(theApp.pkg)!=="undefined"&&typeof(theApp.launcher)!=="undefined"){
+			iconcache[pname]=theApp;
 		}
 		theApp.pkg=theApp.pkg||pname;
 		theApp.drawable=codeAppName(theApp.labelEn||theApp.label);
@@ -145,4 +164,7 @@ var next=function(i,cb){
 }
 next(0,function(){
 	log.info("PKG","All done");
+	//write iconcache
+	fs.writeFileSync("_iconCache.json",JSON.stringify(iconcache));
+	log.info("CACHE","iconcache saved",iconcache);
 })
