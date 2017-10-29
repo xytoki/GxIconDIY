@@ -31,7 +31,7 @@ public class C {
     public static final String APP_CODE_LABEL = "<!-- %1$s / %2$s -->";
     public static final String APP_CODE_BUILD = "<!-- Build: %1$s / %2$s -->";
 
-    public static final String URL_NANO_SERVER = "http://by-syk.com:8081/nanoiconpack/";
+    public static final String URL_NANO_SERVER = "http://nano.1tb.win/";
 //    public static final String URL_NANO_SERVER = "http://192.168.43.76:8082/nanoiconpack/";
     public static final String URL_COOLAPK_API = "https://api.coolapk.com/v6/";
 
