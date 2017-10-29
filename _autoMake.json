@@ -1,17 +1,52 @@
 {
     "pkg": "com.gxicon.gxdiy",
     "app": "DIYTest",
-    "vname": "2.0.0.0",
-    "vcode": "1",
+    "vname": "1.0.0.1",
+    "vcode": "2",
     "author": "[@weng](copy:@weng)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
     "icons": [
         [
-            "1061",
-            "com.coolapk.market",
-            "//gxicon.b0.upaiyun.com/2017/10/03/14/20171003022414_dd52cbc70a3492d39a2a65d0a370b1e0.png"
+            "1833",
+            "com.tencent.mm",
+            "//gxicon.b0.upaiyun.com/2017/10/28/23/20171028113321_dfcafdc4ea04a98d68beb7b382d4e874.png"
+        ],
+        [
+            "1832",
+            "com.sina.weibo",
+            "//gxicon.b0.upaiyun.com/2017/10/28/23/20171028113325_57a44eb1b74283458e4c142dfc575673.png"
+        ],
+        [
+            "1828",
+            "com.taobao.taobao",
+            "//gxicon.b0.upaiyun.com/2017/10/28/23/20171028113320_5bfe584c71d6318784ceae70d6158e5a.png"
+        ],
+        [
+            "1831",
+            "com.netease.cloudmusic",
+            "//gxicon.b0.upaiyun.com/2017/10/28/23/20171028113321_7ed4b4e78c07e6d62a51f698181898f2.png"
+        ],
+        [
+            "1810",
+            "com.e123.gxicon",
+            "//gxicon.b0.upaiyun.com/2017/10/28/23/20171028113310_b56a46a57f9e910c22d14c80d33731a8.png"
+        ],
+        [
+            "1788",
+            "com.tencent.mobileqq",
+            "//gxicon.b0.upaiyun.com/2017/10/28/23/20171028113155_e179b90571619bc5c6a49f5fc077d040.png"
+        ],
+        [
+            "1799",
+            "com.baidu.netdisk",
+            "//gxicon.b0.upaiyun.com/2017/10/28/23/20171028113317_6318e6d89f2354d757436a81ed817000.png"
+        ],
+        [
+            "1792",
+            "eu.chainfire.supersu",
+            "//gxicon.b0.upaiyun.com/2017/10/28/23/20171028113311_9a9455630111999df728e389955488e5.png"
         ]
     ]
 }
