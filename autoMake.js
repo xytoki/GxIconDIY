@@ -86,7 +86,7 @@ function getAppData(pname,cb){
 		cb(theApp);
 		return;
 	}
-	request("http://gxicon.e123.pw:8082/code/"+pname, function (error, response, body) {
+	request("http://gxicon.e123.pw/api.php?nano/code/"+pname, function (error, response, body) {
 		if(error){
 			throw error;
 			process.exit(1);
