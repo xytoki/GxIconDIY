@@ -2,7 +2,7 @@
     "pkg": "com.gxicon.YM",
     "app": "YM圆图标",
     "vname": "1.0.1.0",
-    "vcode": "1710300918",
+    "vcode": "1710301958",
     "author": "[郁闷YM](copy:郁闷YM)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
@@ -209,11 +209,6 @@
             "//gxicon.b0.upaiyun.com/2017/10/28/23/20171028113324_a370f1c524e8e05024a2a7bba6f9826a.png"
         ],
         [
-            "1835",
-            "com.locojoy.immt_a_chs.standard",
-            "//gxicon.b0.upaiyun.com/2017/10/28/23/20171028113329_54e2f103c90de01a7b1da225453a07d8.png"
-        ],
-        [
             "1802",
             "com.ygkj.chelaile.standard",
             "//gxicon.b0.upaiyun.com/2017/10/28/23/20171028113322_f3e458cd99b5b4c9758451d65d490b50.png"
@@ -319,11 +314,6 @@
             "//gxicon.b0.upaiyun.com/2017/10/28/23/20171028113315_f589912cf3bc956e2797247db1f40bb0.png"
         ],
         [
-            "1795",
-            "com.kingkr.kupuilf",
-            "//gxicon.b0.upaiyun.com/2017/10/28/23/20171028113330_b2a0a1470a55ac27aef44e95db83416a.png"
-        ],
-        [
             "1796",
             "com.qiyi.video",
             "//gxicon.b0.upaiyun.com/2017/10/28/23/20171028113318_d06adcb3065fb0685fb93e1dea2d0bf5.png"
@@ -404,14 +394,19 @@
             "//gxicon.b0.upaiyun.com/2017/10/28/23/20171028112226_677136616087d7fbb8d31707f1039bb7.png"
         ],
         [
+            "1589",
+            "com.downloading.main.baiduyundownload",
+            "//gxicon.b0.upaiyun.com/2017/10/20/17/20171020055733_cffe6920b9821d4e0e27dc2569c65fa0.png"
+        ],
+        [
             "1606",
             "com.keramidas.TitaniumBackup",
             "//gxicon.b0.upaiyun.com/2017/10/20/18/20171020060135_4049fa00fde690ca8963147f04c6bb82.png"
         ],
         [
-            "1589",
-            "com.downloading.main.baiduyundownload",
-            "//gxicon.b0.upaiyun.com/2017/10/20/17/20171020055733_cffe6920b9821d4e0e27dc2569c65fa0.png"
+            "1510",
+            "com.kingkr.kupuilf",
+            "//gxicon.b0.upaiyun.com/2017/10/17/12/20171017124608_b2a0a1470a55ac27aef44e95db83416a.png"
         ],
         [
             "1479",
@@ -429,14 +424,19 @@
             "//gxicon.b0.upaiyun.com/2017/10/16/10/20171016103151_6bbc67a5df7e808980ef3fdc0ae06c7e.png"
         ],
         [
-            "1496",
-            "com.qmah.kyx",
-            "//gxicon.b0.upaiyun.com/2017/10/16/13/20171016013502_b24e5cea6bf1e4de5d7f68313fbe77cd.png"
+            "1492",
+            "com.locojoy.immt_a_chs.standard",
+            "//gxicon.b0.upaiyun.com/2017/10/16/10/20171016103207_54e2f103c90de01a7b1da225453a07d8.png"
         ],
         [
             "1497",
             "com.storm.gmsy",
             "//gxicon.b0.upaiyun.com/2017/10/16/13/20171016013519_d7c9ae0057a5d2837e18319cc8bb19a5.png"
+        ],
+        [
+            "1496",
+            "com.qmah.kyx",
+            "//gxicon.b0.upaiyun.com/2017/10/16/13/20171016013502_b24e5cea6bf1e4de5d7f68313fbe77cd.png"
         ],
         [
             "1500",
