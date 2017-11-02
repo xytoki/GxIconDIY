@@ -1,72 +1,17 @@
 {
-    "pkg": "com.gxicon.gxdiy",
-    "app": "迷恋",
-    "vname": "1.0.0.0",
-    "vcode": "736625029",
-    "author": "[@汪伦](copy:@汪伦)",
+    "pkg": "com.gxicon.www",
+    "app": "Diy",
+    "vname": "1.1",
+    "vcode": "123",
+    "author": "[与](copy:与)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
     "icons": [
         [
-            "1874",
-            "com.tencent.mtt",
-            "//gxicon.b0.upaiyun.com/2017/10/29/12/20171029121900_cae395e386b89c39b293d5839375c3a1.png"
-        ],
-        [
-            "1901",
-            "com.android.dialer",
-            "//gxicon.b0.upaiyun.com/2017/10/29/14/20171029020333_04f57f5d10ffd65f8cf9da7ff90b46d8.png"
-        ],
-        [
-            "1902",
-            "com.android.settings",
-            "//gxicon.b0.upaiyun.com/2017/10/29/14/20171029020333_0aa1e77aa6494fb46ae2e4c468e6e4f6.png"
-        ],
-        [
-            "1853",
-            "com.oneplus.deskclock",
-            "//gxicon.b0.upaiyun.com/2017/10/29/00/20171029120524_9bfc9afd48bf78154dc3482dc65d1cf4.png"
-        ],
-        [
-            "1848",
-            "com.android.contacts",
-            "//gxicon.b0.upaiyun.com/2017/10/29/00/20171029120524_a89a1548613153bdbdf5b3c46708b80c.png"
-        ],
-        [
-            "1723",
-            "com.android.contacts",
-            "//gxicon.b0.upaiyun.com/2017/10/25/11/20171025111908_8b76fc32dca6a6a292a167eff0e7edf3.png"
-        ],
-        [
-            "1736",
-            "org.cyanogenmod.snap",
-            "//gxicon.b0.upaiyun.com/2017/10/25/11/20171025113232_11b08fe7e64dfc7db9b073dbc6b07363.png"
-        ],
-        [
-            "1727",
-            "com.baidu.tieba",
-            "//gxicon.b0.upaiyun.com/2017/10/25/11/20171025111909_f57a76b9e0d550d42f53955f98fce49b.png"
-        ],
-        [
-            "1717",
-            "com.coolapk.market",
-            "//gxicon.b0.upaiyun.com/2017/10/25/11/20171025111909_ade1e465215807e9122aefce44f942a3.png"
-        ],
-        [
-            "1721",
-            "com.tencent.mobileqq",
-            "//gxicon.b0.upaiyun.com/2017/10/25/11/20171025111910_abba2a15c4988b18b8e41d5c7e9b6f32.png"
-        ],
-        [
-            "1720",
-            "com.eg.android.AlipayGphone",
-            "//gxicon.b0.upaiyun.com/2017/10/25/11/20171025111916_c477ea5d37171ae399c25ed080d5f926.png"
-        ],
-        [
-            "1667",
-            "com.huawei.android.FMRadio",
-            "//gxicon.b0.upaiyun.com/2017/10/22/15/20171022033454_d6786a6806519746c42c04c13b5d5dbb.png"
+            "1913",
+            "com.cmcc.jzfpb",
+            "//gxicon.b0.upaiyun.com/2017/11/02/12/20171102122041_5ebaad8f1f8826322cab59272743e50c.png"
         ]
     ]
 }
