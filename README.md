@@ -7,6 +7,16 @@
 
 基于[NanoIconPack](https://github.com/by-syk/NanoIconPack)构建
 
-打包地址：[GxIcon](http://gxicon.e123.pw)
+打包地址：[GxIcon](http://1tb.win)
 
 ## 请到release查看你的图标状态
+
+## 几个小工具
+都是nodejs编写，需要npm install安装依赖
+### autoMake.js
+根据_automake.json自动打包
+### autoInjector.js
+简易资源注入工具，用法：
+```
+node autoInjector.js com.coolapk.market（包名） 1.png（文件）
+```
