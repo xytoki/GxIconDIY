@@ -110,6 +110,9 @@ function getAppData(pname,cb){
 		cb(theApp);
 	});
 }
+function getImgFile(url,to,cb){
+	
+}
 /* Update version */
 log.info("VER",[config.pkg,config.vname,config.vcode]);
 var f=fs.readFileSync(build_gradle).toString();
@@ -144,7 +147,7 @@ var next=function(i,cb){
 	var pname=j[i][1].replace(/ /g,"");
 	log.info('');
 	if(config.ignore_appfilter==true){
-		var basefn=codeAppName(pname);
+		var basefn=codeAppName(j[i][0]+"_"+pname);
 		var fn=drawable_folder+"/"+basefn+".png";
 		wget({url: "http:"+j[i][2]+"!d192", dest: fn}, function(){
 			//Write drawable.xml 
