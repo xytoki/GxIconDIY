@@ -13,6 +13,7 @@ var folder="app";
 var fs = require('fs');
 var path=require("path");
 var log=require("npmlog");
+var crypto = require('crypto');
 var moment=require("moment");
 var wget = require('node-wget');
 var request = require('request');
@@ -24,6 +25,7 @@ var appfilter_xml=path.normalize(__dirname+"/"+folder+"/src/main/res/xml/appfilt
 var strings_xml=path.normalize(__dirname+"/"+folder+"/src/main/res/values-zh/strings.xml");
 var build_gradle=path.normalize(__dirname+"/"+folder+"/build.gradle");
 var config=JSON.parse(fs.readFileSync("_autoMake.json"));
+try{fs.mkdirSync("node_modules/fileCache")}catch(e){}
 try{
 	var iconcache=JSON.parse(fs.readFileSync("node_modules/_iconCache.json"));
 	log.info("CACHE","iconcache loaded");
@@ -110,8 +112,21 @@ function getAppData(pname,cb){
 		cb(theApp);
 	});
 }
+//图片文件缓存函数
 function getImgFile(url,to,cb){
-	
+	var hash=crypto.createHash('md5').update(url).digest('hex');
+	var tmpfn=__dirname+"/node_modules/fileCache/"+hash;
+	if(fs.existsSync(tmpfn)){
+		fs.writeFileSync(to,fs.readfileSync(tmpfn));
+		log.info("FCACHE","HIT",hash);
+		cb();
+	}else{
+		wget({url: url, dest: tmpfn}, function(){
+			fs.writeFileSync(to,fs.readfileSync(tmpfn));
+			log.info("FCACHE","MISS",tmpfn);
+			cb();
+		});
+	}
 }
 /* Update version */
 log.info("VER",[config.pkg,config.vname,config.vcode]);
@@ -149,7 +164,7 @@ var next=function(i,cb){
 	if(config.ignore_appfilter==true){
 		var basefn=codeAppName(j[i][0]+"_"+pname);
 		var fn=drawable_folder+"/"+basefn+".png";
-		wget({url: "http:"+j[i][2]+"!d192", dest: fn}, function(){
+		getImgFile("http:"+j[i][2]+"!d192",fn, function(){
 			//Write drawable.xml 
 			var dx=fs.readFileSync(drawable_xml).toString().split("<!--AutoInjector End-->");
 			fs.writeFileSync(drawable_xml,dx[0]+'	<item drawable="'+basefn+'" />\r\n	<!--AutoInjector End-->'+dx[1]);
