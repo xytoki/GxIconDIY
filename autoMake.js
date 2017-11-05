@@ -117,12 +117,12 @@ function getImgFile(url,to,cb){
 	var hash=crypto.createHash('md5').update(url).digest('hex');
 	var tmpfn=__dirname+"/node_modules/fileCache/"+hash;
 	if(fs.existsSync(tmpfn)){
-		fs.writeFileSync(to,fs.readfileSync(tmpfn));
+		fs.writeFileSync(to,fs.readFileSync(tmpfn));
 		log.info("FCACHE","HIT",hash);
 		cb();
 	}else{
 		wget({url: url, dest: tmpfn}, function(){
-			fs.writeFileSync(to,fs.readfileSync(tmpfn));
+			fs.writeFileSync(to,fs.readFileSync(tmpfn));
 			log.info("FCACHE","MISS",tmpfn);
 			cb();
 		});
