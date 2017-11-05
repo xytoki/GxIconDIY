@@ -154,7 +154,7 @@ var next=function(i,cb){
 			var dx=fs.readFileSync(iconpack_xml).toString().split("<!--AutoInjector End-->");
 			fs.writeFileSync(iconpack_xml,dx[0]+'	<item>'+basefn+'</item>\r\n	<!--AutoInjector End-->'+dx[1]);
 			//Done
-			log.info("SUC","NO APPFILTER",app);
+			log.info("SUC","NO APPFILTER",pname);
 			next(i+1,cb)
 		});
 	}else{
