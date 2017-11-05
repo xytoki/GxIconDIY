@@ -162,8 +162,9 @@ var next=function(i,cb){
 	var pname=j[i][1].replace(/ /g,"");
 	log.info('');
 	if(config.ignore_appfilter==true){
-		var basefn=codeAppName(j[i][0]+"_"+pname);
-		var fn=drawable_folder+"/"+basefn+".png";
+		var basefn=codeAppName(pname);
+		var fn=drawable_folder+"/"+j[i][0]+"_"+basefn+".png";
+		log.info("PKG",pname,basefn+" "+fn);
 		getImgFile("http:"+j[i][2]+"!d192",fn, function(){
 			//Write drawable.xml 
 			var dx=fs.readFileSync(drawable_xml).toString().split("<!--AutoInjector End-->");
