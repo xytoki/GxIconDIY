@@ -155,7 +155,7 @@ f=(f.split(p_color3[0])[0]+p_color3[0]+c3+p_color3[1]+f.split(p_color3[1])[1]);
 fs.writeFileSync(colors_xml,f);
 
 /* Update icons */
-fs.mkdir(drawable_folder,function(){})
+fs.mkdirSync(drawable_folder);
 var j=config.icons;
 var next=function(i,cb){ 
 	if(typeof(j[i])=="undefined")return cb();
