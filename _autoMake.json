@@ -1,8 +1,8 @@
 {
     "pkg": "com.gxicon.montage",
     "app": "Montage Beta",
-    "vname": "0.0.1",
-    "vcode": "17110600",
+    "vname": "0.0.2",
+    "vcode": "17110601",
     "author": "[flijo](copy:flijo)",
     "color_primary": "#2D8CF0",
     "color_primary_dark": "#1F6BBC",
@@ -47,6 +47,11 @@
             "1906",
             "com.android.sms",
             "//gxicon.b0.upaiyun.com/2017/11/01/22/20171101104847_652616226c0ebd2558917fdb84e9fc51.png"
+        ],
+        [
+            "1971",
+            "com.gxicon.montage",
+            "//gxicon.b0.upaiyun.com/2017/11/06/17/20171106051943_3167388a1f32618985d097c3bd24959b.png"
         ]
     ]
 }
