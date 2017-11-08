@@ -1,8 +1,8 @@
 {
     "pkg": "com.gxicon.YM",
     "app": "YM圆图标",
-    "vname": "1.0.1.7",
-    "vcode": "1711071240",
+    "vname": "1.0.1.8",
+    "vcode": "1711080952",
     "author": "[郁闷YM](copy:郁闷YM)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
@@ -619,11 +619,6 @@
             "//gxicon.b0.upaiyun.com/2017/10/28/23/20171028112226_677136616087d7fbb8d31707f1039bb7.png"
         ],
         [
-            "1524",
-            "com.cmcc.wallet",
-            "//gxicon.b0.upaiyun.com/2017/10/20/13/20171020014118_ceeb1a9a6deafa153ca6b64ba8794f02.png"
-        ],
-        [
             "1500",
             "com.ssplay.yijie.xipi",
             "//gxicon.b0.upaiyun.com/2017/10/16/13/20171016013618_feb7c8522126c68ea8b31b4f93969ceb.png"
@@ -687,6 +682,16 @@
             "1975",
             "com.zhongduomei.rrmj.society",
             "//gxicon.b0.upaiyun.com/2017/11/07/12/20171107123934_c7ba42d87cbf7ad1050696900821154a.png"
+        ],
+        [
+            "1977",
+            "com.youai.dreamonepiece.platform.pipaw",
+            "//gxicon.b0.upaiyun.com/2017/11/08/09/20171108095145_95e4a8608b09433ecb14c69a3dea1712.png"
+        ],
+        [
+            "1976",
+            "com.mxtech.videoplayer.pro",
+            "//gxicon.b0.upaiyun.com/2017/11/08/09/20171108095145_26d1b2292776a215c0d461a5b882e213.png"
         ]
     ]
 }
