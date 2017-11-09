@@ -1,10 +1,10 @@
 {
     "pkg": "com.gxicon.sailingair",
     "app": "航海Air图标包",
-    "vname": "0.5.0.4",
-    "vcode": "17110905",
+    "vname": "0.5.0.5",
+    "vcode": "17110908",
     "author": "[@STV全聚合](copy:@STV全聚合)",
-    "color_primary": "#4EC615",
+    "color_primary": "#4CBB17",
     "color_primary_dark": "#14A755",
     "color_accent": "#2A736F",
     "icons": [
@@ -209,39 +209,9 @@
             "//gxicon.b0.upaiyun.com/2017/10/29/12/20171029121859_2f735e301fcde1a3ffc75e2f827e542e.png"
         ],
         [
-            "1778",
-            "com.mlog.weather",
-            "//gxicon.b0.upaiyun.com/2017/10/27/21/20171027094006_221d41699640b0bf485b3a4235d9957d.png"
-        ],
-        [
-            "1779",
-            "com.metek.zqWeather",
-            "//gxicon.b0.upaiyun.com/2017/10/27/21/20171027094006_3260456bf87fe4b858399e11ff111875.png"
-        ],
-        [
-            "1780",
-            "mobi.infolife.ezweather",
-            "//gxicon.b0.upaiyun.com/2017/10/27/21/20171027094006_147488ff69aa1c7b66fa1e190106f340.png"
-        ],
-        [
             "1771",
             "sina.mobile.tianqitong",
             "//gxicon.b0.upaiyun.com/2017/10/27/21/20171027094006_b9692d6ce544501fd86f6583919da8af.png"
-        ],
-        [
-            "1772",
-            "wangdaye.com.geometricweather",
-            "//gxicon.b0.upaiyun.com/2017/10/27/21/20171027094006_7c4bd649e4d65cb5b7cba6aecd9c16c1.png"
-        ],
-        [
-            "1775",
-            "com.moji.mjweather",
-            "//gxicon.b0.upaiyun.com/2017/10/27/21/20171027094006_e35dc3b229d06a126f155be929691334.png"
-        ],
-        [
-            "1776",
-            "hanjie.app.pureweather",
-            "//gxicon.b0.upaiyun.com/2017/10/27/21/20171027094006_709286142d8011f0e87340ed603111b7.png"
         ],
         [
             "1707",
@@ -597,6 +567,11 @@
             "1999",
             "com.baidu.netdisk",
             "//gxicon.b0.upaiyun.com/2017/11/09/19/20171109070644_b0de170e7f5cc21414d0ec8fba4a6dab.png"
+        ],
+        [
+            "1983",
+            "com.google.android.play.games",
+            "//gxicon.b0.upaiyun.com/2017/11/08/19/20171108073424_16e2dc44e0394007f6e86d214daff190.png"
         ]
     ]
 }
