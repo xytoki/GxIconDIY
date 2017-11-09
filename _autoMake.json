@@ -1,8 +1,8 @@
 {
     "pkg": "com.gxicon.sailingair",
     "app": "航海Air图标包",
-    "vname": "0.5.0.3",
-    "vcode": "17110904",
+    "vname": "0.5.0.4",
+    "vcode": "17110905",
     "author": "[@STV全聚合](copy:@STV全聚合)",
     "color_primary": "#4EC615",
     "color_primary_dark": "#14A755",
@@ -234,16 +234,6 @@
             "//gxicon.b0.upaiyun.com/2017/10/27/21/20171027094006_7c4bd649e4d65cb5b7cba6aecd9c16c1.png"
         ],
         [
-            "1773",
-            "com.qihoo.mm.weather",
-            "//gxicon.b0.upaiyun.com/2017/10/27/21/20171027094006_4ab0bbdd82efcb6bdc789915b0057ecd.png"
-        ],
-        [
-            "1774",
-            "com.cmcm.weather",
-            "//gxicon.b0.upaiyun.com/2017/10/27/21/20171027094006_dada9ba38e5043ea0630fbdda821d863.png"
-        ],
-        [
             "1775",
             "com.moji.mjweather",
             "//gxicon.b0.upaiyun.com/2017/10/27/21/20171027094006_e35dc3b229d06a126f155be929691334.png"
@@ -392,11 +382,6 @@
             "1671",
             "com.android.phone",
             "//gxicon.b0.upaiyun.com/2017/10/22/19/20171022073255_ee5daf630d897609ab703389a393fdcf.png"
-        ],
-        [
-            "1672",
-            "com.huawei.android.totemweather",
-            "//gxicon.b0.upaiyun.com/2017/10/22/19/20171022073324_a9055ac1158f3a105eb0be9f151dbf1f.png"
         ],
         [
             "1673",
@@ -569,11 +554,6 @@
             "//gxicon.b0.upaiyun.com/2017/11/08/19/20171108074028_26daee3e66d14659712d50de476bb94b.png"
         ],
         [
-            "1983",
-            "com.google.android.play.games",
-            "//gxicon.b0.upaiyun.com/2017/11/08/19/20171108073424_16e2dc44e0394007f6e86d214daff190.png"
-        ],
-        [
             "1982",
             "com.google.android.gm",
             "//gxicon.b0.upaiyun.com/2017/11/08/19/20171108073424_d2ebbdec18278ddd7d481dcfd14e1903.png"
@@ -597,11 +577,6 @@
             "2000",
             "com.baidu.tieba",
             "//gxicon.b0.upaiyun.com/2017/11/09/19/20171109070707_6a57c24125f228789df4d6bb7e4c8f64.png"
-        ],
-        [
-            "2001",
-            "com.android.dialer",
-            "//gxicon.b0.upaiyun.com/2017/11/09/19/20171109070735_61d348d62bd48bd33c384ddf33042ee0.png"
         ],
         [
             "2002",
