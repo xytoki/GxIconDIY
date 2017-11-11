@@ -1,12 +1,12 @@
 {
     "pkg": "com.gxicon.he",
     "app": "MIX图标宝",
-    "vname": "0.9.0.0",
-    "vcode": "17111120",
-    "author": "[@TBB全聚合](copy:@TBB全聚合)",
-    "color_primary": "#E74E33",
-    "color_primary_dark": "#E52648",
-    "color_accent": "#D7A21E",
+    "vname": "1.0.0.0",
+    "vcode": "17111200",
+    "author": "[@安酷全聚合](copy:@安酷全聚合)",
+    "color_primary": "#23C881",
+    "color_primary_dark": "#37995B",
+    "color_accent": "#7E7C75",
     "icons": [
         [
             "1897",
@@ -37,11 +37,6 @@
             "1892",
             "com.microsoft.xboxone.smartglass.beta",
             "//gxicon.b0.upaiyun.com/2017/10/29/12/20171029121902_3a3b926e99ed34f9d268b4c57c0f8527.png"
-        ],
-        [
-            "1893",
-            "fm.xiami.main",
-            "//gxicon.b0.upaiyun.com/2017/10/29/12/20171029121902_5575ab152d000443d0befea6e250f03c.png"
         ],
         [
             "1894",
@@ -87,11 +82,6 @@
             "1888",
             "com.wenba.bangbang",
             "//gxicon.b0.upaiyun.com/2017/10/29/12/20171029121902_08e4f0dc47fb76fed9478765a0726901.png"
-        ],
-        [
-            "1875",
-            "com.tencent.qqmusic",
-            "//gxicon.b0.upaiyun.com/2017/10/29/12/20171029121900_2cd14ac8e275c10d88af1606ec18f42c.png"
         ],
         [
             "1874",
@@ -1027,6 +1017,41 @@
             "2107",
             "com.baidu.iknow",
             "//gxicon.b0.upaiyun.com/2017/11/11/18/20171111062053_530c7edf75e0ab8553f1c017b0771a44.png"
+        ],
+        [
+            "2113",
+            "com.baidu.baike",
+            "//gxicon.b0.upaiyun.com/2017/11/11/19/20171111071423_ff9eacde4663559bbc0d9116ef423c73.png"
+        ],
+        [
+            "2114",
+            "com.meile.mobile.scene",
+            "//gxicon.b0.upaiyun.com/2017/11/11/19/20171111071424_d1afaf21a8ad9b6e0cc86a4efd850cc5.png"
+        ],
+        [
+            "2115",
+            "com.ustwo.pause",
+            "//gxicon.b0.upaiyun.com/2017/11/11/19/20171111071423_684a38683ec37d8053a5233bfa035f0c.png"
+        ],
+        [
+            "2116",
+            "sogou.mobile.explorer",
+            "//gxicon.b0.upaiyun.com/2017/11/11/19/20171111071423_608abd2b27a116df5703fa229cd3920c.png"
+        ],
+        [
+            "2117",
+            "com.xunlei.kankan",
+            "//gxicon.b0.upaiyun.com/2017/11/11/19/20171111071423_d7cf2bc6e7097ff771f2d03d7368d0f0.png"
+        ],
+        [
+            "2118",
+            "com.antutu.abenchmark",
+            "//gxicon.b0.upaiyun.com/2017/11/11/19/20171111071423_ae972496decadacf523adacf35bc2787.png"
+        ],
+        [
+            "2119",
+            "cc.forestapp",
+            "//gxicon.b0.upaiyun.com/2017/11/11/19/20171111071423_18571efaa70ae30e6238edf6f200008c.png"
         ]
     ]
 }
