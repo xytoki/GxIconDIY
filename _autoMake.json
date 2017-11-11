@@ -1,9 +1,9 @@
 {
     "pkg": "com.gxicon.he",
-    "app": "MIX图标宝",
-    "vname": "1.0.0.1",
-    "vcode": "17111201",
-    "author": "[@安酷全聚合](copy:@安酷全聚合)",
+    "app": "MIXICON",
+    "vname": "1.0.0.2",
+    "vcode": "17111202",
+    "author": "[@AKQJH](copy:@AKQJH)",
     "color_primary": "#23C881",
     "color_primary_dark": "#37995B",
     "color_accent": "#7E7C75",
@@ -207,11 +207,6 @@
             "1698",
             "com.taobao.taobao",
             "//gxicon.b0.upaiyun.com/2017/10/22/19/20171022075952_be8d6129d2a2964452fc0faa3695b5fd.png"
-        ],
-        [
-            "1699",
-            "com.tencent.mm",
-            "//gxicon.b0.upaiyun.com/2017/10/22/19/20171022075952_03a81faf8aecdcebd4431f57aed4b7cf.png"
         ],
         [
             "1700",
@@ -784,11 +779,6 @@
             "//gxicon.b0.upaiyun.com/2017/11/11/15/20171111030854_61fc89e63438d3c4e0ae7903d0075ee8.png"
         ],
         [
-            "2067",
-            "com.wenba.bangbang",
-            "//gxicon.b0.upaiyun.com/2017/11/11/15/20171111030854_cb403ec348d93e66e7e351f33f624af5.png"
-        ],
-        [
             "2066",
             "mark.via",
             "//gxicon.b0.upaiyun.com/2017/11/11/15/20171111030854_5fdd6f4e69791b272804c118846f146e.png"
@@ -1147,6 +1137,36 @@
             "2124",
             "com.douban.group",
             "//gxicon.b0.upaiyun.com/2017/11/11/19/20171111073823_1f714c8869105a4f463c5cd8029683fa.png"
+        ],
+        [
+            "2145",
+            "com.ximalaya.ting.android",
+            "//gxicon.b0.upaiyun.com/2017/11/11/19/20171111075857_fdb0b9ec0154cc07e862bec4d88e2e51.png"
+        ],
+        [
+            "2140",
+            "me.ele",
+            "//gxicon.b0.upaiyun.com/2017/11/11/19/20171111075857_a8a09818dc7f7db280c8f597e242e79c.png"
+        ],
+        [
+            "2141",
+            "com.ushaqi.zhuishushenqi",
+            "//gxicon.b0.upaiyun.com/2017/11/11/19/20171111075857_d6a0587d20ad2561d71fbf664147a80f.png"
+        ],
+        [
+            "2142",
+            "com.tencent.mm",
+            "//gxicon.b0.upaiyun.com/2017/11/11/19/20171111075857_70e000dbe187f1492b3f9b451627096c.png"
+        ],
+        [
+            "2143",
+            "com.ruguoapp.jike",
+            "//gxicon.b0.upaiyun.com/2017/11/11/19/20171111075857_9a97b1da0e4c6fc20aedb36e05ae4f21.png"
+        ],
+        [
+            "2144",
+            "nutstore.android",
+            "//gxicon.b0.upaiyun.com/2017/11/11/19/20171111075857_f6cebd564d1120b51bbded0a54c25946.png"
         ]
     ]
 }
