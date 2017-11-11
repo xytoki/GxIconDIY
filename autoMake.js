@@ -163,7 +163,7 @@ var next=function(i,cb){
 	log.info('');
 	if(config.ignore_appfilter==true){
 		var basefn=codeAppName(pname);
-		var fn=drawable_folder+"/"+j[i][0]+"_"+basefn+".png";
+		var fn=drawable_folder+"/"+basefn+"_"+j[i][0]+".png";
 		log.info("PKG",pname,basefn+" "+fn);
 		getImgFile("http:"+j[i][2]+"!d192",fn, function(){
 			//Write drawable.xml 
