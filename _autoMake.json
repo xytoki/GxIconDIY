@@ -1,8 +1,8 @@
 {
     "pkg": "com.gxicon.he",
     "app": "∑·图标包",
-    "vname": "0.6.3.2",
-    "vcode": "17111112",
+    "vname": "0.6.3.5",
+    "vcode": "17111113",
     "author": "[@TBB全聚合](copy:@TBB全聚合)",
     "color_primary": "#E74E33",
     "color_primary_dark": "#E52648",
@@ -409,11 +409,6 @@
             "//gxicon.b0.upaiyun.com/2017/10/22/15/20171022033644_550718d732a78681a7f1cf76cc78fdd7.png"
         ],
         [
-            "1660",
-            "com.android.gallery3d",
-            "//gxicon.b0.upaiyun.com/2017/10/22/13/20171022014930_e16a7861cd320a47a1a1ceb9cbe21597.png"
-        ],
-        [
             "1661",
             "com.android.soundrecorder",
             "//gxicon.b0.upaiyun.com/2017/10/22/13/20171022014929_32b5f9d03a9af1ff7ee4db023a8a2042.png"
@@ -659,11 +654,6 @@
             "//gxicon.b0.upaiyun.com/2017/11/11/11/20171111115426_dcf32ec16de15cdd892ef5d7d8cfcde2.png"
         ],
         [
-            "2029",
-            "com.oneplus.gallery",
-            "//gxicon.b0.upaiyun.com/2017/11/11/11/20171111115426_87ddb340164eb721fe0f73de2b7be597.png"
-        ],
-        [
             "2030",
             "com.google.android.GoogleCamera",
             "//gxicon.b0.upaiyun.com/2017/11/11/11/20171111115426_55871bd6136fe72480ad36c03fe50700.png"
@@ -722,6 +712,36 @@
             "2041",
             "de.robv.android.xposed.insaller",
             "//gxicon.b0.upaiyun.com/2017/11/11/11/20171111115427_37eb5824ac951328e2e1f241c2aade36.png"
+        ],
+        [
+            "1660",
+            "com.android.gallery3d",
+            "//gxicon.b0.upaiyun.com/2017/10/22/13/20171022014930_e16a7861cd320a47a1a1ceb9cbe21597.png"
+        ],
+        [
+            "2042",
+            "com.beastbike.bluegogo",
+            "//gxicon.b0.upaiyun.com/2017/11/11/12/20171111121234_81464d0530a1a63d94bfaacd8a87fb9b.png"
+        ],
+        [
+            "2043",
+            "com.psyone.brainmusic",
+            "//gxicon.b0.upaiyun.com/2017/11/11/12/20171111121234_ce7610043897896ab62f336027ede9f0.png"
+        ],
+        [
+            "2044",
+            "me.yourbay.airfrozen",
+            "//gxicon.b0.upaiyun.com/2017/11/11/12/20171111121234_195734b4df408e1863c64b86df98cfd0.png"
+        ],
+        [
+            "2045",
+            "com.duowan.bi",
+            "//gxicon.b0.upaiyun.com/2017/11/11/12/20171111121234_5334192a0f3ce11e6e3a6078763d9fb2.png"
+        ],
+        [
+            "2046",
+            "com.baidu.input",
+            "//gxicon.b0.upaiyun.com/2017/11/11/12/20171111121259_aa1b9c3e2e69f42b5af4d743fdfdf226.png"
         ]
     ]
 }
