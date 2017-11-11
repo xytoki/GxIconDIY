@@ -1,8 +1,8 @@
 {
     "pkg": "com.gxicon.he",
     "app": "MIXICON",
-    "vname": "1.0.0.2",
-    "vcode": "17111202",
+    "vname": "1.0.0.3",
+    "vcode": "17111203",
     "author": "[@AKQJH](copy:@AKQJH)",
     "color_primary": "#23C881",
     "color_primary_dark": "#37995B",
@@ -864,11 +864,6 @@
             "//gxicon.b0.upaiyun.com/2017/11/11/15/20171111030856_a3d0f5cbd907aaa76849ebb3a610eae9.png"
         ],
         [
-            "2056",
-            "com.netease.cloudmusic",
-            "//gxicon.b0.upaiyun.com/2017/11/11/15/20171111030853_89891a148025cc4eae0f1446b6d474e5.png"
-        ],
-        [
             "2087",
             "com.google.earth",
             "//gxicon.b0.upaiyun.com/2017/11/11/17/20171111055435_b9af9211b3f09de3d24fcf9405559c98.png"
@@ -1167,6 +1162,21 @@
             "2144",
             "nutstore.android",
             "//gxicon.b0.upaiyun.com/2017/11/11/19/20171111075857_f6cebd564d1120b51bbded0a54c25946.png"
+        ],
+        [
+            "2146",
+            "me.gfuil.bmap",
+            "//gxicon.b0.upaiyun.com/2017/11/11/20/20171111081914_af996cd696c390941ef421d59be82bbc.png"
+        ],
+        [
+            "2147",
+            "com.baidu.image",
+            "//gxicon.b0.upaiyun.com/2017/11/11/20/20171111081914_3ce90ae08bef7858a2e30f91543e92a7.png"
+        ],
+        [
+            "2148",
+            "com.microsoft.launcher",
+            "//gxicon.b0.upaiyun.com/2017/11/11/20/20171111081914_4cd9c327f6a7f2bcdae76d3bf182ae2c.png"
         ]
     ]
 }
