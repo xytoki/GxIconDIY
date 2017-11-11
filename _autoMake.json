@@ -1,8 +1,8 @@
 {
-    "pkg": "com.gxicon.sailingair",
-    "app": "合·图标包",
-    "vname": "0.6.1.1",
-    "vcode": "17111111",
+    "pkg": "com.gxicon.he",
+    "app": "∑·图标包",
+    "vname": "0.6.3.2",
+    "vcode": "17111112",
     "author": "[@TBB全聚合](copy:@TBB全聚合)",
     "color_primary": "#E74E33",
     "color_primary_dark": "#E52648",
@@ -444,11 +444,6 @@
             "//gxicon.b0.upaiyun.com/2017/10/22/13/20171022014929_62a492696cf4bbe2101b7d1358e4f848.png"
         ],
         [
-            "1656",
-            "com.huawei.camera",
-            "//gxicon.b0.upaiyun.com/2017/10/22/13/20171022014929_16f443504aaf28e416a1b956238b25e4.png"
-        ],
-        [
             "1657",
             "com.android.contacts",
             "//gxicon.b0.upaiyun.com/2017/10/22/13/20171022014929_6d88201351ad16221118e6caae6a19ff.png"
@@ -569,11 +564,6 @@
             "//gxicon.b0.upaiyun.com/2017/11/11/10/20171111105822_9fff75810d6d5da5afda027c13f1bfee.png"
         ],
         [
-            "2016",
-            "com.motorola.cameraone",
-            "//gxicon.b0.upaiyun.com/2017/11/11/11/20171111110636_e9326a94afd84e845a35b732a1f0ac20.png"
-        ],
-        [
             "2009",
             "com.adsafe",
             "//gxicon.b0.upaiyun.com/2017/11/11/10/20171111105056_f2ed19b5a50068ec9ee5f3e17bbebd77.png"
@@ -602,6 +592,136 @@
             "2014",
             "com.chrome.dev",
             "//gxicon.b0.upaiyun.com/2017/11/11/10/20171111105736_0c97594c348bc48edf6f735bb6573b47.png"
+        ],
+        [
+            "1656",
+            "com.huawei.camera",
+            "//gxicon.b0.upaiyun.com/2017/10/22/13/20171022014929_16f443504aaf28e416a1b956238b25e4.png"
+        ],
+        [
+            "2017",
+            "com.scliang.bqcalendar",
+            "//gxicon.b0.upaiyun.com/2017/11/11/11/20171111112700_920dbb8fcd273f2f0bcbfb40f12375f4.png"
+        ],
+        [
+            "2018",
+            "org.mozilla.firefox_beta",
+            "//gxicon.b0.upaiyun.com/2017/11/11/11/20171111115425_54d4b718da452180005faef1ce34c53f.png"
+        ],
+        [
+            "2019",
+            "org.mozilla.firefox",
+            "//gxicon.b0.upaiyun.com/2017/11/11/11/20171111115425_d2dd4282cce81489f9810396f8c04bc6.png"
+        ],
+        [
+            "2020",
+            "com.android.providers.downloads.ui",
+            "//gxicon.b0.upaiyun.com/2017/11/11/11/20171111115426_c3b124616c1e60b1b45e77c112622a35.png"
+        ],
+        [
+            "2021",
+            "com.valvesoftware.android.s.community",
+            "//gxicon.b0.upaiyun.com/2017/11/11/11/20171111115425_6b7b7c77cd4ed4b9f7545591d8a9766a.png"
+        ],
+        [
+            "2026",
+            "com.google.android.apps.adm",
+            "//gxicon.b0.upaiyun.com/2017/11/11/11/20171111115425_a793d474424225d8167123e22d5101c6.png"
+        ],
+        [
+            "2025",
+            "com.example.bwappdoor",
+            "//gxicon.b0.upaiyun.com/2017/11/11/11/20171111115425_984e569d09728b4128c0026a1b792ca6.png"
+        ],
+        [
+            "2024",
+            "com.shazam.android",
+            "//gxicon.b0.upaiyun.com/2017/11/11/11/20171111115426_6e5b21056ab993d64ce03e1cddcdf44d.png"
+        ],
+        [
+            "2023",
+            "com.cmcm.locker",
+            "//gxicon.b0.upaiyun.com/2017/11/11/11/20171111115425_3ce1509c11c0a7bd08b7402e6d893682.png"
+        ],
+        [
+            "2022",
+            "com.qihoo.permmgr",
+            "//gxicon.b0.upaiyun.com/2017/11/11/11/20171111115426_843871f51882cb93b8556428a260c2ef.png"
+        ],
+        [
+            "2027",
+            "com.tencent.tmgp.supercell.clashofclans",
+            "//gxicon.b0.upaiyun.com/2017/11/11/11/20171111115426_f8f8bdf87db74efb5c38bf999b9eb67d.png"
+        ],
+        [
+            "2028",
+            "com.hengye.share",
+            "//gxicon.b0.upaiyun.com/2017/11/11/11/20171111115426_dcf32ec16de15cdd892ef5d7d8cfcde2.png"
+        ],
+        [
+            "2029",
+            "com.oneplus.gallery",
+            "//gxicon.b0.upaiyun.com/2017/11/11/11/20171111115426_87ddb340164eb721fe0f73de2b7be597.png"
+        ],
+        [
+            "2030",
+            "com.google.android.GoogleCamera",
+            "//gxicon.b0.upaiyun.com/2017/11/11/11/20171111115426_55871bd6136fe72480ad36c03fe50700.png"
+        ],
+        [
+            "2031",
+            "rikka.appops",
+            "//gxicon.b0.upaiyun.com/2017/11/11/11/20171111115427_9c0e5eb1e35e280cbcd20d846c5ad9cc.png"
+        ],
+        [
+            "2036",
+            "com.estrongs.android.taskmanager",
+            "//gxicon.b0.upaiyun.com/2017/11/11/11/20171111115426_6c23f82335448491eff50477a0b7b5b7.png"
+        ],
+        [
+            "2035",
+            "com.didi.echo",
+            "//gxicon.b0.upaiyun.com/2017/11/11/11/20171111115426_c90ad39b73803efcfaec941aca99d79b.png"
+        ],
+        [
+            "2034",
+            "com.android.stk",
+            "//gxicon.b0.upaiyun.com/2017/11/11/11/20171111115426_f524da4a3646792d6940191d9ef03a32.png"
+        ],
+        [
+            "2033",
+            "com.ijinshan.browser",
+            "//gxicon.b0.upaiyun.com/2017/11/11/11/20171111115426_865c43416deb74c1169f58ab46176386.png"
+        ],
+        [
+            "2032",
+            "com.cleanmaster.security",
+            "//gxicon.b0.upaiyun.com/2017/11/11/11/20171111115427_836697d4b2fcfb246fb73131ee9d8f29.png"
+        ],
+        [
+            "2037",
+            "com.cleanmaster.mguard_cn",
+            "//gxicon.b0.upaiyun.com/2017/11/11/11/20171111115426_e71e83731bdbe24120ada158e1f0e7d2.png"
+        ],
+        [
+            "2038",
+            "com.estrongs.android.pop",
+            "//gxicon.b0.upaiyun.com/2017/11/11/11/20171111115426_b085da5080dcb14d56c9dcf043ca84ff.png"
+        ],
+        [
+            "2039",
+            "com.google.android.wearable.app",
+            "//gxicon.b0.upaiyun.com/2017/11/11/11/20171111115426_e717a307779958815ce608d34dcc5c64.png"
+        ],
+        [
+            "2040",
+            "com.kingrealer.expressquery",
+            "//gxicon.b0.upaiyun.com/2017/11/11/11/20171111115427_2333f505c94fc07f13febae38e08cb04.png"
+        ],
+        [
+            "2041",
+            "de.robv.android.xposed.insaller",
+            "//gxicon.b0.upaiyun.com/2017/11/11/11/20171111115427_37eb5824ac951328e2e1f241c2aade36.png"
         ]
     ]
 }
