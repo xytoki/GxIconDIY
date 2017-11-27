@@ -1,22 +1,22 @@
 {
-    "pkg": "com.gxicon.rainbow6icons.test",
-    "app": "R6图标包测试",
+    "pkg": "com.gxicon.r6icons.test",
+    "app": "R6ICONSTEST",
     "vname": "0.0.1",
     "vcode": "17112701",
-    "author": "[浅小念](copy:浅小念)",
-    "color_primary": "#140201",
-    "color_primary_dark": "#0B0101",
-    "color_accent": "#9A9595",
+    "author": "[SHINEQIANNIAN](copy:SHINEQIANNIAN)",
+    "color_primary": "#f44336",
+    "color_primary_dark": "#d80f00",
+    "color_accent": "#ff5252",
     "icons": [
-        [
-            "2165",
-            "com.android.settings",
-            "//gxicon.b0.upaiyun.com/2017/11/27/16/20171127044233_4ee2e87fd217fa46bce4b93025117937.png"
-        ],
         [
             "2164",
             "com.quark.browser",
             "//gxicon.b0.upaiyun.com/2017/11/27/16/20171127044035_fd8c3f5271421db7ac539f92ca794e99.png"
+        ],
+        [
+            "2165",
+            "com.android.settings",
+            "//gxicon.b0.upaiyun.com/2017/11/27/16/20171127044233_4ee2e87fd217fa46bce4b93025117937.png"
         ],
         [
             "2166",
