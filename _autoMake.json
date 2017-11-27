@@ -1,27 +1,22 @@
 {
-    "pkg": "com.gxicon.r6icons.test3",
-    "app": "R6ICONSTEST3",
-    "vname": "0.0.3",
-    "vcode": "17112703",
-    "author": "[SHINEQIANNIAN](copy:SHINEQIANNIAN)",
+    "pkg": "com.gxicon.r6icontest",
+    "app": "r6icontest",
+    "vname": "0.0.4",
+    "vcode": "17112704",
+    "author": "[qiannisn](copy:qiannisn)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
     "icons": [
-        [
-            "2164",
-            "com.quark.browser",
-            "//gxicon.b0.upaiyun.com/2017/11/27/16/20171127044035_fd8c3f5271421db7ac539f92ca794e99.png"
-        ],
         [
             "2165",
             "com.android.settings",
             "//gxicon.b0.upaiyun.com/2017/11/27/16/20171127044233_4ee2e87fd217fa46bce4b93025117937.png"
         ],
         [
-            "2166",
-            "com.tencent.mobileqq",
-            "//gxicon.b0.upaiyun.com/2017/11/27/16/20171127044451_92c4e9817ccabb463150348d26844cdc.png"
+            "2164",
+            "com.quark.browser",
+            "//gxicon.b0.upaiyun.com/2017/11/27/16/20171127044035_fd8c3f5271421db7ac539f92ca794e99.png"
         ],
         [
             "2167",
@@ -29,14 +24,59 @@
             "//gxicon.b0.upaiyun.com/2017/11/27/16/20171127044550_9597d89362ca6a40cb84737caec6aace.png"
         ],
         [
-            "2168",
-            "com.android.camera",
-            "//gxicon.b0.upaiyun.com/2017/11/27/16/20171127044715_f09014c21c3337cf9dc6505cda6d0a67.png"
+            "2166",
+            "com.tencent.mobileqq",
+            "//gxicon.b0.upaiyun.com/2017/11/27/16/20171127044451_92c4e9817ccabb463150348d26844cdc.png"
         ],
         [
             "2169",
             "com.imlk.BlackAndWhite",
             "//gxicon.b0.upaiyun.com/2017/11/27/16/20171127044916_f06ffae7d0e7f23f251fa3b1acae961f.png"
+        ],
+        [
+            "2168",
+            "com.android.camera",
+            "//gxicon.b0.upaiyun.com/2017/11/27/16/20171127044715_f09014c21c3337cf9dc6505cda6d0a67.png"
+        ],
+        [
+            "2171",
+            "com.android.contacts",
+            "//gxicon.b0.upaiyun.com/2017/11/27/17/20171127052501_aa55d5d841da4a491fa1375e5dac57d1.png"
+        ],
+        [
+            "2170",
+            "com.google.android.googlequicksearchbox",
+            "//gxicon.b0.upaiyun.com/2017/11/27/17/20171127052139_b66e8831a76d1908159a47bf042994bd.png"
+        ],
+        [
+            "2173",
+            "com.github.shadowsocks",
+            "//gxicon.b0.upaiyun.com/2017/11/27/17/20171127052722_2544b366db8591f832786f9f32eb6c89.png"
+        ],
+        [
+            "2172",
+            "com.android.vending",
+            "//gxicon.b0.upaiyun.com/2017/11/27/17/20171127052647_4f8a7c2a3ccd8b80fde5d38986ac03a6.png"
+        ],
+        [
+            "2175",
+            "tv.danmaku.bili",
+            "//gxicon.b0.upaiyun.com/2017/11/27/17/20171127053155_01c17d14fe1d433b14760e174a323106.png"
+        ],
+        [
+            "2174",
+            "com.coolapk.market",
+            "//gxicon.b0.upaiyun.com/2017/11/27/17/20171127053101_f44b029b9856bdd000fb2fc5eb6e194f.png"
+        ],
+        [
+            "2177",
+            "com.baidu.netdisk",
+            "//gxicon.b0.upaiyun.com/2017/11/27/17/20171127053655_2c066c16c5760d53843c303bdf0068cf.png"
+        ],
+        [
+            "2176",
+            "com.netease.cloudmusic",
+            "//gxicon.b0.upaiyun.com/2017/11/27/17/20171127053343_098f192191fa3fcbafa995a58ff50aa5.png"
         ]
     ]
 }
