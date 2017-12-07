@@ -1,32 +1,37 @@
 {
-    "pkg": "com.gxicon.pdiy",
-    "app": "厉害了",
-    "vname": "1.7.2.3",
-    "vcode": "1445",
-    "author": "[哈](copy:哈)",
+    "pkg": "com.gxicon.gxdiy",
+    "app": "宝宝保暖",
+    "vname": "1.0.6.0",
+    "vcode": "8698755",
+    "author": "[不不不](copy:不不不)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
     "icons": [
         [
-            "2174",
-            "com.coolapk.market",
-            "//gxicon.b0.upaiyun.com/2017/11/27/17/20171127053101_f44b029b9856bdd000fb2fc5eb6e194f.png"
+            "2188",
+            "com.mokee.aegis",
+            "//gxicon.b0.upaiyun.com/2017/12/01/16/20171201042258_79b3da909fe94050642d74dfe701544b.png"
         ],
         [
-            "2173",
-            "com.github.shadowsocks",
-            "//gxicon.b0.upaiyun.com/2017/11/27/17/20171127052722_2544b366db8591f832786f9f32eb6c89.png"
+            "2183",
+            "com.apkpure.aegon",
+            "//gxicon.b0.upaiyun.com/2017/12/01/16/20171201042029_16973abe10cfe22084d943f9ef7bfc31.png"
         ],
         [
-            "2175",
-            "tv.danmaku.bili",
-            "//gxicon.b0.upaiyun.com/2017/11/27/17/20171127053155_01c17d14fe1d433b14760e174a323106.png"
+            "2184",
+            "com.richinfo.thinkmail",
+            "//gxicon.b0.upaiyun.com/2017/12/01/16/20171201042029_50de3f376a703ab243a2c8ddc42c4271.png"
         ],
         [
-            "2176",
-            "com.netease.cloudmusic",
-            "//gxicon.b0.upaiyun.com/2017/11/27/17/20171127053343_098f192191fa3fcbafa995a58ff50aa5.png"
+            "2179",
+            "com.baidu.netdisk",
+            "//gxicon.b0.upaiyun.com/2017/11/28/23/20171128113611_05c44945fe07cacd2f3881135c27ff63.png"
+        ],
+        [
+            "2163",
+            "com.flijo_sftmi.itf.iconpack",
+            "//gxicon.b0.upaiyun.com/2017/11/23/12/20171123123621_5d90ae344f2d569deb85718505dbebff.png"
         ]
     ]
 }
