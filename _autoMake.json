@@ -1,8 +1,8 @@
 {
     "pkg": "com.gxicon.Sourire",
     "app": "蓝翔学渣",
-    "vname": "1.0.1.0",
-    "vcode": "17121502",
+    "vname": "1.0.1.1",
+    "vcode": "17121503",
     "author": "[蓝翔学渣](copy:蓝翔学渣)",
     "color_primary": "#000000",
     "color_primary_dark": "#111111",
@@ -1009,11 +1009,6 @@
             "//gxicon.b0.upaiyun.com/2017/12/15/16/20171215040102_e18ee94064a8351b57d178c9178d235b.png"
         ],
         [
-            "3156",
-            "com.samsung.android.contacts",
-            "//gxicon.b0.upaiyun.com/2017/12/15/16/20171215040103_3bdb86a70e3d71348eb3995b671ebc75.png"
-        ],
-        [
             "3157",
             "com.samsung.android.email.provider",
             "//gxicon.b0.upaiyun.com/2017/12/15/16/20171215040102_5f4c5c0f37b66dfc086c860b12968caf.png"
@@ -1167,6 +1162,56 @@
             "3187",
             "om.sec.android.app.myfiles",
             "//gxicon.b0.upaiyun.com/2017/12/15/16/20171215040101_d17715dc6ad0eac6559fab6f27c79f8f.png"
+        ],
+        [
+            "3188",
+            "com.android.vending",
+            "//gxicon.b0.upaiyun.com/2017/12/15/16/20171215044719_cf433c721b937aa9d07f36be64268e69.png"
+        ],
+        [
+            "3189",
+            "com.brit.swift.minimal",
+            "//gxicon.b0.upaiyun.com/2017/12/15/16/20171215044720_8ec2ff2d3237061c2f2373386fbc6658.png"
+        ],
+        [
+            "3190",
+            "com.gamersky",
+            "//gxicon.b0.upaiyun.com/2017/12/15/16/20171215044718_0959de0c42f478d6f9cc10a781b960fd.png"
+        ],
+        [
+            "3191",
+            "com.google.android.youtube",
+            "//gxicon.b0.upaiyun.com/2017/12/15/16/20171215044718_ad16790f8d11d03dea2c4dc83611c134.png"
+        ],
+        [
+            "3196",
+            "projekt.substratum",
+            "//gxicon.b0.upaiyun.com/2017/12/15/16/20171215044721_c91ba4c250363b7dcfa1ee683db1fe23.png"
+        ],
+        [
+            "3197",
+            "om.teslacoilsw.launcher",
+            "//gxicon.b0.upaiyun.com/2017/12/15/16/20171215044858_27e8c95ea1ce39a63d863a38de923193.png"
+        ],
+        [
+            "3192",
+            "com.microsoft.launcher",
+            "//gxicon.b0.upaiyun.com/2017/12/15/16/20171215044720_b19e0a3e38e80a8c8c1b38005b7ea4e9.png"
+        ],
+        [
+            "3193",
+            "com.niksoftware.snapseed",
+            "//gxicon.b0.upaiyun.com/2017/12/15/16/20171215044721_b7d28a1b5fd804beb82892b2cb139963.png"
+        ],
+        [
+            "3194",
+            "com.One.WoodenLetter",
+            "//gxicon.b0.upaiyun.com/2017/12/15/16/20171215044721_19b56344cf6f04142d910bb38d42c8a7.png"
+        ],
+        [
+            "3195",
+            "com.tencent.mm",
+            "//gxicon.b0.upaiyun.com/2017/12/15/16/20171215044721_a266e22b49d4d31868c172635967454e.png"
         ]
     ]
 }
