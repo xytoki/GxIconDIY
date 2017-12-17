@@ -1,102 +1,22 @@
 {
-    "pkg": "com.gxicon.Jay",
-    "app": "冷秋图标包",
-    "vname": "1.0",
-    "vcode": "171217",
-    "author": "[冷秋](copy:冷秋)",
-    "color_primary": "#f44336",
-    "color_primary_dark": "#d80f00",
-    "color_accent": "#ff5252",
+    "pkg": "com.gxicon.xetch",
+    "app": "缺失图标包",
+    "vname": "2.16",
+    "vcode": "250",
+    "author": "[XE TCH](copy:XE TCH)",
+    "color_primary": "#36F465",
+    "color_primary_dark": "#42E44B",
+    "color_accent": "#2DF042",
     "icons": [
         [
-            "3195",
-            "com.tencent.mm",
-            "//gxicon.b0.upaiyun.com/2017/12/15/16/20171215044721_a266e22b49d4d31868c172635967454e.png"
+            "2004",
+            "com.bilibili.app.blue",
+            "//gxicon.b0.upaiyun.com/2017/11/10/00/20171110123041_258db81d2288d05810f80f086488886d.png"
         ],
         [
-            "3107",
-            "com.tencent.mobileqq",
-            "//gxicon.b0.upaiyun.com/2017/12/15/13/20171215011238_5be1e73b3e31fb43d3bdbe4fd075ccd5.png"
-        ],
-        [
-            "3121",
-            "com.UCMobile",
-            "//gxicon.b0.upaiyun.com/2017/12/15/13/20171215011248_30ca73166959391a46f3fb6f4ef1b715.png"
-        ],
-        [
-            "3142",
-            "so.ofo.labofo",
-            "//gxicon.b0.upaiyun.com/2017/12/15/13/20171215011235_867bb7423e8123773f2dd792b5c9cc5a.png"
-        ],
-        [
-            "3139",
-            "mark.via",
-            "//gxicon.b0.upaiyun.com/2017/12/15/13/20171215011235_46bf8130ec9d1d8f8481335c2146aedc.png"
-        ],
-        [
-            "3140",
-            "me.ele",
-            "//gxicon.b0.upaiyun.com/2017/12/15/13/20171215011247_028d2b032ed4b9324d197fe484ffeac9.png"
-        ],
-        [
-            "3058",
-            "com.mobike.mobikeapp",
-            "//gxicon.b0.upaiyun.com/2017/12/15/13/20171215011235_35eed1069edb2fd2d573e860bd6fb722.png"
-        ],
-        [
-            "3059",
-            "com.MobileTicket",
-            "//gxicon.b0.upaiyun.com/2017/12/15/13/20171215011232_b8a1c3506a5b64400846aa37c6999085.png"
-        ],
-        [
-            "3089",
-            "com.snda.wifilocating",
-            "//gxicon.b0.upaiyun.com/2017/12/15/13/20171215011250_211b7f751bc9bb13601bb653ae1959ce.png"
-        ],
-        [
-            "3034",
-            "com.eg.android.AlipayGphone",
-            "//gxicon.b0.upaiyun.com/2017/12/15/13/20171215011242_99fa3bd27f2acc227ebf6f9246626fa9.png"
-        ],
-        [
-            "3040",
-            "com.iflytek.inputmethod",
-            "//gxicon.b0.upaiyun.com/2017/12/15/13/20171215011249_1ea941103dfd820d9f3ced31ed261151.png"
-        ],
-        [
-            "3025",
-            "com.coolapk.market",
-            "//gxicon.b0.upaiyun.com/2017/12/15/13/20171215011222_2b1464fda190e07c5e41afb2d76f422d.png"
-        ],
-        [
-            "3012",
-            "com.autonavi.minimap",
-            "//gxicon.b0.upaiyun.com/2017/12/15/13/20171215011221_60fbff62b67462f0ae5935a483405ce4.png"
-        ],
-        [
-            "3008",
-            "com.alibaba.android.rimet",
-            "//gxicon.b0.upaiyun.com/2017/12/15/13/20171215011218_11fa087644ce6e74806e91956d195d5f.png"
-        ],
-        [
-            "3011",
-            "com.antfortune.wealth",
-            "//gxicon.b0.upaiyun.com/2017/12/15/13/20171215011221_37e7476420fc25e8c09dfab41e1bb232.png"
-        ],
-        [
-            "3010",
-            "com.android.chrome",
-            "//gxicon.b0.upaiyun.com/2017/12/15/13/20171215011221_8bb44de15bb13b750fd9cdd544cbb5f9.png"
-        ],
-        [
-            "2965",
-            "com.speedsoftware.rootexplorer",
-            "//gxicon.b0.upaiyun.com/2017/12/12/19/20171212070631_364e826222ec1a644dadb79153029e09.png"
-        ],
-        [
-            "2986",
-            "com.quark.browser",
-            "//gxicon.b0.upaiyun.com/2017/12/15/13/20171215010721_d7717e5c4971445556393945d03d3399.png"
+            "2432",
+            "com.taobao.idlefish",
+            "//gxicon.b0.upaiyun.com/2017/12/08/20/20171208082857_5acf4c0e80c8cb3beb9ce1481bd35010.png"
         ]
     ]
 }
