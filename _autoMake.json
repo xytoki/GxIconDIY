@@ -1,8 +1,8 @@
 {
     "pkg": "com.gxicon.xetch",
     "app": "缺失图标包",
-    "vname": "2.17",
-    "vcode": "258",
+    "vname": "2.18",
+    "vcode": "259",
     "author": "[XE TCH](copy:XE TCH)",
     "color_primary": "#36F465",
     "color_primary_dark": "#42E44B",
@@ -27,11 +27,6 @@
             "3101",
             "com.taobao.idlefish",
             "//gxicon.b0.upaiyun.com/2017/12/15/13/20171215011231_4e9903859430b9f3074c56c5119ee41c.png"
-        ],
-        [
-            "2432",
-            "com.taobao.idlefish",
-            "//gxicon.b0.upaiyun.com/2017/12/08/20/20171208082857_5acf4c0e80c8cb3beb9ce1481bd35010.png"
         ]
     ]
 }
