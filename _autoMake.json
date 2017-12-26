@@ -2,21 +2,16 @@
     "pkg": "com.gxicon.hibiki",
     "app": "zui",
     "vname": "1.1",
-    "vcode": "111",
+    "vcode": "112",
     "author": "[hibiki](copy:hibiki)",
-    "color_primary": "#f44336",
+    "color_primary": "#2E9FD7",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
     "icons": [
         [
-            "3214",
-            "com.baidu.netdisk",
-            "//gxicon.b0.upaiyun.com/2017/12/26/16/20171226042918_80ad681e396895c3efb2d75544e10a3d.png"
-        ],
-        [
-            "3213",
-            "com.android.chrome",
-            "//gxicon.b0.upaiyun.com/2017/12/26/16/20171226042855_3b08654f1002d2ae63766d791c9d425d.png"
+            "3211",
+            "tv.acfundanmaku.video",
+            "//gxicon.b0.upaiyun.com/2017/12/26/16/20171226042802_55cf276b18ca225e4489f756164b6561.png"
         ],
         [
             "3212",
@@ -24,9 +19,79 @@
             "//gxicon.b0.upaiyun.com/2017/12/26/16/20171226042836_7701a952e3827a2be0c6fc9a9abdd167.png"
         ],
         [
-            "3211",
-            "tv.acfundanmaku.video",
-            "//gxicon.b0.upaiyun.com/2017/12/26/16/20171226042802_55cf276b18ca225e4489f756164b6561.png"
+            "3213",
+            "com.android.chrome",
+            "//gxicon.b0.upaiyun.com/2017/12/26/16/20171226042855_3b08654f1002d2ae63766d791c9d425d.png"
+        ],
+        [
+            "3214",
+            "com.baidu.netdisk",
+            "//gxicon.b0.upaiyun.com/2017/12/26/16/20171226042918_80ad681e396895c3efb2d75544e10a3d.png"
+        ],
+        [
+            "3215",
+            "com.htc.camera2",
+            "//gxicon.b0.upaiyun.com/2017/12/26/17/20171226054436_a6fc175b5830d643a717b2cccbf7a08e.png"
+        ],
+        [
+            "3216",
+            "com.android.phone",
+            "//gxicon.b0.upaiyun.com/2017/12/26/18/20171226061341_721b8116d48fd7d9e0b5d65a742a2a53.png"
+        ],
+        [
+            "3217",
+            "video.player.videoplayer",
+            "//gxicon.b0.upaiyun.com/2017/12/26/18/20171226061400_c25fca274a7f7200d05987b7decd6faa.png"
+        ],
+        [
+            "3218",
+            "com.google.android.contacts",
+            "//gxicon.b0.upaiyun.com/2017/12/26/18/20171226061610_80427706a994a9c4d5f1efb7810f15a2.png"
+        ],
+        [
+            "3219",
+            "com.google.android.deskclock",
+            "//gxicon.b0.upaiyun.com/2017/12/26/18/20171226061724_2b2887a21b8fa51f96d48f0b1e7abac3.png"
+        ],
+        [
+            "3220",
+            "com.google.android.apps.wallpaper",
+            "//gxicon.b0.upaiyun.com/2017/12/26/18/20171226061851_82fca7a872186ff91bc0973f87ac2e27.png"
+        ],
+        [
+            "3221",
+            "com.google.android.calendar",
+            "//gxicon.b0.upaiyun.com/2017/12/26/18/20171226062018_70b85b3fbc7c8d0a2a2e3a8db42aeef7.png"
+        ],
+        [
+            "3222",
+            "com.google.android.dialer",
+            "//gxicon.b0.upaiyun.com/2017/12/26/18/20171226062054_721b8116d48fd7d9e0b5d65a742a2a53.png"
+        ],
+        [
+            "3223",
+            "com.htc.soundrecorder",
+            "//gxicon.b0.upaiyun.com/2017/12/26/18/20171226062201_4c3345ee079f762dd8db65a0058f1939.png"
+        ],
+        [
+            "3224",
+            "com.google.android.apps.docs",
+            "//gxicon.b0.upaiyun.com/2017/12/26/18/20171226062254_185ac41798eca8fac6ef3e108a1e1201.png"
+        ],
+        [
+            "3225",
+            "com.google.android.apps.messaging",
+            "//gxicon.b0.upaiyun.com/2017/12/26/18/20171226062432_13e61eab7291a62dfc293fc839a65cf7.png"
+        ],
+        [
+            "3225",
+            "com.google.android.apps.messaging",
+            "//gxicon.b0.upaiyun.com/2017/12/26/18/20171226062432_13e61eab7291a62dfc293fc839a65cf7.png"
+        ],
+        [
+            "3226",
+            "com.google.android.apps.photos",
+            "//gxicon.b0.upaiyun.com/2017/12/26/18/20171226062544_3a9646de9c383cb5e74f338a6dffd297.png"
         ]
     ]
 }
