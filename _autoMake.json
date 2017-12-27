@@ -1,11 +1,11 @@
 {
     "pkg": "com.gxicon.hibiki",
     "app": "Zui",
-    "vname": "1.0",
+    "vname": "1.4",
     "vcode": "1",
     "author": "[hibiki](copy:hibiki)",
-    "color_primary": "#f44336",
-    "color_primary_dark": "#d80f00",
+    "color_primary": "#2D8CF0",
+    "color_primary_dark": "#D80F00",
     "color_accent": "#ff5252",
     "icons": [
         [
