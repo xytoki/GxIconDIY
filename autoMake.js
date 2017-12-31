@@ -178,6 +178,10 @@ var next=function(i,cb){
 		});
 	}else{
 		getAppData(pname,function(app){
+			if(typeof(j[i][3].drawable)!="undefined"){
+				app.drawable=codeAppName(j[i][3].drawable);
+				app.code="<!-DIY APPFILTER-->"+j[i][3].appfilter;
+			}
 			var basefn=app.drawable;
 			var fn=drawable_folder+"/"+basefn+".png";
 			wget({url: "http:"+j[i][2]+"!d192", dest: fn}, function(){
