@@ -178,6 +178,7 @@ var next=function(i,cb){
 		});
 	}else{
 		getAppData(pname,function(app){
+			j[i][3]=j[i][3]||{};
 			if(typeof(j[i][3].drawable)!="undefined"){
 				app.drawable=codeAppName(j[i][3].drawable);
 				app.code="<!-DIY APPFILTER-->"+j[i][3].appfilter;
