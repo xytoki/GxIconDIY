@@ -1,42 +1,92 @@
 {
-    "pkg": "com.gxicon.Kaidi990409",
-    "app": "自制图表包",
+    "pkg": "com.gxicon.myl",
+    "app": "靓晒补全计划",
     "vname": "1.0.0.0",
-    "vcode": "180103",
-    "author": "[Kaidi990409](copy:Kaidi990409)",
+    "vcode": "52513",
+    "author": "[@myl](copy:@myl)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
     "icons": [
         [
-            "3249",
-            "com.kunpo.loner",
-            "//gxicon.b0.upaiyun.com/2018/01/03/12/20180103125353_047fa57880cfacb920de8a00e3782e29.png"
+            "3256",
+            "com.mybank.android.phone",
+            "//gxicon.b0.upaiyun.com/2018/01/03/13/20180103012216_6db4ce997a823a27f30bf25ecc7629c7.png"
         ],
         [
-            "3250",
-            "com.HirayaSpace.SevenYearsCH",
-            "//gxicon.b0.upaiyun.com/2018/01/03/12/20180103125545_e1e19c7e90e5a312fdf0d25a5d53099f.png"
+            "3255",
+            "cn.com.bmac.nfc",
+            "//gxicon.b0.upaiyun.com/2018/01/03/13/20180103012155_b4a449897a6dd88bce3899e5173faf07.png"
         ],
         [
-            "3251",
-            "com.max.xiaoheihe",
-            "//gxicon.b0.upaiyun.com/2018/01/03/12/20180103125806_d7f4fd98d9d264aa759e84460dd12661.png"
+            "3257",
+            "com.dbcilibo.cili",
+            "//gxicon.b0.upaiyun.com/2018/01/03/13/20180103012843_ee380dc1764d306bbf84de6922bc0b74.png"
         ],
         [
-            "3252",
-            "com.sm.calculateme",
-            "//gxicon.b0.upaiyun.com/2018/01/03/12/20180103125806_58eae915763d3b8fae03986f602f86e2.png"
+            "3258",
+            "com.flyersoft.seekbooks",
+            "//gxicon.b0.upaiyun.com/2018/01/03/13/20180103012843_99c30cf1f9202c37673aa7320ba3fda0.png"
         ],
         [
-            "3253",
-            "com.tinytouchtales.enyo",
-            "//gxicon.b0.upaiyun.com/2018/01/03/12/20180103125806_3cb08e5d9daa382de23e96b38053531d.png"
+            "3259",
+            "com.liuchao.sanji.movieheaven",
+            "//gxicon.b0.upaiyun.com/2018/01/03/13/20180103012843_c07662c7bbb07c86f101a1bfc995d522.png"
         ],
         [
-            "3254",
-            "jianrt.analoguepiano",
-            "//gxicon.b0.upaiyun.com/2018/01/03/12/20180103125806_a5c633936c93e750ad4fe7984abc5f62.png"
+            "3260",
+            "com.rytong.bankbj",
+            "//gxicon.b0.upaiyun.com/2018/01/03/13/20180103012843_42347b1981a23a386650e75f2a75d811.png"
+        ],
+        [
+            "3261",
+            "com.snowball.wallet.oneplus",
+            "//gxicon.b0.upaiyun.com/2018/01/03/13/20180103012843_b0cb03290f914afc81b885a5f2f5c4d9.png"
+        ],
+        [
+            "3262",
+            "com.vjson.anime",
+            "//gxicon.b0.upaiyun.com/2018/01/03/13/20180103012843_56c17f5bc26fc8fd7d6e5736e23faae1.png"
+        ],
+        [
+            "3263",
+            "com.yemoo.ymplaye",
+            "//gxicon.b0.upaiyun.com/2018/01/03/13/20180103012843_3d2aadbd11bf93db7a0a9e2c320063ce.png"
+        ],
+        [
+            "3264",
+            "org.zywx.wbpalmstar.widgetone.uex11427582",
+            "//gxicon.b0.upaiyun.com/2018/01/03/13/20180103012843_5dc993a339d4147bd208bd1a73897ce1.png"
+        ],
+        [
+            "3265",
+            "com.chengcheng.FreeVPN",
+            "//gxicon.b0.upaiyun.com/2018/01/03/13/20180103013253_d9581ba8c530a0f1795e025726204534.png"
+        ],
+        [
+            "3266",
+            "com.cleanmaster.mguard_cn",
+            "//gxicon.b0.upaiyun.com/2018/01/03/13/20180103013253_55033fae78cc80a010183d4f08e9cb8d.png"
+        ],
+        [
+            "3267",
+            "com.rongchuang.pgs",
+            "//gxicon.b0.upaiyun.com/2018/01/03/13/20180103013253_fdd1dfa9a83ae151bc3788009e31e126.png"
+        ],
+        [
+            "3268",
+            "lc.scp",
+            "//gxicon.b0.upaiyun.com/2018/01/03/13/20180103013253_a117152fbfd12137f523e06552de6c43.png"
+        ],
+        [
+            "3269",
+            "com.fenqile.fenqile",
+            "//gxicon.b0.upaiyun.com/2018/01/03/13/20180103013253_d29502198eca16a7dce02a849db272da.png"
+        ],
+        [
+            "3270",
+            "com.vpn.kmvpn11",
+            "//gxicon.b0.upaiyun.com/2018/01/03/13/20180103013253_ad61e1683f13a669956bc6e29f713bd2.png"
         ]
     ]
 }
