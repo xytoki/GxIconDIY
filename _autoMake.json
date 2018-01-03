@@ -1,5 +1,5 @@
 {
-    "pkg": "com.gxicon.hh",
+    "pkg": "com.gxicon.hhh",
     "app": "gg",
     "vname": "Xxx",
     "vcode": "344 ",
@@ -204,11 +204,6 @@
             "//gxicon.b0.upaiyun.com/2017/12/15/13/20171215010720_3a2b48352bb07fd30012bb463e89f990.png"
         ],
         [
-            "3263",
-            "com.yemoo.ymplaye",
-            "//gxicon.b0.upaiyun.com/2018/01/03/13/20180103012843_3d2aadbd11bf93db7a0a9e2c320063ce.png"
-        ],
-        [
             "203",
             "com.android.deskclock",
             "//gxicon.b0.upaiyun.com/2017/08/24/11/20170824114711_5c3420b80d538d2521910a9413eb5525.jpg"
@@ -227,11 +222,6 @@
             "166",
             "com.coolapk.market",
             "//gxicon.b0.upaiyun.com/2017/08/24/10/20170824100052_fd90a9f158e907e409451c562b54a531.png"
-        ],
-        [
-            "167",
-            "com.android.gallery3d",
-            "//gxicon.b0.upaiyun.com/2017/08/24/10/20170824100152_2f2cad9d08411c2a83d3f5789a293e76.png"
         ],
         [
             "169",
@@ -629,11 +619,6 @@
             "//gxicon.b0.upaiyun.com/2017/09/23/15/20170923035614_633f3dbdfda8e509d97370ab3d58f38f.png"
         ],
         [
-            "811",
-            "com.tencent.qqsports",
-            "//gxicon.b0.upaiyun.com/2017/09/23/15/20170923035614_c1be67e9d2df9a3d8be1d3a78e04167b.png"
-        ],
-        [
             "814",
             "com.tencent.weishi",
             "//gxicon.b0.upaiyun.com/2017/09/23/15/20170923035613_25ba99825bb30b184d1d6f5a5afe3927.png"
@@ -672,16 +657,6 @@
             "799",
             "com.tencent.qqmusic",
             "//gxicon.b0.upaiyun.com/2017/09/23/15/20170923035613_88d262006d65378cc54081ba84040792.png"
-        ],
-        [
-            "801",
-            "com.qq.reader",
-            "//gxicon.b0.upaiyun.com/2017/09/23/15/20170923035611_6228324d8767c642e6ca48cf35c87825.png"
-        ],
-        [
-            "802",
-            "com.tencent.tim",
-            "//gxicon.b0.upaiyun.com/2017/09/23/15/20170923035612_b2829c4f7787ed4bd122dda92d868963.png"
         ],
         [
             "795",
@@ -727,11 +702,6 @@
             "918",
             "004",
             "//gxicon.b0.upaiyun.com/2017/09/24/12/20170924124325_3a9646de9c383cb5e74f338a6dffd297.png"
-        ],
-        [
-            "917",
-            "003",
-            "//gxicon.b0.upaiyun.com/2017/09/24/12/20170924124308_72de22de2cc0fc45b816aa6391366983.png"
         ],
         [
             "917",
@@ -829,11 +799,6 @@
             "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032854_61da364fbb9538fbcd7e867deeb10917.png"
         ],
         [
-            "971",
-            "com.huawei.shine.airsharingcast",
-            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032854_7599bc53381e65549f023dd1338440a4.png"
-        ],
-        [
             "969",
             "com.huawei.phoneservice",
             "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032854_c4b93327d8df085a459362f641409707.png"
@@ -844,19 +809,9 @@
             "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032854_9bbdd6237a613f1e32b0c2ca617a5629.png"
         ],
         [
-            "967",
-            "com.huawei.magnifier",
-            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032854_09433f80075f95d5cfeb5d5ae2c7fe03.png"
-        ],
-        [
             "964",
             "com.huawei.hidisk",
             "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032853_8feedd9667aa3b66a21e1d135d73dc8b.png"
-        ],
-        [
-            "963",
-            "com.huawei.gamebox",
-            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032853_b0e9e434cf0f20dbba6fee82078734e9.png"
         ],
         [
             "962",
@@ -867,11 +822,6 @@
             "960",
             "com.huawei.android.wfdft",
             "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032853_d8266abc74e0ddbe74841c26aa79ac34.png"
-        ],
-        [
-            "959",
-            "com.huawei.android.totemweather",
-            "//gxicon.b0.upaiyun.com/2017/09/26/15/20170926032853_9f777a9aad43f037f46f8e987c8b2b2a.png"
         ],
         [
             "958",
