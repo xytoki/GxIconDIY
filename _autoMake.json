@@ -1,17 +1,42 @@
 {
-    "pkg": "com.gxicon..b",
-    "app": "diy",
-    "vname": "1.0",
-    "vcode": "258",
-    "author": "[ttg](copy:ttg)",
-    "color_primary": "#59F1BA",
-    "color_primary_dark": "#00D8A7",
-    "color_accent": "#0E0E0E",
+    "pkg": "com.gxicon.Kaidi990409",
+    "app": "自制图表包",
+    "vname": "1.0.0.0",
+    "vcode": "180103",
+    "author": "[Kaidi990409](copy:Kaidi990409)",
+    "color_primary": "#f44336",
+    "color_primary_dark": "#d80f00",
+    "color_accent": "#ff5252",
     "icons": [
         [
-            "3244",
-            "cn.wps.moffice_eng",
-            "//gxicon.b0.upaiyun.com/2017/12/27/16/20171227044135_12c81e5560a491671f4e4e87e5125854.png"
+            "3249",
+            "com.kunpo.loner",
+            "//gxicon.b0.upaiyun.com/2018/01/03/12/20180103125353_047fa57880cfacb920de8a00e3782e29.png"
+        ],
+        [
+            "3250",
+            "com.HirayaSpace.SevenYearsCH",
+            "//gxicon.b0.upaiyun.com/2018/01/03/12/20180103125545_e1e19c7e90e5a312fdf0d25a5d53099f.png"
+        ],
+        [
+            "3251",
+            "com.max.xiaoheihe",
+            "//gxicon.b0.upaiyun.com/2018/01/03/12/20180103125806_d7f4fd98d9d264aa759e84460dd12661.png"
+        ],
+        [
+            "3252",
+            "com.sm.calculateme",
+            "//gxicon.b0.upaiyun.com/2018/01/03/12/20180103125806_58eae915763d3b8fae03986f602f86e2.png"
+        ],
+        [
+            "3253",
+            "com.tinytouchtales.enyo",
+            "//gxicon.b0.upaiyun.com/2018/01/03/12/20180103125806_3cb08e5d9daa382de23e96b38053531d.png"
+        ],
+        [
+            "3254",
+            "jianrt.analoguepiano",
+            "//gxicon.b0.upaiyun.com/2018/01/03/12/20180103125806_a5c633936c93e750ad4fe7984abc5f62.png"
         ]
     ]
 }
