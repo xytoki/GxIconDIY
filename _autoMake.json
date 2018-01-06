@@ -1,8 +1,8 @@
 {
     "pkg": "com.gxicon.pixelstyle",
     "app": "Pixel Icon",
-    "vname": "1.6",
-    "vcode": "1801052349",
+    "vname": "1.7",
+    "vcode": "1801060943",
     "author": "[Steve](copy:Steve)",
     "color_primary": "#2D8CF0",
     "color_primary_dark": "#046FEA",
@@ -159,14 +159,14 @@
             "//gxicon.b0.upaiyun.com/2018/01/05/23/20180105114322_172b596dfa7b8c621265173dc1dfeb7f.png"
         ],
         [
-            "3285",
-            "com.MobileTicket",
-            "//gxicon.b0.upaiyun.com/2018/01/05/23/20180105114724_39ae0a952a709935132d193883026ce8.png"
-        ],
-        [
             "3286",
             "mark.via.gp",
             "//gxicon.b0.upaiyun.com/2018/01/05/23/20180105115653_7ea0f5b4d4506fae25b1d29afa31a686.png"
+        ],
+        [
+            "3288",
+            "com.MobileTicket",
+            "//gxicon.b0.upaiyun.com/2018/01/06/09/20180106094108_4a860846e28f005ad6658376e337a6c5.png"
         ]
     ]
 }
