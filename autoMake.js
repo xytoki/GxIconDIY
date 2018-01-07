@@ -181,7 +181,7 @@ var next=function(i,cb){
 			j[i][3]=j[i][3]||{};
 			if(typeof(j[i][3].drawable)!="undefined"){
 				app.drawable=codeAppName(j[i][3].drawable);
-				app.code="<!---DIY APPFILTER--->"+j[i][3].appfilter;
+				app.code="<!-- DIY APPFILTER -->"+"\r\n"+j[i][3].appfilter;
 			}
 			var basefn=app.drawable;
 			var fn=drawable_folder+"/"+basefn+".png";
@@ -206,5 +206,5 @@ next(0,function(){
 	log.info("PKG","All done");
 	//write iconcache
 	fs.writeFileSync("node_modules/_iconCache.json",JSON.stringify(iconcache));
-	log.info("CACHE","iconcache saved",iconcache);
+	//log.info("CACHE","iconcache saved",iconcache);
 })
