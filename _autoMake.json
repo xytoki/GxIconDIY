@@ -79,9 +79,54 @@
             "//gxicon.b0.upaiyun.com/2017/12/27/16/20171227043944_ef5d863f3f9ead89c000a9d4a21d6ea8.png"
         ],
         [
-            "3007",
-            "com.adobe.adobephotoshopfix",
-            "//gxicon.b0.upaiyun.com/2017/12/15/13/20171215011218_5550eba5c7e7f174f37326e9ecc2f610.png"
+            "159",
+            "com.greenpoint.android.mc10086.activity",
+            "//gxicon.b0.upaiyun.com/2017/08/24/09/20170824095552_efbd4a5512f5d8421528202214c086ca.png"
+        ],
+        [
+            "160",
+            "com.sinovatech.unicom.ui",
+            "//gxicon.b0.upaiyun.com/2017/08/24/09/20170824095639_68ce07d918245e7d951ec5d137037e93.png"
+        ],
+        [
+            "161",
+            "com.ct.client",
+            "//gxicon.b0.upaiyun.com/2017/08/24/09/20170824095728_c5ca81430d48888ab1562ee4d6dbde6a.png"
+        ],
+        [
+            "162",
+            "com.tencent.gamehelper.smoba",
+            "//gxicon.b0.upaiyun.com/2017/08/24/09/20170824095758_e13d4280c8e4ebca16114e4d3f1cdd32.png"
+        ],
+        [
+            "3043",
+            "com.jingdong.app.mall",
+            "//gxicon.b0.upaiyun.com/2017/12/15/13/20171215011230_15e4bfdd97f031d0071b1b3a3f750dc6.png"
+        ],
+        [
+            "3040",
+            "com.iflytek.inputmethod",
+            "//gxicon.b0.upaiyun.com/2017/12/15/13/20171215011249_1ea941103dfd820d9f3ced31ed261151.png"
+        ],
+        [
+            "2997",
+            "eu.chainfire.supersu",
+            "//gxicon.b0.upaiyun.com/2017/12/15/13/20171215010718_0d38616d373e96205735b2563289614b.png"
+        ],
+        [
+            "2441",
+            "com.tmall.wireless",
+            "//gxicon.b0.upaiyun.com/2017/12/08/20/20171208083056_81635a2eb8727c42589d8c8198743b94.png"
+        ],
+        [
+            "2432",
+            "com.taobao.idlefish",
+            "//gxicon.b0.upaiyun.com/2017/12/08/20/20171208082857_5acf4c0e80c8cb3beb9ce1481bd35010.png"
+        ],
+        [
+            "2433",
+            "com.taptap",
+            "//gxicon.b0.upaiyun.com/2017/12/08/20/20171208082857_719926e26dcb07cf7248803b39a1f72f.png"
         ]
     ]
 }
