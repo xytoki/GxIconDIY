@@ -181,7 +181,7 @@ var next=function(i,cb){
 			j[i][3]=j[i][3]||{};
 			if(typeof(j[i][3].drawable)!="undefined"){
 				app.drawable=codeAppName(j[i][3].drawable);
-				app.code="<!-DIY APPFILTER-->"+j[i][3].appfilter;
+				app.code="<!---DIY APPFILTER--->"+j[i][3].appfilter;
 			}
 			var basefn=app.drawable;
 			var fn=drawable_folder+"/"+basefn+".png";
