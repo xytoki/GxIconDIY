@@ -1,5 +1,6 @@
 var u=process.env.UPY_STOR.split(",");
 var Client = require('ftp');
+var request = require('request');
 var fs = require('fs');
 var moment=require("moment");
 var path=require("path");
@@ -16,6 +17,8 @@ var c = new Client();
 				if (err) throw err;
 				c.end();
 				console.log("DONE\r\n",remote.join(""));
+				var url="http://gxicon.e123.pw/api.php?build/done/"+config.pkg+"&vcode="+config.vcode+"&vname="+config.vname+"&url=https://gxicon.b0.upaiyun.com"+remote.join();
+				request(url, function (error, response, body) {});
 			});
 		});
 });
