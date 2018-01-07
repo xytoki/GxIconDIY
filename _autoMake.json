@@ -1,90 +1,84 @@
 {
-    "pkg": "com.gxicon.gxdiy",
-    "app": "Gxicon DiyTest",
-    "vname": "4.0.0.0",
-    "vcode": "10",
-    "author": "[@weng](copy:@weng)",
-    "color_primary": "#f44336",
-    "color_primary_dark": "#d80f00",
-    "color_accent": "#ff5252",
+    "pkg": "com.gxicon.tubiao",
+    "app": "自定义图标",
+    "vname": "5.8.6",
+    "vcode": "20180107",
+    "author": "[@id240017203@qq.com](copy:@id240017203@qq.com)",
+    "color_primary": "#0391FC",
+    "color_primary_dark": "#0496FB",
+    "color_accent": "#058AFB",
     "icons": [
         [
-            "2004",
-            "com.bilibili.app.blue",
-            "//gxicon.b0.upaiyun.com/2017/11/10/00/20171110123041_258db81d2288d05810f80f086488886d.png",
-            {
-                "appfilter": "<!-- 哔哩哔哩概念 / bilibili -->\n<item component=\"ComponentInfo{com.bilibili.app.blue/tv.danmaku.bili.ui.splash.SplashActivity}\" drawable=\"bilibilibl\" />",
-                "drawable": "bilibilibl"
-            }
-        ],
-        [
-            "2000",
-            "com.baidu.tieba",
-            "//gxicon.b0.upaiyun.com/2017/11/09/19/20171109070707_6a57c24125f228789df4d6bb7e4c8f64.png",
+            "3291",
+            "com.google.android.dialer",
+            "//gxicon.b0.upaiyun.com/2018/01/07/16/20180107044145_75def605470506d330b3f009cd8de133.png",
             {}
         ],
         [
-            "2003",
+            "3292",
+            "com.google.android.contacts",
+            "//gxicon.b0.upaiyun.com/2018/01/07/16/20180107044213_8d4daea536f51364862a320632a2f938.png",
+            {}
+        ],
+        [
+            "3293",
+            "com.google.android.apps.messaging",
+            "//gxicon.b0.upaiyun.com/2018/01/07/16/20180107044240_0dc5da572d87828e5d4a977fa6b0b5ae.png",
+            {}
+        ],
+        [
+            "3294",
+            "com.google.android.gm",
+            "//gxicon.b0.upaiyun.com/2018/01/07/16/20180107044356_16c008e317d3af604456a4cd878b1ba1.png",
+            {}
+        ],
+        [
+            "3295",
+            "com.mxtech.videoplayer.pro",
+            "//gxicon.b0.upaiyun.com/2018/01/07/16/20180107044816_cbddd13d5259be06b0d4dd75b784081d.png",
+            {}
+        ],
+        [
+            "3297",
+            "com.hz.LingLing.ui",
+            "//gxicon.b0.upaiyun.com/2018/01/07/17/20180107050726_94a432b441d9424d5399be7884c5abfb.png",
+            {}
+        ],
+        [
+            "3298",
+            "com.outfit7.mytalkingtomfree",
+            "//gxicon.b0.upaiyun.com/2018/01/07/17/20180107050947_bc60d15c193860f80c6cac1b6bdcba03.png",
+            {}
+        ],
+        [
+            "3213",
+            "com.android.chrome",
+            "//gxicon.b0.upaiyun.com/2017/12/26/16/20171226042855_3b08654f1002d2ae63766d791c9d425d.png",
+            {}
+        ],
+        [
+            "3244",
+            "cn.wps.moffice_eng",
+            "//gxicon.b0.upaiyun.com/2017/12/27/16/20171227044135_12c81e5560a491671f4e4e87e5125854.png",
+            {}
+        ],
+        [
+            "3107",
+            "com.tencent.mobileqq",
+            "//gxicon.b0.upaiyun.com/2017/12/15/13/20171215011238_5be1e73b3e31fb43d3bdbe4fd075ccd5.png",
+            {}
+        ],
+        [
+            "3240",
             "com.tencent.mm",
-            "//gxicon.b0.upaiyun.com/2017/11/10/00/20171110123027_779689f15f6778b1aa86f2bb441fd963.png",
+            "//gxicon.b0.upaiyun.com/2017/12/27/16/20171227043944_ef5d863f3f9ead89c000a9d4a21d6ea8.png",
             {}
         ],
         [
-            "2001",
-            "com.android.dialer",
-            "//gxicon.b0.upaiyun.com/2017/11/09/19/20171109070735_61d348d62bd48bd33c384ddf33042ee0.png",
+            "3053",
+            "com.meitu.meiyancamera",
+            "//gxicon.b0.upaiyun.com/2017/12/15/13/20171215011235_3436e696fd4e49a015d364d553f7b374.png",
             {}
-        ],
-        [
-            "1999",
-            "com.baidu.netdisk",
-            "//gxicon.b0.upaiyun.com/2017/11/09/19/20171109070644_b0de170e7f5cc21414d0ec8fba4a6dab.png",
-            {}
-        ],
-        [
-            "1984",
-            "com.UCMobile.intl",
-            "//gxicon.b0.upaiyun.com/2017/11/08/19/20171108073424_9d0282ceddfff024be7e602f71b4fe2b.png",
-            {}
-        ],
-        [
-            "1985",
-            "com.box.android",
-            "//gxicon.b0.upaiyun.com/2017/11/08/19/20171108073454_68ae0fe77ed06721e04d99ece98de636.png",
-            {}
-        ],
-        [
-            "1990",
-            "com.adobe.photoshopmix",
-            "//gxicon.b0.upaiyun.com/2017/11/08/19/20171108074028_2c7bcf919ace22dcf766a3965d5a591a.png",
-            {}
-        ],
-        [
-            "1974",
-            "com.netease.hyxd.aligames",
-            "//gxicon.b0.upaiyun.com/2017/11/07/12/20171107123934_889feee229440562454e4564ca425dd1.png",
-            {}
-        ],
-        [
-            "1970",
-            "com.flijo.montage.iconpack",
-            "//gxicon.b0.upaiyun.com/2017/11/06/17/20171106051915_8188287a238c50eed37e25e6094813c7.png",
-            {}
-        ],
-        [
-            "1967",
-            "projekt.substratum",
-            "//gxicon.b0.upaiyun.com/2017/11/06/16/20171106040548_671a5b9b62b2f09cc1c03a0aadfc8d5a.png",
-            {}
-        ],
-        [
-            "1996",
-            "tv.danmaku.bili",
-            "//gxicon.b0.upaiyun.com/2017/11/09/12/20171109123243_435e047424965b14c20bb91773b7dd70.png",
-            {
-                "appfilter": "<!-- 哔哩哔哩 / bilibili -->\n<item component=\"ComponentInfo{tv.danmaku.abili/tv.danmaku.bili.ui.splash.SplashActivity}\" drawable=\"bilibili\" />",
-                "drawable": "bilibili"
-            }
         ]
     ]
 }
