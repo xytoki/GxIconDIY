@@ -1,12 +1,12 @@
 {
     "pkg": "com.gxicon.tubiao",
-    "app": "自定义图标",
-    "vname": "5.8.6",
-    "vcode": "20180107",
-    "author": "[@id240017203@qq.com](copy:@id240017203@qq.com)",
-    "color_primary": "#0391FC",
-    "color_primary_dark": "#0496FB",
-    "color_accent": "#058AFB",
+    "app": "圖標",
+    "vname": "1.8.6",
+    "vcode": "20180108",
+    "author": "[@id240017203](copy:@id240017203)",
+    "color_primary": "#0595EE",
+    "color_primary_dark": "#0797EF",
+    "color_accent": "#0981F1",
     "icons": [
         [
             "3291",
@@ -48,36 +48,6 @@
             "3298",
             "com.outfit7.mytalkingtomfree",
             "//gxicon.b0.upaiyun.com/2018/01/07/17/20180107050947_bc60d15c193860f80c6cac1b6bdcba03.png",
-            {}
-        ],
-        [
-            "3213",
-            "com.android.chrome",
-            "//gxicon.b0.upaiyun.com/2017/12/26/16/20171226042855_3b08654f1002d2ae63766d791c9d425d.png",
-            {}
-        ],
-        [
-            "3244",
-            "cn.wps.moffice_eng",
-            "//gxicon.b0.upaiyun.com/2017/12/27/16/20171227044135_12c81e5560a491671f4e4e87e5125854.png",
-            {}
-        ],
-        [
-            "3107",
-            "com.tencent.mobileqq",
-            "//gxicon.b0.upaiyun.com/2017/12/15/13/20171215011238_5be1e73b3e31fb43d3bdbe4fd075ccd5.png",
-            {}
-        ],
-        [
-            "3240",
-            "com.tencent.mm",
-            "//gxicon.b0.upaiyun.com/2017/12/27/16/20171227043944_ef5d863f3f9ead89c000a9d4a21d6ea8.png",
-            {}
-        ],
-        [
-            "3053",
-            "com.meitu.meiyancamera",
-            "//gxicon.b0.upaiyun.com/2017/12/15/13/20171215011235_3436e696fd4e49a015d364d553f7b374.png",
             {}
         ]
     ]
