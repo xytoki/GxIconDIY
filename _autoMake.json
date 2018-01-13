@@ -1,19 +1,13 @@
 {
-    "pkg": "com.gxicon.tubiao",
-    "app": "圖標",
-    "vname": "1.8.6",
-    "vcode": "20180108",
-    "author": "[@id240017203](copy:@id240017203)",
-    "color_primary": "#0595EE",
-    "color_primary_dark": "#0797EF",
-    "color_accent": "#0981F1",
+    "pkg": "com.gxicon.cheshi",
+    "app": "测试图标包",
+    "vname": "1.0.0",
+    "vcode": "17113",
+    "author": "[@cheshi](copy:@cheshi)",
+    "color_primary": "#f44336",
+    "color_primary_dark": "#d80f00",
+    "color_accent": "#ff5252",
     "icons": [
-        [
-            "3291",
-            "com.google.android.dialer",
-            "//gxicon.b0.upaiyun.com/2018/01/07/16/20180107044145_75def605470506d330b3f009cd8de133.png",
-            {}
-        ],
         [
             "3292",
             "com.google.android.contacts",
@@ -21,33 +15,33 @@
             {}
         ],
         [
-            "3293",
-            "com.google.android.apps.messaging",
-            "//gxicon.b0.upaiyun.com/2018/01/07/16/20180107044240_0dc5da572d87828e5d4a977fa6b0b5ae.png",
+            "3291",
+            "com.google.android.dialer",
+            "//gxicon.b0.upaiyun.com/2018/01/07/16/20180107044145_75def605470506d330b3f009cd8de133.png",
             {}
         ],
         [
-            "3294",
-            "com.google.android.gm",
-            "//gxicon.b0.upaiyun.com/2018/01/07/16/20180107044356_16c008e317d3af604456a4cd878b1ba1.png",
+            "3275",
+            "tv.danmaku.bili",
+            "//gxicon.b0.upaiyun.com/2018/01/04/09/20180104092823_577b6031f706173fe75c4dc16bd06781.png",
             {}
         ],
         [
-            "3295",
-            "com.mxtech.videoplayer.pro",
-            "//gxicon.b0.upaiyun.com/2018/01/07/16/20180107044816_cbddd13d5259be06b0d4dd75b784081d.png",
+            "3276",
+            "com.ruguoapp.jike",
+            "//gxicon.b0.upaiyun.com/2018/01/04/09/20180104092904_766252e5e26a407edf185d4884b5066b.png",
             {}
         ],
         [
-            "3297",
-            "com.hz.LingLing.ui",
-            "//gxicon.b0.upaiyun.com/2018/01/07/17/20180107050726_94a432b441d9424d5399be7884c5abfb.png",
+            "3260",
+            "com.rytong.bankbj",
+            "//gxicon.b0.upaiyun.com/2018/01/03/13/20180103012843_42347b1981a23a386650e75f2a75d811.png",
             {}
         ],
         [
-            "3298",
-            "com.outfit7.mytalkingtomfree",
-            "//gxicon.b0.upaiyun.com/2018/01/07/17/20180107050947_bc60d15c193860f80c6cac1b6bdcba03.png",
+            "3205",
+            "com.sunnyisland.dotahero.btwan",
+            "//gxicon.b0.upaiyun.com/2017/12/25/13/20171225010256_ef0fbb7087c66117408245d3102ff8da.png",
             {}
         ]
     ]
