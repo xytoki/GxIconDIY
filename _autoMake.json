@@ -1,11 +1,11 @@
 {
     "pkg": "com.gxicon.1234",
-    "app": "222",
+    "app": "icons",
     "vname": "1.0",
     "vcode": "1",
-    "author": "[333](copy:333)",
+    "author": "[lin](copy:lin)",
     "color_primary": "#368AF4",
-    "color_primary_dark": "#008BD8",
+    "color_primary_dark": "#2D8CF0",
     "color_accent": "#060606",
     "icons": [
         [
@@ -78,30 +78,6 @@
             "3087",
             "com.sina.weibo",
             "//gxicon.b0.upaiyun.com/2017/12/15/13/20171215011236_32363826d13de02d5a0867abcf0388f0.png",
-            {}
-        ],
-        [
-            "3057",
-            "com.microsoft.office.word",
-            "//gxicon.b0.upaiyun.com/2017/12/15/13/20171215011229_a06505b5be00c91e739cf58bf4960fb8.png",
-            {}
-        ],
-        [
-            "3054",
-            "com.microsoft.office.excel",
-            "//gxicon.b0.upaiyun.com/2017/12/15/13/20171215011229_6e3db9b27a456c9536aeca5fc7509737.png",
-            {}
-        ],
-        [
-            "3055",
-            "com.microsoft.office.onenote",
-            "//gxicon.b0.upaiyun.com/2017/12/15/13/20171215011228_c4f874f64629cffe0515b866767fcd9f.png",
-            {}
-        ],
-        [
-            "3056",
-            "com.microsoft.office.powerpoint",
-            "//gxicon.b0.upaiyun.com/2017/12/15/13/20171215011229_63b48e37ab52ec8a6d2494ba88adc730.png",
             {}
         ],
         [
@@ -222,12 +198,6 @@
             "1864",
             "com.greenpoint.android.mc10086.activity",
             "//gxicon.b0.upaiyun.com/2017/10/29/12/20171029121859_2f735e301fcde1a3ffc75e2f827e542e.png",
-            {}
-        ],
-        [
-            "1841",
-            "com.eg.android.AlipayGphone",
-            "//gxicon.b0.upaiyun.com/2017/10/28/23/20171028113322_ddfe8d706fc9c4b73dc805cb6d86dd39.png",
             {}
         ],
         [
