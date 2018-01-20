@@ -1,7 +1,7 @@
 {
-    "pkg": "com.gxicon.mixicons",
+    "pkg": "com.gxicon.mixicon",
     "app": "MIX图标包",
-    "vname": "1.0",
+    "vname": "1.0.1",
     "vcode": "180120",
     "author": "[奥巴牛](copy:奥巴牛)",
     "color_primary": "#1EA1EA",
@@ -12,12 +12,6 @@
             "3766",
             "com.alipay1",
             "//gxicon.b0.upaiyun.com/2018/01/20/16/20180120043326_d631026ef83b4954f4e5eea3fa4585e6.png",
-            {}
-        ],
-        [
-            "3767",
-            "com.file",
-            "//gxicon.b0.upaiyun.com/2018/01/20/16/20180120043326_29bcb5609ab1440969fb0f0b1db0ccfa.png",
             {}
         ],
         [
@@ -60,12 +54,6 @@
             "3756",
             "com.jike",
             "//gxicon.b0.upaiyun.com/2018/01/20/16/20180120042733_1a5ee85be7fd112933079ac5a4b7e496.png",
-            {}
-        ],
-        [
-            "3757",
-            "com.icon",
-            "//gxicon.b0.upaiyun.com/2018/01/20/16/20180120042733_92c7552436f4766e82712227a6731717.png",
             {}
         ],
         [
@@ -165,21 +153,9 @@
             {}
         ],
         [
-            "3748",
-            "com.htc.Weather",
-            "//gxicon.b0.upaiyun.com/2018/01/20/16/20180120042015_4e2577297f478327e6144bba4f138531.png",
-            {}
-        ],
-        [
             "3749",
             "com.yingsuo",
             "//gxicon.b0.upaiyun.com/2018/01/20/16/20180120042015_b14d97923452d0d774b7b716fdd4fb92.png",
-            {}
-        ],
-        [
-            "3741",
-            "com.taptap",
-            "//gxicon.b0.upaiyun.com/2018/01/20/16/20180120041331_0b8da866ce1d13bca64aeb260ea95abe.png",
             {}
         ],
         [
@@ -210,18 +186,6 @@
             "3736",
             "com.netease.cloudmusic",
             "//gxicon.b0.upaiyun.com/2018/01/20/16/20180120041331_6d93ccc9484126712e3783e37c0ea7b6.png",
-            {}
-        ],
-        [
-            "3737",
-            "com.quark.browser",
-            "//gxicon.b0.upaiyun.com/2018/01/20/16/20180120041331_2e3760bf236597de3f06c891c0b8f306.png",
-            {}
-        ],
-        [
-            "3738",
-            "com.oneplus.soundrecorder",
-            "//gxicon.b0.upaiyun.com/2018/01/20/16/20180120041331_4356da50c1dd82d01a9deef89a2c8c80.png",
             {}
         ],
         [
@@ -291,27 +255,9 @@
             {}
         ],
         [
-            "3727",
-            "com.coolapk.market",
-            "//gxicon.b0.upaiyun.com/2018/01/20/16/20180120040944_7c47c6303717b6aa869e40d770c0b226.png",
-            {}
-        ],
-        [
             "3717",
             "com.oneplus.camera",
             "//gxicon.b0.upaiyun.com/2018/01/20/16/20180120040519_30596089cfff972b4d085010e8a0b903.png",
-            {}
-        ],
-        [
-            "3718",
-            "com.android.settings",
-            "//gxicon.b0.upaiyun.com/2018/01/20/16/20180120040519_25abd6ba88c98e8fae0746a4139c7d6f.png",
-            {}
-        ],
-        [
-            "3719",
-            "bianqian",
-            "//gxicon.b0.upaiyun.com/2018/01/20/16/20180120040519_4ee0f5590a57aa48a8af6c09ad0cf94b.png",
             {}
         ],
         [
@@ -453,21 +399,9 @@
             {}
         ],
         [
-            "3705",
-            "com.coolapk.market.vn",
-            "//gxicon.b0.upaiyun.com/2018/01/20/15/20180120035143_669de276bd650fee97d41360db4a6ea2.png",
-            {}
-        ],
-        [
             "3704",
             "com.coolapk.market.vn",
             "//gxicon.b0.upaiyun.com/2018/01/20/15/20180120035143_3b7e879641284e2d748f92fcce0a9648.png",
-            {}
-        ],
-        [
-            "3703",
-            "com.clock1",
-            "//gxicon.b0.upaiyun.com/2018/01/20/15/20180120035143_5bd79296e1907a4344164352a93d747d.png",
             {}
         ],
         [
@@ -480,12 +414,6 @@
             "3692",
             "com.android.messaging",
             "//gxicon.b0.upaiyun.com/2018/01/20/15/20180120034500_23a7289bc6d3582672a5b1cfe9ac31e4.png",
-            {}
-        ],
-        [
-            "3693",
-            "com.netease.cloudmusic",
-            "//gxicon.b0.upaiyun.com/2018/01/20/15/20180120034500_89ffa700079c9c3876656977d30ac2a7.png",
             {}
         ],
         [
@@ -573,15 +501,93 @@
             {}
         ],
         [
-            "3678",
-            "com.sina.weibo",
-            "//gxicon.b0.upaiyun.com/2018/01/20/15/20180120032854_4b6d404858d8bfa4ed1115ffcf88c0b2.png",
-            {}
-        ],
-        [
             "3774",
             "googlewallpaper",
             "//gxicon.b0.upaiyun.com/2018/01/20/16/20180120045745_a290fcf734fadc4553867760054a078b.png",
+            {}
+        ],
+        [
+            "3775",
+            "com.wangyiyun12",
+            "//gxicon.b0.upaiyun.com/2018/01/20/17/20180120051354_89ffa700079c9c3876656977d30ac2a7.png",
+            {}
+        ],
+        [
+            "3776",
+            "com.weibo1",
+            "//gxicon.b0.upaiyun.com/2018/01/20/17/20180120051441_4b6d404858d8bfa4ed1115ffcf88c0b2.png",
+            {}
+        ],
+        [
+            "3777",
+            "com.miui.weather2",
+            "//gxicon.b0.upaiyun.com/2018/01/20/17/20180120051627_4e2577297f478327e6144bba4f138531.png",
+            {}
+        ],
+        [
+            "3778",
+            "com.taptap1",
+            "//gxicon.b0.upaiyun.com/2018/01/20/17/20180120051721_0b8da866ce1d13bca64aeb260ea95abe.png",
+            {}
+        ],
+        [
+            "3779",
+            "com.soundcloud.android",
+            "//gxicon.b0.upaiyun.com/2018/01/20/17/20180120051846_4356da50c1dd82d01a9deef89a2c8c80.png",
+            {}
+        ],
+        [
+            "3781",
+            "com.setting1",
+            "//gxicon.b0.upaiyun.com/2018/01/20/17/20180120052034_25abd6ba88c98e8fae0746a4139c7d6f.png",
+            {}
+        ],
+        [
+            "3782",
+            "com.browser1",
+            "//gxicon.b0.upaiyun.com/2018/01/20/17/20180120052204_2e3760bf236597de3f06c891c0b8f306.png",
+            {}
+        ],
+        [
+            "3783",
+            "com.coolapk1",
+            "//gxicon.b0.upaiyun.com/2018/01/20/17/20180120052313_669de276bd650fee97d41360db4a6ea2.png",
+            {}
+        ],
+        [
+            "3783",
+            "com.coolapk1",
+            "//gxicon.b0.upaiyun.com/2018/01/20/17/20180120052313_669de276bd650fee97d41360db4a6ea2.png",
+            {}
+        ],
+        [
+            "3784",
+            "com.coolapk2",
+            "//gxicon.b0.upaiyun.com/2018/01/20/17/20180120052322_7c47c6303717b6aa869e40d770c0b226.png",
+            {}
+        ],
+        [
+            "3785",
+            "com.icons1",
+            "//gxicon.b0.upaiyun.com/2018/01/20/17/20180120052442_92c7552436f4766e82712227a6731717.png",
+            {}
+        ],
+        [
+            "3786",
+            "com.file1",
+            "//gxicon.b0.upaiyun.com/2018/01/20/17/20180120052528_29bcb5609ab1440969fb0f0b1db0ccfa.png",
+            {}
+        ],
+        [
+            "3787",
+            "com.clock5",
+            "//gxicon.b0.upaiyun.com/2018/01/20/17/20180120052627_5bd79296e1907a4344164352a93d747d.png",
+            {}
+        ],
+        [
+            "3788",
+            "com.bianqian12",
+            "//gxicon.b0.upaiyun.com/2018/01/20/17/20180120052758_4ee0f5590a57aa48a8af6c09ad0cf94b.png",
             {}
         ]
     ]
