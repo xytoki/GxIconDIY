@@ -1,11 +1,11 @@
 {
-    "pkg": "com.gxicon.mixicon",
+    "pkg": "com.gxicon.icon1",
     "app": "MIX图标包",
     "vname": "1.0.1",
     "vcode": "180120",
     "author": "[奥巴牛](copy:奥巴牛)",
     "color_primary": "#1EA1EA",
-    "color_primary_dark": "#3F9EEE",
+    "color_primary_dark": "#45A1EE",
     "color_accent": "#0A0000",
     "icons": [
         [
@@ -393,12 +393,6 @@
             {}
         ],
         [
-            "3696",
-            "com.downloading.main.baiduyundownload",
-            "//gxicon.b0.upaiyun.com/2018/01/20/15/20180120035143_abf15ee2ebdce500a53bad3b148d5cae.png",
-            {}
-        ],
-        [
             "3704",
             "com.coolapk.market.vn",
             "//gxicon.b0.upaiyun.com/2018/01/20/15/20180120035143_3b7e879641284e2d748f92fcce0a9648.png",
@@ -519,12 +513,6 @@
             {}
         ],
         [
-            "3777",
-            "com.miui.weather2",
-            "//gxicon.b0.upaiyun.com/2018/01/20/17/20180120051627_4e2577297f478327e6144bba4f138531.png",
-            {}
-        ],
-        [
             "3778",
             "com.taptap1",
             "//gxicon.b0.upaiyun.com/2018/01/20/17/20180120051721_0b8da866ce1d13bca64aeb260ea95abe.png",
@@ -546,12 +534,6 @@
             "3782",
             "com.browser1",
             "//gxicon.b0.upaiyun.com/2018/01/20/17/20180120052204_2e3760bf236597de3f06c891c0b8f306.png",
-            {}
-        ],
-        [
-            "3783",
-            "com.coolapk1",
-            "//gxicon.b0.upaiyun.com/2018/01/20/17/20180120052313_669de276bd650fee97d41360db4a6ea2.png",
             {}
         ],
         [
@@ -588,6 +570,18 @@
             "3788",
             "com.bianqian12",
             "//gxicon.b0.upaiyun.com/2018/01/20/17/20180120052758_4ee0f5590a57aa48a8af6c09ad0cf94b.png",
+            {}
+        ],
+        [
+            "3789",
+            "com.weather12",
+            "//gxicon.b0.upaiyun.com/2018/01/20/17/20180120054142_4e2577297f478327e6144bba4f138531.png",
+            {}
+        ],
+        [
+            "3790",
+            "com.shanzhaiyun",
+            "//gxicon.b0.upaiyun.com/2018/01/20/17/20180120054458_64c81534c3ac67174d2733544b7856f4.png",
             {}
         ]
     ]
