@@ -1,8 +1,8 @@
 {
     "pkg": "com.gxicon.pixelstyle",
     "app": "Pixel Icon",
-    "vname": "1.8",
-    "vcode": "201801182038",
+    "vname": "1.9",
+    "vcode": "201801212257",
     "author": "[Steve](copy:Steve)",
     "color_primary": "#2D8CF0",
     "color_primary_dark": "#046FEA",
@@ -159,12 +159,6 @@
             {}
         ],
         [
-            "3278",
-            "com.android.chrome",
-            "//gxicon.b0.upaiyun.com/2018/01/05/23/20180105110712_e815bf0e25c0ca0d5facc2964694c4dd.png",
-            {}
-        ],
-        [
             "3280",
             "com.speedsoftware.rootexplorer",
             "//gxicon.b0.upaiyun.com/2018/01/05/23/20180105111116_a92a47f2c8891f0c90228dbe08bb14a5.png",
@@ -210,6 +204,12 @@
             "3299",
             "com.ifttt.ifttt",
             "//gxicon.b0.upaiyun.com/2018/01/10/15/20180110034153_db771f0db2212282bd5a07ea54c0dbf4.png",
+            {}
+        ],
+        [
+            "3812",
+            "com.android.chrome",
+            "//gxicon.b0.upaiyun.com/2018/01/21/22/20180121105452_3ec6717f72a46c01dc44106d06b31746.png",
             {}
         ]
     ]
