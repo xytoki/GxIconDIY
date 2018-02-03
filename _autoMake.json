@@ -1,12 +1,12 @@
 {
-    "pkg": "com.gxicon.mixicon",
+    "pkg": "com.gxicon.mixicon1",
     "app": "MIX图标",
     "vname": "1.0.2",
     "vcode": "12",
     "author": "[奥巴牛](copy:奥巴牛)",
     "color_primary": "#3DA7EF",
     "color_primary_dark": "#13A1E7",
-    "color_accent": "#0D0D0D",
+    "color_accent": "#41B6EA",
     "icons": [
         [
             "3968",
