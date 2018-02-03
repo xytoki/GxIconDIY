@@ -1,8 +1,8 @@
 {
-    "pkg": "com.gxicon.mixicon2",
+    "pkg": "com.gxicon.mixicon",
     "app": "mix图标",
-    "vname": "1.0.0",
-    "vcode": "1",
+    "vname": "1.0.1",
+    "vcode": "12",
     "author": "[奥巴牛](copy:奥巴牛)",
     "color_primary": "#3DA7EF",
     "color_primary_dark": "#13A1E7",
