@@ -1,7 +1,7 @@
 {
     "pkg": "com.gxicon.mixicon",
     "app": "mix图标",
-    "vname": "1.0.1",
+    "vname": "1.0.2",
     "vcode": "12",
     "author": "[奥巴牛](copy:奥巴牛)",
     "color_primary": "#3DA7EF",
@@ -54,18 +54,6 @@
             "3783",
             "com.coolapk1",
             "//gxicon.b0.upaiyun.com/2018/01/20/17/20180120052313_669de276bd650fee97d41360db4a6ea2.png",
-            {}
-        ],
-        [
-            "3785",
-            "com.icons1",
-            "//gxicon.b0.upaiyun.com/2018/01/20/17/20180120052442_92c7552436f4766e82712227a6731717.png",
-            {}
-        ],
-        [
-            "3784",
-            "com.coolapk2",
-            "//gxicon.b0.upaiyun.com/2018/01/20/17/20180120052322_7c47c6303717b6aa869e40d770c0b226.png",
             {}
         ],
         [
@@ -369,12 +357,6 @@
             {}
         ],
         [
-            "3719",
-            "bianqian",
-            "//gxicon.b0.upaiyun.com/2018/01/20/16/20180120040519_4ee0f5590a57aa48a8af6c09ad0cf94b.png",
-            {}
-        ],
-        [
             "3720",
             "com.eg.android.AlipayGphone",
             "//gxicon.b0.upaiyun.com/2018/01/20/16/20180120040519_9f35aea408a299dd986ac5e1346aa36d.png",
@@ -594,6 +576,18 @@
             "3677",
             "com.vsco.cam",
             "//gxicon.b0.upaiyun.com/2018/01/20/15/20180120032849_c5b65f0c9bd562d25d9ba2a3a1d2c7f0.png",
+            {}
+        ],
+        [
+            "3784",
+            "com.coolapk2",
+            "//gxicon.b0.upaiyun.com/2018/01/20/17/20180120052322_7c47c6303717b6aa869e40d770c0b226.png",
+            {}
+        ],
+        [
+            "3788",
+            "com.bianqian12",
+            "//gxicon.b0.upaiyun.com/2018/01/20/17/20180120052758_4ee0f5590a57aa48a8af6c09ad0cf94b.png",
             {}
         ]
     ]
