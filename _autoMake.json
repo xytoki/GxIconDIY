@@ -1,8 +1,8 @@
 {
     "pkg": "com.gxicon.jamie",
     "app": "吉米图标包",
-    "vname": "1.4",
-    "vcode": "18020501",
+    "vname": "1.41",
+    "vcode": "18020502",
     "author": "[Jamie](copy:Jamie)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
@@ -72,12 +72,6 @@
             "3915",
             "cn.TuHu.android",
             "//gxicon.b0.upaiyun.com/2018/01/29/01/20180129012046_d6b565685c4381055b69e5b52e85031b.png",
-            {}
-        ],
-        [
-            "3916",
-            "com.asus.aihome",
-            "//gxicon.b0.upaiyun.com/2018/01/29/01/20180129012118_2af8aa2aa26f1fc17389a93c32619101.png",
             {}
         ],
         [
