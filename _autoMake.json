@@ -1,8 +1,8 @@
 {
     "pkg": "com.gxicon.jamie",
     "app": "吉米图标包",
-    "vname": "1.41",
-    "vcode": "18020502",
+    "vname": "1.5",
+    "vcode": "18020503",
     "author": "[Jamie](copy:Jamie)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
@@ -114,6 +114,18 @@
             "3973",
             "com.dushe.movie",
             "//gxicon.b0.upaiyun.com/2018/02/05/21/20180205090524_3e6053ef3001bc60c5d71ecfc68a0366.png",
+            {}
+        ],
+        [
+            "3974",
+            "com.weico.international",
+            "//gxicon.b0.upaiyun.com/2018/02/05/21/20180205092318_1f78d408c11ba391171c37b89d042e51.png",
+            {}
+        ],
+        [
+            "3975",
+            "com.sina.weibolite",
+            "//gxicon.b0.upaiyun.com/2018/02/05/21/20180205092339_45122f443c1630e8eefaa0fbc443c093.png",
             {}
         ]
     ]
