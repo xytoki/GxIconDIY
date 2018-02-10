@@ -1,8 +1,8 @@
 {
-    "pkg": "com.gxicon.pengcheng",
+    "pkg": "com.gxicon.pc",
     "app": "出格",
-    "vname": "1.0.0.1",
-    "vcode": "1",
+    "vname": "1.0.0.2",
+    "vcode": "2",
     "author": "[@pengcheng](copy:@pengcheng)",
     "color_primary": "#FFFFFF",
     "color_primary_dark": "#000000",
@@ -756,25 +756,37 @@
             "4337",
             "com.MobileTicket",
             "//gxicon.b0.upaiyun.com/2018/02/10/19/20180210073056_a48719f399c6e475fca9db3f768309e0.png",
-            {}
+            {
+                "appfilter": "<!-- 铁路12306 / 铁路12306 -->\n<item component=\"ComponentInfo{com.MobileTicket/com.alipay.mobile.quinox.LauncherActivity}\" drawable=\"\" />",
+                "drawable": ""
+            }
         ],
         [
             "4338",
             "com.sonymobile.android.dialer",
             "//gxicon.b0.upaiyun.com/2018/02/10/19/20180210073406_c29f3a5ada4548b23d85cfef047c4711.png",
-            {}
+            {
+                "appfilter": "<!-- Build: Sony / G8441 -->\n<!-- 电话 / Phone -->\n<item component=\"ComponentInfo{com.sonymobile.android.dialer/com.android.dialer.DialtactsActivity}\" drawable=\"phone\" />",
+                "drawable": "phone"
+            }
         ],
         [
             "4339",
             "cn.wq.myandroidtools",
             "//gxicon.b0.upaiyun.com/2018/02/10/19/20180210073536_dda88a6b8fa289578ead7516d43ff3df.png",
-            {}
+            {
+                "appfilter": "<!-- MyAndroidTools / MyAndroidTools -->\n<item component=\"ComponentInfo{cn.wq.myandroidtools/cn.wq.myandroidtoolspro.MainActivity}\" drawable=\"my_android_tools\" />",
+                "drawable": "my_android_tools"
+            }
         ],
         [
             "4340",
             "com.android.settings",
             "//gxicon.b0.upaiyun.com/2018/02/10/19/20180210073624_72273ddff2ed67058ec7ee7cdca66c45.png",
-            {}
+            {
+                "appfilter": "<!-- Build: Sony / G8441 -->\n<!-- 设定 / Settings -->\n<item component=\"ComponentInfo{com.android.settings/com.android.settings.Settings}\" drawable=\"settings\" />",
+                "drawable": "settings"
+            }
         ],
         [
             "4341",
@@ -786,7 +798,10 @@
             "4342",
             "com.catchingnow.icebox",
             "//gxicon.b0.upaiyun.com/2018/02/10/20/20180210084642_0ab8fb4b7520038a4ecea3348faf4307.png",
-            {}
+            {
+                "appfilter": "<!-- 冰箱 / Ice Box -->\n<item component=\"ComponentInfo{com.catchingnow.icebox/com.catchingnow.icebox.activity.mainActivity.MainAppActivity}\" drawable=\"ice_box\" />",
+                "drawable": "ice_box"
+            }
         ],
         [
             "4343",
@@ -805,6 +820,15 @@
             "com.android.vending",
             "//gxicon.b0.upaiyun.com/2018/02/10/21/20180210091226_ac1809f0e75f8235d63dc3929587c3c1.png",
             {}
+        ],
+        [
+            "4345",
+            "com.autonavi.minimap",
+            "//gxicon.b0.upaiyun.com/2018/02/10/21/20180210090529_7ab673aec9b6408d558f1e5af3843bdb.png",
+            {
+                "appfilter": "<!-- 高德地图 / Amap -->\n<item component=\"ComponentInfo{com.autonavi.minimap/com.autonavi.map.activity.SplashActivity}\" drawable=\"amap\" />",
+                "drawable": "amap"
+            }
         ]
     ]
 }
