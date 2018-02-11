@@ -4,9 +4,9 @@
     "vname": "1.0.0.3",
     "vcode": "3",
     "author": "[@pengcheng](copy:@pengcheng)",
-    "color_primary": "#00D8FF",
-    "color_primary_dark": "#000000",
-    "color_accent": "#00B8FF",
+    "color_primary": "#DC0000",
+    "color_primary_dark": "#DC0000",
+    "color_accent": "#DC0000",
     "icons": [
         [
             "3998",
@@ -783,12 +783,6 @@
             }
         ],
         [
-            "4348",
-            "com.android.settings",
-            "//gxicon.b0.upaiyun.com/2018/02/11/13/20180211010659_46e3ed540b5211be28e2f277182f1fcc.png",
-            {}
-        ],
-        [
             "4349",
             "com.catchingnow.icebox",
             "//gxicon.b0.upaiyun.com/2018/02/11/13/20180211010917_0ab8fb4b7520038a4ecea3348faf4307.png",
@@ -828,6 +822,21 @@
             "4356",
             "com.gxicon.pc1",
             "//gxicon.b0.upaiyun.com/2018/02/11/13/20180211014807_1f8a2d4273b7aa4f6533b4af4cc663f8.png",
+            {
+                "appfilter": "<!-- 出格 / GxIconPack -->\n<item component=\"ComponentInfo{com.gxicon.pc1/com.by_syk.lib.nanoiconpack.MainActivity}\" drawable=\"gx_icon_pack\" />",
+                "drawable": "gx_icon_pack"
+            }
+        ],
+        [
+            "4357",
+            "com.android.settings.Settings",
+            "//gxicon.b0.upaiyun.com/2018/02/11/13/20180211015933_46e3ed540b5211be28e2f277182f1fcc.png",
+            {}
+        ],
+        [
+            "4358",
+            "com.android.settings",
+            "//gxicon.b0.upaiyun.com/2018/02/11/14/20180211020007_46e3ed540b5211be28e2f277182f1fcc.png",
             {}
         ]
     ]
