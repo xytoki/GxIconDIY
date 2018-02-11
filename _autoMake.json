@@ -1,8 +1,8 @@
 {
     "pkg": "com.gxicon.pc1",
     "app": "出格",
-    "vname": "1.0.0.3",
-    "vcode": "3",
+    "vname": "1.0.0.5",
+    "vcode": "5",
     "author": "[@pengcheng](copy:@pengcheng)",
     "color_primary": "#DC0000",
     "color_primary_dark": "#DC0000",
@@ -837,6 +837,30 @@
             "4358",
             "com.android.settings",
             "//gxicon.b0.upaiyun.com/2018/02/11/14/20180211020007_46e3ed540b5211be28e2f277182f1fcc.png",
+            {}
+        ],
+        [
+            "4359",
+            "com.nowcasting.activity",
+            "//gxicon.b0.upaiyun.com/2018/02/11/14/20180211025709_63d9cdd9102a2945b742d9fb524657c9.png",
+            {}
+        ],
+        [
+            "4360",
+            "com.android.settings",
+            "//gxicon.b0.upaiyun.com/2018/02/11/14/20180211025744_46e3ed540b5211be28e2f277182f1fcc.png",
+            {}
+        ],
+        [
+            "4361",
+            "xyz.paphonb.systemuituner",
+            "//gxicon.b0.upaiyun.com/2018/02/11/17/20180211051911_5693c1c45eb6cd5b526a9f1178fc0573.png",
+            {}
+        ],
+        [
+            "4362",
+            "net.dinglisch.android.taskerm",
+            "//gxicon.b0.upaiyun.com/2018/02/11/17/20180211055547_689c8750ca62d99e15d7f1de93db5fba.png",
             {}
         ]
     ]
