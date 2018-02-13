@@ -1,8 +1,8 @@
 {
     "pkg": "com.gxicon.pc1",
     "app": "出格",
-    "vname": "1.0.0.7",
-    "vcode": "7",
+    "vname": "1.0.0.8",
+    "vcode": "8",
     "author": "[@pengcheng](copy:@pengcheng)",
     "color_primary": "#DC0000",
     "color_primary_dark": "#B10000",
@@ -60,12 +60,6 @@
             "4007",
             "com.codoon.gps",
             "//gxicon.b0.upaiyun.com/2018/02/10/17/20180210051819_bd5003e22882f547f4457889a027288d.png",
-            {}
-        ],
-        [
-            "4006",
-            "com.google.android.apps.photos",
-            "//gxicon.b0.upaiyun.com/2018/02/10/17/20180210051621_8f1076cf51b459e46e97b5a89ebb3ba2.png",
             {}
         ],
         [
@@ -885,6 +879,18 @@
             "4369",
             "net.oneplus.weather",
             "//gxicon.b0.upaiyun.com/2018/02/13/09/20180213092705_74fff86d210d4fb5ad81a8ed36e30168.png",
+            {}
+        ],
+        [
+            "4370",
+            "com.google.android.apps.photos",
+            "//gxicon.b0.upaiyun.com/2018/02/13/12/20180213122800_59929809ebb8040d3621a12b2548ddbc.png",
+            {}
+        ],
+        [
+            "4371",
+            "com.orekie.search",
+            "//gxicon.b0.upaiyun.com/2018/02/13/13/20180213011618_ca82331a93435d93a008054b92893ca8.png",
             {}
         ]
     ]
