@@ -1,8 +1,8 @@
 {
     "pkg": "com.gxicon.pc1",
     "app": "OUT",
-    "vname": "1.9",
-    "vcode": "9",
+    "vname": "1.10",
+    "vcode": "10",
     "author": "[@pengcheng](copy:@pengcheng)",
     "color_primary": "#DC0000",
     "color_primary_dark": "#B10000",
@@ -882,6 +882,12 @@
             "4391",
             "com.nuaa.shortcutsx",
             "//gxicon.b0.upaiyun.com/2018/02/20/13/20180220015306_0fc672fd985978157170fc2c4563de26.png",
+            {}
+        ],
+        [
+            "4392",
+            "com.simplemobiletools.gallery",
+            "//gxicon.b0.upaiyun.com/2018/02/22/11/20180222114710_c6627a3c218d8992d741059ac7078ba3.png",
             {}
         ]
     ]
