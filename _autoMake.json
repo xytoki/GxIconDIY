@@ -1,12 +1,12 @@
 {
     "pkg": "com.gxicon.hee",
     "app": "熙的图标包",
-    "vname": "1.0（熙月）",
+    "vname": "1.0",
     "vcode": "180227520",
     "author": "[熙@hee_fagod](copy:熙@hee_fagod)",
-    "color_primary": "#8F6EE0",
-    "color_primary_dark": "#8A6FDD",
-    "color_accent": "#897AE1",
+    "color_primary": "#888888",
+    "color_primary_dark": "#888888",
+    "color_accent": "#888888",
     "icons": [
         [
             "4519",
