@@ -11,7 +11,7 @@ android:
   - extra-android-support
 script:
 - node ./autoMake.js
-- ./gradlew assembleRelease  --stacktrace
+- ./gradlew assembleRelease  --info
 - ls app/build/outputs/apk/gxIconDIY.apk -l
 - jarsigner -verbose -keystore weng.jks -storepass $KEYSTORE_PASS -keypass $ALIAS_PASS
   -signedjar app/build/outputs/apk/gxIconDIY.signed.apk app/build/outputs/apk/gxIconDIY.apk
