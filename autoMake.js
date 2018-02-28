@@ -196,7 +196,7 @@ var next=function(i,cb){
 				var dx=fs.readFileSync(appfilter_xml).toString().split("<!--AutoInjector End-->");
 				fs.writeFileSync(appfilter_xml,dx[0]+'	'+app.code+'\r\n	<!--AutoInjector End-->'+dx[1]);
 				//Done
-				log.info("SUC",app);
+				log.info("SUC",pname);
 				next(i+1,cb)
 			});
 		});
