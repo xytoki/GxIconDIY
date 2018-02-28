@@ -1,12 +1,12 @@
 {
     "pkg": "com.gxicon.hee",
-    "app": "熙的图标包",
-    "vname": "1.0.0.0",
-    "vcode": "18022701",
+    "app": "Hee icon",
+    "vname": "1.0",
+    "vcode": "20180228",
     "author": "[@hee](copy:@hee)",
     "color_primary": "#9A86D0",
     "color_primary_dark": "#8A70D2",
-    "color_accent": "#816BC6",
+    "color_accent": "#A6A6AA",
     "icons": [
         [
             "4519",
