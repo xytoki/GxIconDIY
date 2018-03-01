@@ -1,8 +1,8 @@
 {
     "pkg": "com.gxicon.pc1",
     "app": "OUT",
-    "vname": "1.12",
-    "vcode": "12",
+    "vname": "1.13",
+    "vcode": "13",
     "author": "[@pengcheng](copy:@pengcheng)",
     "color_primary": "#DC0000",
     "color_primary_dark": "#B10000",
@@ -906,6 +906,12 @@
             "6074",
             "com.uzero.baimiao",
             "//gxicon.b0.upaiyun.com/2018/02/28/16/20180228042440_2e6a3d8745405217935e11442d771843.png",
+            {}
+        ],
+        [
+            "6075",
+            "com.simplecity.amp_pro",
+            "//gxicon.b0.upaiyun.com/2018/03/01/08/20180301085927_007165d0f9f8bc0eb9fdcdabfdaac81a.png",
             {}
         ]
     ]
