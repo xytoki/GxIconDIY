@@ -1,167 +1,35 @@
 {
-    "pkg": "com.gxicon.wz",
-    "app": "666图标包",
-    "vname": "1.2.3.4",
-    "vcode": "23456789",
-    "author": "[@wz](copy:@wz)",
-    "color_primary": "#3698F4",
-    "color_primary_dark": "#3692F2",
-    "color_accent": "#3B9DEF",
+    "pkg": "com.gxicon.Kaidi990409",
+    "app": "自制图表包",
+    "vname": "1.0.0.0",
+    "vcode": "180103",
+    "author": "[Kaidi990409](copy:Kaidi990409)",
+    "color_primary": "#f44336",
+    "color_primary_dark": "#d80f00",
+    "color_accent": "#ff5252",
     "icons": [
         [
-            "1904",
-            "com.cyjh.mobileanjian",
-            "//gxicon.b0.upaiyun.com/2017/10/29/14/20171029020344_d560b4f7cad202796eff24603abbf507.png",
+            "3251",
+            "com.max.xiaoheihe",
+            "//gxicon.b0.upaiyun.com/2018/01/03/12/20180103125806_d7f4fd98d9d264aa759e84460dd12661.png",
             {}
         ],
         [
-            "1718",
-            "com.tencent.gamehelper.smoba",
-            "//gxicon.b0.upaiyun.com/2017/10/25/11/20171025111921_e13d4280c8e4ebca16114e4d3f1cdd32.png",
-            {}
-        ],
-        [
-            "1730",
-            "com.tencent.KiHan",
-            "//gxicon.b0.upaiyun.com/2017/10/25/11/20171025111912_6175f8df957c8590639fd18fc4cb64d3.png",
-            {}
-        ],
-        [
-            "1521",
-            "com.fantablade.icey",
-            "//gxicon.b0.upaiyun.com/2017/10/20/11/20171020115211_571a1012c096b094ee0f2d067c13d31a.png",
-            {}
-        ],
-        [
-            "1516",
-            "com.aurora.advance.settings",
-            "//gxicon.b0.upaiyun.com/2017/10/17/18/20171017062239_87b2f24af1060baeb921438ba74542dc.png",
-            {}
-        ],
-        [
-            "1515",
-            "com.imbastar.c5game",
-            "//gxicon.b0.upaiyun.com/2017/10/17/18/20171017062114_81f6564257dc460df5d06a073f5505a1.png",
-            {}
-        ],
-        [
-            "1453",
-            "com.tencent.tmgp.sgame",
-            "//gxicon.b0.upaiyun.com/2017/10/15/18/20171015060901_68b861aef920bdf4c344f261cf0765ca.png",
-            {}
-        ],
-        [
-            "1305",
-            "com.netease.x19",
-            "//gxicon.b0.upaiyun.com/2017/10/12/17/20171012054248_37fcfef0bec369ef7fc96ad9602f16b3.png",
-            {}
-        ],
-        [
-            "1304",
-            "com.gh0u1l5.wechatmagician",
-            "//gxicon.b0.upaiyun.com/2017/10/12/01/20171012014705_2756ca89b6c13e5b918f9590aa5f39e8.png",
-            {}
-        ],
-        [
-            "1030",
-            "com.oneplus.soundrecorder1",
-            "//gxicon.b0.upaiyun.com/2017/09/28/13/20170928012759_98f179147da5c19a54efb57b1ddf68ee.png",
-            {}
-        ],
-        [
-            "410",
-            "com.vjson.anime",
-            "//gxicon.b0.upaiyun.com/2017/08/29/16/20170829044238_b5e9c0535aef332e44e3c6036c630702.png",
-            {}
-        ],
-        [
-            "312",
-            "com.taobao.idlefish",
-            "//gxicon.b0.upaiyun.com/2017/08/25/18/20170825064855_1671f01a0dc26062bdd70719749e03a6.png",
-            {}
-        ],
-        [
-            "310",
-            "com.thingiverse",
-            "//gxicon.b0.upaiyun.com/2017/08/25/17/20170825050126_7dd0ac7e8c8767f5d7105717edbcc59c.png",
-            {}
-        ],
-        [
-            "309",
-            "com.duapps.gif.emoji.gifmaker",
-            "//gxicon.b0.upaiyun.com/2017/08/25/17/20170825050106_7d36e3ee954252fd187ba3595529b80c.png",
-            {}
-        ],
-        [
-            "332",
-            "com.mdroid.read",
-            "//gxicon.b0.upaiyun.com/2017/08/26/19/20170826075036_f63941ed9e1c18a8441d87647733b569.png",
-            {}
-        ],
-        [
-            "225",
-            "com.netease.cloudmusic",
-            "//gxicon.b0.upaiyun.com/2017/08/24/13/20170824015941_860a2e7885852b2c620f724ff51320d6.png",
-            {}
-        ],
-        [
-            "224",
-            "com.advasoft.touchretouch",
-            "//gxicon.b0.upaiyun.com/2017/08/24/13/20170824015909_c82964b727635351db2800706de8c9fa.png",
-            {}
-        ],
-        [
-            "161",
-            "com.ct.client",
-            "//gxicon.b0.upaiyun.com/2017/08/24/09/20170824095728_c5ca81430d48888ab1562ee4d6dbde6a.png",
-            {}
-        ],
-        [
-            "160",
-            "com.sinovatech.unicom.ui",
-            "//gxicon.b0.upaiyun.com/2017/08/24/09/20170824095639_68ce07d918245e7d951ec5d137037e93.png",
-            {}
-        ],
-        [
-            "159",
-            "com.greenpoint.android.mc10086.activity",
-            "//gxicon.b0.upaiyun.com/2017/08/24/09/20170824095552_efbd4a5512f5d8421528202214c086ca.png",
-            {}
-        ],
-        [
-            "2006",
-            "com.atypicalgames.radiationisland",
-            "//gxicon.b0.upaiyun.com/2017/11/10/17/20171110054041_32b27403a97bc14f32eeb122967389c6.png",
-            {}
-        ],
-        [
-            "2007",
-            "com.rockvr.moonplayer_gvr",
-            "//gxicon.b0.upaiyun.com/2017/11/10/17/20171110054149_6187c7b86fcb91eac244def1e1e26db1.png",
-            {}
-        ],
-        [
-            "2085",
-            "com.gxicon.he",
-            "//gxicon.b0.upaiyun.com/2017/11/11/15/20171111030856_260f61608972b68617a96bd62bee22f4.png",
-            {}
-        ],
-        [
-            "2050",
-            "com.tencent.gamehelper.smoba",
-            "//gxicon.b0.upaiyun.com/2017/11/11/15/20171111030853_9183a76ecdd863c63bd4e4092056246e.png",
-            {}
-        ],
-        [
-            "6089",
-            "com.gameloft.android.ANMP.GloftA8HM",
-            "//gxicon.b0.upaiyun.com/2018/03/02/21/20180302092602_ed949e1c903b47324b0087e209f1e5f1.png",
+            "3254",
+            "jianrt.analoguepiano",
+            "//gxicon.b0.upaiyun.com/2018/01/03/12/20180103125806_a5c633936c93e750ad4fe7984abc5f62.png",
             {}
         ],
         [
             "6090",
             "com.tencent.tmgp.pubgmhd",
             "//gxicon.b0.upaiyun.com/2018/03/02/21/20180302093318_db9f9b5db4cbed8f61b250d35db93fbb.png",
+            {}
+        ],
+        [
+            "6092",
+            "cn.edu.zjicm.wordsnet_d",
+            "//gxicon.b0.upaiyun.com/2018/03/05/10/20180305105203_e37cd9e18d44d6603eb5d0b2b966c03c.png",
             {}
         ]
     ]
