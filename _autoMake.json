@@ -1,8 +1,8 @@
 {
     "pkg": "com.gxicon.jamie",
     "app": "吉米图标包",
-    "vname": "1.6",
-    "vcode": "18030801",
+    "vname": "1.61",
+    "vcode": "18030802",
     "author": "[Jamie](copy:Jamie)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
@@ -72,12 +72,6 @@
             "3915",
             "cn.TuHu.android",
             "//gxicon.b0.upaiyun.com/2018/01/29/01/20180129012046_d6b565685c4381055b69e5b52e85031b.png",
-            {}
-        ],
-        [
-            "3917",
-            "com.wanmei.a9vg",
-            "//gxicon.b0.upaiyun.com/2018/01/29/01/20180129012215_4b9eff103d52f1f48a44ee07acf4e0aa.png",
             {}
         ],
         [
