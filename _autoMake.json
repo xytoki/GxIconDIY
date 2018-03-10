@@ -1,8 +1,8 @@
 {
     "pkg": "com.gxicon.pixelstyle",
     "app": "Pixel Icon",
-    "vname": "2.2",
-    "vcode": "20180309",
+    "vname": "2.3",
+    "vcode": "20180310",
     "author": "[SteveChern](copy:SteveChern)",
     "color_primary": "#2D8CF0",
     "color_primary_dark": "#046FEA",
@@ -94,18 +94,6 @@
                 "appfilter": "<item component=\"ComponentInfo{com.jingdong.app.mall/com.jingdong.app.mall.MainActivity}\" drawable=\"jd_com\" />\n<item component=\"ComponentInfo{com.jingdong.app.mall/com.jingdong.app.mall.main.MainActivity}\" drawable=\"jd_com\" />",
                 "drawable": "jd_com"
             }
-        ],
-        [
-            "1450",
-            "com.coolapk.market",
-            "//gxicon.b0.upaiyun.com/2017/10/15/18/20171015060455_92fd6f77b74971c1d6f5e43ec03fdc44.png",
-            {}
-        ],
-        [
-            "1445",
-            "com.android.messaging",
-            "//gxicon.b0.upaiyun.com/2017/10/15/17/20171015054418_d26d9d3395f8be0aecff0e14c1814e9e.png",
-            {}
         ],
         [
             "1476",
@@ -270,21 +258,27 @@
             {}
         ],
         [
-            "6098",
-            "com.tencent.mm",
-            "//gxicon.b0.upaiyun.com/2018/03/09/23/20180309110536_55983d05550e982f661f9f7137c600f2.png",
-            {}
-        ],
-        [
-            "6100",
-            "tech.evlsoc.captivemgr",
-            "//gxicon.b0.upaiyun.com/2018/03/09/23/20180309111051_08f713a3d6f97cb904bc8a6d0be769cd.png",
-            {}
-        ],
-        [
             "6101",
             "com.eg.android.AlipayGphone",
             "//gxicon.b0.upaiyun.com/2018/03/09/23/20180309111638_9ffff0503ed87480535fd1bd46687436.png",
+            {}
+        ],
+        [
+            "6102",
+            "com.android.messaging",
+            "//gxicon.b0.upaiyun.com/2018/03/09/23/20180309113955_54593834c64fdd9e5867bde627151843.png",
+            {}
+        ],
+        [
+            "6103",
+            "com.tencent.mm",
+            "//gxicon.b0.upaiyun.com/2018/03/10/10/20180310103327_b963aa86aee1b9a7efc0631c57ee7cae.png",
+            {}
+        ],
+        [
+            "6104",
+            "tech.evlsoc.captivemgr",
+            "//gxicon.b0.upaiyun.com/2018/03/10/10/20180310103521_2a8bcc9f5b4e94502a960de7b25e4413.png",
             {}
         ]
     ]
