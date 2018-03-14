@@ -1,25 +1,13 @@
 {
     "pkg": "com.gxicon.Tubiao",
     "app": "图标",
-    "vname": "2.865.58600",
+    "vname": "5.2.0.586",
     "vcode": "20180518",
     "author": "[id240017203@qq.com](copy:id240017203@qq.com)",
-    "color_primary": "#368AF4",
-    "color_primary_dark": "#337ADE",
-    "color_accent": "#5284FF",
+    "color_primary": "#367BF4",
+    "color_primary_dark": "#357BE8",
+    "color_accent": "#526EFF",
     "icons": [
-        [
-            "3291",
-            "com.google.android.dialer",
-            "//gxicon.b0.upaiyun.com/2018/01/07/16/20180107044145_75def605470506d330b3f009cd8de133.png",
-            {}
-        ],
-        [
-            "3292",
-            "com.google.android.contacts",
-            "//gxicon.b0.upaiyun.com/2018/01/07/16/20180107044213_8d4daea536f51364862a320632a2f938.png",
-            {}
-        ],
         [
             "3291",
             "com.google.android.dialer",
