@@ -2,7 +2,7 @@
     "pkg": "com.gxicon.zui",
     "app": "ZUI",
     "vname": "1.1",
-    "vcode": "0416",
+    "vcode": "04161",
     "author": "[Steve](copy:Steve)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
@@ -138,7 +138,10 @@
             "1006",
             "com.orekie.search",
             "//gxicon.b0.upaiyun.com/2017/09/28/12/20170928124314_974096a40fa0743aa1e3376309bc7c8b.png",
-            {}
+            {
+                "appfilter": "<!-- Google / Google -->\n<item component=\"ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}\" drawable=\"google\" />",
+                "drawable": "google"
+            }
         ],
         [
             "1015",
