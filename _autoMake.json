@@ -1,8 +1,8 @@
 {
     "pkg": "com.gxicon.zui",
     "app": "ZUI",
-    "vname": "1.0",
-    "vcode": "0415",
+    "vname": "1.1",
+    "vcode": "0416",
     "author": "[Steve](copy:Steve)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
@@ -70,8 +70,8 @@
             "com.android.settings",
             "//gxicon.b0.upaiyun.com/2017/12/27/16/20171227042425_6ceefffb7d1faf38b118649a66817f83.png",
             {
-                "appfilter": "<item component=\"ComponentInfo{com.android.settings/.Settings}\" drawable=\"Settings\" />",
-                "drawable": "Settings"
+                "appfilter": "<item component=\"ComponentInfo{com.android.settings/.Settings}\" drawable=\"settings\" />",
+                "drawable": "settings"
             }
         ],
         [
@@ -174,6 +174,51 @@
             "1023",
             "com.tencent.tim",
             "//gxicon.b0.upaiyun.com/2017/09/28/13/20170928012434_20c0d66b6e233fa52fd0a8d0cbac073b.png",
+            {}
+        ],
+        [
+            "5694",
+            "com.tencent.tmgp.pubgm",
+            "//gxicon.b0.upaiyun.com/2018/02/27/16/20180227040142_793267c15b70a560663034b710e3ae3c.png",
+            {}
+        ],
+        [
+            "4411",
+            "bin.mt.plus",
+            "//gxicon.b0.upaiyun.com/2018/02/24/23/20180224112801_1bdd1d8f9e51e01aa2e950f296599ded.png",
+            {}
+        ],
+        [
+            "3231",
+            "com.coolapk.market",
+            "//gxicon.b0.upaiyun.com/2017/12/27/16/20171227043233_ba59a24a8df6c38d39a46bcdd7bdf205.png",
+            {}
+        ],
+        [
+            "3661",
+            "com.google.android.googlequicksearchbox",
+            "//gxicon.b0.upaiyun.com/2018/01/19/14/20180119022642_029a65017497e8b0eb6ba4da77c062d0.png",
+            {}
+        ],
+        [
+            "3827",
+            "com.cyanogenmod.eleven",
+            "//gxicon.b0.upaiyun.com/2018/01/22/18/20180122063826_e824a7abc4b39a5856aebaf7edf89017.png",
+            {
+                "appfilter": "<!-- Style Music / Style Music -->\n<item component=\"ComponentInfo{de.julianostarek.music/de.julianostarek.music.ui.activity.MainActivity}\" drawable=\"style_music\" />",
+                "drawable": "style_music"
+            }
+        ],
+        [
+            "3909",
+            "org.telegram.plus",
+            "//gxicon.b0.upaiyun.com/2018/01/26/11/20180126113549_ee87ce3d821860b8fb8781a80d77be9c.png",
+            {}
+        ],
+        [
+            "5016",
+            "com.google.android.voicesearch",
+            "//gxicon.b0.upaiyun.com/2018/02/27/15/20180227032338_c966acd02fcdf8eeadff760dfaf6c2be.png",
             {}
         ]
     ]
