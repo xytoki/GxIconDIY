@@ -1,8 +1,8 @@
 {
     "pkg": "com.gxicon.zui",
     "app": "ZUI",
-    "vname": "1.1",
-    "vcode": "04161",
+    "vname": "1.2",
+    "vcode": "0417",
     "author": "[Steve](copy:Steve)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
@@ -135,15 +135,6 @@
             {}
         ],
         [
-            "1006",
-            "com.orekie.search",
-            "//gxicon.b0.upaiyun.com/2017/09/28/12/20170928124314_974096a40fa0743aa1e3376309bc7c8b.png",
-            {
-                "appfilter": "<!-- Google / Google -->\n<item component=\"ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}\" drawable=\"google\" />",
-                "drawable": "google"
-            }
-        ],
-        [
             "1015",
             "bilibili2",
             "//gxicon.b0.upaiyun.com/2017/09/28/13/20170928011102_ccf2780370d8205bebcb415b00217095.png",
@@ -222,7 +213,10 @@
             "5016",
             "com.google.android.voicesearch",
             "//gxicon.b0.upaiyun.com/2018/02/27/15/20180227032338_c966acd02fcdf8eeadff760dfaf6c2be.png",
-            {}
+            {
+                "appfilter": "<!-- Voice Search / Google -->\n<item component=\"ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity}\" drawable=\"voice_search\" />",
+                "drawable": "voice_search"
+            }
         ]
     ]
 }
