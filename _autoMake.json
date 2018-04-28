@@ -1,29 +1,29 @@
 {
-    "pkg": "com.gxicon.456",
-    "app": "456",
-    "vname": "1.0.0.0",
-    "vcode": "170921",
-    "author": "[456](copy:456)",
-    "color_primary": "#f44336",
-    "color_primary_dark": "#d80f00",
-    "color_accent": "#ff5252",
+    "pkg": "com.gxicon.zsj",
+    "app": "light",
+    "vname": "1.1.1.1",
+    "vcode": "123456",
+    "author": "[@zsj](copy:@zsj)",
+    "color_primary": "#F48DCF",
+    "color_primary_dark": "#F283C7",
+    "color_accent": "#FE8FCF",
     "icons": [
         [
-            "829",
-            "com.storm.smart",
-            "//gxicon.b0.upaiyun.com/2017/09/23/17/20170923052452_3261e2fcfc882219a0cd1ff8a78a176b.png",
+            "6192",
+            "com.skype.raider",
+            "//gxicon.b0.upaiyun.com/2018/03/13/21/20180313093031_15d315895ce06f6a0607fa33648c6f5e.png",
             {}
         ],
         [
-            "830",
-            "com.changba",
-            "//gxicon.b0.upaiyun.com/2017/09/23/17/20170923052455_597e5c1088792d2a510b602ee3de3237.png",
+            "6182",
+            "microsoft_bing_search",
+            "//gxicon.b0.upaiyun.com/2018/03/13/21/20180313093024_b0c4a2727607dfff90dfc09a4fe78bdc.png",
             {}
         ],
         [
-            "831",
-            "air.tv.douyu.android",
-            "//gxicon.b0.upaiyun.com/2017/09/23/17/20170923052454_4d92b22d736b40f25741076ab4bd988d.png",
+            "6185",
+            "netease_youdao_translator",
+            "//gxicon.b0.upaiyun.com/2018/03/13/21/20180313093026_b5fafef568f26a41d7c55d47002f82db.png",
             {}
         ]
     ]
