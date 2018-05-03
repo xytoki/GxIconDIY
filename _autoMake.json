@@ -105,12 +105,6 @@
             {}
         ],
         [
-            "6112",
-            "com.qihoo.antivirus",
-            "//gxicon.b0.upaiyun.com/2018/03/13/21/20180313091114_2a26ee4c753caf7f0e075e56173b051b.png",
-            {}
-        ],
-        [
             "6113",
             "com.piriform.ccleaner",
             "//gxicon.b0.upaiyun.com/2018/03/13/21/20180313091157_845732f6023f1bfb3afe13acbe10f218.png",
@@ -171,12 +165,6 @@
             {}
         ],
         [
-            "6126",
-            "com.lionmobi.powerclean",
-            "//gxicon.b0.upaiyun.com/2018/03/13/21/20180313091440_30f41edb1c96d82ffedf5831fa2cc3d4.png",
-            {}
-        ],
-        [
             "6128",
             "com.monect.vipportable",
             "//gxicon.b0.upaiyun.com/2018/03/13/21/20180313091453_27a27835327e4d059db6d4e060e04dfb.png",
@@ -210,12 +198,6 @@
             "6133",
             "com.netfeige",
             "//gxicon.b0.upaiyun.com/2018/03/13/21/20180313091533_b9b397df5c28cdb032820ea8625e2353.png",
-            {}
-        ],
-        [
-            "6135",
-            "com.tencent.tim",
-            "//gxicon.b0.upaiyun.com/2018/03/13/21/20180313091547_38b4434d2d5ac6cf6ea1214dc686c0a6.png",
             {}
         ],
         [
@@ -351,12 +333,6 @@
             {}
         ],
         [
-            "6160",
-            "google_plus",
-            "//gxicon.b0.upaiyun.com/2018/03/13/21/20180313092656_ca3ca956133042a223ccc51dacbe678e.png",
-            {}
-        ],
-        [
             "6161",
             "gx_icon_pack",
             "//gxicon.b0.upaiyun.com/2018/03/13/21/20180313092657_aec0ec079a869d1dd5805f7895b3896c.png",
@@ -381,12 +357,6 @@
             {}
         ],
         [
-            "6165",
-            "com.adobe.lrmobile",
-            "//gxicon.b0.upaiyun.com/2018/03/13/21/20180313092659_ebe2310bac96555db01711fdba8acefe.png",
-            {}
-        ],
-        [
             "6166",
             "us.ultrasurf.mobile.ultrasurf",
             "//gxicon.b0.upaiyun.com/2018/03/13/21/20180313092804_b2e42b7658ed99473b949ada068da051.png",
@@ -396,18 +366,6 @@
             "6167",
             "wi_fi_master_key",
             "//gxicon.b0.upaiyun.com/2018/03/13/21/20180313092805_c21a93f855b3fcbe923f95246c51edd7.png",
-            {}
-        ],
-        [
-            "6168",
-            "org.wordpress.android",
-            "//gxicon.b0.upaiyun.com/2018/03/13/21/20180313092805_c2ed608ade9d7598e56d252293d53ad1.png",
-            {}
-        ],
-        [
-            "6170",
-            "txvpn",
-            "//gxicon.b0.upaiyun.com/2018/03/13/21/20180313092818_9e8d16ec943eafa2f5b3213a0747571d.png",
             {}
         ],
         [
@@ -438,12 +396,6 @@
             "6176",
             "super_su",
             "//gxicon.b0.upaiyun.com/2018/03/13/21/20180313092903_6ee9ac51963d08fa56983a1794128844.png",
-            {}
-        ],
-        [
-            "6177",
-            "org.telegram.messenger",
-            "//gxicon.b0.upaiyun.com/2018/03/13/21/20180313092904_834372249fc1abed91851310a3920bf9.png",
             {}
         ],
         [
@@ -588,6 +540,12 @@
             "6205",
             "com.letv.walletbiz",
             "//gxicon.b0.upaiyun.com/2018/03/13/21/20180313095424_e8d0b780297358238b8906e14122838b.png",
+            {}
+        ],
+        [
+            "6160",
+            "google_plus",
+            "//gxicon.b0.upaiyun.com/2018/03/13/21/20180313092656_ca3ca956133042a223ccc51dacbe678e.png",
             {}
         ]
     ]
