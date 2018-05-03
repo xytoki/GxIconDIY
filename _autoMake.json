@@ -1,5 +1,5 @@
 {
-    "pkg": "com.gxicon.tubiao",
+    "pkg": "com.gxicon.Tubiao",
     "app": "图标",
     "vname": "8.6.5.0",
     "vcode": "20180520",
@@ -99,21 +99,9 @@
             {}
         ],
         [
-            "4384",
-            "com.tencent.mn",
-            "//gxicon.b0.upaiyun.com/2018/02/14/01/20180214014656_39af74d25ae41a683f1973b2460f5bee.png",
-            {}
-        ],
-        [
             "4385",
             "com.tencent.mm",
             "//gxicon.b0.upaiyun.com/2018/02/14/16/20180214045405_a41a6844b9431bda9849705be204eeb8.png",
-            {}
-        ],
-        [
-            "6111",
-            "com.apple.android.music",
-            "//gxicon.b0.upaiyun.com/2018/03/13/20/20180313080819_e2031e244b83cba451dd033bfd12b208.png",
             {}
         ],
         [
@@ -150,12 +138,6 @@
             "6117",
             "com.app.pornhub",
             "//gxicon.b0.upaiyun.com/2018/03/13/21/20180313091247_77020de2572222e6428cba75d4ae234a.png",
-            {}
-        ],
-        [
-            "6118",
-            "com.bbm",
-            "//gxicon.b0.upaiyun.com/2018/03/13/21/20180313091258_48fa8b1d085800831519f57d890509fe.png",
             {}
         ],
         [
@@ -291,12 +273,6 @@
             {}
         ],
         [
-            "6145",
-            "gdut.bsx.videoreverser",
-            "//gxicon.b0.upaiyun.com/2018/03/13/21/20180313092151_c6adf2554def9d4e17800b32a4758b60.png",
-            {}
-        ],
-        [
             "6146",
             "gdut.bsx.videoreverser",
             "//gxicon.b0.upaiyun.com/2018/03/13/21/20180313092152_cfec026b5b14766d65c6cd607c54ac7f.png",
@@ -336,12 +312,6 @@
             "6152",
             "google_camera",
             "//gxicon.b0.upaiyun.com/2018/03/13/21/20180313092504_ed924cece252ef691e0797fa677c11a4.png",
-            {}
-        ],
-        [
-            "6153",
-            "google_chrome",
-            "//gxicon.b0.upaiyun.com/2018/03/13/21/20180313092505_f98749055c4440ebb8ae5f6c4bae5fa7.png",
             {}
         ],
         [
@@ -441,12 +411,6 @@
             {}
         ],
         [
-            "6171",
-            "sony_audio_recorder",
-            "//gxicon.b0.upaiyun.com/2018/03/13/21/20180313092900_fd8088131a60cf6a50a397dba2463085.png",
-            {}
-        ],
-        [
             "6172",
             "sony_music",
             "//gxicon.b0.upaiyun.com/2018/03/13/21/20180313092901_50116a39beccc6a0ae0b42c4b2a6e9af.png",
@@ -531,27 +495,9 @@
             {}
         ],
         [
-            "6186",
-            "l.o",
-            "//gxicon.b0.upaiyun.com/2018/03/13/21/20180313093027_429c91f75a201a47e4f1325968655647.png",
-            {}
-        ],
-        [
-            "6187",
-            "org.xbmc.kore",
-            "//gxicon.b0.upaiyun.com/2018/03/13/21/20180313093028_24380c389e8fa2aa8df73fef198f5418.png",
-            {}
-        ],
-        [
             "6188",
             "com.lionmobi.powerclean",
             "//gxicon.b0.upaiyun.com/2018/03/13/21/20180313093028_a5e7d38f699abf70129f4578521c42bd.png",
-            {}
-        ],
-        [
-            "6189",
-            "com.psiphon3",
-            "//gxicon.b0.upaiyun.com/2018/03/13/21/20180313093029_30964bc53ed4c184360fe940b9811b87.png",
             {}
         ],
         [
@@ -582,18 +528,6 @@
             "6195",
             "com.greenpoint.android.mc10086.activity",
             "//gxicon.b0.upaiyun.com/2018/03/13/21/20180313094232_0371990a00fe59ad4671e6c0bf1b8149.png",
-            {}
-        ],
-        [
-            "6196",
-            "com.weico.international",
-            "//gxicon.b0.upaiyun.com/2018/03/13/21/20180313094326_00bd8c2350d4aa43ed44374a151cf99e.png",
-            {}
-        ],
-        [
-            "6196",
-            "com.weico.international",
-            "//gxicon.b0.upaiyun.com/2018/03/13/21/20180313094326_00bd8c2350d4aa43ed44374a151cf99e.png",
             {}
         ],
         [
