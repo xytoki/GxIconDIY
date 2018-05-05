@@ -1,7 +1,7 @@
 {
     "pkg": "com.gxicon.jamie",
     "app": "吉米图标包",
-    "vname": "1.9",
+    "vname": "1.10",
     "vcode": "18050401",
     "author": "[Jamie](copy:Jamie)",
     "color_primary": "#f44336",
@@ -39,12 +39,6 @@
             {}
         ],
         [
-            "1508",
-            "com.asus.aihome",
-            "//gxicon.b0.upaiyun.com/2017/10/17/01/20171017014031_e8856f4d75d1660af17892273135586d.png",
-            {}
-        ],
-        [
             "1509",
             "com.diershoubing.erbing",
             "//gxicon.b0.upaiyun.com/2017/10/17/01/20171017014138_5f5a84ea8fe21b6c7488d4182dfb6e80.png",
@@ -72,12 +66,6 @@
             "3916",
             "com.asus.aihome",
             "//gxicon.b0.upaiyun.com/2018/01/29/01/20180129012118_2af8aa2aa26f1fc17389a93c32619101.png",
-            {}
-        ],
-        [
-            "3917",
-            "com.wanmei.a9vg",
-            "//gxicon.b0.upaiyun.com/2018/01/29/01/20180129012215_4b9eff103d52f1f48a44ee07acf4e0aa.png",
             {}
         ],
         [
@@ -162,6 +150,12 @@
             "6211",
             "cn.TuHu.android",
             "//gxicon.b0.upaiyun.com/iconstore/a50ace126575e7c3ab9d726f776c99a5.png",
+            {}
+        ],
+        [
+            "6233",
+            "com . ubisoft . dance . justdance2015companion",
+            "//gxicon.b0.upaiyun.com/iconstore/9aa8e70c1293af2df424f6864a189f61.png",
             {}
         ]
     ]
