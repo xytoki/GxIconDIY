@@ -4,50 +4,26 @@
     "vname": "1.0.0.0",
     "vcode": "180515",
     "author": "[Kaidi990409](copy:Kaidi990409)",
-    "color_primary": "#f44336",
+    "color_primary": "#F44336",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
     "icons": [
         [
-            "6239",
-            "com.example.administrator.searchpicturetool",
-            "//gxicon.b0.upaiyun.com/iconstore/2619c6092b1a9b27d7012a799258c0c7.png",
+            "6245",
+            "jiuhuar",
+            "//gxicon.b0.upaiyun.com/iconstore/caad666dcede033ac9dcedfa7653de94.png",
             {}
         ],
         [
-            "6238",
-            "com.example.yink.amadeus.kurisutina",
-            "//gxicon.b0.upaiyun.com/iconstore/0dacae8a248f4d0cee56b19dd8ec66d5.png",
+            "6246",
+            "giveitup",
+            "//gxicon.b0.upaiyun.com/iconstore/a25c31d0213e4aefb50723799f0587b6.png",
             {}
         ],
         [
-            "6240",
-            "com.videoshop.app",
-            "//gxicon.b0.upaiyun.com/iconstore/f0b5850a83fe348eb26a3371ebd4eeed.png",
-            {}
-        ],
-        [
-            "6241",
-            "star.iota.sakura",
-            "//gxicon.b0.upaiyun.com/iconstore/ddc32ad3a4fe0f563def8d455134cf3e.png",
-            {}
-        ],
-        [
-            "6242",
-            "com.jiuhuar.android",
-            "//gxicon.b0.upaiyun.com/iconstore/f9fe81383555a928d47e83b5069f69ed.png",
-            {}
-        ],
-        [
-            "6243",
-            "immortalz.me.zimujun",
-            "//gxicon.b0.upaiyun.com/iconstore/87d16eebc0fb38570ce4af267b95ddff.png",
-            {}
-        ],
-        [
-            "6244",
-            "com.heike.gw.heike",
-            "//gxicon.b0.upaiyun.com/iconstore/0af035ae3515e305d49882917f0b0253.png",
+            "6247",
+            "com.invictus.giveitup2",
+            "//gxicon.b0.upaiyun.com/iconstore/6bacb1c11f2adce1dce8e094469bc13c.png",
             {}
         ]
     ]
