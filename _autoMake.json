@@ -18,7 +18,10 @@
             "6213",
             "com.jingdong.app.mall",
             "//gxicon.b0.upaiyun.com/iconstore/cc291940b51bd114f00a237373191b5b.png",
-            {}
+            {
+                "appfilter": "<!-- 手机京东 / 手机京东 -->\n<item component=\"ComponentInfo{com.jingdong.app.mall/com.jingdong.app.mall.main.ConnectNetPromptActivity}\" drawable=\"com_jingdong_app_mall\" />",
+                "drawable": "com_jingdong_app_mall"
+            }
         ],
         [
             "6214",
@@ -36,7 +39,10 @@
             "6216",
             "com.tencent.mn",
             "//gxicon.b0.upaiyun.com/iconstore/f26ea6817331bda0176c4eaf4f4a3a3f.png",
-            {}
+            {
+                "appfilter": "<!-- 微信 / WeChat -->\n<item component=\"ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}\" drawable=\"we_chat\" />",
+                "drawable": "we_chat"
+            }
         ],
         [
             "6217",
@@ -150,7 +156,10 @@
             "6237",
             "com.xizi.com",
             "//gxicon.b0.upaiyun.com/iconstore/7502f42240e965139667b2430253fbbe.png",
-            {}
+            {
+                "appfilter": "<!-- 西子圈 -->\n<item drawable=\"com_xizi_quan_com_xizi_quan_activity_StartActivity\" component=\"ComponentInfo{com.xizi.quan/com.xizi.quan.activity.StartActivity}\"/>",
+                "drawable": "com_xizi_quan_com_xizi_quan_activity_StartActivity"
+            }
         ],
         [
             "1608",
