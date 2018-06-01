@@ -19,7 +19,7 @@
             "com.jingdong.app.mall",
             "//gxicon.b0.upaiyun.com/iconstore/cc291940b51bd114f00a237373191b5b.png",
             {
-                "appfilter": "<!-- 手机京东 / 手机京东 -->\n<item component=\"ComponentInfo{com.jingdong.app.mall/com.jingdong.app.mall.main.ConnectNetPromptActivity}\" drawable=\"com_jingdong_app_mall\" />",
+                "appfilter": "<!-- 京东 / 京东 -->\n<item component=\"ComponentInfo{com.jingdong.app.mall/com.jingdong.app.mall.main.MainActivity}\" drawable=\"com_jingdong_app_mall\" />",
                 "drawable": "com_jingdong_app_mall"
             }
         ],
@@ -157,8 +157,8 @@
             "com.xizi.com",
             "//gxicon.b0.upaiyun.com/iconstore/7502f42240e965139667b2430253fbbe.png",
             {
-                "appfilter": "<!-- 西子圈 -->\n<item drawable=\"com_xizi_quan_com_xizi_quan_activity_StartActivity\" component=\"ComponentInfo{com.xizi.quan/com.xizi.quan.activity.StartActivity}\"/>",
-                "drawable": "com_xizi_quan_com_xizi_quan_activity_StartActivity"
+                "appfilter": "<!-- 西子圈 / 西子圈 -->\n<item component=\"ComponentInfo{com.xizi.quan/com.xizi.quan.activity.StartActivity}\" drawable=\"com_xizi_quan\" />",
+                "drawable": "com_xizi_quan"
             }
         ],
         [
