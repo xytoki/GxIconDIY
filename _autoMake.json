@@ -1,8 +1,8 @@
 {
     "pkg": "com.gxicon.pixel",
     "app": "原生风格",
-    "vname": "1.0.0.1",
-    "vcode": "18060110",
+    "vname": "1.0.0.5",
+    "vcode": "18060112",
     "author": "[@zsylive](copy:@zsylive)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
@@ -15,15 +15,6 @@
             {}
         ],
         [
-            "6213",
-            "com.jingdong.app.mall",
-            "//gxicon.b0.upaiyun.com/iconstore/cc291940b51bd114f00a237373191b5b.png",
-            {
-                "appfilter": "<!-- 京东 / 京东 -->\n<item component=\"ComponentInfo{com.jingdong.app.mall/com.jingdong.app.mall.main.MainActivity}\" drawable=\"com_jingdong_app_mall\" />",
-                "drawable": "com_jingdong_app_mall"
-            }
-        ],
-        [
             "6214",
             "com.smzdm.client.android",
             "//gxicon.b0.upaiyun.com/iconstore/dcc34dfceb962c6f459b258543322fe4.png",
@@ -34,15 +25,6 @@
             "com.taobao.idlefish",
             "//gxicon.b0.upaiyun.com/iconstore/e56eb4e308d4c4925877738b2cf49e8e.png",
             {}
-        ],
-        [
-            "6216",
-            "com.tencent.mn",
-            "//gxicon.b0.upaiyun.com/iconstore/f26ea6817331bda0176c4eaf4f4a3a3f.png",
-            {
-                "appfilter": "<!-- 微信 / WeChat -->\n<item component=\"ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}\" drawable=\"we_chat\" />",
-                "drawable": "we_chat"
-            }
         ],
         [
             "6217",
@@ -153,18 +135,27 @@
             {}
         ],
         [
-            "6237",
-            "com.xizi.com",
-            "//gxicon.b0.upaiyun.com/iconstore/7502f42240e965139667b2430253fbbe.png",
-            {
-                "appfilter": "<!-- 西子圈 / 西子圈 -->\n<item component=\"ComponentInfo{com.xizi.quan/com.xizi.quan.activity.StartActivity}\" drawable=\"com_xizi_quan\" />",
-                "drawable": "com_xizi_quan"
-            }
-        ],
-        [
             "1608",
             "com.tencent.androidqqmail",
             "//gxicon.b0.upaiyun.com/2017/10/20/18/20171020060235_ea9cbc762ba3dbf18b65dee0c2b3d1b2.png",
+            {}
+        ],
+        [
+            "6300",
+            "com.xizi.quan",
+            "//gxicon.b0.upaiyun.com/iconstore/7502f42240e965139667b2430253fbbe.png",
+            {}
+        ],
+        [
+            "6301",
+            "com.tencent.mm",
+            "//gxicon.b0.upaiyun.com/iconstore/f26ea6817331bda0176c4eaf4f4a3a3f.png",
+            {}
+        ],
+        [
+            "6302",
+            "com.jingdong.app.mall",
+            "//gxicon.b0.upaiyun.com/iconstore/cc291940b51bd114f00a237373191b5b.png",
             {}
         ]
     ]
