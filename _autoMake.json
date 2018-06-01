@@ -1,8 +1,8 @@
 {
     "pkg": "com.gxicon.pixel",
     "app": "原生风格",
-    "vname": "1.0.0.5",
-    "vcode": "18060112",
+    "vname": "1.0.1.0",
+    "vcode": "18060113",
     "author": "[@zsylive](copy:@zsylive)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
@@ -156,7 +156,10 @@
             "6302",
             "com.jingdong.app.mall",
             "//gxicon.b0.upaiyun.com/iconstore/cc291940b51bd114f00a237373191b5b.png",
-            {}
+            {
+                "appfilter": "<!-- 京东 / 京东 -->\n<item component=\"ComponentInfo{com.jingdong.app.mall/com.jingdong.app.mall.main.MainActivity}\" drawable=\"com_jingdong_app_mall\" />",
+                "drawable": "com_jingdong_app_mall"
+            }
         ]
     ]
 }
