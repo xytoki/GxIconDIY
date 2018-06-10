@@ -1,8 +1,8 @@
 {
     "pkg": "com.gxicon.pixelstyle",
     "app": "Pixel Icon",
-    "vname": "2.7",
-    "vcode": "20180609",
+    "vname": "2.7.1",
+    "vcode": "20180610",
     "author": "[SteveChern](copy:SteveChern)",
     "color_primary": "#2D8CF0",
     "color_primary_dark": "#046FEA",
@@ -339,7 +339,10 @@
             "6308",
             "cn.soulapp.android",
             "//gxicon.b0.upaiyun.com/iconstore/3ef839d7a1ec97978ff9c6f93f89931b.png",
-            {}
+            {
+                "appfilter": "<item component=\"ComponentInfo{cn.soulapp.android/cn.soulapp.android.ui.splash.SplashActivity}\" drawable=\"soul\" />",
+                "drawable": "soul"
+            }
         ]
     ]
 }
