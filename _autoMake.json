@@ -1,8 +1,8 @@
 {
     "pkg": "com.gxicon.pc1",
     "app": "OUT",
-    "vname": "2.0",
-    "vcode": "14",
+    "vname": "2.1",
+    "vcode": "15",
     "author": "[@pengcheng](copy:@pengcheng)",
     "color_primary": "#DC0000",
     "color_primary_dark": "#B10000",
@@ -66,12 +66,6 @@
             "4005",
             "me.ele",
             "//gxicon.b0.upaiyun.com/2018/02/10/17/20180210051605_ccad70b2f335af31df0f5a8807419e77.png",
-            {}
-        ],
-        [
-            "4010",
-            "com.kaola",
-            "//gxicon.b0.upaiyun.com/2018/02/10/17/20180210052232_fba7422f274b7ee891ce25e41332c62a.png",
             {}
         ],
         [
@@ -942,6 +936,54 @@
             "6310",
             "com.seazon.feedme",
             "//gxicon.b0.upaiyun.com/iconstore/2b1d642e4964148c10c745e4254a1f6b.png",
+            {}
+        ],
+        [
+            "6311",
+            "com.mfw.roadbook",
+            "//gxicon.b0.upaiyun.com/iconstore/7b4e11e8c6e28123b1db0e974040c156.png",
+            {}
+        ],
+        [
+            "6312",
+            "com.pingan.paces.ccms",
+            "//gxicon.b0.upaiyun.com/iconstore/a563c7e85835a4bc1bcc4d35db3432c7.png",
+            {}
+        ],
+        [
+            "6313",
+            "com.kaola",
+            "//gxicon.b0.upaiyun.com/iconstore/359df122da8c3d0f1452d202e25df28d.png",
+            {}
+        ],
+        [
+            "6314",
+            "com.microsoft.office.onenote",
+            "//gxicon.b0.upaiyun.com/iconstore/038e7eae82d941167069ec738c92c033.png",
+            {}
+        ],
+        [
+            "6315",
+            "com.microsoft.skydrive",
+            "//gxicon.b0.upaiyun.com/iconstore/ecb78c445fd1f51757c810699cdf4f40.png",
+            {}
+        ],
+        [
+            "6316",
+            "com.microsoft.office.outlook",
+            "//gxicon.b0.upaiyun.com/iconstore/1f4342c28e64289060b066b9eb304987.png",
+            {}
+        ],
+        [
+            "6317",
+            "com.ext.star.wars",
+            "//gxicon.b0.upaiyun.com/iconstore/fa5dc61cc1b207c53d752e7c36640b61.png",
+            {}
+        ],
+        [
+            "6318",
+            "com.zzzmode.appopsx",
+            "//gxicon.b0.upaiyun.com/iconstore/3eb1102dc5cd905d161a71d2ec5bb9bc.png",
             {}
         ]
     ]
