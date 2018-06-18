@@ -1,7 +1,7 @@
 {
     "pkg": "com.gxicon.pc1",
     "app": "OUT",
-    "vname": "2.2",
+    "vname": "2.3",
     "vcode": "16",
     "author": "[@pengcheng](copy:@pengcheng)",
     "color_primary": "#DC0000",
@@ -1002,6 +1002,30 @@
             "6322",
             "com.crossbowffs.nekosms",
             "//gxicon.b0.upaiyun.com/iconstore/381be8a79008fbee57cec3b830b61aec.png",
+            {}
+        ],
+        [
+            "6324",
+            "eu.chainfire.suhide",
+            "//gxicon.b0.upaiyun.com/iconstore/36ba82452ec91f38db73179e445378e9.png",
+            {}
+        ],
+        [
+            "6325",
+            "com.google.android.apps.docs",
+            "//gxicon.b0.upaiyun.com/iconstore/259811ebabd507d7c80c314259443d21.png",
+            {}
+        ],
+        [
+            "6326",
+            "com.google.android.apps.cloudconsole",
+            "//gxicon.b0.upaiyun.com/iconstore/fb27be6e01b0e2b5dc406497f474f521.png",
+            {}
+        ],
+        [
+            "6327",
+            "kh.android.dir",
+            "//gxicon.b0.upaiyun.com/iconstore/94593aeb9e50413312493fa2f3ad41fc.png",
             {}
         ]
     ]
