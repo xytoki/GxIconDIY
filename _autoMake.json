@@ -1,7 +1,7 @@
 {
     "pkg": "com.gxicon.Kaidi990409",
-    "app": "自制图表包",
-    "vname": "1.0.0.5",
+    "app": "自制图标包",
+    "vname": "1.0.0.6",
     "vcode": "180709",
     "author": "[Kaidi990409](copy:Kaidi990409)",
     "color_primary": "#f44336",
@@ -24,12 +24,6 @@
             "6336",
             "org.ppsspp.ppsspp",
             "//gxicon.b0.upaiyun.com/iconstore/fdd9fadfa9e08cadb614dfb64d6f57a0.png",
-            {}
-        ],
-        [
-            "6328",
-            "com.gracecode.android.gojuon",
-            "//gxicon.b0.upaiyun.com/iconstore/376384cd7717bb873afcf66c891a6036.png",
             {}
         ],
         [
@@ -75,21 +69,27 @@
             {}
         ],
         [
-            "1804",
-            "com.sdu.didi.psnger",
-            "//gxicon.b0.upaiyun.com/2017/10/28/23/20171028113312_4642c97e69e4ab842ae646fbf582a496.png",
-            {}
-        ],
-        [
-            "1845",
-            "com.android.mms",
-            "//gxicon.b0.upaiyun.com/2017/10/29/00/20171029120522_3f061293346dc6a27c77987c1da9c33d.png",
-            {}
-        ],
-        [
             "6337",
             "com.izaodao.gps",
             "//gxicon.b0.upaiyun.com/iconstore/f9c3822a25d3d79885d0228ea7de4797.png",
+            {}
+        ],
+        [
+            "6338",
+            "com.sdu.didi.psnger",
+            "//gxicon.b0.upaiyun.com/iconstore/658d03538fadbfd515dd87fee13128d3.png",
+            {}
+        ],
+        [
+            "6339",
+            "com.taobao.idlefish",
+            "//gxicon.b0.upaiyun.com/iconstore/5602f5aa525f55c960436a967fc85daf.png",
+            {}
+        ],
+        [
+            "6340",
+            "com.android.mms",
+            "//gxicon.b0.upaiyun.com/iconstore/52d518ecd257d48f21a7069ab046ec44.png",
             {}
         ]
     ]
