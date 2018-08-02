@@ -1,23 +1,17 @@
 {
-    "pkg": "com.gxicon.kaidi990409",
+    "pkg": "com.gxicon.Kaidi990409",
     "app": "共享图标包",
-    "vname": "1.0.0.0",
-    "vcode": "180723",
+    "vname": "1.0.0.3",
+    "vcode": "180802",
     "author": "[Kaidi990409](copy:Kaidi990409)",
-    "color_primary": "#f44336",
+    "color_primary": "#F44336",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
     "icons": [
         [
-            "6353",
-            "com.oasisfeng.nevo",
-            "//gxicon.b0.upaiyun.com/iconstore/aa88b029842fc2c092e5a0adc546ab1f.png",
-            {}
-        ],
-        [
-            "6354",
-            "com.picacomic.fregata",
-            "//gxicon.b0.upaiyun.com/iconstore/f046a8c65e75186d48aa7c8eb1baea7d.png",
+            "6338",
+            "com.sdu.didi.psnger",
+            "//gxicon.b0.upaiyun.com/iconstore/658d03538fadbfd515dd87fee13128d3.png",
             {}
         ]
     ]
