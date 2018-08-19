@@ -1,7 +1,7 @@
 {
     "pkg": "com.gxicon.pixelstyle",
     "app": "Pixel",
-    "vname": "2.8",
+    "vname": "2.9",
     "vcode": "20180819",
     "author": "[@Steve](copy:@Steve)",
     "color_primary": "#2D8CF0",
@@ -36,7 +36,10 @@
             "3813",
             "com.nicsoftware.snapseed",
             "//gxicon.b0.upaiyun.com/2018/01/21/23/20180121114247_b42cf43de2e504ccc45b42d9c3231274.png",
-            {}
+            {
+                "appfilter": "<!-- Snapseed / Snapseed -->\n<item component=\"ComponentInfo{com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity}\" drawable=\"snapseed\" />",
+                "drawable": "snapseed"
+            }
         ],
         [
             "3876",
@@ -66,7 +69,10 @@
             "3885",
             "com.jingdong.app.mall",
             "//gxicon.b0.upaiyun.com/2018/01/26/11/20180126111617_b94680cea8a523ba77b3cc14da4758f6.png",
-            {}
+            {
+                "appfilter": "<!-- 京东 / 京东 -->\n<item component=\"ComponentInfo{com.jingdong.app.mall/com.jingdong.app.mall.main.MainActivity}\" drawable=\"com_jingdong_app_mall\" />",
+                "drawable": "com_jingdong_app_mall"
+            }
         ],
         [
             "3889",
@@ -222,13 +228,19 @@
             "6361",
             "com.sdu.didi.psnger",
             "//gxicon.b0.upaiyun.com/iconstore/81ccfa5da93e5cae5f7332a635d6bca6.png",
-            {}
+            {
+                "appfilter": "<!-- 滴滴出行 / DiDi -->\n<item component=\"ComponentInfo{com.sdu.didi.psnger/com.didi.sdk.app.launch.DidiLoadDexActivity}\" drawable=\"di_di\" />",
+                "drawable": "di_di"
+            }
         ],
         [
             "3209",
             "com.suning.mobile.ebuy",
             "//gxicon.b0.upaiyun.com/2017/12/26/14/20171226023143_5e38c2a47b419e4cdf1101e507a964d7.png",
-            {}
+            {
+                "appfilter": "<!-- 苏宁易购 / SUNING -->\n<item component=\"ComponentInfo{com.suning.mobile.ebuy/com.suning.mobile.ebuy.host.InitialActivity}\" drawable=\"suning\" />",
+                "drawable": "suning"
+            }
         ],
         [
             "6073",
