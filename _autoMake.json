@@ -1,8 +1,8 @@
 {
     "pkg": "com.gxicon.pixelstyle",
     "app": "Pixel",
-    "vname": "2.9.1",
-    "vcode": "20180901",
+    "vname": "2.9.2",
+    "vcode": "20180909",
     "author": "[@Steve](copy:@Steve)",
     "color_primary": "#2D8CF0",
     "color_primary_dark": "#2472C5",
@@ -283,6 +283,18 @@
                 "appfilter": "<!-- MT Manager / MT Manager -->\n<item component=\"ComponentInfo{bin.mt.plus/l.ۛۘۖۛ}\" drawable=\"mt_manager\" />",
                 "drawable": "mt_manager"
             }
+        ],
+        [
+            "1943",
+            "com.oasisfeng.greenify",
+            "//gxicon.b0.upaiyun.com/2017/11/04/00/20171104125114_beee5fbfdee0a0d75b91d27d1825df54.png",
+            {}
+        ],
+        [
+            "3910",
+            "org.fdroid.fdroid",
+            "//gxicon.b0.upaiyun.com/2018/01/26/11/20180126113549_0534e4552b3552c0dc08c95cc8458ef4.png",
+            {}
         ]
     ]
 }
