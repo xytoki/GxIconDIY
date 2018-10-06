@@ -1,7 +1,7 @@
 {
     "pkg": "com.gxicon.Kaidi990409",
     "app": "共享图标包",
-    "vname": "1.1.0.1",
+    "vname": "1.1.0.2",
     "vcode": "180826",
     "author": "[@Kaidi990409](copy:@Kaidi990409)",
     "color_primary": "#f44336",
@@ -9,15 +9,9 @@
     "color_accent": "#ff5252",
     "icons": [
         [
-            "6376",
-            "com.blackpanther.ninjaarashi",
-            "//gxicon.b0.upaiyun.com/iconstore/c18474a5b6f49c753685382741062083.png",
-            {}
-        ],
-        [
-            "6377",
-            "com.dmzj.manhua",
-            "//gxicon.b0.upaiyun.com/iconstore/99bdf5439030e5972f5ce21d0b4d0abf.png",
+            "6375",
+            "com.nike.snkrs",
+            "//gxicon.b0.upaiyun.com/iconstore/2e64c85af7a636f88ae71fcbb9be703e.png",
             {}
         ]
     ]
