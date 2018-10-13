@@ -45,12 +45,6 @@
             {}
         ],
         [
-            "6353",
-            "com.oasisfeng.nevo",
-            "//gxicon.b0.upaiyun.com/iconstore/aa88b029842fc2c092e5a0adc546ab1f.png",
-            {}
-        ],
-        [
             "3813",
             "com.nicsoftware.snapseed",
             "//gxicon.b0.upaiyun.com/2018/01/21/23/20180121114247_b42cf43de2e504ccc45b42d9c3231274.png",
@@ -189,6 +183,12 @@
             "6378",
             "com.tencent.weread",
             "//gxicon.b0.upaiyun.com/iconstore/e36e9fa9ab94aeab6d101cfeca9f79f4.png",
+            {}
+        ],
+        [
+            "6353",
+            "com.oasisfeng.nevo",
+            "//gxicon.b0.upaiyun.com/iconstore/aa88b029842fc2c092e5a0adc546ab1f.png",
             {}
         ]
     ]
