@@ -2,7 +2,7 @@
     "pkg": "com.gxicon.pixelstyle",
     "app": "Pixel",
     "vname": "3.1",
-    "vcode": "10132124",
+    "vcode": "10132158",
     "author": "[@SteveChern](copy:@SteveChern)",
     "color_primary": "#2D8CF0",
     "color_primary_dark": "#2D8CF0",
@@ -18,7 +18,10 @@
             "6364",
             "cmb.pb",
             "//gxicon.b0.upaiyun.com/iconstore/c34a4aa30c6c5a271951158af3a9ce32.png",
-            {}
+            {
+                "appfilter": "<item component=\"ComponentInfo{cmb.pb/cmb.pb.launch.PBInitActivity}\" drawable=\"cmb_pb\" />",
+                "drawable": "cmb_pb"
+            }
         ],
         [
             "6363",
@@ -42,7 +45,10 @@
             "6361",
             "com.sdu.didi.psnger",
             "//gxicon.b0.upaiyun.com/iconstore/81ccfa5da93e5cae5f7332a635d6bca6.png",
-            {}
+            {
+                "appfilter": "<item component=\"ComponentInfo{com.sdu.didi.psnger/com.didi.sdk.app.launch.DidiLoadDexActivity}\" drawable=\"di_di\" />",
+                "drawable": "di_di"
+            }
         ],
         [
             "3813",
@@ -54,7 +60,10 @@
             "3885",
             "com.jingdong.app.mall",
             "//gxicon.b0.upaiyun.com/2018/01/26/11/20180126111617_b94680cea8a523ba77b3cc14da4758f6.png",
-            {}
+            {
+                "appfilter": "<item component=\"ComponentInfo{com.jingdong.app.mall/com.jingdong.app.mall.main.MainActivity}\" drawable=\"com_jingdong_app_mall\" />",
+                "drawable": "com_jingdong_app_mall"
+            }
         ],
         [
             "3890",
@@ -168,14 +177,17 @@
             "3898",
             "bin.mt.plus",
             "//gxicon.b0.upaiyun.com/2018/01/26/11/20180126111935_0fb59004501e11a841b5bc689dc9bbfa.png",
-            {}
+            {
+                "appfilter": "<item component=\"ComponentInfo{bin.mt.plus/l.ۛۘۖۛ}\" drawable=\"mt_manager\" />",
+                "drawable": "mt_manager"
+            }
         ],
         [
             "6066",
             "com.zhihu.android",
             "//gxicon.b0.upaiyun.com/2018/02/27/23/20180227114825_6116f9c6ba87a6cebaf7392a2aa230fe.png",
             {
-                "appfilter": "<item component=\"ComponentInfo{com.zhihu.android.lite/com.zhihu.android.lite.app.MainActivity}\" drawable=\"com_zhihu_android_lite\" />",
+                "appfilter": "<item component=\"ComponentInfo{com.zhihu.android.lite/com.zhihu.android.lite.app.MainActivity}\" drawable=\"com_zhihu_android_lite\" />\n<item component=\"ComponentInfo{com.zhihu.android.lite/com.zhihu.android.lite.app.SplashActivity}\" drawable=\"com_zhihu_android_lite\" />",
                 "drawable": "com_zhihu_android_lite"
             }
         ],
@@ -195,6 +207,18 @@
             "1858",
             "com.netease.mobimail.oneplus",
             "//gxicon.b0.upaiyun.com/2017/10/29/00/20171029120524_60bbe4a7778945cd3f976c0e8f95f788.png",
+            {}
+        ],
+        [
+            "3894",
+            "com.ifttt.ifttt",
+            "//gxicon.b0.upaiyun.com/2018/01/26/11/20180126111935_66c725232e90b67864a2e6ecc7be57ba.png",
+            {}
+        ],
+        [
+            "3209",
+            "com.suning.mobile.ebuy",
+            "//gxicon.b0.upaiyun.com/2017/12/26/14/20171226023143_5e38c2a47b419e4cdf1101e507a964d7.png",
             {}
         ]
     ]
