@@ -1,17 +1,29 @@
 {
-    "pkg": "com.gxicon.tohti",
-    "app": "书法图标包",
-    "vname": "1.0",
-    "vcode": "181021",
-    "author": "[殇灰](copy:殇灰)",
-    "color_primary": "#f44336",
-    "color_primary_dark": "#d80f00",
-    "color_accent": "#ff5252",
+    "pkg": "com.gxicon.osmo_alpha",
+    "app": "Osmo 渗透",
+    "vname": "0.0.1",
+    "vcode": "1",
+    "author": "[flijo](copy:flijo)",
+    "color_primary": "#3AE5B5",
+    "color_primary_dark": "#16B47C",
+    "color_accent": "#2978F4",
     "icons": [
         [
-            "6343",
-            "com.cn21.ecloud",
-            "//gxicon.b0.upaiyun.com/iconstore/76afed8c24cb730c6a22fec778aca015.png",
+            "6392",
+            "com.android.contacts",
+            "//gxicon.b0.upaiyun.com/iconstore/a14ff315279934d6bf27bbb25aec88d0.png",
+            {}
+        ],
+        [
+            "6393",
+            "com.android.phone",
+            "//gxicon.b0.upaiyun.com/iconstore/2fbdf09b00a8d65bebf4690c4e6d3732.png",
+            {}
+        ],
+        [
+            "6394",
+            "com.android.mms",
+            "//gxicon.b0.upaiyun.com/iconstore/9fdef716fe271e7892b05a6691ec8e30.png",
             {}
         ]
     ]
