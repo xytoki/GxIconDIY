@@ -1,8 +1,8 @@
 {
     "pkg": "com.gxicon.pixelstyle",
     "app": "Pixel",
-    "vname": "3.6",
-    "vcode": "1115",
+    "vname": "3.7",
+    "vcode": "1120",
     "author": "[@SteveChern](copy:@SteveChern)",
     "color_primary": "#2D8CF0",
     "color_primary_dark": "#2D8CF0",
@@ -111,7 +111,10 @@
             "6069",
             "com.nianticproject.ingress",
             "//gxicon.b0.upaiyun.com/2018/02/28/13/20180228011903_412f315a28051253d8294e9f8a8726a6.png",
-            {}
+            {
+                "appfilter": "<!-- Scanner [REDACTED] / Scanner [REDACTED] -->\n<item component=\"ComponentInfo{com.nianticlabs.ingress.prime.qa/com.nianticproject.ingress.NemesisActivity}\" drawable=\"com_nianticlabs_ingress_prime_qa\" />",
+                "drawable": "com_nianticlabs_ingress_prime_qa"
+            }
         ],
         [
             "6065",
@@ -225,6 +228,36 @@
             "6395",
             "com.google.android.apps.messaging",
             "//gxicon.b0.upaiyun.com/iconstore/e9b38d7e3430a0742247a66afaa6435a.png",
+            {}
+        ],
+        [
+            "6396",
+            "com.speedsoftware.rootexplorer",
+            "//gxicon.b0.upaiyun.com/iconstore/d04ceb393317fdaccd704a653da56f2d.png",
+            {}
+        ],
+        [
+            "6397",
+            "com.prineside.tdi",
+            "//gxicon.b0.upaiyun.com/iconstore/43facffd94d8ce5718dba7c217632361.png",
+            {}
+        ],
+        [
+            "6398",
+            "com.gombosdev.ingressportalcalc",
+            "//gxicon.b0.upaiyun.com/iconstore/796cb721d7b340e2bc819935212b19ed.png",
+            {}
+        ],
+        [
+            "6399",
+            "com.tencent.blackkey",
+            "//gxicon.b0.upaiyun.com/iconstore/e9b8b8c7ae5b70fe126ae17ac09b6f19.png",
+            {}
+        ],
+        [
+            "6400",
+            "com.cradle.iitc_mobile.test",
+            "//gxicon.b0.upaiyun.com/iconstore/67023bdc62c9917ae876b8a1e722b216.png",
             {}
         ]
     ]
