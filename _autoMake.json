@@ -1,8 +1,8 @@
 {
     "pkg": "com.gxicon.pixelstyle",
     "app": "Pixel",
-    "vname": "3.7",
-    "vcode": "1120",
+    "vname": "3.8",
+    "vcode": "1208",
     "author": "[@SteveChern](copy:@SteveChern)",
     "color_primary": "#2D8CF0",
     "color_primary_dark": "#2D8CF0",
@@ -174,15 +174,6 @@
             }
         ],
         [
-            "6066",
-            "com.zhihu.android",
-            "//gxicon.b0.upaiyun.com/2018/02/27/23/20180227114825_6116f9c6ba87a6cebaf7392a2aa230fe.png",
-            {
-                "appfilter": "<item component=\"ComponentInfo{com.zhihu.android.lite/com.zhihu.android.lite.app.MainActivity}\" drawable=\"com_zhihu_android_lite\" />\n<item component=\"ComponentInfo{com.zhihu.android.lite/com.zhihu.android.lite.app.SplashActivity}\" drawable=\"com_zhihu_android_lite\" />",
-                "drawable": "com_zhihu_android_lite"
-            }
-        ],
-        [
             "6378",
             "com.tencent.weread",
             "//gxicon.b0.upaiyun.com/iconstore/e36e9fa9ab94aeab6d101cfeca9f79f4.png",
@@ -258,6 +249,24 @@
             "6400",
             "com.cradle.iitc_mobile.test",
             "//gxicon.b0.upaiyun.com/iconstore/67023bdc62c9917ae876b8a1e722b216.png",
+            {}
+        ],
+        [
+            "6401",
+            "com.ustwo.monumentvalley2",
+            "//gxicon.b0.upaiyun.com/iconstore/262b9278f67db3f756dccadbc1bb0d81.png",
+            {}
+        ],
+        [
+            "6402",
+            "com.sonelli.juicessh",
+            "//gxicon.b0.upaiyun.com/iconstore/cbde0f0962d319347b0ebe295f23589d.png",
+            {}
+        ],
+        [
+            "6403",
+            "com.zhihu.android.lite",
+            "//gxicon.b0.upaiyun.com/iconstore/50b6221466d50c59f1a7cf12825a618b.png",
             {}
         ]
     ]
