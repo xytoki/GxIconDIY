@@ -1,23 +1,17 @@
 {
-    "pkg": "com.gxicon.zizhi",
-    "app": "自制",
-    "vname": "1.0",
-    "vcode": "111",
-    "author": "[执着](copy:执着)",
+    "pkg": "com.gxicon.wzry",
+    "app": "王者荣耀",
+    "vname": "1.0.0.0",
+    "vcode": "1314520",
+    "author": "[快猫](copy:快猫)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
     "icons": [
         [
-            "6401",
-            "com.ustwo.monumentvalley2",
-            "//gxicon.b0.upaiyun.com/iconstore/262b9278f67db3f756dccadbc1bb0d81.png",
-            {}
-        ],
-        [
-            "6402",
-            "com.sonelli.juicessh",
-            "//gxicon.b0.upaiyun.com/iconstore/cbde0f0962d319347b0ebe295f23589d.png",
+            "6289",
+            "com.tencent.tmgp.sgame",
+            "//gxicon.b0.upaiyun.com/iconstore/b5d451abd38028f74416902ae9f65efa.png",
             {}
         ]
     ]
