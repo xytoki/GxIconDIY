@@ -1,47 +1,29 @@
 {
-    "pkg": "com.gxicon.gxdiy",
-    "app": "图标",
-    "vname": "1.1.1.1",
-    "vcode": "123456",
-    "author": "[@weng](copy:@weng)",
+    "pkg": "com.gxicon.qdldq",
+    "app": "xushuo",
+    "vname": "1.0.0.0",
+    "vcode": "15678942",
+    "author": "[xuanzi](copy:xuanzi)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
     "icons": [
         [
-            "554",
-            "com.bilibili.app.blue",
-            "//gxicon.b0.upaiyun.com/2017/09/01/17/20170901050126_4919af5e1eb09a24ca98cab3c4252749.png",
+            "6404",
+            "com.tencent.tmgp.sgame",
+            "//gxicon.b0.upaiyun.com/iconstore/d76b4031413337b8689b6259ee9da637.png",
             {}
         ],
         [
-            "521",
-            "com.netease.cloudmusic",
-            "//gxicon.b0.upaiyun.com/2017/08/31/08/20170831082255_da9a78d927ea0a4f91446dfc33a58dda.png",
+            "6405",
+            "com.tencent.tgp.wzry",
+            "//gxicon.b0.upaiyun.com/iconstore/1294825fe9672dfcb3ad988f7205965f.jpg",
             {}
         ],
         [
-            "330",
-            "com.tencent.mobileqq",
-            "//gxicon.b0.upaiyun.com/2017/08/26/14/20170826021249_4a8869b9089a81a45b2c7d5bf980bb46.png",
-            {}
-        ],
-        [
-            "491",
-            "com.tencent.mobileqq",
-            "//gxicon.b0.upaiyun.com/2017/08/30/12/20170830125123_f6b1ffe7cd8377f22bd0ebb6e6c3c86d.png",
-            {}
-        ],
-        [
-            "685",
-            "com.tencent.mobileqq",
-            "//gxicon.b0.upaiyun.com/2017/09/18/13/20170918011228_c54532fe4d05878f02c6ee6eb707938e.png",
-            {}
-        ],
-        [
-            "329",
-            "com.tencent.mobileqq",
-            "//gxicon.b0.upaiyun.com/2017/08/26/14/20170826021124_4b6f22f5058e95fb127f4c43a018bb96.png",
+            "6266",
+            "com.eg.android.AlipayGphone",
+            "//gxicon.b0.upaiyun.com/iconstore/2428cbf3dcab579354da480aef3c60ec.png",
             {}
         ]
     ]
