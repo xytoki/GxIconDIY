@@ -1,19 +1,13 @@
 {
-    "pkg": "com.gxicon.qfeshbv",
-    "app": "xushuonb",
+    "pkg": "com.gxicon.liuc",
+    "app": "liuc",
     "vname": "1.0.0.0",
-    "vcode": "15678957",
+    "vcode": "15678950",
     "author": "[xuanzi](copy:xuanzi)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
     "icons": [
-        [
-            "6404",
-            "com.tencent.tmgp.sgame",
-            "//gxicon.b0.upaiyun.com/iconstore/d76b4031413337b8689b6259ee9da637.png",
-            {}
-        ],
         [
             "6266",
             "com.eg.android.AlipayGphone",
@@ -24,6 +18,18 @@
             "6406",
             "com.tencent.tgp.wzry",
             "//gxicon.b0.upaiyun.com/iconstore/1110a6c05d67954518ec55ecd3dcb94f.jpg",
+            {}
+        ],
+        [
+            "6268",
+            "com.tencent.mm",
+            "//gxicon.b0.upaiyun.com/iconstore/d0f90175d5e0f7570fcca17640a9708a.png",
+            {}
+        ],
+        [
+            "6407",
+            "com.wuba.zhuanzhuan",
+            "//gxicon.b0.upaiyun.com/iconstore/8eeb03bef2f3a14953aca86c0ded1913.jpg",
             {}
         ]
     ]
