@@ -1,8 +1,8 @@
 {
-    "pkg": "com.gxicon.liuc",
-    "app": "liuc",
+    "pkg": "com.gxicon.Liuc",
+    "app": "Liuc",
     "vname": "1.0.0.0",
-    "vcode": "15678950",
+    "vcode": "15688975",
     "author": "[xuanzi](copy:xuanzi)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
@@ -30,6 +30,12 @@
             "6407",
             "com.wuba.zhuanzhuan",
             "//gxicon.b0.upaiyun.com/iconstore/8eeb03bef2f3a14953aca86c0ded1913.jpg",
+            {}
+        ],
+        [
+            "6408",
+            "com.ss.android.essay.joke",
+            "//gxicon.b0.upaiyun.com/iconstore/2a5286e9d1d524e7e08b632c96741117.jpg",
             {}
         ]
     ]
