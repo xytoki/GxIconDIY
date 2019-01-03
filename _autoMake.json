@@ -1,8 +1,8 @@
 {
-    "pkg": "com.gxicon.qdldq",
-    "app": "xushuo",
+    "pkg": "com.gxicon.qfeshbv",
+    "app": "xushuonb",
     "vname": "1.0.0.0",
-    "vcode": "15678942",
+    "vcode": "15678957",
     "author": "[xuanzi](copy:xuanzi)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
@@ -15,15 +15,15 @@
             {}
         ],
         [
-            "6405",
-            "com.tencent.tgp.wzry",
-            "//gxicon.b0.upaiyun.com/iconstore/1294825fe9672dfcb3ad988f7205965f.jpg",
-            {}
-        ],
-        [
             "6266",
             "com.eg.android.AlipayGphone",
             "//gxicon.b0.upaiyun.com/iconstore/2428cbf3dcab579354da480aef3c60ec.png",
+            {}
+        ],
+        [
+            "6406",
+            "com.tencent.tgp.wzry",
+            "//gxicon.b0.upaiyun.com/iconstore/1110a6c05d67954518ec55ecd3dcb94f.jpg",
             {}
         ]
     ]
