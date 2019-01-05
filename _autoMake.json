@@ -1,8 +1,8 @@
 {
-    "pkg": "com.gxicon.Liuc",
-    "app": "Liuc",
-    "vname": "1.0.0.0",
-    "vcode": "15688975",
+    "pkg": "com.gxicon.LiuC",
+    "app": "LiuC",
+    "vname": "1.0.0.",
+    "vcode": "15688956",
     "author": "[xuanzi](copy:xuanzi)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
@@ -36,6 +36,138 @@
             "6408",
             "com.ss.android.essay.joke",
             "//gxicon.b0.upaiyun.com/iconstore/2a5286e9d1d524e7e08b632c96741117.jpg",
+            {}
+        ],
+        [
+            "6289",
+            "com.tencent.tmgp.sgame",
+            "//gxicon.b0.upaiyun.com/iconstore/b5d451abd38028f74416902ae9f65efa.png",
+            {}
+        ],
+        [
+            "6291",
+            "com.andreamapp.note",
+            "//gxicon.b0.upaiyun.com/iconstore/fd859b3012732e7360cad4300a46f7bb.png",
+            {}
+        ],
+        [
+            "6277",
+            "com.autonavi.amapauto",
+            "//gxicon.b0.upaiyun.com/iconstore/e8d34b6db8fe3fcf100ee92cfd328bd1.png",
+            {}
+        ],
+        [
+            "6268",
+            "com.tencent.mm",
+            "//gxicon.b0.upaiyun.com/iconstore/d0f90175d5e0f7570fcca17640a9708a.png",
+            {}
+        ],
+        [
+            "6263",
+            "com.smartisan.notes",
+            "//gxicon.b0.upaiyun.com/iconstore/93331caa7a3639a0ed060557d5c6a754.png",
+            {}
+        ],
+        [
+            "6266",
+            "com.eg.android.AlipayGphone",
+            "//gxicon.b0.upaiyun.com/iconstore/2428cbf3dcab579354da480aef3c60ec.png",
+            {}
+        ],
+        [
+            "6294",
+            "com.oneplus.camera",
+            "//gxicon.b0.upaiyun.com/iconstore/874b3dfb7c317947c504376ad2f4144d.png",
+            {}
+        ],
+        [
+            "6296",
+            "com.oneplus.calculator",
+            "//gxicon.b0.upaiyun.com/iconstore/2f9693e628b486a19d0f4e83b41ffade.png",
+            {}
+        ],
+        [
+            "1063",
+            "com.android.browser",
+            "//gxicon.b0.upaiyun.com/2017/10/03/14/20171003025515_150a86ed7eaf650f4f0d600483b23d1b.png",
+            {}
+        ],
+        [
+            "6259",
+            "com.oneplus.soundrecorder",
+            "//gxicon.b0.upaiyun.com/iconstore/deb2a7c0b274989a518093e687d301c6.png",
+            {}
+        ],
+        [
+            "3726",
+            "net.oneplus.weather",
+            "//gxicon.b0.upaiyun.com/2018/01/20/16/20180120040944_fc7333c80098af24c44ddcf9e471da47.png",
+            {}
+        ],
+        [
+            "6256",
+            "com.estrongs.android.pop",
+            "//gxicon.b0.upaiyun.com/iconstore/ef3876827b7639caa96222e0cd7feda3.png",
+            {}
+        ],
+        [
+            "4572",
+            "cn.etouch.ecalendar",
+            "//gxicon.b0.upaiyun.com/2018/02/27/12/20180227120338_d74e932d7937a63b90e99a887c8a8bc3.png",
+            {}
+        ],
+        [
+            "2017",
+            "com.scliang.bqcalendar",
+            "//gxicon.b0.upaiyun.com/2017/11/11/11/20171111112700_920dbb8fcd273f2f0bcbfb40f12375f4.png",
+            {}
+        ],
+        [
+            "203",
+            "com.android.deskclock",
+            "//gxicon.b0.upaiyun.com/2017/08/24/11/20170824114711_5c3420b80d538d2521910a9413eb5525.jpg",
+            {}
+        ],
+        [
+            "1960",
+            "com.android.camera",
+            "//gxicon.b0.upaiyun.com/2017/11/04/12/20171104125448_1bee4b9f429aa2d8c01299b47f5568cb.png",
+            {}
+        ],
+        [
+            "2161",
+            "com.e123.gxicon",
+            "//gxicon.b0.upaiyun.com/2017/11/23/12/20171123123552_372caf9f7a7dadc1cefe7b3862388d08.png",
+            {}
+        ],
+        [
+            "1921",
+            "com.coolapk.market",
+            "//gxicon.b0.upaiyun.com/2017/11/02/22/20171102102214_703be132a6183f238606c3294d884bd5.png",
+            {}
+        ],
+        [
+            "1907",
+            "com.android.phone",
+            "//gxicon.b0.upaiyun.com/2017/11/01/22/20171101104906_5484b4fdec358830ec914de2620d9da7.png",
+            {}
+        ],
+        [
+            "1906",
+            "com.android.sms",
+            "//gxicon.b0.upaiyun.com/2017/11/01/22/20171101104847_652616226c0ebd2558917fdb84e9fc51.png",
+            {}
+        ],
+        [
+            "1969",
+            "com.android.contacts",
+            "//gxicon.b0.upaiyun.com/2017/11/06/17/20171106051823_f25cb0f05a0b21d8a3d7e48792eb920d.png",
+            {}
+        ],
+        [
+            "1070",
+            "com.android.settings",
+            "//gxicon.b0.upaiyun.com/2017/10/03/14/20171003025916_2aba87d2f6f072103001fa37cf1c4def.png",
             {}
         ]
     ]
