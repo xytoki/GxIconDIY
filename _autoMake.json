@@ -2,7 +2,7 @@
     "pkg": "com.gxicon.LiuC",
     "app": "LiuC",
     "vname": "1.0.0.",
-    "vcode": "15642698",
+    "vcode": "12562698",
     "author": "[xuanzi](copy:xuanzi)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
@@ -93,21 +93,9 @@
             {}
         ],
         [
-            "6299",
-            "com.android.browser",
-            "//gxicon.b0.upaiyun.com/iconstore/9a4f9e9c2c1457aeaed4c6d7519750ca.png",
-            {}
-        ],
-        [
             "6297",
             "com.oneplus.calendar",
             "//gxicon.b0.upaiyun.com/iconstore/cb4e1129356544604da06ed4ab2e7a53.png",
-            {}
-        ],
-        [
-            "6292",
-            "com.android.dialer",
-            "//gxicon.b0.upaiyun.com/iconstore/ecd9f6b81be9812b2377571a57c15eea.png",
             {}
         ],
         [
@@ -138,6 +126,12 @@
             "6275",
             "com.android.chrome",
             "//gxicon.b0.upaiyun.com/iconstore/069edbffea5458fe3e8675a3f4eecf06.png",
+            {}
+        ],
+        [
+            "6409",
+            "com.android.dialer",
+            "//gxicon.b0.upaiyun.com/iconstore/8500b89181400e424d5bd3a8b9181f77.jpg",
             {}
         ]
     ]
