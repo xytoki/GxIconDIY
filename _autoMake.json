@@ -127,6 +127,18 @@
             "com.oneplus.calculator",
             "//gxicon.b0.upaiyun.com/iconstore/2f9693e628b486a19d0f4e83b41ffade.png",
             {}
+        ],
+        [
+            "6261",
+            "com.android.settings",
+            "//gxicon.b0.upaiyun.com/iconstore/a5dc5217bbf2b03d2bc20461c82aed42.png",
+            {}
+        ],
+        [
+            "6275",
+            "com.android.chrome",
+            "//gxicon.b0.upaiyun.com/iconstore/069edbffea5458fe3e8675a3f4eecf06.png",
+            {}
         ]
     ]
 }
