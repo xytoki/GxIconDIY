@@ -2,7 +2,7 @@
     "pkg": "com.gxicon.LiuC",
     "app": "LiuC",
     "vname": "1.0.0.",
-    "vcode": "15688956",
+    "vcode": "15642698",
     "author": "[xuanzi](copy:xuanzi)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
@@ -75,45 +75,9 @@
             {}
         ],
         [
-            "6294",
-            "com.oneplus.camera",
-            "//gxicon.b0.upaiyun.com/iconstore/874b3dfb7c317947c504376ad2f4144d.png",
-            {}
-        ],
-        [
-            "6296",
-            "com.oneplus.calculator",
-            "//gxicon.b0.upaiyun.com/iconstore/2f9693e628b486a19d0f4e83b41ffade.png",
-            {}
-        ],
-        [
-            "1063",
-            "com.android.browser",
-            "//gxicon.b0.upaiyun.com/2017/10/03/14/20171003025515_150a86ed7eaf650f4f0d600483b23d1b.png",
-            {}
-        ],
-        [
-            "6259",
-            "com.oneplus.soundrecorder",
-            "//gxicon.b0.upaiyun.com/iconstore/deb2a7c0b274989a518093e687d301c6.png",
-            {}
-        ],
-        [
-            "3726",
-            "net.oneplus.weather",
-            "//gxicon.b0.upaiyun.com/2018/01/20/16/20180120040944_fc7333c80098af24c44ddcf9e471da47.png",
-            {}
-        ],
-        [
             "6256",
             "com.estrongs.android.pop",
             "//gxicon.b0.upaiyun.com/iconstore/ef3876827b7639caa96222e0cd7feda3.png",
-            {}
-        ],
-        [
-            "4572",
-            "cn.etouch.ecalendar",
-            "//gxicon.b0.upaiyun.com/2018/02/27/12/20180227120338_d74e932d7937a63b90e99a887c8a8bc3.png",
             {}
         ],
         [
@@ -123,51 +87,45 @@
             {}
         ],
         [
-            "203",
-            "com.android.deskclock",
-            "//gxicon.b0.upaiyun.com/2017/08/24/11/20170824114711_5c3420b80d538d2521910a9413eb5525.jpg",
-            {}
-        ],
-        [
-            "1960",
-            "com.android.camera",
-            "//gxicon.b0.upaiyun.com/2017/11/04/12/20171104125448_1bee4b9f429aa2d8c01299b47f5568cb.png",
-            {}
-        ],
-        [
-            "2161",
-            "com.e123.gxicon",
-            "//gxicon.b0.upaiyun.com/2017/11/23/12/20171123123552_372caf9f7a7dadc1cefe7b3862388d08.png",
-            {}
-        ],
-        [
-            "1921",
-            "com.coolapk.market",
-            "//gxicon.b0.upaiyun.com/2017/11/02/22/20171102102214_703be132a6183f238606c3294d884bd5.png",
-            {}
-        ],
-        [
-            "1907",
-            "com.android.phone",
-            "//gxicon.b0.upaiyun.com/2017/11/01/22/20171101104906_5484b4fdec358830ec914de2620d9da7.png",
-            {}
-        ],
-        [
-            "1906",
-            "com.android.sms",
-            "//gxicon.b0.upaiyun.com/2017/11/01/22/20171101104847_652616226c0ebd2558917fdb84e9fc51.png",
-            {}
-        ],
-        [
-            "1969",
+            "6295",
             "com.android.contacts",
-            "//gxicon.b0.upaiyun.com/2017/11/06/17/20171106051823_f25cb0f05a0b21d8a3d7e48792eb920d.png",
+            "//gxicon.b0.upaiyun.com/iconstore/6dd4861f626bf5189caf890d70dced54.png",
             {}
         ],
         [
-            "1070",
-            "com.android.settings",
-            "//gxicon.b0.upaiyun.com/2017/10/03/14/20171003025916_2aba87d2f6f072103001fa37cf1c4def.png",
+            "6299",
+            "com.android.browser",
+            "//gxicon.b0.upaiyun.com/iconstore/9a4f9e9c2c1457aeaed4c6d7519750ca.png",
+            {}
+        ],
+        [
+            "6297",
+            "com.oneplus.calendar",
+            "//gxicon.b0.upaiyun.com/iconstore/cb4e1129356544604da06ed4ab2e7a53.png",
+            {}
+        ],
+        [
+            "6292",
+            "com.android.dialer",
+            "//gxicon.b0.upaiyun.com/iconstore/ecd9f6b81be9812b2377571a57c15eea.png",
+            {}
+        ],
+        [
+            "6262",
+            "com.android.mms",
+            "//gxicon.b0.upaiyun.com/iconstore/bf40ae8459aeb7eb75b18c45122b6823.png",
+            {}
+        ],
+        [
+            "6294",
+            "com.oneplus.camera",
+            "//gxicon.b0.upaiyun.com/iconstore/874b3dfb7c317947c504376ad2f4144d.png",
+            {}
+        ],
+        [
+            "6296",
+            "com.oneplus.calculator",
+            "//gxicon.b0.upaiyun.com/iconstore/2f9693e628b486a19d0f4e83b41ffade.png",
             {}
         ]
     ]
