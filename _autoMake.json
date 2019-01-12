@@ -1,13 +1,91 @@
 {
     "pkg": "com.gxicon.Kaidi990409",
     "app": "共享图标包",
-    "vname": "1.2.0.0",
-    "vcode": "190106",
+    "vname": "1.3.0.0",
+    "vcode": "190112",
     "author": "[@Kaidi990409](copy:@Kaidi990409)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
     "icons": [
+        [
+            "6377",
+            "com.dmzj.manhua",
+            "//gxicon.b0.upaiyun.com/iconstore/99bdf5439030e5972f5ce21d0b4d0abf.png",
+            {}
+        ],
+        [
+            "6372",
+            "com.sdjictec.qdmetro",
+            "//gxicon.b0.upaiyun.com/iconstore/1bbe8b6cc101fba70046985c1e7f1364.png",
+            {}
+        ],
+        [
+            "6371",
+            "cn.caocaokeji.user",
+            "//gxicon.b0.upaiyun.com/iconstore/0e6246af6e628168b978271313abf775.png",
+            {}
+        ],
+        [
+            "6353",
+            "com.oasisfeng.nevo",
+            "//gxicon.b0.upaiyun.com/iconstore/aa88b029842fc2c092e5a0adc546ab1f.png",
+            {}
+        ],
+        [
+            "6340",
+            "com.android.mms",
+            "//gxicon.b0.upaiyun.com/iconstore/52d518ecd257d48f21a7069ab046ec44.png",
+            {}
+        ],
+        [
+            "6241",
+            "star.iota.sakura",
+            "//gxicon.b0.upaiyun.com/iconstore/ddc32ad3a4fe0f563def8d455134cf3e.png",
+            {}
+        ],
+        [
+            "6245",
+            "jiuhuar",
+            "//gxicon.b0.upaiyun.com/iconstore/caad666dcede033ac9dcedfa7653de94.png",
+            {}
+        ],
+        [
+            "6319",
+            "steamlink",
+            "//gxicon.b0.upaiyun.com/iconstore/a4ac221c8f49f30e74607b82151ab1d3.png",
+            {}
+        ],
+        [
+            "6337",
+            "com.izaodao.gps",
+            "//gxicon.b0.upaiyun.com/iconstore/f9c3822a25d3d79885d0228ea7de4797.png",
+            {}
+        ],
+        [
+            "6330",
+            "com.max.xiaoheihe",
+            "//gxicon.b0.upaiyun.com/iconstore/c1cac2cb9fa93d3c738607a12f7a6aeb.png",
+            {}
+        ],
+        [
+            "6331",
+            "com.netease.edu.ucmooc",
+            "//gxicon.b0.upaiyun.com/iconstore/7fb321937dcad7b7c8e8a857f46874e1.png",
+            {}
+        ],
+        [
+            "6332",
+            "com.oneplus.wallet",
+            "//gxicon.b0.upaiyun.com/iconstore/e9888acabcf8e42e8aef14c4a7b8a998.png",
+            {}
+        ],
+        [
+            "6333",
+            "com.smartisanos.smartfolder.aoa",
+            "//gxicon.b0.upaiyun.com/iconstore/5dd6713fae86adaf0354540f94a04810.png",
+            {}
+        ],
         [
             "6329",
             "com.hiroshi.cimoc",
@@ -15,15 +93,27 @@
             {}
         ],
         [
-            "1846",
-            "com.oneplus.calculator",
-            "//gxicon.b0.upaiyun.com/2017/10/29/00/20171029120524_067ebe600814bad3fd1c8dea1c0b0cb9.png",
+            "6335",
+            "jianrt.analoguepiano",
+            "//gxicon.b0.upaiyun.com/iconstore/ff1f04fcb23fee0a7bbeec35d4961456.png",
             {}
         ],
         [
-            "1845",
-            "com.android.mms",
-            "//gxicon.b0.upaiyun.com/2017/10/29/00/20171029120522_3f061293346dc6a27c77987c1da9c33d.png",
+            "6339",
+            "com.taobao.idlefish",
+            "//gxicon.b0.upaiyun.com/iconstore/5602f5aa525f55c960436a967fc85daf.png",
+            {}
+        ],
+        [
+            "6338",
+            "com.sdu.didi.psnger",
+            "//gxicon.b0.upaiyun.com/iconstore/658d03538fadbfd515dd87fee13128d3.png",
+            {}
+        ],
+        [
+            "6248",
+            "com.tencent.tmgp.pubgmhd",
+            "//gxicon.b0.upaiyun.com/iconstore/faba2c68dc7b094626a956d7a40577e7.png",
             {}
         ]
     ]
