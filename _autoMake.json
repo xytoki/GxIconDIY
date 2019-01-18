@@ -1,59 +1,29 @@
 {
-    "pkg": "com.gxicon.Kaidi990409",
-    "app": "共享图标包",
-    "vname": "1.3.0.2",
-    "vcode": "190112",
-    "author": "[@Kaidi990409](copy:@Kaidi990409)",
+    "pkg": "com.gxicon.smh",
+    "app": "微信支付宝网易云",
+    "vname": "1.0.0.0",
+    "vcode": "19011801",
+    "author": "[孙明弘](copy:孙明弘)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
     "icons": [
         [
-            "6332",
-            "com.oneplus.wallet",
-            "//gxicon.b0.upaiyun.com/iconstore/e9888acabcf8e42e8aef14c4a7b8a998.png",
+            "6268",
+            "com.tencent.mm",
+            "//gxicon.b0.upaiyun.com/iconstore/d0f90175d5e0f7570fcca17640a9708a.png",
             {}
         ],
         [
-            "3888",
-            "com.One.WoodenLetter",
-            "//gxicon.b0.upaiyun.com/2018/01/26/11/20180126111617_6a0af271a2a5c636c2db85244e19f680.png",
+            "6273",
+            "com.netease.cloudmusic",
+            "//gxicon.b0.upaiyun.com/iconstore/b881cc07d0e70707e2f5a840932a1b25.png",
             {}
         ],
         [
-            "1807",
-            "com.autonavi.minimap",
-            "//gxicon.b0.upaiyun.com/2017/10/28/23/20171028113316_dccdb13abe10c64b43ba8345c3b90a94.png",
-            {}
-        ],
-        [
-            "1818",
-            "com.bankcomm.Bankcomm",
-            "//gxicon.b0.upaiyun.com/2017/10/28/23/20171028113316_9b99badbbc10c80b4c59d0392234bc72.png",
-            {}
-        ],
-        [
-            "1846",
-            "com.oneplus.calculator",
-            "//gxicon.b0.upaiyun.com/2017/10/29/00/20171029120524_067ebe600814bad3fd1c8dea1c0b0cb9.png",
-            {}
-        ],
-        [
-            "1849",
-            "com.oneplus.soundrecorder",
-            "//gxicon.b0.upaiyun.com/2017/10/29/00/20171029120524_b1ee4c7c69978e816aabf3904b6287a8.png",
-            {}
-        ],
-        [
-            "1853",
-            "com.oneplus.deskclock",
-            "//gxicon.b0.upaiyun.com/2017/10/29/00/20171029120524_9bfc9afd48bf78154dc3482dc65d1cf4.png",
-            {}
-        ],
-        [
-            "3885",
-            "com.jingdong.app.mall",
-            "//gxicon.b0.upaiyun.com/2018/01/26/11/20180126111617_b94680cea8a523ba77b3cc14da4758f6.png",
+            "6266",
+            "com.eg.android.AlipayGphone",
+            "//gxicon.b0.upaiyun.com/iconstore/2428cbf3dcab579354da480aef3c60ec.png",
             {}
         ]
     ]
