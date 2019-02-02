@@ -1,7 +1,7 @@
 {
     "pkg": "com.gxicon.qwe12345678",
     "app": "果冻豆图标包",
-    "vname": "1.00",
+    "vname": "1.0",
     "vcode": "1",
     "author": "[@qwe12345678](copy:@qwe12345678)",
     "color_primary": "#f44336",
@@ -9,9 +9,9 @@
     "color_accent": "#ff5252",
     "icons": [
         [
-            "5450",
-            "com.One.WoodenLetter",
-            "//gxicon.b0.upaiyun.com/2018/02/27/15/20180227035401_6dc5ce806cc3bdc1b6984d8a9a75b1c8.png",
+            "6402",
+            "com.sonelli.juicessh",
+            "//gxicon.b0.upaiyun.com/iconstore/cbde0f0962d319347b0ebe295f23589d.png",
             {}
         ]
     ]
