@@ -1,17 +1,23 @@
 {
-    "pkg": "com.gxicon.qwe12345678",
-    "app": "果冻豆图标包",
-    "vname": "1.0",
-    "vcode": "1",
-    "author": "[@qwe12345678](copy:@qwe12345678)",
+    "pkg": "com.gxicon.123",
+    "app": "123",
+    "vname": "1.0.0.0",
+    "vcode": "12345678",
+    "author": "[123](copy:123)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
     "icons": [
         [
-            "6402",
-            "com.sonelli.juicessh",
-            "//gxicon.b0.upaiyun.com/iconstore/cbde0f0962d319347b0ebe295f23589d.png",
+            "6410",
+            "com.android.camera",
+            "//gxicon.b0.upaiyun.com/iconstore/7b93bcc00a39e906f17ec280cafe4a86.png",
+            {}
+        ],
+        [
+            "6409",
+            "com.android.dialer",
+            "//gxicon.b0.upaiyun.com/iconstore/8500b89181400e424d5bd3a8b9181f77.jpg",
             {}
         ]
     ]
