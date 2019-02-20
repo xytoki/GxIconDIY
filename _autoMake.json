@@ -1,29 +1,17 @@
 {
-    "pkg": "com.gxicon.DLN",
-    "app": "DLNd的图标包",
-    "vname": "1.1.1.1",
-    "vcode": "1234567",
-    "author": "[DLN](copy:DLN)",
+    "pkg": "com.gxicon.pose",
+    "app": "测试一下",
+    "vname": "1.0.0.0",
+    "vcode": "1",
+    "author": "[无名狼](copy:无名狼)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
     "icons": [
         [
-            "6410",
-            "com.android.camera",
-            "//gxicon.b0.upaiyun.com/iconstore/7b93bcc00a39e906f17ec280cafe4a86.png",
-            {}
-        ],
-        [
-            "6409",
-            "com.android.dialer",
-            "//gxicon.b0.upaiyun.com/iconstore/8500b89181400e424d5bd3a8b9181f77.jpg",
-            {}
-        ],
-        [
-            "6408",
-            "com.ss.android.essay.joke",
-            "//gxicon.b0.upaiyun.com/iconstore/2a5286e9d1d524e7e08b632c96741117.jpg",
+            "6414",
+            "hibernate.v2.testyourandroid",
+            "//gxicon.b0.upaiyun.com/iconstore/ac131ebfa919e74db01bbc66762fd567.jpg",
             {}
         ]
     ]
