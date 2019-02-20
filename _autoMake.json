@@ -1,29 +1,29 @@
 {
-    "pkg": "com.gxicon.Kaidi990409",
-    "app": "共享图标包",
-    "vname": "1.0.0.5",
-    "vcode": "190219",
-    "author": "[@Kaidi990409](copy:@Kaidi990409)",
+    "pkg": "com.gxicon.DLN",
+    "app": "DLNd的图标包",
+    "vname": "1.1.1.1",
+    "vcode": "1234567",
+    "author": "[DLN](copy:DLN)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
     "icons": [
         [
-            "6411",
-            "cn.caocaokeji.user",
-            "//gxicon.b0.upaiyun.com/iconstore/47ee8735ee0e783f1f46bc455b2e0a11.png",
+            "6410",
+            "com.android.camera",
+            "//gxicon.b0.upaiyun.com/iconstore/7b93bcc00a39e906f17ec280cafe4a86.png",
             {}
         ],
         [
-            "6412",
-            "com.bilibili.comic",
-            "//gxicon.b0.upaiyun.com/iconstore/65a446ff3ff32e17c013b9623de05150.png",
+            "6409",
+            "com.android.dialer",
+            "//gxicon.b0.upaiyun.com/iconstore/8500b89181400e424d5bd3a8b9181f77.jpg",
             {}
         ],
         [
-            "6413",
-            "com.gesture.s",
-            "//gxicon.b0.upaiyun.com/iconstore/8dfbe4d6ca4a0649b734f4eec3c7bf2b.png",
+            "6408",
+            "com.ss.android.essay.joke",
+            "//gxicon.b0.upaiyun.com/iconstore/2a5286e9d1d524e7e08b632c96741117.jpg",
             {}
         ]
     ]
