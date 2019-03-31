@@ -24,7 +24,7 @@ deploy:
   file: app/build/outputs/apk/gxIconDIY.signed.apk
   skip_cleanup: true
   on:
-    repo: homeii/GxIconDIY
+    repo: xytoki/GxIconDIY
 before_install:
 - openssl aes-256-cbc -K $encrypted_ed3d75063656_key -iv $encrypted_ed3d75063656_iv
   -in weng.jks.enc -out weng.jks -d
