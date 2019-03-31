@@ -1,17 +1,23 @@
 {
-    "pkg": "com.gxicon.pose",
-    "app": "测试一下",
+    "pkg": "com.gxicon.123123",
+    "app": "123123",
     "vname": "1.0.0.0",
-    "vcode": "1",
-    "author": "[无名狼](copy:无名狼)",
+    "vcode": "123123",
+    "author": "[123123](copy:123123)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
     "icons": [
         [
-            "6414",
-            "hibernate.v2.testyourandroid",
-            "//gxicon.b0.upaiyun.com/iconstore/ac131ebfa919e74db01bbc66762fd567.jpg",
+            "6567",
+            "com.superevilmegacorp.game10",
+            "//gxicon.b0.upaiyun.com/iconstore/eb624117cd86bada0290bec07a29b570.png",
+            {}
+        ],
+        [
+            "6566",
+            "com.superevilmegacorp.game",
+            "//gxicon.b0.upaiyun.com/iconstore/56bc083a364602af94bf84815d07d50a.png",
             {}
         ]
     ]
