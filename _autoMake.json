@@ -1,12 +1,12 @@
 {
     "pkg": "com.gxicon.owovg",
-    "app": "OwO-虚荣",
-    "vname": "1.0.0.0",
+    "app": "OwO虚荣",
+    "vname": "1.0.0.1",
     "vcode": "190401",
-    "author": "[群狼动力-无名狼辈](copy:群狼动力-无名狼辈)",
-    "color_primary": "#000000",
-    "color_primary_dark": "#000000",
-    "color_accent": "#000000",
+    "author": "[虚荣ID福彻斯](copy:虚荣ID福彻斯)",
+    "color_primary": "#f44336",
+    "color_primary_dark": "#d80f00",
+    "color_accent": "#ff5252",
     "icons": [
         [
             "6696",
@@ -45,27 +45,9 @@
             {}
         ],
         [
-            "6684",
-            "com.superevilmegacorp.game50",
-            "//gxicon.b0.upaiyun.com/iconstore/820aadf2c971728e4485040dd6075b99.png",
-            {}
-        ],
-        [
-            "6685",
-            "com.superevilmegacorp.game51",
-            "//gxicon.b0.upaiyun.com/iconstore/a61990edb1054eaa33a775a295ecc4cf.png",
-            {}
-        ],
-        [
-            "6687",
-            "com.superevilmegacorp.game52",
-            "//gxicon.b0.upaiyun.com/iconstore/2dfe339dec93ec396129a9adad1ed533.png",
-            {}
-        ],
-        [
-            "6688",
-            "com.superevilmegacorp.game53",
-            "//gxicon.b0.upaiyun.com/iconstore/e4aa3707855d462ef6e09f18475fc4e1.png",
+            "6690",
+            "com.superevilmegacorp.game55",
+            "//gxicon.b0.upaiyun.com/iconstore/e0b4ad816181098d8f21cfd091ee820e.png",
             {}
         ],
         [
@@ -75,39 +57,27 @@
             {}
         ],
         [
-            "6690",
-            "com.superevilmegacorp.game55",
-            "//gxicon.b0.upaiyun.com/iconstore/e0b4ad816181098d8f21cfd091ee820e.png",
+            "6688",
+            "com.superevilmegacorp.game53",
+            "//gxicon.b0.upaiyun.com/iconstore/e4aa3707855d462ef6e09f18475fc4e1.png",
             {}
         ],
         [
-            "6683",
-            "com.superevilmegacorp.game49",
-            "//gxicon.b0.upaiyun.com/iconstore/484efbbc899cb60f3946d81f10add99a.png",
+            "6687",
+            "com.superevilmegacorp.game52",
+            "//gxicon.b0.upaiyun.com/iconstore/2dfe339dec93ec396129a9adad1ed533.png",
             {}
         ],
         [
-            "6682",
-            "com.superevilmegacorp.game48",
-            "//gxicon.b0.upaiyun.com/iconstore/ff3bfd984b299ecb385ef99fb9005b76.png",
+            "6685",
+            "com.superevilmegacorp.game51",
+            "//gxicon.b0.upaiyun.com/iconstore/a61990edb1054eaa33a775a295ecc4cf.png",
             {}
         ],
         [
-            "6681",
-            "com.superevilmegacorp.game47",
-            "//gxicon.b0.upaiyun.com/iconstore/646d72a582e52825bbd9bc751f440e6c.png",
-            {}
-        ],
-        [
-            "6680",
-            "com.superevilmegacorp.game46",
-            "//gxicon.b0.upaiyun.com/iconstore/e3522e63b5a4e644cec846a8f15a2188.png",
-            {}
-        ],
-        [
-            "6679",
-            "com.superevilmegacorp.game45",
-            "//gxicon.b0.upaiyun.com/iconstore/1f4c9028130c61ed84df474ca4afd02e.png",
+            "6684",
+            "com.superevilmegacorp.game50",
+            "//gxicon.b0.upaiyun.com/iconstore/820aadf2c971728e4485040dd6075b99.png",
             {}
         ],
         [
@@ -117,33 +87,33 @@
             {}
         ],
         [
-            "6672",
-            "com.superevilmegacorp.game28",
-            "//gxicon.b0.upaiyun.com/iconstore/c5d21cc651ca52b3a86a59cd976945f7.png",
+            "6679",
+            "com.superevilmegacorp.game45",
+            "//gxicon.b0.upaiyun.com/iconstore/1f4c9028130c61ed84df474ca4afd02e.png",
             {}
         ],
         [
-            "6673",
-            "com.superevilmegacorp.game39",
-            "//gxicon.b0.upaiyun.com/iconstore/6485dfb8cc4e7d43393d979bdcd50413.png",
+            "6680",
+            "com.superevilmegacorp.game46",
+            "//gxicon.b0.upaiyun.com/iconstore/e3522e63b5a4e644cec846a8f15a2188.png",
             {}
         ],
         [
-            "6674",
-            "com.superevilmegacorp.game40",
-            "//gxicon.b0.upaiyun.com/iconstore/e0c55b07a46b099098afc573b057795a.png",
+            "6681",
+            "com.superevilmegacorp.game47",
+            "//gxicon.b0.upaiyun.com/iconstore/646d72a582e52825bbd9bc751f440e6c.png",
             {}
         ],
         [
-            "6675",
-            "com.superevilmegacorp.game41",
-            "//gxicon.b0.upaiyun.com/iconstore/7644b546fe6df406e9900649bd4aba2c.png",
+            "6682",
+            "com.superevilmegacorp.game48",
+            "//gxicon.b0.upaiyun.com/iconstore/ff3bfd984b299ecb385ef99fb9005b76.png",
             {}
         ],
         [
-            "6676",
-            "com.superevilmegacorp.game42",
-            "//gxicon.b0.upaiyun.com/iconstore/77050969613da001f1d5d999537c9a96.png",
+            "6683",
+            "com.superevilmegacorp.game49",
+            "//gxicon.b0.upaiyun.com/iconstore/484efbbc899cb60f3946d81f10add99a.png",
             {}
         ],
         [
@@ -153,33 +123,33 @@
             {}
         ],
         [
-            "6671",
-            "com.superevilmegacorp.game37",
-            "//gxicon.b0.upaiyun.com/iconstore/e9f6bdcfb29d83d43ab886b7c60f3439.png",
+            "6676",
+            "com.superevilmegacorp.game42",
+            "//gxicon.b0.upaiyun.com/iconstore/77050969613da001f1d5d999537c9a96.png",
             {}
         ],
         [
-            "6670",
-            "com.superevilmegacorp.game36",
-            "//gxicon.b0.upaiyun.com/iconstore/7182028d47efd9cc78fa4cfae872e053.png",
+            "6675",
+            "com.superevilmegacorp.game41",
+            "//gxicon.b0.upaiyun.com/iconstore/7644b546fe6df406e9900649bd4aba2c.png",
             {}
         ],
         [
-            "6669",
-            "com.superevilmegacorp.game35",
-            "//gxicon.b0.upaiyun.com/iconstore/f14d105760b92779092ca94d500c7c75.png",
+            "6674",
+            "com.superevilmegacorp.game40",
+            "//gxicon.b0.upaiyun.com/iconstore/e0c55b07a46b099098afc573b057795a.png",
             {}
         ],
         [
-            "6668",
-            "com.superevilmegacorp.game34",
-            "//gxicon.b0.upaiyun.com/iconstore/87a40d2653cf16ca7a21fd534352dfee.png",
+            "6673",
+            "com.superevilmegacorp.game39",
+            "//gxicon.b0.upaiyun.com/iconstore/6485dfb8cc4e7d43393d979bdcd50413.png",
             {}
         ],
         [
-            "6667",
-            "com.superevilmegacorp.game33",
-            "//gxicon.b0.upaiyun.com/iconstore/b30b6f80507a3b4b810c1c3b53bdba22.png",
+            "6672",
+            "com.superevilmegacorp.game28",
+            "//gxicon.b0.upaiyun.com/iconstore/c5d21cc651ca52b3a86a59cd976945f7.png",
             {}
         ],
         [
@@ -189,33 +159,33 @@
             {}
         ],
         [
-            "6660",
-            "com.superevilmegacorp.game26",
-            "//gxicon.b0.upaiyun.com/iconstore/c85d28fe970c189dff88e2652704fa6b.png",
+            "6667",
+            "com.superevilmegacorp.game33",
+            "//gxicon.b0.upaiyun.com/iconstore/b30b6f80507a3b4b810c1c3b53bdba22.png",
             {}
         ],
         [
-            "6661",
-            "com.superevilmegacorp.game27",
-            "//gxicon.b0.upaiyun.com/iconstore/44eff2503dfc58309d42f2821ef4c499.png",
+            "6668",
+            "com.superevilmegacorp.game34",
+            "//gxicon.b0.upaiyun.com/iconstore/87a40d2653cf16ca7a21fd534352dfee.png",
             {}
         ],
         [
-            "6662",
-            "com.superevilmegacorp.game28",
-            "//gxicon.b0.upaiyun.com/iconstore/c5d21cc651ca52b3a86a59cd976945f7.png",
+            "6669",
+            "com.superevilmegacorp.game35",
+            "//gxicon.b0.upaiyun.com/iconstore/f14d105760b92779092ca94d500c7c75.png",
             {}
         ],
         [
-            "6663",
-            "com.superevilmegacorp.game29",
-            "//gxicon.b0.upaiyun.com/iconstore/d2af910300d64eda2c4fc1356184f619.png",
+            "6670",
+            "com.superevilmegacorp.game36",
+            "//gxicon.b0.upaiyun.com/iconstore/7182028d47efd9cc78fa4cfae872e053.png",
             {}
         ],
         [
-            "6664",
-            "com.superevilmegacorp.game30",
-            "//gxicon.b0.upaiyun.com/iconstore/9686952df1479b25e8c1611e7c41c880.png",
+            "6671",
+            "com.superevilmegacorp.game37",
+            "//gxicon.b0.upaiyun.com/iconstore/e9f6bdcfb29d83d43ab886b7c60f3439.png",
             {}
         ],
         [
@@ -225,33 +195,33 @@
             {}
         ],
         [
-            "6659",
-            "com.superevilmegacorp.game25",
-            "//gxicon.b0.upaiyun.com/iconstore/f73338d87ed7463252a0e49a9edebad5.png",
+            "6664",
+            "com.superevilmegacorp.game30",
+            "//gxicon.b0.upaiyun.com/iconstore/9686952df1479b25e8c1611e7c41c880.png",
             {}
         ],
         [
-            "6658",
-            "com.superevilmegacorp.game24",
-            "//gxicon.b0.upaiyun.com/iconstore/042641191a611a2928dd93e1d1fd5bfe.png",
+            "6663",
+            "com.superevilmegacorp.game29",
+            "//gxicon.b0.upaiyun.com/iconstore/d2af910300d64eda2c4fc1356184f619.png",
             {}
         ],
         [
-            "6657",
-            "com.superevilmegacorp.game23",
-            "//gxicon.b0.upaiyun.com/iconstore/346d1b4e7fdc19fc9c9be6fb40d79515.png",
+            "6662",
+            "com.superevilmegacorp.game28",
+            "//gxicon.b0.upaiyun.com/iconstore/c5d21cc651ca52b3a86a59cd976945f7.png",
             {}
         ],
         [
-            "6655",
-            "com.superevilmegacorp.game22",
-            "//gxicon.b0.upaiyun.com/iconstore/ca40b25c78ab033a9ab7913d2c9fa0aa.png",
+            "6661",
+            "com.superevilmegacorp.game27",
+            "//gxicon.b0.upaiyun.com/iconstore/44eff2503dfc58309d42f2821ef4c499.png",
             {}
         ],
         [
-            "6654",
-            "com.superevilmegacorp.game21",
-            "//gxicon.b0.upaiyun.com/iconstore/c759fe0a232ca33ec198a306ef938a2b.png",
+            "6660",
+            "com.superevilmegacorp.game26",
+            "//gxicon.b0.upaiyun.com/iconstore/c85d28fe970c189dff88e2652704fa6b.png",
             {}
         ],
         [
@@ -261,33 +231,33 @@
             {}
         ],
         [
-            "6646",
-            "com.superevilmegacorp.game14",
-            "//gxicon.b0.upaiyun.com/iconstore/b59f3395f92f188719d83f3de980303f.png",
+            "6654",
+            "com.superevilmegacorp.game21",
+            "//gxicon.b0.upaiyun.com/iconstore/c759fe0a232ca33ec198a306ef938a2b.png",
             {}
         ],
         [
-            "6647",
-            "com.superevilmegacorp.game15",
-            "//gxicon.b0.upaiyun.com/iconstore/5064f78243db78fdb41398a3f2d1c226.png",
+            "6655",
+            "com.superevilmegacorp.game22",
+            "//gxicon.b0.upaiyun.com/iconstore/ca40b25c78ab033a9ab7913d2c9fa0aa.png",
             {}
         ],
         [
-            "6648",
-            "com.superevilmegacorp.game16",
-            "//gxicon.b0.upaiyun.com/iconstore/3902a8ff6dc67bc2b07108ea97b6313d.png",
+            "6657",
+            "com.superevilmegacorp.game23",
+            "//gxicon.b0.upaiyun.com/iconstore/346d1b4e7fdc19fc9c9be6fb40d79515.png",
             {}
         ],
         [
-            "6649",
-            "com.superevilmegacorp.game17",
-            "//gxicon.b0.upaiyun.com/iconstore/b2d37de9b0e6d0a127c25258ab094cf4.png",
+            "6658",
+            "com.superevilmegacorp.game24",
+            "//gxicon.b0.upaiyun.com/iconstore/042641191a611a2928dd93e1d1fd5bfe.png",
             {}
         ],
         [
-            "6651",
-            "com.superevilmegacorp.game18",
-            "//gxicon.b0.upaiyun.com/iconstore/8e3591dde7c5457438b45813f244d561.png",
+            "6659",
+            "com.superevilmegacorp.game25",
+            "//gxicon.b0.upaiyun.com/iconstore/f73338d87ed7463252a0e49a9edebad5.png",
             {}
         ],
         [
@@ -297,15 +267,45 @@
             {}
         ],
         [
-            "6645",
-            "com.superevilmegacorp.game13",
-            "//gxicon.b0.upaiyun.com/iconstore/ed3003f398fa477d3d52c884584e9dc7.png",
+            "6651",
+            "com.superevilmegacorp.game18",
+            "//gxicon.b0.upaiyun.com/iconstore/8e3591dde7c5457438b45813f244d561.png",
+            {}
+        ],
+        [
+            "6649",
+            "com.superevilmegacorp.game17",
+            "//gxicon.b0.upaiyun.com/iconstore/b2d37de9b0e6d0a127c25258ab094cf4.png",
+            {}
+        ],
+        [
+            "6648",
+            "com.superevilmegacorp.game16",
+            "//gxicon.b0.upaiyun.com/iconstore/3902a8ff6dc67bc2b07108ea97b6313d.png",
+            {}
+        ],
+        [
+            "6647",
+            "com.superevilmegacorp.game15",
+            "//gxicon.b0.upaiyun.com/iconstore/5064f78243db78fdb41398a3f2d1c226.png",
+            {}
+        ],
+        [
+            "6646",
+            "com.superevilmegacorp.game14",
+            "//gxicon.b0.upaiyun.com/iconstore/b59f3395f92f188719d83f3de980303f.png",
             {}
         ],
         [
             "6644",
             "com.superevilmegacorp.game12",
             "//gxicon.b0.upaiyun.com/iconstore/fb2c2905f9f1181b69157017dc1f290a.png",
+            {}
+        ],
+        [
+            "6645",
+            "com.superevilmegacorp.game13",
+            "//gxicon.b0.upaiyun.com/iconstore/ed3003f398fa477d3d52c884584e9dc7.png",
             {}
         ],
         [
@@ -348,7 +348,10 @@
             "6632",
             "com.superevilmegacorp.game",
             "//gxicon.b0.upaiyun.com/iconstore/56bc083a364602af94bf84815d07d50a.png",
-            {}
+            {
+                "appfilter": "<item component=\"ComponentInfo{com.superevilmegacorp.game/com.superevilmegacorp.game.NuoActivityLauncher}\" drawable=\"vainglory\" />",
+                "drawable": "vainglory"
+            }
         ],
         [
             "6633",
