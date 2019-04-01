@@ -1,51 +1,24 @@
 {
-    "pkg": "com.gxicon.gxdiy",
-    "app": "Gxicon DiyTest",
-    "vname": "4.0.0.0",
-    "vcode": "10",
-    "author": "[@weng](copy:@weng)",
+    "pkg": "com.gxicon.owovg2",
+    "app": "OwO虚荣",
+    "vname": "1.0.0.0",
+    "vcode": "190331",
+    "author": "[群狼动力](copy:群狼动力)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
     "icons": [
         [
-            "2004",
-            "com.bilibili.app.blue",
-            "//gxicon.b0.upaiyun.com/2017/11/10/00/20171110123041_258db81d2288d05810f80f086488886d.png",
-            {
-                "appfilter": "<!---->",
-                "drawable": "id2004"
-            }
-        ],
-        [
-            "2000",
-            "com.baidu.tieba",
-            "//gxicon.b0.upaiyun.com/2017/11/09/19/20171109070707_6a57c24125f228789df4d6bb7e4c8f64.png",
-            {
-                "ignore_appfilter": true,
-                "drawable": "id2000"
-            }
-        ],
-        [
-            "1970",
-            "com.flijo.montage.iconpack",
-            "//gxicon.b0.upaiyun.com/2017/11/06/17/20171106051915_8188287a238c50eed37e25e6094813c7.png",
+            "6566",
+            "com.superevilmegacorp.game",
+            "//gxicon.b0.upaiyun.com/iconstore/56bc083a364602af94bf84815d07d50a.png",
             {}
         ],
         [
-            "1967",
-            "projekt.substratum",
-            "//gxicon.b0.upaiyun.com/2017/11/06/16/20171106040548_671a5b9b62b2f09cc1c03a0aadfc8d5a.png",
+            "6567",
+            "com.superevilmegacorp.game10",
+            "//gxicon.b0.upaiyun.com/iconstore/eb624117cd86bada0290bec07a29b570.png",
             {}
-        ],
-        [
-            "1996",
-            "tv.danmaku.bili",
-            "//gxicon.b0.upaiyun.com/2017/11/09/12/20171109123243_435e047424965b14c20bb91773b7dd70.png",
-            {
-                "appfilter": "<!-- 哔哩哔哩 / bilibili -->\n<item component=\"ComponentInfo{tv.danmaku.abili/tv.danmaku.bili.ui.splash.SplashActivity}\" drawable=\"bilibili\" />",
-                "drawable": "bilibili"
-            }
         ]
     ]
 }
