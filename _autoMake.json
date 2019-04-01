@@ -1,12 +1,12 @@
 {
-    "pkg": "com.gxicon.owovg",
+    "pkg": "com.gxicon.owovg3",
     "app": "OwO虚荣",
-    "vname": "1.0.0.1",
+    "vname": "1.0.0.2",
     "vcode": "190401",
     "author": "[虚荣ID福彻斯](copy:虚荣ID福彻斯)",
-    "color_primary": "#f44336",
-    "color_primary_dark": "#d80f00",
-    "color_accent": "#ff5252",
+    "color_primary": "#000000",
+    "color_primary_dark": "#000000",
+    "color_accent": "#000000",
     "icons": [
         [
             "6696",
