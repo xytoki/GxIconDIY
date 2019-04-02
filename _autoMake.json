@@ -1,71 +1,17 @@
 {
-    "pkg": "com.gxicon.test2",
-    "app": "测试",
+    "pkg": "com.gxicon.fire",
+    "app": "燃",
     "vname": "1.0.0.0",
-    "vcode": "190402",
-    "author": "[测试](copy:测试)",
+    "vcode": "20190402",
+    "author": "[ZYS](copy:ZYS)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
     "icons": [
         [
-            "6530",
-            "org.piwik.mobile2",
-            "//gxicon.b0.upaiyun.com/iconstore/c4bb792e1141dfc360a2fb063c53bc1f.png",
-            {}
-        ],
-        [
-            "6531",
-            "chuxin.shimo.shimowendang",
-            "//gxicon.b0.upaiyun.com/iconstore/137645e4a3d926463e607cded19b00ad.png",
-            {}
-        ],
-        [
-            "6532",
-            "cn.com.shouji.market",
-            "//gxicon.b0.upaiyun.com/iconstore/87289dc619e4083ff1d51bfd7cd32fe8.png",
-            {}
-        ],
-        [
-            "6533",
-            "com.hupu.shihuo",
-            "//gxicon.b0.upaiyun.com/iconstore/ede2ba366b4a2fdc4ada6951170d57c1.png",
-            {}
-        ],
-        [
-            "6534",
-            "com.kunbo.search",
-            "//gxicon.b0.upaiyun.com/iconstore/f96a72ac35bdcf234df772cc8901d8ff.png",
-            {}
-        ],
-        [
-            "6535",
-            "com.microsoft.todos",
-            "//gxicon.b0.upaiyun.com/iconstore/6f88f7403c5b7a92d394c0437bdad031.png",
-            {}
-        ],
-        [
-            "6536",
-            "com.MobileTicket",
-            "//gxicon.b0.upaiyun.com/iconstore/f11bf8b4f361c80eec6c44e11bbf1368.png",
-            {}
-        ],
-        [
-            "6537",
-            "com.niksoftware.snapseed",
-            "//gxicon.b0.upaiyun.com/iconstore/6b91ac847d82056b0b8deea7af237318.png",
-            {}
-        ],
-        [
-            "6538",
-            "com.opera.browser",
-            "//gxicon.b0.upaiyun.com/iconstore/8158f6f802bc244fd62ec8b75973f98c.png",
-            {}
-        ],
-        [
-            "6539",
-            "com.opera.touch",
-            "//gxicon.b0.upaiyun.com/iconstore/086edab42b8fada9f887b92dc092f132.png",
+            "6696",
+            "com.superevilmegacorp.game61",
+            "//gxicon.b0.upaiyun.com/iconstore/c790979f55741899892cef5cabb04d0a.png",
             {}
         ]
     ]
