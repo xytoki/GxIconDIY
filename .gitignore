@@ -7,5 +7,3 @@ autoInjectionTool/node_modules
 /node_modules/
 node_modules
 *.jks
-/app/src/main/res/drawable-nodpi
-app/src/main/res/drawable-nodpi
