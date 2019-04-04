@@ -1,0 +1,18 @@
+{
+    "pkg": "com.gxicon.fire",
+    "app": "燃",
+    "vname": "1.0.0.0",
+    "vcode": "20190402",
+    "author": "[ZYS](copy:ZYS)",
+    "color_primary": "#f44336",
+    "color_primary_dark": "#d80f00",
+    "color_accent": "#ff5252",
+    "icons": [
+        [
+            "6696",
+            "com.superevilmegacorp.game61",
+            "//gxicon.b0.upaiyun.com/iconstore/c790979f55741899892cef5cabb04d0a.png",
+            {}
+        ]
+    ]
+}
