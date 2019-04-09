@@ -1,7 +1,7 @@
 {
     "pkg": "com.gxicon.geometry",
     "app": "geometry图标",
-    "vname": "1.0.0.2",
+    "vname": "1.0.0.1",
     "vcode": "20190410",
     "author": "[年轻无极限](copy:年轻无极限)",
     "color_primary": "#F44336",
@@ -42,12 +42,6 @@
             "375",
             "com.happyelements.AndroidAnimal",
             "//gxicon.b0.upaiyun.com/2017/08/28/18/20170828062314_03e5c84f8d0571b198a9bda106b747b9.png",
-            {}
-        ],
-        [
-            "6546",
-            "com.taobao.taobao",
-            "//gxicon.b0.upaiyun.com/iconstore/b626f9110fbabd5dcc92a0e98fa27858.png",
             {}
         ],
         [
@@ -99,12 +93,6 @@
             {}
         ],
         [
-            "1938",
-            "com.jd.jrapp",
-            "//gxicon.b0.upaiyun.com/2017/11/04/00/20171104125114_36e045ab66e5414235ee8b45bbc30c3b.png",
-            {}
-        ],
-        [
             "1914",
             "com.google.android.GoogleCamera",
             "//gxicon.b0.upaiyun.com/2017/11/02/12/20171102122041_8ae4d7632e760e0bb3e3c0c9b9cccb42.png",
@@ -141,12 +129,6 @@
             {}
         ],
         [
-            "1659",
-            "com.android.mediacenter",
-            "//gxicon.b0.upaiyun.com/2017/10/22/13/20171022014930_90e199c0a6b0f1052feeb8053076c121.png",
-            {}
-        ],
-        [
             "1157",
             "clock2",
             "//gxicon.b0.upaiyun.com/2017/10/06/01/20171006015130_2542aeceee94bba07222242ba1123ea0.png",
@@ -162,12 +144,6 @@
             "1146",
             "wechat1",
             "//gxicon.b0.upaiyun.com/2017/10/06/01/20171006015040_ac9c5b7582592e9f47295a8f9593745e.png",
-            {}
-        ],
-        [
-            "1164",
-            "yingyong",
-            "//gxicon.b0.upaiyun.com/2017/10/06/01/20171006015158_0c6e89428f001f437f91716058c262b3.png",
             {}
         ],
         [
@@ -240,12 +216,6 @@
             "6751",
             "me.piebridge.brevent",
             "//gxicon.b0.upaiyun.com/iconstore/33524e6f4f4aa48815a7b9a32e5513b3.png",
-            {}
-        ],
-        [
-            "6752",
-            "com.android.browser",
-            "//gxicon.b0.upaiyun.com/iconstore/5425278361a811110fff3be9c23da224.png",
             {}
         ]
     ]
