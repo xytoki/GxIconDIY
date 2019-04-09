@@ -1,11 +1,11 @@
 {
     "pkg": "com.gxicon.geometry",
-    "app": "geometry图标包",
+    "app": "geometry图标",
     "vname": "1.0.0.1",
     "vcode": "20190410",
     "author": "[年轻无极限](copy:年轻无极限)",
-    "color_primary": "#f44336",
-    "color_primary_dark": "#d80f00",
+    "color_primary": "#F44336",
+    "color_primary_dark": "#D80000",
     "color_accent": "#ff5252",
     "icons": [
         [
@@ -33,33 +33,15 @@
             {}
         ],
         [
-            "231",
-            "com.ss.android.ugc.aweme",
-            "//gxicon.b0.upaiyun.com/2017/08/24/14/20170824021945_51d7a1ffb2af5f188fa13a98d121fedc.png",
-            {}
-        ],
-        [
             "2218",
             "com.aide.ui",
             "//gxicon.b0.upaiyun.com/2017/12/08/20/20171208080051_2c91acdd9e4c374cdd0bac9ba18c4eca.png",
             {}
         ],
         [
-            "5038",
-            "com.happyelements.AndroidAnimal",
-            "//gxicon.b0.upaiyun.com/2018/02/27/15/20180227032521_6f8aea11350a9ae6a1406940d6c324e2.png",
-            {}
-        ],
-        [
             "375",
             "com.happyelements.AndroidAnimal",
             "//gxicon.b0.upaiyun.com/2017/08/28/18/20170828062314_03e5c84f8d0571b198a9bda106b747b9.png",
-            {}
-        ],
-        [
-            "3889",
-            "com.sankuai.meituan",
-            "//gxicon.b0.upaiyun.com/2018/01/26/11/20180126111617_5d908c8a6ff0b4a724363934944951f1.png",
             {}
         ],
         [
@@ -81,33 +63,9 @@
             {}
         ],
         [
-            "6717",
-            "com.taobao.idlefish",
-            "//gxicon.b0.upaiyun.com/iconstore/96cb4182ebe9538595f50637a59ab13c.png",
-            {}
-        ],
-        [
-            "6339",
-            "com.taobao.idlefish",
-            "//gxicon.b0.upaiyun.com/iconstore/5602f5aa525f55c960436a967fc85daf.png",
-            {}
-        ],
-        [
-            "4742",
-            "com.baidu.wallet",
-            "//gxicon.b0.upaiyun.com/2018/02/27/14/20180227023740_fa858ecc2dfd8e8313cf6da7586ef6d2.png",
-            {}
-        ],
-        [
             "6736",
             "com.baidu.wallet",
             "//gxicon.b0.upaiyun.com/iconstore/213132838b2f6d8a5c8de932f4fd0dee.png",
-            {}
-        ],
-        [
-            "6722",
-            "com.unionpay",
-            "//gxicon.b0.upaiyun.com/iconstore/e6bc96aece36fe8a0b2418c2d3793364.png",
             {}
         ],
         [
@@ -117,33 +75,9 @@
             {}
         ],
         [
-            "6521",
-            "com.sankuai.meituan",
-            "//gxicon.b0.upaiyun.com/iconstore/557d722f1db25b72633c56c350f259c6.png",
-            {}
-        ],
-        [
-            "6518",
-            "com.ruanmei.ithome",
-            "//gxicon.b0.upaiyun.com/iconstore/aa0ca772805fbadca44457a58e7c25c9.png",
-            {}
-        ],
-        [
-            "6064",
-            "com.unionpay",
-            "//gxicon.b0.upaiyun.com/2018/02/27/23/20180227112215_7d7944fdf78f1558908237a956608361.png",
-            {}
-        ],
-        [
             "4072",
             "com.goldenkey.net",
             "//gxicon.b0.upaiyun.com/2018/02/10/17/20180210055515_be180f562d942badd9396876c4966835.png",
-            {}
-        ],
-        [
-            "3940",
-            "com.oneplus.camera",
-            "//gxicon.b0.upaiyun.com/2018/02/01/15/20180201034126_4f9f70be386d91fe5101d7ef2484b4c4.png",
             {}
         ],
         [
@@ -207,12 +141,6 @@
             {}
         ],
         [
-            "1658",
-            "com.android.mms",
-            "//gxicon.b0.upaiyun.com/2017/10/22/13/20171022014929_bcbf90158b07692751bc0f38ba6faf06.png",
-            {}
-        ],
-        [
             "1659",
             "com.android.mediacenter",
             "//gxicon.b0.upaiyun.com/2017/10/22/13/20171022014930_90e199c0a6b0f1052feeb8053076c121.png",
@@ -222,12 +150,6 @@
             "1157",
             "clock2",
             "//gxicon.b0.upaiyun.com/2017/10/06/01/20171006015130_2542aeceee94bba07222242ba1123ea0.png",
-            {}
-        ],
-        [
-            "1158",
-            "date2",
-            "//gxicon.b0.upaiyun.com/2017/10/06/01/20171006015135_5f4a3924070db8df2ef58104a0b48bae.png",
             {}
         ],
         [
@@ -249,9 +171,81 @@
             {}
         ],
         [
-            "1159",
-            "date3",
-            "//gxicon.b0.upaiyun.com/2017/10/06/01/20171006015142_87bae4333cc9cce4bb00a19170928b35.png",
+            "6737",
+            "com.ss.android.ugc.aweme",
+            "//gxicon.b0.upaiyun.com/iconstore/7f1c2865f762a14ce101c1457686a813.png",
+            {}
+        ],
+        [
+            "6738",
+            "com.MobileTicket",
+            "//gxicon.b0.upaiyun.com/iconstore/485e95e654c5c1ce648988350bebcfcc.png",
+            {}
+        ],
+        [
+            "6739",
+            "com.unionpay",
+            "//gxicon.b0.upaiyun.com/iconstore/db28e71cd5822601729ef3f109014ddd.png",
+            {}
+        ],
+        [
+            "6740",
+            "com.vbill.shoushua.biz",
+            "//gxicon.b0.upaiyun.com/iconstore/16f193fbe73ebaf67368b5573eb61cad.png",
+            {}
+        ],
+        [
+            "6741",
+            "com.unionpay",
+            "//gxicon.b0.upaiyun.com/iconstore/d08cca1b94dc4bf4ddb994c0cb61dc20.png",
+            {}
+        ],
+        [
+            "6742",
+            "com.eg.android.AlipayGphone",
+            "//gxicon.b0.upaiyun.com/iconstore/8a1acda940523042b173c24f8bad27e2.png",
+            {}
+        ],
+        [
+            "6743",
+            "com.xiachufang",
+            "//gxicon.b0.upaiyun.com/iconstore/f14ed01fa8a378e3127fbe46fb4a9c4b.png",
+            {}
+        ],
+        [
+            "6747",
+            "com.sankuai.meituan",
+            "//gxicon.b0.upaiyun.com/iconstore/83a1b8d7bc125336e4b549c320da18ed.png",
+            {}
+        ],
+        [
+            "6748",
+            "com.mt.mtxx.mtxx",
+            "//gxicon.b0.upaiyun.com/iconstore/a3042c8406f4ce87dad5b3b4ffc19d67.png",
+            {}
+        ],
+        [
+            "6749",
+            "com.taobao.idlefish",
+            "//gxicon.b0.upaiyun.com/iconstore/a21101558f8d258476a093a27be980b3.png",
+            {}
+        ],
+        [
+            "6750",
+            "com.autonavi.amapauto",
+            "//gxicon.b0.upaiyun.com/iconstore/d70c73a03adbfed42aa0562b6a748445.png",
+            {}
+        ],
+        [
+            "6751",
+            "me.piebridge.brevent",
+            "//gxicon.b0.upaiyun.com/iconstore/33524e6f4f4aa48815a7b9a32e5513b3.png",
+            {}
+        ],
+        [
+            "6752",
+            "com.android.browser",
+            "//gxicon.b0.upaiyun.com/iconstore/5425278361a811110fff3be9c23da224.png",
             {}
         ]
     ]
