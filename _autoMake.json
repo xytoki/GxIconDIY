@@ -1,6 +1,6 @@
 {
     "pkg": "com.gxicon.geometry",
-    "app": "geometry图标包",
+    "app": "geometry图标",
     "vname": "1.0.0.2",
     "vcode": "20190410",
     "author": "[年轻无极限](copy:年轻无极限)",
@@ -75,12 +75,6 @@
             {}
         ],
         [
-            "6756",
-            "com.jxedt",
-            "//gxicon.b0.upaiyun.com/iconstore/1430d03926f35c79b1bcfdde33351417.png",
-            {}
-        ],
-        [
             "6713",
             "com.One.WoodenLetter",
             "//gxicon.b0.upaiyun.com/iconstore/3ec6237290c22137c55fd9492aadad93.png",
@@ -150,12 +144,6 @@
             "5408",
             "com.netease.caipiao",
             "//gxicon.b0.upaiyun.com/2018/02/27/15/20180227035225_e8d12b9db8d860b8b29e38db5b161c53.png",
-            {}
-        ],
-        [
-            "4584",
-            "cn.mc.sq",
-            "//gxicon.b0.upaiyun.com/2018/02/27/12/20180227120355_0fde00cf49832228954987a1e3a9db9a.png",
             {}
         ],
         [
