@@ -1,7 +1,7 @@
 {
     "pkg": "com.gxicon.geometry",
     "app": "geometry图标包",
-    "vname": "1.0.0.8",
+    "vname": "1.0.0.9",
     "vcode": "20190410",
     "author": "[年轻无极限](copy:年轻无极限)",
     "color_primary": "#2DA6F0",
@@ -12,12 +12,6 @@
             "6738",
             "com.MobileTicket",
             "//gxicon.b0.upaiyun.com/iconstore/485e95e654c5c1ce648988350bebcfcc.png",
-            {}
-        ],
-        [
-            "6736",
-            "com.baidu.wallet",
-            "//gxicon.b0.upaiyun.com/iconstore/213132838b2f6d8a5c8de932f4fd0dee.png",
             {}
         ],
         [
@@ -363,12 +357,6 @@
             {}
         ],
         [
-            "6854",
-            "com.oneplus.filemanager",
-            "//gxicon.b0.upaiyun.com/iconstore/61b04b31c12604df97785cc637e32912.png",
-            {}
-        ],
-        [
             "6856",
             "com.jingdong.app.mall",
             "//gxicon.b0.upaiyun.com/iconstore/5dcf55a1bf061f03d0739daed5bbe811.png",
@@ -390,12 +378,6 @@
             "6868",
             "com.jianshu.haruki",
             "//gxicon.b0.upaiyun.com/iconstore/880fda4867c9c0cefaa3438fc2b1bb3a.png",
-            {}
-        ],
-        [
-            "6869",
-            "com.taobao.fleamarket.activity.InitActivity",
-            "//gxicon.b0.upaiyun.com/iconstore/6cd17cbf5fefc7dc1a83030e260e7596.png",
             {}
         ],
         [
@@ -432,12 +414,6 @@
             "6877",
             "com.cubic.autohome",
             "//gxicon.b0.upaiyun.com/iconstore/dd0aef3414d12dd861cc0cd472557217.png",
-            {}
-        ],
-        [
-            "6878",
-            "com.oneplus.gallery",
-            "//gxicon.b0.upaiyun.com/iconstore/d71d2fbb7ddd81f942d2c987d6e25ada.png",
             {}
         ],
         [
@@ -513,12 +489,6 @@
             {}
         ],
         [
-            "6892",
-            "com.eg.android.AlipayGphone",
-            "//gxicon.b0.upaiyun.com/iconstore/06efea98c74f8ea56228afb61d702e23.png",
-            {}
-        ],
-        [
             "6893",
             "com.baidu.input",
             "//gxicon.b0.upaiyun.com/iconstore/842a7b999ab8c30216ac5663af54319a.png",
@@ -537,21 +507,9 @@
             {}
         ],
         [
-            "6896",
-            "com.ss.android.article.news",
-            "//gxicon.b0.upaiyun.com/iconstore/8eec81e48bd2f1ac4f649cbb21a18926.png",
-            {}
-        ],
-        [
             "6897",
             "com.jxedt",
             "//gxicon.b0.upaiyun.com/iconstore/eb2b04ae545df2041b217cf1a07cf870.png",
-            {}
-        ],
-        [
-            "6898",
-            "com.tencent.mobileqq",
-            "//gxicon.b0.upaiyun.com/iconstore/01db45de0a5dd073127e9474fe430ab4.png",
             {}
         ],
         [
@@ -600,6 +558,54 @@
             "6906",
             "com.handsgo.jiakao.android",
             "//gxicon.b0.upaiyun.com/iconstore/a6d6a55062a6cfac77d2be998e8c368f.png",
+            {}
+        ],
+        [
+            "6907",
+            "com.baidu.wallet",
+            "//gxicon.b0.upaiyun.com/iconstore/fcb59627d93a20d46a68f43df984977b.png",
+            {}
+        ],
+        [
+            "6908",
+            "com.eg.android.AlipayGphone",
+            "//gxicon.b0.upaiyun.com/iconstore/7fc816dcd8699c9e08c6fde1cf01f9ea.png",
+            {}
+        ],
+        [
+            "6909",
+            "com.ss.android.article.lite",
+            "//gxicon.b0.upaiyun.com/iconstore/20188e9ab31533f4d6d655e3983e6ea0.png",
+            {}
+        ],
+        [
+            "6910",
+            "com.taobao.idlefish",
+            "//gxicon.b0.upaiyun.com/iconstore/5c527667fc23bf7a76a779cac3a09232.png",
+            {}
+        ],
+        [
+            "6911",
+            "com.oneplus.gallery",
+            "//gxicon.b0.upaiyun.com/iconstore/054e6f9d3134818f93147ebe47e898ab.png",
+            {}
+        ],
+        [
+            "6912",
+            "com.oneplus.filemanager",
+            "//gxicon.b0.upaiyun.com/iconstore/621c5da9254a04b1779d0f702e6c3eaf.png",
+            {}
+        ],
+        [
+            "6913",
+            "com.gxicon.geometry",
+            "//gxicon.b0.upaiyun.com/iconstore/b483fc813ebaa04b811fa814ba38ce79.png",
+            {}
+        ],
+        [
+            "6914",
+            "com.oneplus.gallery",
+            "//gxicon.b0.upaiyun.com/iconstore/c49e88ab29192090ea2c2f09212bca62.png",
             {}
         ]
     ]
