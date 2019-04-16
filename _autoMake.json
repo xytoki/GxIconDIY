@@ -1,7 +1,7 @@
 {
     "pkg": "com.gxicon.geometry",
     "app": "geometry图标包",
-    "vname": "1.1.0.5",
+    "vname": "1.1.0.6",
     "vcode": "20190410",
     "author": "[年轻无极限](copy:年轻无极限)",
     "color_primary": "#2DA6F0",
@@ -576,6 +576,18 @@
             "6958",
             "com.oneplus.camera",
             "//gxicon.b0.upaiyun.com/iconstore/f0d4be7cb96ab8e8bcf22c2440534dbd.png",
+            {}
+        ],
+        [
+            "6959",
+            "com.dolby",
+            "//gxicon.b0.upaiyun.com/iconstore/41bba51b95108fb7f0020e1eefb1d155.png",
+            {}
+        ],
+        [
+            "6960",
+            "org.codeaurora.snapcam",
+            "//gxicon.b0.upaiyun.com/iconstore/5b9b56422d44b61a8eed7f831a47b919.png",
             {}
         ]
     ]
