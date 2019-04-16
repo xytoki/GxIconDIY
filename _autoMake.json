@@ -1,7 +1,7 @@
 {
     "pkg": "com.gxicon.geometry",
     "app": "geometry图标包",
-    "vname": "1.0.0.9",
+    "vname": "1.1.0.0",
     "vcode": "20190410",
     "author": "[年轻无极限](copy:年轻无极限)",
     "color_primary": "#2DA6F0",
@@ -231,24 +231,6 @@
             {}
         ],
         [
-            "6825",
-            "com.google.android.youtube",
-            "//gxicon.b0.upaiyun.com/iconstore/ba498152e93be14f6ed56256b15667f5.png",
-            {}
-        ],
-        [
-            "6827",
-            "com.oneplus.bbs",
-            "//gxicon.b0.upaiyun.com/iconstore/3436d61b22dc8762dd2b949aaf2d8513.png",
-            {}
-        ],
-        [
-            "6828",
-            "com.oppo.market",
-            "//gxicon.b0.upaiyun.com/iconstore/e69b93e1c0ab5cac523668139ad9ccec.png",
-            {}
-        ],
-        [
             "6829",
             "com.android.bankabc",
             "//gxicon.b0.upaiyun.com/iconstore/d1208fdc7ae3db8d5fc56b7087774a63.png",
@@ -315,12 +297,6 @@
             {}
         ],
         [
-            "6844",
-            "com.qiyi.video",
-            "//gxicon.b0.upaiyun.com/iconstore/d95432e7fbad4f0e22dc5b2da0831ea3.png",
-            {}
-        ],
-        [
             "6845",
             "com.kugou.android",
             "//gxicon.b0.upaiyun.com/iconstore/27b5c960fd6fc6135a198cc8efea1263.png",
@@ -354,12 +330,6 @@
             "6853",
             "bin.mt",
             "//gxicon.b0.upaiyun.com/iconstore/b3e8a276d98a59e406b46116bcc37d91.png",
-            {}
-        ],
-        [
-            "6856",
-            "com.jingdong.app.mall",
-            "//gxicon.b0.upaiyun.com/iconstore/5dcf55a1bf061f03d0739daed5bbe811.png",
             {}
         ],
         [
@@ -606,6 +576,42 @@
             "6914",
             "com.oneplus.gallery",
             "//gxicon.b0.upaiyun.com/iconstore/c49e88ab29192090ea2c2f09212bca62.png",
+            {}
+        ],
+        [
+            "6915",
+            "com.qiyi.video",
+            "//gxicon.b0.upaiyun.com/iconstore/463e5d96d3047f9ef55a2f4cf87f7f90.png",
+            {}
+        ],
+        [
+            "6916",
+            "com.jingdong.app.mall",
+            "//gxicon.b0.upaiyun.com/iconstore/bc7121cf34192b7e7bc010b41430cbec.png",
+            {}
+        ],
+        [
+            "6917",
+            "com.oppo.market",
+            "//gxicon.b0.upaiyun.com/iconstore/38a29352a25a67f1e15956a90f4bc13a.png",
+            {}
+        ],
+        [
+            "6918",
+            "com.google.android.ogyoutube",
+            "//gxicon.b0.upaiyun.com/iconstore/fe39c51ea8a6f6c7dbaa4c7a47c5a60c.png",
+            {}
+        ],
+        [
+            "6919",
+            "com.speedsoftware.rootexplorer",
+            "//gxicon.b0.upaiyun.com/iconstore/430c34726dba839ed93a346c93f2f6aa.png",
+            {}
+        ],
+        [
+            "6920",
+            "com.oneplus.bbs",
+            "//gxicon.b0.upaiyun.com/iconstore/17f85d544b308e7f81fc0274dfc8a116.png",
             {}
         ]
     ]
