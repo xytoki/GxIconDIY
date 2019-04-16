@@ -1,7 +1,7 @@
 {
     "pkg": "com.gxicon.geometry",
     "app": "geometry图标包",
-    "vname": "1.1.0.2",
+    "vname": "1.1.0.3",
     "vcode": "20190410",
     "author": "[年轻无极限](copy:年轻无极限)",
     "color_primary": "#2DA6F0",
@@ -561,15 +561,15 @@
             {}
         ],
         [
-            "6934",
-            "com.oneplus.note",
-            "//gxicon.b0.upaiyun.com/iconstore/a914dc4c8fba2d164366c93693a41906.png",
-            {}
-        ],
-        [
             "6935",
             "com.niksoftware.snapseed",
             "//gxicon.b0.upaiyun.com/iconstore/c3a8e1b90a7dbd80897c9451e1119116.png",
+            {}
+        ],
+        [
+            "6936",
+            "com.android.dialer",
+            "//gxicon.b0.upaiyun.com/iconstore/8ef1cb58d0ee03843f07795888e1a6c2.png",
             {}
         ]
     ]
