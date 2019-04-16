@@ -1,7 +1,7 @@
 {
     "pkg": "com.gxicon.geometry",
     "app": "geometry图标包",
-    "vname": "1.1.0.4",
+    "vname": "1.1.0.5",
     "vcode": "20190410",
     "author": "[年轻无极限](copy:年轻无极限)",
     "color_primary": "#2DA6F0",
@@ -162,12 +162,6 @@
             "6822",
             "net.oneplus.weather",
             "//gxicon.b0.upaiyun.com/iconstore/00b3d9f69180e89e67b002a6aeda09cf.png",
-            {}
-        ],
-        [
-            "6824",
-            "com.google.android.GCMods5",
-            "//gxicon.b0.upaiyun.com/iconstore/9f4d958bb9c5d06a6884373d7accd914.png",
             {}
         ],
         [
@@ -567,18 +561,6 @@
             {}
         ],
         [
-            "6954",
-            "org.codeaurora.snapcam",
-            "//gxicon.b0.upaiyun.com/iconstore/f0d4be7cb96ab8e8bcf22c2440534dbd.png",
-            {}
-        ],
-        [
-            "6955",
-            "com.oneplus.camera",
-            "//gxicon.b0.upaiyun.com/iconstore/fc94df8bd7fdb421ef0148dd29f99b34.png",
-            {}
-        ],
-        [
             "6956",
             "com.google.android.youtube",
             "//gxicon.b0.upaiyun.com/iconstore/1a743fefa33092c2dc63de6b6d93eab5.png",
@@ -588,6 +570,12 @@
             "6957",
             "com.snda.wifilocating",
             "//gxicon.b0.upaiyun.com/iconstore/afbe118c66b7bb0447d779b6fdd27611.png",
+            {}
+        ],
+        [
+            "6958",
+            "com.oneplus.camera",
+            "//gxicon.b0.upaiyun.com/iconstore/f0d4be7cb96ab8e8bcf22c2440534dbd.png",
             {}
         ]
     ]
