@@ -583,6 +583,12 @@
             "com.google.android.youtube",
             "//gxicon.b0.upaiyun.com/iconstore/1a743fefa33092c2dc63de6b6d93eab5.png",
             {}
+        ],
+        [
+            "6957",
+            "com.snda.wifilocating",
+            "//gxicon.b0.upaiyun.com/iconstore/afbe118c66b7bb0447d779b6fdd27611.png",
+            {}
         ]
     ]
 }
