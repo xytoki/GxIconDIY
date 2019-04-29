@@ -1,32 +1,107 @@
 {
-    "pkg": "com.gxicon.miaodu",
-    "app": "妙读",
-    "vname": "1.0.0.0.0",
-    "vcode": "17191101",
-    "author": "[weng](copy:weng)",
+    "pkg": "com.gxicon.ｂｐｉｃｏｎｌ",
+    "app": "扁平图标",
+    "vname": "1.0.0.0",
+    "vcode": "190429",
+    "author": "[年轻无极限](copy:年轻无极限)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
     "icons": [
         [
-            "6963",
-            "cn.com.bookan",
-            "//gxicon.b0.upaiyun.com/iconstore/b148ee71607a2ae4958ad81c3278f370.png",
-            {
-                "appfilter": "<!-- 博看书苑 / 博看书苑 -->\n<item component=\"ComponentInfo{cn.com.bookan/com.magook.activity.SplashActivity}\" drawable=\"\" />",
-                "drawable": ""
-            }
-        ],
-        [
-            "6963",
-            "cn.com.bookan",
-            "//gxicon.b0.upaiyun.com/iconstore/b148ee71607a2ae4958ad81c3278f370.png",
+            "6965",
+            "com.android.contacts.activities.DialtactsActivity",
+            "//gxicon.b0.upaiyun.com/iconstore/afcae01686e3f7434160260d953c7ea5.png",
             {}
         ],
         [
-            "6964",
-            "com.miaodu.reader",
-            "//gxicon.b0.upaiyun.com/iconstore/7bf89ae0a56b94f259c2bb02152f1ec4.png",
+            "6966",
+            "com.android.contacts",
+            "//gxicon.b0.upaiyun.com/iconstore/fd6b876059563059d4fefcf43804d2a4.png",
+            {}
+        ],
+        [
+            "6967",
+            "com.android.settings",
+            "//gxicon.b0.upaiyun.com/iconstore/9425af13c9623ea0d2271343d6be65bd.png",
+            {}
+        ],
+        [
+            "6968",
+            "com.android.gallery3d",
+            "//gxicon.b0.upaiyun.com/iconstore/64ac5fd947feb96cff720b03bb3f684d.png",
+            {}
+        ],
+        [
+            "6969",
+            "com.android.calculator2",
+            "//gxicon.b0.upaiyun.com/iconstore/3a8290b4bf28a9d4cd6fea133bfd5b37.png",
+            {}
+        ],
+        [
+            "6977",
+            "com.eg.android.AlipayGphone",
+            "//gxicon.b0.upaiyun.com/iconstore/a2d51f78a410e44abf48924e0f6bc6cb.png",
+            {}
+        ],
+        [
+            "6976",
+            "com.cmbchina.ccd.pluto.cmbActivity",
+            "//gxicon.b0.upaiyun.com/iconstore/19cde7cec6fd640402a1f94539190e7e.png",
+            {}
+        ],
+        [
+            "6975",
+            "com.citiccard.mobilebank",
+            "//gxicon.b0.upaiyun.com/iconstore/f645a52464c8e5191c8ab80e1dc5ad70.png",
+            {}
+        ],
+        [
+            "6974",
+            "com.cainiao.wireless",
+            "//gxicon.b0.upaiyun.com/iconstore/aa5de936ffb9b1cd98e16545a0967b2b.png",
+            {}
+        ],
+        [
+            "6973",
+            "com.baidu.wallet",
+            "//gxicon.b0.upaiyun.com/iconstore/4836fc49c6252aa439667ef8a9b05a54.png",
+            {}
+        ],
+        [
+            "6972",
+            "com.baidu.netdisk",
+            "//gxicon.b0.upaiyun.com/iconstore/3cf153c51ead57aae6393775e273f746.png",
+            {}
+        ],
+        [
+            "6971",
+            "com.android.deskclock",
+            "//gxicon.b0.upaiyun.com/iconstore/200a9fab0f49b19ec8b0bb0062330635.png",
+            {}
+        ],
+        [
+            "6970",
+            "com.android.browser",
+            "//gxicon.b0.upaiyun.com/iconstore/6cd7beacd36de5128460cadcc1920ff0.png",
+            {}
+        ],
+        [
+            "6978",
+            "com.huawei.appmarket",
+            "//gxicon.b0.upaiyun.com/iconstore/28322de45d34e94d230ab13660a4a29d.png",
+            {}
+        ],
+        [
+            "6979",
+            "com.huawei.hidisk",
+            "//gxicon.b0.upaiyun.com/iconstore/6ab9fdd4c28694e14d48734e0f3ada60.png",
+            {}
+        ],
+        [
+            "6980",
+            "com.example.android.notepad",
+            "//gxicon.b0.upaiyun.com/iconstore/072b0c2ef44432059f20d3016f703d39.png",
             {}
         ]
     ]
