@@ -1,23 +1,26 @@
 {
-    "pkg": "com.gxicon.Kaidi990409",
-    "app": "共享图标包",
-    "vname": "1.2.0.1",
-    "vcode": "190421",
-    "author": "[@Kaidi990409](copy:@Kaidi990409)",
+    "pkg": "com.gxicon.bookkan",
+    "app": "博看书苑",
+    "vname": "1.0.0.0.0",
+    "vcode": "17191101",
+    "author": "[weng](copy:weng)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
     "icons": [
         [
-            "6961",
-            "com.sanlian.zhongdu",
-            "//gxicon.b0.upaiyun.com/iconstore/59dafcdef05f5eb885aa38f0fd7b9b75.png",
-            {}
+            "6963",
+            "cn.com.bookan",
+            "//gxicon.b0.upaiyun.com/iconstore/b148ee71607a2ae4958ad81c3278f370.png",
+            {
+                "appfilter": "<!-- 博看书苑 / 博看书苑 -->\n<item component=\"ComponentInfo{cn.com.bookan/com.magook.activity.SplashActivity}\" drawable=\"\" />",
+                "drawable": ""
+            }
         ],
         [
-            "6962",
-            "me.tangke.gamecores",
-            "//gxicon.b0.upaiyun.com/iconstore/08d7020305aeed5a8fa6c89ac30ef2c9.png",
+            "6963",
+            "cn.com.bookan",
+            "//gxicon.b0.upaiyun.com/iconstore/b148ee71607a2ae4958ad81c3278f370.png",
             {}
         ]
     ]
