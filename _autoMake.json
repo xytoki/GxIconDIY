@@ -1,6 +1,6 @@
 {
-    "pkg": "com.gxicon.bookkan",
-    "app": "博看书苑",
+    "pkg": "com.gxicon.miaodu",
+    "app": "妙读",
     "vname": "1.0.0.0.0",
     "vcode": "17191101",
     "author": "[weng](copy:weng)",
@@ -21,6 +21,12 @@
             "6963",
             "cn.com.bookan",
             "//gxicon.b0.upaiyun.com/iconstore/b148ee71607a2ae4958ad81c3278f370.png",
+            {}
+        ],
+        [
+            "6964",
+            "com.miaodu.reader",
+            "//gxicon.b0.upaiyun.com/iconstore/7bf89ae0a56b94f259c2bb02152f1ec4.png",
             {}
         ]
     ]
