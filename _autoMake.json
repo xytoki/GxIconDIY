@@ -1,7 +1,7 @@
 {
     "pkg": "com.gxicon.gxiconpack",
     "app": "gxiconpack图标包",
-    "vname": "1.1.0.1",
+    "vname": "1.1.0.2",
     "vcode": "190501",
     "author": "[Amy丶wyk](copy:Amy丶wyk)",
     "color_primary": "#36F450",
@@ -183,12 +183,6 @@
             {}
         ],
         [
-            "7021",
-            "com.tencent.tmgp.sgame",
-            "//gxicon.b0.upaiyun.com/iconstore/b22d0e83e57f65cb5b1332eb5405344a.png",
-            {}
-        ],
-        [
             "7022",
             "com.netease.cloudmusic",
             "//gxicon.b0.upaiyun.com/iconstore/cfc810c1e15aa35815a1b2bc20e1720b.png",
@@ -312,12 +306,6 @@
             "7047",
             "com.ucmobile.lite",
             "//gxicon.b0.upaiyun.com/iconstore/adad76612864b2d52a6cd0b357682b62.png",
-            {}
-        ],
-        [
-            "7058",
-            "com.apollo.vpn",
-            "//gxicon.b0.upaiyun.com/iconstore/03156c607de5f1f3a5f3c11f4888e6aa.png",
             {}
         ],
         [
@@ -465,12 +453,6 @@
             {}
         ],
         [
-            "7104",
-            "com.oneplus.camera",
-            "//gxicon.b0.upaiyun.com/iconstore/610cb335ab8961d8b8e8d37aa12c4c32.png",
-            {}
-        ],
-        [
             "7106",
             "com.handsgo.jiakao.android",
             "//gxicon.b0.upaiyun.com/iconstore/4717478abb77ad8a144f4b7891d6c655.png",
@@ -600,6 +582,12 @@
             "7127",
             "com.oneplus.bbs",
             "//gxicon.b0.upaiyun.com/iconstore/77574e4b7e4122bb53dab76c36236333.png",
+            {}
+        ],
+        [
+            "7129",
+            "com.tencent.tmgp.sgame",
+            "//gxicon.b0.upaiyun.com/iconstore/104529f87e73a4961ad299baf92b3841.png",
             {}
         ]
     ]
