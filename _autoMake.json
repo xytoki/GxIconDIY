@@ -135,12 +135,6 @@
             {}
         ],
         [
-            "7013",
-            "com.tencent.androidqqmail",
-            "//gxicon.b0.upaiyun.com/iconstore/4f8242313b1ff062eda6dc368ca69ff4.png",
-            {}
-        ],
-        [
             "7014",
             "com.oppo.market",
             "//gxicon.b0.upaiyun.com/iconstore/38a29352a25a67f1e15956a90f4bc13a.png",
@@ -588,6 +582,12 @@
             "7129",
             "com.tencent.tmgp.sgame",
             "//gxicon.b0.upaiyun.com/iconstore/104529f87e73a4961ad299baf92b3841.png",
+            {}
+        ],
+        [
+            "7130",
+            "com.tencent.androidqqmail",
+            "//gxicon.b0.upaiyun.com/iconstore/8c2b6957c5a45039a0a5055b1573e241.png",
             {}
         ]
     ]
