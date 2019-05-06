@@ -2,7 +2,7 @@
     "pkg": "com.gxicon.dingyi",
     "app": "辣鸡丁一",
     "vname": "0.0.0.1",
-    "vcode": "190506",
+    "vcode": "190507",
     "author": "[@dingyi](copy:@dingyi)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
@@ -12,6 +12,12 @@
             "7131",
             "web1n.stopapp",
             "//gxicon.static.homeii.info/iconstore/9dbd5faf7d1be1359a936e17131d38c1.png",
+            {}
+        ],
+        [
+            "7132",
+            "com.oasisfeng.island",
+            "//gxicon.static.homeii.info/iconstore/1b10a19fb54ad1d0d3538ce50d77c97f.png",
             {}
         ]
     ]
