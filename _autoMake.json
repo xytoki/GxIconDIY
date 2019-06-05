@@ -1,131 +1,29 @@
 {
-    "pkg": "com.gxicon.android",
-    "app": "android图标",
-    "vname": "1.0.0",
-    "vcode": "1001",
-    "author": "[奥巴牛](copy:奥巴牛)",
-    "color_primary": "#368AF4",
-    "color_primary_dark": "#0091D8",
-    "color_accent": "#000000",
+    "pkg": "com.gxicon.gxdiy",
+    "app": "共享图标包",
+    "vname": "1.0.0.0.0",
+    "vcode": "17191101",
+    "author": "[weng](copy:weng)",
+    "color_primary": "#f44336",
+    "color_primary_dark": "#d80f00",
+    "color_accent": "#ff5252",
     "icons": [
         [
-            "7151",
-            "com.blink.academy.nomo",
-            "//gxicon.static.homeii.info/iconstore/21c4709b856b8f8c474e44460d2d70d5.png",
+            "6964",
+            "com.miaodu.reader",
+            "//gxicon.static.homeii.info/iconstore/7bf89ae0a56b94f259c2bb02152f1ec4.png",
             {}
         ],
         [
-            "7213",
-            "com.weibo.qh",
-            "//gxicon.static.homeii.info/iconstore/f75fe79bf42f5ce6e5fa8785b82f29bd.png",
+            "6963",
+            "cn.com.bookan",
+            "//gxicon.static.homeii.info/iconstore/b148ee71607a2ae4958ad81c3278f370.png",
             {}
         ],
         [
-            "7206",
-            "com.android.dialer",
-            "//gxicon.static.homeii.info/iconstore/a62ebe5e73dc278e8adb8a6c45cbc904.png",
-            {}
-        ],
-        [
-            "7205",
-            "com.android.contacts",
-            "//gxicon.static.homeii.info/iconstore/682bb3782b675e89c1318c0c5fc64b91.png",
-            {}
-        ],
-        [
-            "7204",
-            "com.android.alarmclock",
-            "//gxicon.static.homeii.info/iconstore/880c038f95670fe0cd4cc778458652c5.png",
-            {}
-        ],
-        [
-            "7203",
-            "com.oneplus.camerb",
-            "//gxicon.static.homeii.info/iconstore/9f3819f35adb6f02f542b56e52a07e9c.png",
-            {}
-        ],
-        [
-            "7202",
-            "com.android.calendar",
-            "//gxicon.static.homeii.info/iconstore/0b840dbba6f6f3554402234292588648.png",
-            {}
-        ],
-        [
-            "7211",
-            "com.android.mms",
-            "//gxicon.static.homeii.info/iconstore/a383a1f44032f6546c60d1d6c946a16e.png",
-            {}
-        ],
-        [
-            "7210",
-            "com.android.email",
-            "//gxicon.static.homeii.info/iconstore/db45aa58c9cb4617598d6d9014928f1f.png",
-            {}
-        ],
-        [
-            "7209",
-            "com.oneplus.gallery",
-            "//gxicon.static.homeii.info/iconstore/63d53239d449bb01881f33ca98e36176.png",
-            {}
-        ],
-        [
-            "7208",
-            "com.android.documentsui",
-            "//gxicon.static.homeii.info/iconstore/67a442d957527c9535b4cb3cb00eda23.png",
-            {}
-        ],
-        [
-            "7207",
-            "com.android.providers.downloads.ui",
-            "//gxicon.static.homeii.info/iconstore/6e14ebebd2b6acd7611410132caa1703.png",
-            {}
-        ],
-        [
-            "7212",
-            "tecent",
-            "//gxicon.static.homeii.info/iconstore/88b9cbeceb61715d6f392935cdec01b8.png",
-            {}
-        ],
-        [
-            "7201",
-            "com.oneplus.calculator",
-            "//gxicon.static.homeii.info/iconstore/ecf83a9f3a65e13016892f226e761623.png",
-            {}
-        ],
-        [
-            "7200",
-            "com.android.chrome",
-            "//gxicon.static.homeii.info/iconstore/6420c0d28f597387a9f4afa05e0126cc.png",
-            {}
-        ],
-        [
-            "7191",
-            "com.taobao.taobao",
-            "//gxicon.static.homeii.info/iconstore/8dbfed628c3af83a70482d7a367c097e.png",
-            {}
-        ],
-        [
-            "7190",
-            "com.sankuai.meituan.takeoutnew",
-            "//gxicon.static.homeii.info/iconstore/a8ae78a82c160387260e9f663af02fba.png",
-            {}
-        ],
-        [
-            "7163",
-            "com.evenwell.weather",
-            "//gxicon.static.homeii.info/iconstore/e3375c17cbbd852fd553fa08dfc3ad4f.png",
-            {}
-        ],
-        [
-            "7153",
-            "com.chaozh.iReaderFree",
-            "//gxicon.static.homeii.info/iconstore/b4eabeb1f7e04cb79f777fa1f6cfa84b.png",
-            {}
-        ],
-        [
-            "6333",
-            "com.smartisanos.smartfolder.aoa",
-            "//gxicon.b0.upaiyun.com/iconstore/5dd6713fae86adaf0354540f94a04810.png",
+            "7214",
+            "com.allhistory.dls.marble",
+            "//gxicon.static.homeii.info/iconstore/1cf935b44292ae1f2d5cf8779a60baf9.png",
             {}
         ]
     ]
