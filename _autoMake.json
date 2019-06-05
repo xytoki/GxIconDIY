@@ -1,23 +1,29 @@
 {
     "pkg": "com.gxicon.gxdiy",
-    "app": "共享图标包",
-    "vname": "1.0.0.0.2",
-    "vcode": "17191101",
-    "author": "[weng](copy:weng)",
+    "app": "图标包",
+    "vname": "1.0.0.0.0",
+    "vcode": "17090101",
+    "author": "[煨墨](copy:煨墨)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
     "icons": [
         [
-            "6964",
-            "com.miaodu.reader",
-            "//gxicon.static.homeii.info/iconstore/7bf89ae0a56b94f259c2bb02152f1ec4.png",
+            "7217",
+            "com.onewaystreet.weread",
+            "//gxicon.static.homeii.info/iconstore/ef564a54bded987a4b5bac1971219dc6.png",
             {}
         ],
         [
-            "6963",
-            "cn.com.bookan",
-            "//gxicon.static.homeii.info/iconstore/b148ee71607a2ae4958ad81c3278f370.png",
+            "7216",
+            "com.onewaystreet.weread",
+            "//gxicon.static.homeii.info/iconstore/3acf65d6a0e5aa5090bed683468a81ce.png",
+            {}
+        ],
+        [
+            "7215",
+            "com.netease.snailread",
+            "//gxicon.static.homeii.info/iconstore/ca7c91bae42e962f821ee3aa49e51b6c.png",
             {}
         ],
         [
@@ -27,24 +33,15 @@
             {}
         ],
         [
-            "7215",
-            "com.netease.snailread",
-            "//gxicon.static.homeii.info/iconstore/ca7c91bae42e962f821ee3aa49e51b6c.png",
-            {
-                "appfilter": "",
-                "drawable": "id7215"
-            }
-        ],
-        [
-            "7216",
-            "com.onewaystreet.weread",
-            "//gxicon.static.homeii.info/iconstore/3acf65d6a0e5aa5090bed683468a81ce.png",
+            "6963",
+            "cn.com.bookan",
+            "//gxicon.static.homeii.info/iconstore/b148ee71607a2ae4958ad81c3278f370.png",
             {}
         ],
         [
-            "7217",
-            "com.onewaystreet.weread",
-            "//gxicon.static.homeii.info/iconstore/ef564a54bded987a4b5bac1971219dc6.png",
+            "6964",
+            "com.miaodu.reader",
+            "//gxicon.static.homeii.info/iconstore/7bf89ae0a56b94f259c2bb02152f1ec4.png",
             {}
         ]
     ]
