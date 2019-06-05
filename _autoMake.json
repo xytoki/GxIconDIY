@@ -1,7 +1,7 @@
 {
     "pkg": "com.gxicon.gxdiy",
     "app": "共享图标包",
-    "vname": "1.0.0.0.1",
+    "vname": "1.0.0.0.2",
     "vcode": "17191101",
     "author": "[weng](copy:weng)",
     "color_primary": "#f44336",
@@ -34,6 +34,12 @@
                 "appfilter": "",
                 "drawable": "id7215"
             }
+        ],
+        [
+            "7216",
+            "com.onewaystreet.weread",
+            "//gxicon.static.homeii.info/iconstore/3acf65d6a0e5aa5090bed683468a81ce.png",
+            {}
         ]
     ]
 }
