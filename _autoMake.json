@@ -1,13 +1,19 @@
 {
     "pkg": "com.gxicon.tknsicon",
-    "app": "轻雨增补图标包",
-    "vname": "1.0.0.0",
-    "vcode": "1",
+    "app": "轻雨pure+",
+    "vname": "1.0.0.1",
+    "vcode": "2",
     "author": "[小鳥遊シャロ](copy:小鳥遊シャロ)",
-    "color_primary": "#2DA6F0",
-    "color_primary_dark": "#3D90E8",
-    "color_accent": "#52B8FF",
+    "color_primary": "#3692F4",
+    "color_primary_dark": "#007AD8",
+    "color_accent": "#52A7FF",
     "icons": [
+        [
+            "7248",
+            "com.gsicon.tknsicon",
+            "//gxicon.static.homeii.info/iconstore/cd7e460bb6661cd90ecd3d9c14030834.png",
+            {}
+        ],
         [
             "7228",
             "com.catfoodstudio.majsoul",
