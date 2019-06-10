@@ -9,12 +9,6 @@
     "color_accent": "#52A7FF",
     "icons": [
         [
-            "7248",
-            "com.gsicon.tknsicon",
-            "//gxicon.static.homeii.info/iconstore/cd7e460bb6661cd90ecd3d9c14030834.png",
-            {}
-        ],
-        [
             "7228",
             "com.catfoodstudio.majsoul",
             "//gxicon.static.homeii.info/iconstore/f7ec170b142ab345b1aa9e91b2677cdc.png",
@@ -126,6 +120,12 @@
             "7246",
             "com.xyoye.dandanplay",
             "//gxicon.static.homeii.info/iconstore/85a9e109047e32333a163d1614788abd.png",
+            {}
+        ],
+        [
+            "7249",
+            "com.gxicon.tknsicon",
+            "//gxicon.static.homeii.info/iconstore/cd7e460bb6661cd90ecd3d9c14030834.png",
             {}
         ]
     ]
