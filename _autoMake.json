@@ -1,13 +1,103 @@
 {
     "pkg": "com.gxicon.tknsicon",
-    "app": "轻雨增补图标包",
-    "vname": "1.0.0.0",
-    "vcode": "1",
+    "app": "轻雨pure+",
+    "vname": "1.0.0.1",
+    "vcode": "2",
     "author": "[小鳥遊シャロ](copy:小鳥遊シャロ)",
-    "color_primary": "#2DA6F0",
-    "color_primary_dark": "#3D90E8",
-    "color_accent": "#52B8FF",
+    "color_primary": "#4196EF",
+    "color_primary_dark": "#0962BF",
+    "color_accent": "#0A7FF9",
     "icons": [
+        [
+            "7249",
+            "com.gxicon.tknsicon",
+            "//gxicon.static.homeii.info/iconstore/cd7e460bb6661cd90ecd3d9c14030834.png",
+            {}
+        ],
+        [
+            "7246",
+            "com.xyoye.dandanplay",
+            "//gxicon.static.homeii.info/iconstore/85a9e109047e32333a163d1614788abd.png",
+            {}
+        ],
+        [
+            "7245",
+            "cn.trinea.android.developertools",
+            "//gxicon.static.homeii.info/iconstore/865b2f2dc017cb616ead3bc44a6ff6fe.png",
+            {}
+        ],
+        [
+            "7244",
+            "com.eilojiang",
+            "//gxicon.static.homeii.info/iconstore/f66baaa96f1d80ee65285ab7c3cc3b8a.png",
+            {}
+        ],
+        [
+            "7243",
+            "onsen.player",
+            "//gxicon.static.homeii.info/iconstore/5d78c9f1c71b67d8005e9dd6f8aeacae.png",
+            {}
+        ],
+        [
+            "7238",
+            "com.tmb.x4jdm",
+            "//gxicon.static.homeii.info/iconstore/25c1214f1b6e31c9341f6070816ab548.png",
+            {}
+        ],
+        [
+            "7239",
+            "com.example.xf.negativeonescreen.pro",
+            "//gxicon.static.homeii.info/iconstore/1c9d7d336c8da0c30adabaa6aea24b7c.png",
+            {}
+        ],
+        [
+            "7240",
+            "info.zzjdev.dddh",
+            "//gxicon.static.homeii.info/iconstore/513c0c56859458d7eb194ad9ba846edb.png",
+            {}
+        ],
+        [
+            "7241",
+            "com.star.minesweeping",
+            "//gxicon.static.homeii.info/iconstore/bbfa21bd85abfe896063a6258c764fa5.png",
+            {}
+        ],
+        [
+            "7242",
+            "org.kustom.apkmaker",
+            "//gxicon.static.homeii.info/iconstore/c212619819eed5d4cc19568196002180.png",
+            {}
+        ],
+        [
+            "7237",
+            "com.zhouyuming.animee",
+            "//gxicon.static.homeii.info/iconstore/2ea49e49665549e9ef4559a07f44574e.png",
+            {}
+        ],
+        [
+            "7236",
+            "com.tsukiseele.waifu2x",
+            "//gxicon.static.homeii.info/iconstore/863289c1540514f66d2c3620a15d02b8.png",
+            {}
+        ],
+        [
+            "7235",
+            "com.zzzfun.com",
+            "//gxicon.static.homeii.info/iconstore/a15254bab6bf746e282a5635542de774.png",
+            {}
+        ],
+        [
+            "7234",
+            "com.dyh.movienow",
+            "//gxicon.static.homeii.info/iconstore/9b533bcdcfb81bc9e2eabbae3dff659b.png",
+            {}
+        ],
+        [
+            "7233",
+            "moe.feng.hentai",
+            "//gxicon.static.homeii.info/iconstore/3e45acc04479f1603e8d8348c3c02fc2.png",
+            {}
+        ],
         [
             "7228",
             "com.catfoodstudio.majsoul",
@@ -33,99 +123,9 @@
             {}
         ],
         [
-            "7235",
-            "com.zzzfun.com",
-            "//gxicon.static.homeii.info/iconstore/a15254bab6bf746e282a5635542de774.png",
-            {}
-        ],
-        [
-            "7234",
-            "com.dyh.movienow",
-            "//gxicon.static.homeii.info/iconstore/9b533bcdcfb81bc9e2eabbae3dff659b.png",
-            {}
-        ],
-        [
-            "7233",
-            "moe.feng.hentai",
-            "//gxicon.static.homeii.info/iconstore/3e45acc04479f1603e8d8348c3c02fc2.png",
-            {}
-        ],
-        [
             "7232",
             "me.sweetll.tucao",
             "//gxicon.static.homeii.info/iconstore/5ba75b76fda2c8ebbabd393835e0cd77.png",
-            {}
-        ],
-        [
-            "7236",
-            "com.tsukiseele.waifu2x",
-            "//gxicon.static.homeii.info/iconstore/863289c1540514f66d2c3620a15d02b8.png",
-            {}
-        ],
-        [
-            "7237",
-            "com.zhouyuming.animee",
-            "//gxicon.static.homeii.info/iconstore/2ea49e49665549e9ef4559a07f44574e.png",
-            {}
-        ],
-        [
-            "7238",
-            "com.tmb.x4jdm",
-            "//gxicon.static.homeii.info/iconstore/25c1214f1b6e31c9341f6070816ab548.png",
-            {}
-        ],
-        [
-            "7239",
-            "com.example.xf.negativeonescreen.pro",
-            "//gxicon.static.homeii.info/iconstore/1c9d7d336c8da0c30adabaa6aea24b7c.png",
-            {}
-        ],
-        [
-            "7243",
-            "onsen.player",
-            "//gxicon.static.homeii.info/iconstore/5d78c9f1c71b67d8005e9dd6f8aeacae.png",
-            {}
-        ],
-        [
-            "7242",
-            "org.kustom.apkmaker",
-            "//gxicon.static.homeii.info/iconstore/c212619819eed5d4cc19568196002180.png",
-            {}
-        ],
-        [
-            "7241",
-            "com.star.minesweeping",
-            "//gxicon.static.homeii.info/iconstore/bbfa21bd85abfe896063a6258c764fa5.png",
-            {}
-        ],
-        [
-            "7240",
-            "info.zzjdev.dddh",
-            "//gxicon.static.homeii.info/iconstore/513c0c56859458d7eb194ad9ba846edb.png",
-            {}
-        ],
-        [
-            "7244",
-            "com.eilojiang",
-            "//gxicon.static.homeii.info/iconstore/f66baaa96f1d80ee65285ab7c3cc3b8a.png",
-            {}
-        ],
-        [
-            "7245",
-            "cn.trinea.android.developertools",
-            "//gxicon.static.homeii.info/iconstore/865b2f2dc017cb616ead3bc44a6ff6fe.png",
-            {}
-        ],
-        [
-            "7246",
-            "com.xyoye.dandanplay",
-            "//gxicon.static.homeii.info/iconstore/85a9e109047e32333a163d1614788abd.png",
-            {}
-        ],
-        [
-            "7249",
-            "com.gxicon.tknsicon",
-            "//gxicon.static.homeii.info/iconstore/cd7e460bb6661cd90ecd3d9c14030834.png",
             {}
         ]
     ]
