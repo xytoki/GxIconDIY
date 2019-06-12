@@ -1,12 +1,12 @@
 {
     "pkg": "com.gxicon.tknsicon",
-    "app": "轻雨pure+",
-    "vname": "1.0.0.1",
-    "vcode": "2",
+    "app": "轻雨增补图标包",
+    "vname": "1.0.0.0",
+    "vcode": "1",
     "author": "[小鳥遊シャロ](copy:小鳥遊シャロ)",
-    "color_primary": "#3692F4",
-    "color_primary_dark": "#007AD8",
-    "color_accent": "#52A7FF",
+    "color_primary": "#2DA6F0",
+    "color_primary_dark": "#3D90E8",
+    "color_accent": "#52B8FF",
     "icons": [
         [
             "7228",
