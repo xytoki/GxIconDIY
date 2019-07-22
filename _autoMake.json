@@ -1,17 +1,23 @@
 {
-    "pkg": "com.gxicon.bilibili",
-    "app": "bilibili",
-    "vname": "1",
-    "vcode": "1",
-    "author": "[bilibili](copy:bilibili)",
-    "color_primary": "#f44336",
-    "color_primary_dark": "#d80f00",
-    "color_accent": "#ff5252",
+    "pkg": "com.gxicon.com.hypergryph.arknights",
+    "app": "明日方舟",
+    "vname": "1.0.0.0",
+    "vcode": "1588699",
+    "author": "[欺人者终被骑](copy:欺人者终被骑)",
+    "color_primary": "#060303",
+    "color_primary_dark": "#331B1A",
+    "color_accent": "#100F0F",
     "icons": [
         [
-            "3486",
-            "com.bilibili.app.blue",
-            "//gxicon.static.homeii.info/2018/01/16/22/20180116100735_13e38791242ade3691a948967b3165a0.png",
+            "7211",
+            "com.android.mms",
+            "//gxicon.static.homeii.info/iconstore/a383a1f44032f6546c60d1d6c946a16e.png",
+            {}
+        ],
+        [
+            "6638",
+            "com.superevilmegacorp.game6",
+            "//gxicon.static.homeii.info/iconstore/884c4fa50f979c0f8ae69cbcd5ab0a5f.png",
             {}
         ]
     ]
