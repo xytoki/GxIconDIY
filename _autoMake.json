@@ -2,18 +2,12 @@
     "pkg": "com.gxicon.pixel",
     "app": "Pixle 风格",
     "vname": "0.0.9.5",
-    "vcode": "19072316",
+    "vcode": "19072713",
     "author": "[@zsylive](copy:@zsylive)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
     "icons": [
-        [
-            "6212",
-            "com.baidu.tieba",
-            "//gxicon.static.homeii.info/iconstore/55d983ac7ed27b507572b3f1a96e9d91.png",
-            {}
-        ],
         [
             "6214",
             "com.smzdm.client.android",
@@ -474,18 +468,6 @@
             {}
         ],
         [
-            "7262",
-            "com.android.settings",
-            "//gxicon.static.homeii.info/iconstore/15cc88871a35fdf3b011773f71798028.png",
-            {}
-        ],
-        [
-            "7263",
-            "com.baidu.tieba",
-            "//gxicon.static.homeii.info/iconstore/3884fd7e7a25a9a135fe41ad6abc5513.png",
-            {}
-        ],
-        [
             "7264",
             "com.estrongs.android.pop",
             "//gxicon.static.homeii.info/iconstore/ed7f48b13f6f264432bf2ccb9eaa273a.png",
@@ -579,6 +561,30 @@
             "7279",
             "com.actionlauncher.playstore",
             "//gxicon.static.homeii.info/iconstore/14c32b4ec38a765285b66c094225ea20.png",
+            {}
+        ],
+        [
+            "7280",
+            "com.baidu.tieba",
+            "//gxicon.static.homeii.info/iconstore/35ca9e51e19d8a7c2a486fe5c7b55b13.png",
+            {}
+        ],
+        [
+            "7281",
+            "com.android.settings",
+            "//gxicon.static.homeii.info/iconstore/679c65ee9b2b19ba61bea9c05f0dd712.png",
+            {}
+        ],
+        [
+            "7282",
+            "com.google.android.apps.authenticator2",
+            "//gxicon.static.homeii.info/iconstore/436fc3cc5cc10d7f64a702427ed984cf.png",
+            {}
+        ],
+        [
+            "7283",
+            "in.zhaoj.shadowsocksr",
+            "//gxicon.static.homeii.info/iconstore/b48e36a510a34bf1c6a4fce5b6734c80.png",
             {}
         ]
     ]
