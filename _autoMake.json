@@ -1,8 +1,8 @@
 {
     "pkg": "com.gxicon.pixel",
     "app": "Pixle 风格",
-    "vname": "0.0.9.7",
-    "vcode": "19080711",
+    "vname": "0.0.9.8",
+    "vcode": "19080911",
     "author": "[@zsylive](copy:@zsylive)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
@@ -591,6 +591,12 @@
             "7284",
             "org.thunderdog.challegram",
             "//gxicon.static.homeii.info/iconstore/5183437476ff0a2e4a479fbc21373d68.png",
+            {}
+        ],
+        [
+            "7285",
+            "pl.solidexplorer2",
+            "//gxicon.static.homeii.info/iconstore/fc896d6020f06f3043756f165228ea82.png",
             {}
         ]
     ]
