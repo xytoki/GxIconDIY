@@ -157,6 +157,12 @@
             "com.sankuai.meituan.takeoutnew",
             "//gxicon.static.homeii.info/iconstore/2ef6e12736fee8897c490cb85ed2b4ff.png",
             {}
+        ],
+        [
+            "7175",
+            "com.miui.calculator",
+            "//gxicon.static.homeii.info/iconstore/e2b2173220fe8b00eb9e8136a4af3e17.png",
+            {}
         ]
     ]
 }
