@@ -1,8 +1,8 @@
 {
     "pkg": "com.gxicon.pixel",
     "app": "Pixle 风格",
-    "vname": "0.1.0.0",
-    "vcode": "19082514",
+    "vname": "0.1.0.1",
+    "vcode": "19082619",
     "author": "[@zsylive](copy:@zsylive)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
@@ -609,6 +609,12 @@
             "7292",
             "jp.co.capcom.daigyakusai2jp",
             "//gxicon.static.homeii.info/iconstore/d223e08815b2f8231ce9ab2f89681971.png",
+            {}
+        ],
+        [
+            "7294",
+            "com.cainiao.wireless",
+            "//gxicon.static.homeii.info/iconstore/d478b035a338aec8d60783a1f4cf39e1.png",
             {}
         ]
     ]
