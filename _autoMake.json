@@ -1,17 +1,23 @@
 {
-    "pkg": "com.gxicon.vhaboo",
-    "app": "谷歌图标",
+    "pkg": "com.gxicon.v1ha2boo",
+    "app": "vhaboo",
     "vname": "1.0.0.0",
-    "vcode": "10000000",
+    "vcode": "10010000",
     "author": "[@vhaboo](copy:@vhaboo)",
-    "color_primary": "#36C0F4",
-    "color_primary_dark": "#2DD6F0",
-    "color_accent": "#36C7ED",
+    "color_primary": "#f44336",
+    "color_primary_dark": "#d80f00",
+    "color_accent": "#ff5252",
     "icons": [
         [
-            "7274",
-            "com.android.filemanager",
-            "//gxicon.static.homeii.info/iconstore/ed89844fcd8a8a06f709548fe74e8ece.png",
+            "7281",
+            "com.android.settings",
+            "//gxicon.static.homeii.info/iconstore/679c65ee9b2b19ba61bea9c05f0dd712.png",
+            {}
+        ],
+        [
+            "7280",
+            "com.baidu.tieba",
+            "//gxicon.static.homeii.info/iconstore/35ca9e51e19d8a7c2a486fe5c7b55b13.png",
             {}
         ],
         [
@@ -27,111 +33,15 @@
             {}
         ],
         [
-            "7260",
-            "com.google.android.calculator",
-            "//gxicon.static.homeii.info/iconstore/e3b82e7ca1ddf2a7c63343a0394b7371.png",
-            {}
-        ],
-        [
             "7259",
             "com.android.camera",
             "//gxicon.static.homeii.info/iconstore/081a1712161423cec1d82709432082ab.png",
             {}
         ],
         [
-            "7209",
-            "com.oneplus.gallery",
-            "//gxicon.static.homeii.info/iconstore/63d53239d449bb01881f33ca98e36176.png",
-            {}
-        ],
-        [
-            "7211",
-            "com.android.mms",
-            "//gxicon.static.homeii.info/iconstore/a383a1f44032f6546c60d1d6c946a16e.png",
-            {}
-        ],
-        [
-            "7206",
-            "com.android.dialer",
-            "//gxicon.static.homeii.info/iconstore/a62ebe5e73dc278e8adb8a6c45cbc904.png",
-            {}
-        ],
-        [
-            "7205",
-            "com.android.contacts",
-            "//gxicon.static.homeii.info/iconstore/682bb3782b675e89c1318c0c5fc64b91.png",
-            {}
-        ],
-        [
-            "7204",
-            "com.android.alarmclock",
-            "//gxicon.static.homeii.info/iconstore/880c038f95670fe0cd4cc778458652c5.png",
-            {}
-        ],
-        [
-            "7202",
-            "com.android.calendar",
-            "//gxicon.static.homeii.info/iconstore/0b840dbba6f6f3554402234292588648.png",
-            {}
-        ],
-        [
-            "7201",
-            "com.oneplus.calculator",
-            "//gxicon.static.homeii.info/iconstore/ecf83a9f3a65e13016892f226e761623.png",
-            {}
-        ],
-        [
-            "6735",
-            "rikka.searchbyimage",
-            "//gxicon.static.homeii.info/iconstore/029a2ab838d5a0ccac5bce914f408117.png",
-            {}
-        ],
-        [
-            "7149",
-            "com.baidu.BaiduMap",
-            "//gxicon.static.homeii.info/iconstore/a055db80c6665e4f9555a4cf66092bd4.png",
-            {}
-        ],
-        [
-            "7188",
-            "com.quark.browser",
-            "//gxicon.static.homeii.info/iconstore/debd84c271714ce1d82fe06080bd11df.png",
-            {}
-        ],
-        [
-            "6517",
-            "com.quark.browser",
-            "//gxicon.static.homeii.info/iconstore/0da843c69ef77b554d677cc236d25ba8.png",
-            {}
-        ],
-        [
-            "6551",
-            "com.tencent.qqmusic",
-            "//gxicon.static.homeii.info/iconstore/66477ea39eeaf3c4653dd7a1426389ee.png",
-            {}
-        ],
-        [
-            "6393",
-            "com.android.phone",
-            "//gxicon.static.homeii.info/iconstore/2fbdf09b00a8d65bebf4690c4e6d3732.png",
-            {}
-        ],
-        [
-            "7205",
-            "com.android.contacts",
-            "//gxicon.static.homeii.info/iconstore/682bb3782b675e89c1318c0c5fc64b91.png",
-            {}
-        ],
-        [
-            "7281",
-            "com.android.settings",
-            "//gxicon.static.homeii.info/iconstore/679c65ee9b2b19ba61bea9c05f0dd712.png",
-            {}
-        ],
-        [
-            "7261",
-            "com.google.android.calendar",
-            "//gxicon.static.homeii.info/iconstore/7d8a9cb050a3c30dfba6265c4c94529c.png",
+            "7260",
+            "com.google.android.calculator",
+            "//gxicon.static.homeii.info/iconstore/e3b82e7ca1ddf2a7c63343a0394b7371.png",
             {}
         ],
         [
@@ -141,9 +51,207 @@
             {}
         ],
         [
+            "7185",
+            "com.niksoftware.snapseed",
+            "//gxicon.static.homeii.info/iconstore/3cc6be5363fae8d8cd6d876d52df18d6.png",
+            {}
+        ],
+        [
+            "7188",
+            "com.quark.browser",
+            "//gxicon.static.homeii.info/iconstore/debd84c271714ce1d82fe06080bd11df.png",
+            {}
+        ],
+        [
+            "7149",
+            "com.baidu.BaiduMap",
+            "//gxicon.static.homeii.info/iconstore/a055db80c6665e4f9555a4cf66092bd4.png",
+            {}
+        ],
+        [
+            "7128",
+            "com.android.browser",
+            "//gxicon.static.homeii.info/iconstore/cd97d7711d75395158725c187b2dbd5f.png",
+            {}
+        ],
+        [
+            "6719",
+            "com.tencent.mm",
+            "//gxicon.static.homeii.info/iconstore/126da7530640470b623286697c2b992b.png",
+            {}
+        ],
+        [
+            "6708",
+            "com.netease.cloudmusic",
+            "//gxicon.static.homeii.info/iconstore/dada50998c7c7412501a3a7b38d57a68.png",
+            {}
+        ],
+        [
+            "6702",
+            "com.guokr.juvenile",
+            "//gxicon.static.homeii.info/iconstore/518e81827d60bb5fc26f1d22201c1429.png",
+            {}
+        ],
+        [
+            "6700",
+            "com.eg.android.AlipayGphone",
+            "//gxicon.static.homeii.info/iconstore/a7989a1b6520cf2781316baac1c98e90.png",
+            {}
+        ],
+        [
+            "6697",
+            "cn.wps.moffice_eng",
+            "//gxicon.static.homeii.info/iconstore/70b4c6a2798003b71c20d4bea4bc8de4.png",
+            {}
+        ],
+        [
+            "6698",
+            "cn.wps.note",
+            "//gxicon.static.homeii.info/iconstore/ba4fd738b0189778794f6d6d02ade05c.png",
+            {}
+        ],
+        [
+            "6495",
+            "com.coolapk.market",
+            "//gxicon.static.homeii.info/iconstore/e27c21b45df040ff789bae0f64059b4c.png",
+            {}
+        ],
+        [
+            "6464",
+            "com.baidu.netdisk",
+            "//gxicon.static.homeii.info/iconstore/4933c2c8e9f2a6a129df3166a1026a53.png",
+            {}
+        ],
+        [
+            "6149",
+            "good_seed_icon_pack",
+            "//gxicon.static.homeii.info/2018/03/13/21/20180313092503_bdc5b69b254bec266e0f8e8aaecbbc86.png",
+            {}
+        ],
+        [
+            "6167",
+            "wi_fi_master_key",
+            "//gxicon.static.homeii.info/2018/03/13/21/20180313092805_c21a93f855b3fcbe923f95246c51edd7.png",
+            {}
+        ],
+        [
+            "6105",
+            "com.tencent.qqmusic",
+            "//gxicon.static.homeii.info/2018/03/10/13/20180310013727_6dd20b31e4f052cdfa354955e37349b2.png",
+            {}
+        ],
+        [
+            "6093",
+            "Abf",
+            "//gxicon.static.homeii.info/2018/03/05/23/20180305113013_f26115db2cddbc0631ca320d6a852340.png",
+            {}
+        ],
+        [
+            "7205",
+            "com.android.contacts",
+            "//gxicon.static.homeii.info/iconstore/682bb3782b675e89c1318c0c5fc64b91.png",
+            {}
+        ],
+        [
+            "1122",
+            "note",
+            "//gxicon.static.homeii.info/2017/10/06/01/20171006014909_a42a1bb0e364c0d446e5f200389c0e35.png",
+            {}
+        ],
+        [
+            "1126",
+            "clock",
+            "//gxicon.static.homeii.info/2017/10/06/01/20171006014921_8f8b1e0a3072c922b815a3e988d5f8ce.png",
+            {}
+        ],
+        [
+            "1141",
+            "jisuanqi",
+            "//gxicon.static.homeii.info/2017/10/06/01/20171006015018_f5240cec58a012c5f42f78624e0f0b73.png",
+            {}
+        ],
+        [
+            "1160",
+            "browser2",
+            "//gxicon.static.homeii.info/2017/10/06/01/20171006015148_ff768e2f5865c392cae3468946444ec2.png",
+            {}
+        ],
+        [
+            "3754",
+            "com.smartsisan.clock",
+            "//gxicon.static.homeii.info/2018/01/20/16/20180120042016_54b4f1370f59cadf679cdb08b4f66d0b.png",
+            {}
+        ],
+        [
+            "7204",
+            "com.android.alarmclock",
+            "//gxicon.static.homeii.info/iconstore/880c038f95670fe0cd4cc778458652c5.png",
+            {}
+        ],
+        [
+            "7203",
+            "com.oneplus.camerb",
+            "//gxicon.static.homeii.info/iconstore/9f3819f35adb6f02f542b56e52a07e9c.png",
+            {}
+        ],
+        [
+            "7201",
+            "com.oneplus.calculator",
+            "//gxicon.static.homeii.info/iconstore/ecf83a9f3a65e13016892f226e761623.png",
+            {}
+        ],
+        [
             "7202",
             "com.android.calendar",
             "//gxicon.static.homeii.info/iconstore/0b840dbba6f6f3554402234292588648.png",
+            {}
+        ],
+        [
+            "7206",
+            "com.android.dialer",
+            "//gxicon.static.homeii.info/iconstore/a62ebe5e73dc278e8adb8a6c45cbc904.png",
+            {}
+        ],
+        [
+            "7208",
+            "com.android.documentsui",
+            "//gxicon.static.homeii.info/iconstore/67a442d957527c9535b4cb3cb00eda23.png",
+            {}
+        ],
+        [
+            "7209",
+            "com.oneplus.gallery",
+            "//gxicon.static.homeii.info/iconstore/63d53239d449bb01881f33ca98e36176.png",
+            {}
+        ],
+        [
+            "7212",
+            "tecent",
+            "//gxicon.static.homeii.info/iconstore/88b9cbeceb61715d6f392935cdec01b8.png",
+            {}
+        ],
+        [
+            "7211",
+            "com.android.mms",
+            "//gxicon.static.homeii.info/iconstore/a383a1f44032f6546c60d1d6c946a16e.png",
+            {}
+        ],
+        [
+            "7213",
+            "com.weibo.qh",
+            "//gxicon.static.homeii.info/iconstore/f75fe79bf42f5ce6e5fa8785b82f29bd.png",
+            {}
+        ],
+        [
+            "1590",
+            "com.tencent.qqmusic",
+            "//gxicon.static.homeii.info/2017/10/20/17/20171020055748_33cf44fe2df0cf3194c034a87b8a6e82.png",
+            {}
+        ],
+        [
+            "1909",
+            "com.dv.adm.pay",
+            "//gxicon.static.homeii.info/2017/11/02/12/20171102122041_301ff29d4fc3e2e226592bd849e855f1.png",
             {}
         ]
     ]
