@@ -1,4 +1,4 @@
-const express = require('express');
+const Koa = require('koa');
 const IO = require('socket.io');
 const path = require('path');
 const fs = require('fs');
@@ -7,6 +7,7 @@ const crypto = require('crypto');
 const queue = require('queue');
 const fsex=require("fs-extra");
 const http=require('http');
+const log=require('npmlog');
 
 var q = queue();
 q.autostart=true;
@@ -14,18 +15,10 @@ q.concurrency=1;
 q.start();
 var success_data={};
 
-const app = express();
-var server = http.createServer(app);
-var io = IO(server);
-
-server.listen(2019,function(){
-    console.log('server is running at port 2019.');
-});
-
-app.all('*', function(req, res, next) {  
-    res.header("Access-Control-Allow-Origin", "*");  
-    res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");  
-    res.header("Access-Control-Allow-Methods","PUT,POST,GET,DELETE,OPTIONS");  
-    res.header("X-Powered-By",'GX');
-    next();  
-});  
+const app = new Koa();
+const server = require('http').Server(app.callback());
+const io = require('socket.io')(server);
+var port=process.env.PORT || this.options.port || 3003;
+server.listen(port, () => {
+    log.info("WEB",`httpd started at ${port}`);
+})
