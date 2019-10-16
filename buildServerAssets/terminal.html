@@ -36,7 +36,7 @@
         term.fit(); 
         var socket = io.connect("/");
         socket.on("connect", function () {
-            socket.emit("register",getQueryString('id')));
+            socket.emit("register",getQueryString('id'));
             term.attach(socket);
         });
     </script>
