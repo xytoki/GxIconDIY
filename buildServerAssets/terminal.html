@@ -17,12 +17,18 @@
         padding:0;
         margin:0;
         width:100%;
+        height:100%;
     }
     </style>
 </head>
 <body>
     <div id="term"></div>
     <script>
+        function getQueryString(name) {
+            var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)", "i");
+            var r = window.location.search.substr(1).match(reg);
+            if (r != null) return unescape(r[2]); return null;
+        }
         var term = new Terminal();
         term.open(document.getElementById("term"));
         Terminal.applyAddon(fit);
@@ -30,7 +36,7 @@
         term.fit(); 
         var socket = io.connect("/");
         socket.on("connect", function () {
-            socket.emit("register",location.search.replace("?",""));
+            socket.emit("register",getQueryString('id')));
             term.attach(socket);
         });
     </script>
