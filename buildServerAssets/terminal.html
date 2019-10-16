@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Terminal</title>
+    <script crossorigin="anonymous" integrity="sha384-V3TBKuvMynQJ3qEMY+U/JuyOit1hO/D97DKcqKP8fvVFYO5laTB5BomenTxD7bRX" src="https://lib.baomitu.com/xterm/3.14.5/addons/fit/fit.min.js"></script>
+    <link crossorigin="anonymous" integrity="sha384-Om+fFB06z8p9zBC6zwQjqhkNhdHfCGvpCtID1zVVihENcq/vryrChBisqh83cQit" href="https://lib.baomitu.com/xterm/3.14.5/xterm.min.css" rel="stylesheet">
+    <script crossorigin="anonymous" integrity="sha384-tl1la/8m49Clg58pQUQ/aVOrqI9PApdEGyE3idmyAOul78ZXKgn4ya4OqUMl1l73" src="https://lib.baomitu.com/xterm/3.14.5/xterm.min.js"></script>
+    <script crossorigin="anonymous" integrity="sha384-HHKD5G6fqvxz/wBz7BFYeOPzBKELGIZv5l5HAECcXD3zdAS6n8OppmPH9ZxGXY0G" src="https://lib.baomitu.com/socket.io/2.3.0/socket.io.js"></script>
+    <script>
+        "use strict";var _typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e};!function(e){function t(r){if(o[r])return o[r].exports;var n=o[r]={i:r,l:!1,exports:{}};return e[r].call(n.exports,n,n.exports,t),n.l=!0,n.exports}var o={};t.m=e,t.c=o,t.d=function(e,o,r){t.o(e,o)||Object.defineProperty(e,o,{enumerable:!0,get:r})},t.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},t.t=function(e,o){if(1&o&&(e=t(e)),8&o)return e;if(4&o&&"object"===(void 0===e?"undefined":_typeof(e))&&e&&e.__esModule)return e;var r=Object.create(null);if(t.r(r),Object.defineProperty(r,"default",{enumerable:!0,value:e}),2&o&&"string"!=typeof e)for(var n in e)t.d(r,n,function(t){return e[t]}.bind(null,n));return r},t.n=function(e){var o=e&&e.__esModule?function(){return e.default}:function(){return e};return t.d(o,"a",o),o},t.o=function(e,t){return Object.prototype.hasOwnProperty.call(e,t)},t.p="",t(t.s="./src/xterm-addon-attach-socketio.browserify.ts")}({"./src/xterm-addon-attach-socketio.browserify.ts":function(e,t,o){Object.defineProperty(t,"__esModule",{value:!0}),o("./src/xterm-addon-attach-socketio.ts").apply(window.Terminal)},"./src/xterm-addon-attach-socketio.ts":function(e,t,o){function r(e,t){function o(e,t){r.write(e||t||"")}var r=e;r.__socketio=t,r.__flushBuffer=function(){r.write(r.__attachSocketBuffer||"")},r.__pushToBuffer=function(e){r.__attachSocketBuffer?r.__attachSocketBuffer+=e:(r.__attachSocketBuffer=e,r.__flushBuffer&&setTimeout(r.__flushBuffer,10))},r.__getMessageSocketIo=function(e){o((e||"").toString())},r.__sendData=function(e){t.send(e)},r._core.register(n(t,"message",r.__getMessageSocketIo)),r.__dataListener=r.onData(r.__sendData),r._core.register(r.__dataListener),r._core.register(n(t,"close",function(){return i(r,t)})),r._core.register(n(t,"error",function(){return i(r,t)}))}function n(e,t,o){return e.addEventListener(t,o),{dispose:function(){o&&e.removeEventListener(t,o)}}}function i(e,t){var o=e;o.__dataListener&&o.__dataListener.dispose(),o.__dataListener=void 0,t=void 0===t?o.__socketio:t,t&&o.__getMessage&&t.removeEventListener("message",o.__getMessage),delete o.__socket}function c(e){e.prototype.attach=function(e){r(this,e)},e.prototype.detach=function(e){i(this,e)}}Object.defineProperty(t,"__esModule",{value:!0}),t.attach=r,t.detach=i,t.apply=c}});
+    </script>
+</head>
+<body>
+    <div id="term"></div>
+    <script>
+        var term = new Terminal();
+        term.open(document.getElementById("term"));
+        Terminal.applyAddon(fit);
+        Terminal.applyAddon(AttachSocketIoAddon);
+        term.fit();
+        var socket = io.connect("/");
+        socket.on("connect", function () {
+            term.attach(socket);
+        });
+    </script>
+</body>
+</html>
