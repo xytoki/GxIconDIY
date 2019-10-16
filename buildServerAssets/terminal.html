@@ -19,11 +19,11 @@
         var term = new Terminal();
         term.open(document.getElementById("term"));
         Terminal.applyAddon(fit);
-        Terminal.applyAddon(AttachSocketIoAddon);
-        term.fit();
+        //Terminal.applyAddon(AttachSocketIoAddon);
+        term.fit(); 
         var socket = io.connect("/");
         socket.on("connect", function () {
-            io.emit("register",location.search);
+            socket.emit("register",location.search.replace("?",""));
             term.attach(socket);
         });
     </script>

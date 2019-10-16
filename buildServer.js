@@ -40,7 +40,7 @@ const app = new Koa();
 app.use(cors());
 app.use(kjson());
 app.use(bodyParser());
-app.use(static(__dirname+'./buildServerAssets'));
+app.use(static(path.join( __dirname,'./buildServerAssets')));
 const server = http.Server(app.callback());
 const io = IO(server);
 var port=process.env.PORT || 5656;
