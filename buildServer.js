@@ -90,9 +90,9 @@ function addJob(data){
         var f=async function () {
             var data=arguments.callee._gx_info;
             data.execTime=new Date().getTime();
-            await resetEnv();
+            await resetEnv(process.stdout);
             await fsex.writeFile("_autoMake.json",JSON.stringify(data.config, null, 4));
-            await sleep(10000);
+            await execMake(process.stdout);
             data.endTime=new Date().getTime();
             finishedJobs.push(data);
             log.info("JOB","END",{localId:data.localId,jobId:data.jobId});
@@ -120,4 +120,13 @@ async function resetEnv(stdout){
     var reset=exec('git reset --hard HEAD');
     if(stdout)reset.childProcess.stdout.pipe(stdout);
     await reset;
+}
+async function execMake(stdout){
+    var automake=exec('node autoMake');
+    if(stdout)automake.childProcess.stdout.pipe(stdout);
+    await automake;
+
+    var gradlew=exec('./gradlew assembleRelease');
+    if(stdout)gradlew.childProcess.stdout.pipe(stdout);
+    await gradlew;
 }
