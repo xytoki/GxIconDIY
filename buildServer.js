@@ -168,6 +168,6 @@ async function ptySpawn(cmd,arg,datawrite){
 function ioSend(id,ev,content){
     if(typeof(socketPool[id])=="undefined")return;
     for(var i in socketPool[id]){
-        socketPool[id].emit(ev,content);
+        socketPool[id][i].emit(ev,content);
     }
 }
