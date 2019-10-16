@@ -28,7 +28,8 @@ q.on("start",function(job){
 q.on("success",function(){
     q.current=false;
 });
-q.on("error",function(){
+q.on("error",function(err){
+    log.error("JOB",err);
     q.current=false;
 });
 var finishedJobs=[];
