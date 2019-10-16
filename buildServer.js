@@ -26,7 +26,7 @@ q.current=false;
 q.on("start",function(job){
     io.emit("queue",{
         length:q.jobs.length,
-        current:q.current._gx_info.localId
+        current:q.current?q.current._gx_info.localId:"idle"
     });
     q.current=job;
 });
@@ -104,7 +104,7 @@ io.on('connection', function(socket){
         
         io.emit("queue",{
             length:q.jobs.length,
-            current:q.current._gx_info.localId
+            current:q.current?q.current._gx_info.localId:"idle"
         });
     })
     socket.on('disconnect', function(){
