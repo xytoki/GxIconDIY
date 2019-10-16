@@ -136,11 +136,20 @@ function addJob(data){
             await fsex.writeFile("_autoMake.json",JSON.stringify(data.config, null, 4));
             ioSend(data.localId,"message","[OK]\n");
 
-            statusPool[data.localId]="build";
+            statusPool[data.localId]="automake";
             ioSend(data.localId,"status",statusPool[data.localId]);
-            await execMake(function(text){
+            await ptySpawn('node',['autoMake'],function(text){
                 ioSend(data.localId,"message",text);
             });
+
+            statusPool[data.localId]="build";
+            ioSend(data.localId,"status",statusPool[data.localId]);
+
+            await ptySpawn('./gradlew',['assembleRelease'],function(text){
+                ioSend(data.localId,"message",text);
+            });
+
+            
 
             statusPool[data.localId]="sign";
             ioSend(data.localId,"status",statusPool[data.localId]);
@@ -170,10 +179,6 @@ async function resetEnv(write){
     await ptySpawn('git', ['fetch'],write);
     await ptySpawn('git',['clean','-xdf','-e','node_modules','-e','build/','-e','.gradle'],write);
     await ptySpawn('git',['reset','--hard','HEAD'],write);
-}
-async function execMake(write){
-    await ptySpawn('node',['autoMake'],write);
-    await ptySpawn('./gradlew',['assembleRelease'],write);
 }
 async function ptySpawn(cmd,arg,datawrite){
     return new Promise(function(resolve,reject){
