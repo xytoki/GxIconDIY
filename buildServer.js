@@ -112,7 +112,7 @@ async function resetEnv(stdout){
     if(stdout)fetch.childProcess.stdout.pipe(stdout);
     await fetch;
 
-    var clean=exec('git clean -nxdf -e node_modules -e build/ -e .gradle');
+    var clean=exec('git clean -xdf -e node_modules -e build/ -e .gradle');
     if(stdout)clean.childProcess.stdout.pipe(stdout);
     await clean;
 
