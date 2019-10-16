@@ -23,6 +23,7 @@
         term.fit();
         var socket = io.connect("/");
         socket.on("connect", function () {
+            io.emit("register",location.search);
             term.attach(socket);
         });
     </script>
