@@ -24,6 +24,10 @@ q.concurrency=1;
 q.start();
 q.current=false;
 q.on("start",function(job){
+    io.emit("queue",{
+        length:q.jobs.length,
+        current:q.current._gx_info.localId
+    });
     q.current=job;
 });
 q.on("success",function(){
@@ -35,6 +39,7 @@ q.on("error",function(err){
 });
 var finishedJobs=[];
 var socketPool={};
+var statusPool={};
 
 const app = new Koa();
 app.use(cors());
@@ -95,7 +100,12 @@ io.on('connection', function(socket){
         socket._uniq=uuid();
         socketPool[id]=socketPool[id]||[];
         socketPool[id].push(socket);
-        socket.emit("status","connected");
+        socket.emit("status",statusPool[id]||"waiting");
+        
+        io.emit("queue",{
+            length:q.jobs.length,
+            current:q.current._gx_info.localId
+        });
     })
     socket.on('disconnect', function(){
         for(var i in socketPool[socket._id]){
@@ -111,19 +121,35 @@ function addJob(data){
         data.queueTime=new Date().getTime();
         var f=async function () {
             var data=arguments.callee._gx_info;
+
+            statusPool[data.localId]="prepare";
+            await sleep(1000);
             data.execTime=new Date().getTime();
-            ioSend(data.localId,"status","prepare");
+            ioSend(data.localId,"status",statusPool[data.localId]);
             await resetEnv(function(text){
                 ioSend(data.localId,"message",text);
             });
-            ioSend(data.localId,"status","config");
+
+            statusPool[data.localId]="config";
+            ioSend(data.localId,"status",statusPool[data.localId]);
+            ioSend(data.localId,"message",">> Writing _autoMake.json.....");
             await fsex.writeFile("_autoMake.json",JSON.stringify(data.config, null, 4));
-            ioSend(data.localId,"status","build");
+            ioSend(data.localId,"message","[OK]\n");
+
+            statusPool[data.localId]="build";
+            ioSend(data.localId,"status",statusPool[data.localId]);
             await execMake(function(text){
                 ioSend(data.localId,"message",text);
             });
-            ioSend(data.localId,"status","sign");
-            ioSend(data.localId,"status","upload");
+
+            statusPool[data.localId]="sign";
+            ioSend(data.localId,"status",statusPool[data.localId]);
+
+            
+            statusPool[data.localId]="upload";
+            ioSend(data.localId,"status",statusPool[data.localId]);
+
+
             data.endTime=new Date().getTime();
             finishedJobs.push(data);
             log.info("JOB","END",{localId:data.localId,jobId:data.jobId});

@@ -39,6 +39,12 @@
             socket.emit("register",getQueryString('id'));
             term.attach(socket);
         });
+        socket.on("queue",function(d){
+            parent.postMessage(["queue",d],"*");
+        });
+        socket.on("status",function(d){
+            parent.postMessage(["status",d],"*");
+        });
     </script>
 </body>
 </html>
