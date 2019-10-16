@@ -113,14 +113,14 @@ function addJob(data){
             var data=arguments.callee._gx_info;
             data.execTime=new Date().getTime();
             ioSend(data.localId,"status","prepare");
-            await resetEnv(function(){
-                ioSend(data.localId,"message",data);
+            await resetEnv(function(text){
+                ioSend(data.localId,"message",text);
             });
             ioSend(data.localId,"status","config");
             await fsex.writeFile("_autoMake.json",JSON.stringify(data.config, null, 4));
             ioSend(data.localId,"status","build");
-            await execMake(function(){
-                ioSend(data.localId,"message",data);
+            await execMake(function(text){
+                ioSend(data.localId,"message",text);
             });
             ioSend(data.localId,"status","sign");
             ioSend(data.localId,"status","upload");
