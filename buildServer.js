@@ -110,23 +110,38 @@ async function sleep(usec){
 }
 async function resetEnv(stdout){
     var fetch=exec('git fetch');
-    if(stdout)fetch.childProcess.stdout.pipe(stdout);
+    if(stdout){
+        fetch.childProcess.stdout.pipe(stdout);
+        fetch.childProcess.stderr.pipe(stdout);
+    }
     await fetch;
 
     var clean=exec('git clean -xdf -e node_modules -e build/ -e .gradle');
-    if(stdout)clean.childProcess.stdout.pipe(stdout);
+    if(stdout){
+        clean.childProcess.stdout.pipe(stdout);
+        clean.childProcess.stderr.pipe(stdout);
+    }
     await clean;
 
     var reset=exec('git reset --hard HEAD');
-    if(stdout)reset.childProcess.stdout.pipe(stdout);
+    if(stdout){
+        reset.childProcess.stdout.pipe(stdout);
+        reset.childProcess.stderr.pipe(stdout);
+    }
     await reset;
 }
 async function execMake(stdout){
     var automake=exec('node autoMake');
-    if(stdout)automake.childProcess.stdout.pipe(stdout);
+    if(stdout){
+        automake.childProcess.stdout.pipe(stdout);
+        automake.childProcess.stderr.pipe(stdout);
+    }
     await automake;
 
     var gradlew=exec('./gradlew assembleRelease');
-    if(stdout)gradlew.childProcess.stdout.pipe(stdout);
+    if(stdout){
+        gradlew.childProcess.stdout.pipe(stdout);
+        gradlew.childProcess.stderr.pipe(stdout);
+    }
     await gradlew;
 }
