@@ -15,6 +15,7 @@ const http=require('http');
 const log=require('npmlog');
 const Git = require('simple-git/promise')();
 const uuid=require("uuid/v4");
+const exec = require('child-process-promise').exec;
 
 var q = queue();
 q.autostart=true;
@@ -82,23 +83,40 @@ router.get('/', async (ctx, next) => {
 });
 app.use(router.routes());
 function addJob(data){
-    data.localId=uuid();
-    data.queueTime=new Date().getTime();
-    var f=async function () {
-        var data=arguments.callee._gx_info;
-        data.execTime=new Date().getTime();
-        await sleep(10000);
-        data.endTime=new Date().getTime();
-        finishedJobs.push(data);
-        log.info("JOB","END",{localId:data.localId,jobId:data.jobId});
-    };
-    f._gx_info=data;
-    log.info("JOB","ADD",{localId:data.localId,jobId:data.jobId});
-    q.push(f);
-    return data.localId;
+    return (function(){
+        data.localId=uuid();
+        data.queueTime=new Date().getTime();
+        var f=async function () {
+            var data=arguments.callee._gx_info;
+            data.execTime=new Date().getTime();
+            await resetEnv();
+            await fxex.writeFile("_autoMake.json",JSON.stringify(data.config, null, 4));
+            await sleep(10000);
+            data.endTime=new Date().getTime();
+            finishedJobs.push(data);
+            log.info("JOB","END",{localId:data.localId,jobId:data.jobId});
+        };
+        f._gx_info=data;
+        log.info("JOB","ADD",{localId:data.localId,jobId:data.jobId});
+        q.push(f);
+        return data.localId;
+    })(data);
 }
 async function sleep(usec){
     return new Promise(function(resolve){
         setTimeout(resolve,usec);
     });
+}
+async function resetEnv(stdout){
+    var fetch=exec('git fetch');
+    if(stdout)fetch.childProcess.stdout.pipe(stdout);
+    await fetch;
+
+    var clean=exec('git clean -nxdf -e node_modules -e build/ -e .gradle');
+    if(stdout)clean.childProcess.stdout.pipe(stdout);
+    await clean;
+
+    var reset=exec('git reset --hard HEAD');
+    if(stdout)reset.childProcess.stdout.pipe(stdout);
+    await reset;
 }

@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "child-process-promise": "^2.2.1",
     "dayjs": "^1.8.16",
     "fs-extra": "^7.0.1",
     "ftp": "^0.3.10",
