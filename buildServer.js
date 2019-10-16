@@ -91,7 +91,7 @@ function addJob(data){
             var data=arguments.callee._gx_info;
             data.execTime=new Date().getTime();
             await resetEnv();
-            await fxex.writeFile("_autoMake.json",JSON.stringify(data.config, null, 4));
+            await fsex.writeFile("_autoMake.json",JSON.stringify(data.config, null, 4));
             await sleep(10000);
             data.endTime=new Date().getTime();
             finishedJobs.push(data);
