@@ -2,6 +2,8 @@ const Koa = require('koa');
 const cors = require('koa2-cors');
 const kjson = require('koa-json')
 const router = require('koa-router')();
+const bodyParser = require('koa-bodyparser');
+const JWT = require('jsonwebtoken');
 const IO = require('socket.io');
 const path = require('path');
 const fs = require('fs');
@@ -33,15 +35,26 @@ var finishedJobs=[];
 const app = new Koa();
 app.use(cors());
 app.use(kjson());
+app.use(bodyParser());
 const server = http.Server(app.callback());
 const io = IO(server);
 var port=process.env.PORT || 5656;
 server.listen(port, () => {
     log.info("WEB",`httpd started at ${port}`);
 })
-router.get('/api/build/:id', async (ctx, next) => {
+router.post('/api/build', async (ctx, next) => {
+    var jwt=ctx.request.body.data;
+    try {
+        var decoded = JWT.verify(jwt, 'gxicon_toki_key');
+    } catch(err) {
+        ctx.response.body = {
+            code:401
+        };
+        return next();
+    }
     var localId=addJob({
-        jobId:ctx.params.id
+        jobId:ctx.request.body.id,
+        config:decoded.data
     });
     ctx.response.body = {
         code:0,
