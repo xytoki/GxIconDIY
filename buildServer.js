@@ -16,6 +16,7 @@ const log=require('npmlog');
 const Git = require('simple-git/promise')();
 const uuid=require("uuid/v4");
 const exec = require('child-process-promise').exec;
+const pty = require('node-pty');
 
 var q = queue();
 q.autostart=true;
@@ -90,9 +91,9 @@ function addJob(data){
         var f=async function () {
             var data=arguments.callee._gx_info;
             data.execTime=new Date().getTime();
-            await resetEnv(process.stdout);
+            await resetEnv(process.stdout.write);
             await fsex.writeFile("_autoMake.json",JSON.stringify(data.config, null, 4));
-            await execMake(process.stdout);
+            await execMake(process.stdout.write);
             data.endTime=new Date().getTime();
             finishedJobs.push(data);
             log.info("JOB","END",{localId:data.localId,jobId:data.jobId});
@@ -108,40 +109,25 @@ async function sleep(usec){
         setTimeout(resolve,usec);
     });
 }
-async function resetEnv(stdout){
-    var fetch=exec('git fetch');
-    if(stdout){
-        fetch.childProcess.stdout.pipe(stdout);
-        fetch.childProcess.stderr.pipe(stdout);
-    }
-    await fetch;
-
-    var clean=exec('git clean -xdf -e node_modules -e build/ -e .gradle');
-    if(stdout){
-        clean.childProcess.stdout.pipe(stdout);
-        clean.childProcess.stderr.pipe(stdout);
-    }
-    await clean;
-
-    var reset=exec('git reset --hard HEAD');
-    if(stdout){
-        reset.childProcess.stdout.pipe(stdout);
-        reset.childProcess.stderr.pipe(stdout);
-    }
-    await reset;
+async function resetEnv(write){
+    await ptySpawn('git', ['fetch'],write);
+    await ptySpawn('git',['clean','-xdf','-e','node_modules','-e','build/','-e','.gradle'],write);
+    await ptySpawn('git',['reset','--hard','HEAD'],write);
 }
-async function execMake(stdout){
-    var automake=exec('node autoMake');
-    if(stdout){
-        automake.childProcess.stdout.pipe(stdout);
-        automake.childProcess.stderr.pipe(stdout);
-    }
-    await automake;
-
-    var gradlew=exec('./gradlew assembleRelease');
-    if(stdout){
-        gradlew.childProcess.stdout.pipe(stdout);
-        gradlew.childProcess.stderr.pipe(stdout);
-    }
-    await gradlew;
+async function execMake(write){
+    await ptySpawn('node',['autoMake'],write);
+    await ptySpawn('./gradlew',['assembleRelease'],write);
+}
+async function ptySpawn(cmd,arg,data){
+    return new Promise(function(resolve,reject){
+        var ptyProcess = pty.spawn(cmd,arg, {
+            name: 'xterm-color',
+            cols: 80,
+            rows: 30,
+            cwd: __dirname,
+            env: process.env
+          });
+          ptyProcess.on('data',data);
+          ptyProcess.on('exit',resolve);
+    });
 }
