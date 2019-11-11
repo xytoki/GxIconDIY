@@ -1,119 +1,215 @@
 {
-    "pkg": "com.gxicon.gxdiy",
-    "app": "123",
-    "vname": "1.0.0.0",
-    "vcode": "123123",
-    "author": "[123](copy:123)",
-    "color_primary": "#f44336",
-    "color_primary_dark": "#d80f00",
-    "color_accent": "#ff5252",
+    "pkg": "com.gxicon.com.Sploosh",
+    "app": "Sploosh图标包",
+    "vname": "1.0",
+    "vcode": "01",
+    "author": "[东滨乙](copy:东滨乙)",
+    "color_primary": "#C5CDEF",
+    "color_primary_dark": "#FBF9F9",
+    "color_accent": "#1B1919",
     "icons": [
         [
-            "7280",
-            "com.baidu.tieba",
-            "//gxicon.static.homeii.info/iconstore/35ca9e51e19d8a7c2a486fe5c7b55b13.png",
+            "7295",
+            "Sploosh",
+            "//gxicon.static.homeii.info/iconstore/694bc13694690e179fb74bade23ddf29.png",
             {}
         ],
         [
-            "7281",
-            "com.android.settings",
-            "//gxicon.static.homeii.info/iconstore/679c65ee9b2b19ba61bea9c05f0dd712.png",
+            "7296",
+            "Sploosh",
+            "//gxicon.static.homeii.info/iconstore/b4163efaee7923895f45895bc65ec615.png",
             {}
         ],
         [
-            "7279",
-            "com.actionlauncher.playstore",
-            "//gxicon.static.homeii.info/iconstore/14c32b4ec38a765285b66c094225ea20.png",
+            "7297",
+            "Sploosh",
+            "//gxicon.static.homeii.info/iconstore/f5cf971d5d2c0177f67324121c1de2e5.png",
             {}
         ],
         [
-            "7278",
-            "com.tplink.cloudrouter",
-            "//gxicon.static.homeii.info/iconstore/0da3ba8be07d4c373df78e666e5981d1.png",
+            "7298",
+            "Sploosh",
+            "//gxicon.static.homeii.info/iconstore/fc2d61cc2e157b24b06aefc99f346615.png",
             {}
         ],
         [
-            "7277",
-            "com.zui.compass",
-            "//gxicon.static.homeii.info/iconstore/65fd6727dfb1490aa5b087cc98059616.png",
+            "7299",
+            "Sploosh",
+            "//gxicon.static.homeii.info/iconstore/95395ec1054b4583f077755eab4cbf0a.png",
             {}
         ],
         [
-            "7276",
-            "com.icbc.im",
-            "//gxicon.static.homeii.info/iconstore/a91dd829892cc284917852887044a00d.png",
+            "7300",
+            "Sploosh",
+            "//gxicon.static.homeii.info/iconstore/564cc758bca03e6241ee6f549f3ec84b.png",
             {}
         ],
         [
-            "7273",
-            "com.android.gallery3d",
-            "//gxicon.static.homeii.info/iconstore/fd6c8314fb666a23f20889f5683f361c.png",
+            "7301",
+            "Sploosh",
+            "//gxicon.static.homeii.info/iconstore/8e2df335bc6b5c997225dbb9f708d8a1.png",
             {}
         ],
         [
-            "7272",
-            "com.smzdm.client.android",
-            "//gxicon.static.homeii.info/iconstore/fe29e49e42ac8bf0683807fab3dcf79b.png",
+            "7302",
+            "Sploosh",
+            "//gxicon.static.homeii.info/iconstore/c331af97d2fb022c6e9f43df68349cb2.png",
             {}
         ],
         [
-            "7253",
-            "com.wandoujia",
-            "//gxicon.static.homeii.info/iconstore/243b2bbc1413eb89b0120e126dbbaf1b.png",
+            "7303",
+            "Sploosh",
+            "//gxicon.static.homeii.info/iconstore/a6106cf1e0cc9f88faa70a574165ca37.png",
             {}
         ],
         [
-            "7247",
-            "com.tplink.ipc",
-            "//gxicon.static.homeii.info/iconstore/e483271d55db98cfb511fbe6df6d638f.png",
+            "7303",
+            "Sploosh",
+            "//gxicon.static.homeii.info/iconstore/a6106cf1e0cc9f88faa70a574165ca37.png",
             {}
         ],
         [
-            "7241",
-            "com.star.minesweeping",
-            "//gxicon.static.homeii.info/iconstore/bbfa21bd85abfe896063a6258c764fa5.png",
+            "7304",
+            "Sploosh",
+            "//gxicon.static.homeii.info/iconstore/4d27b3be2b347ca2e9f6ec1ff7cae066.png",
             {}
         ],
         [
-            "7243",
-            "onsen.player",
-            "//gxicon.static.homeii.info/iconstore/5d78c9f1c71b67d8005e9dd6f8aeacae.png",
+            "7305",
+            "Sploosh",
+            "//gxicon.static.homeii.info/iconstore/56faf551b5fefb391300a044a36cec0b.png",
             {}
         ],
         [
-            "7292",
-            "jp.co.capcom.daigyakusai2jp",
-            "//gxicon.static.homeii.info/iconstore/d223e08815b2f8231ce9ab2f89681971.png",
+            "7306",
+            "Sploosh",
+            "//gxicon.static.homeii.info/iconstore/9d50c88fe9c1bc1b837a4361c2048f14.png",
             {}
         ],
         [
-            "7275",
-            "com.lenovo.leos.appstore",
-            "//gxicon.static.homeii.info/iconstore/5f147f821fd1cbcd3be4e3de784376b1.png",
+            "7307",
+            "Sploosh",
+            "//gxicon.static.homeii.info/iconstore/cac591dd09168f6119cfb40d95801aaf.png",
             {}
         ],
         [
-            "7284",
-            "org.thunderdog.challegram",
-            "//gxicon.static.homeii.info/iconstore/5183437476ff0a2e4a479fbc21373d68.png",
+            "7308",
+            "Sploosh",
+            "//gxicon.static.homeii.info/iconstore/66cdfb6adac5ac2e05aac575f514a03c.png",
             {}
         ],
         [
-            "7285",
-            "pl.solidexplorer2",
-            "//gxicon.static.homeii.info/iconstore/fc896d6020f06f3043756f165228ea82.png",
+            "7309",
+            "Sploosh",
+            "//gxicon.static.homeii.info/iconstore/470c230d12aec94bb83b3f3aef0040f7.png",
             {}
         ],
         [
-            "7283",
-            "in.zhaoj.shadowsocksr",
-            "//gxicon.static.homeii.info/iconstore/b48e36a510a34bf1c6a4fce5b6734c80.png",
+            "7310",
+            "Sploosh",
+            "//gxicon.static.homeii.info/iconstore/a076c021a02aeca16174d4dbe479aae2.png",
             {}
         ],
         [
-            "7282",
-            "com.google.android.apps.authenticator2",
-            "//gxicon.static.homeii.info/iconstore/436fc3cc5cc10d7f64a702427ed984cf.png",
+            "7311",
+            "Sploosh",
+            "//gxicon.static.homeii.info/iconstore/0da15f3ab4fbdd5566934e614c77d3ed.png",
+            {}
+        ],
+        [
+            "7312",
+            "Sploosh",
+            "//gxicon.static.homeii.info/iconstore/528f424686b90a73b5757e0d190db55c.png",
+            {}
+        ],
+        [
+            "7313",
+            "Sploosh",
+            "//gxicon.static.homeii.info/iconstore/bbe9892159f788af678eacf943fd6732.png",
+            {}
+        ],
+        [
+            "7314",
+            "Sploosh",
+            "//gxicon.static.homeii.info/iconstore/baa61083cbfe13bdecb95f66cb52b5dc.png",
+            {}
+        ],
+        [
+            "7315",
+            "Sploosh",
+            "//gxicon.static.homeii.info/iconstore/7635c7e7136dcf558bdcfff9dde0f1fd.png",
+            {}
+        ],
+        [
+            "7316",
+            "Sploosh",
+            "//gxicon.static.homeii.info/iconstore/be59fd46cb6d873148c4279af99b0743.png",
+            {}
+        ],
+        [
+            "7317",
+            "Sploosh",
+            "//gxicon.static.homeii.info/iconstore/0a6e6239f3c655d42b1e8974cb15f72f.png",
+            {}
+        ],
+        [
+            "7318",
+            "Sploosh",
+            "//gxicon.static.homeii.info/iconstore/4e9974e44274790cbabbd007427bb2ea.png",
+            {}
+        ],
+        [
+            "7319",
+            "Sploosh",
+            "//gxicon.static.homeii.info/iconstore/807211ffa1145d7ac214db6737b1bc82.png",
+            {}
+        ],
+        [
+            "7320",
+            "Sploosh",
+            "//gxicon.static.homeii.info/iconstore/27cd1e563bafe1a6e1b7adfb62e3a984.png",
+            {}
+        ],
+        [
+            "7321",
+            "Sploosh",
+            "//gxicon.static.homeii.info/iconstore/b37aca26f77685ff8a3aa472d8be062f.png",
+            {}
+        ],
+        [
+            "7322",
+            "Sploosh",
+            "//gxicon.static.homeii.info/iconstore/120ff6ebf80f875294969f759ad2587c.png",
+            {}
+        ],
+        [
+            "7323",
+            "Sploosh",
+            "//gxicon.static.homeii.info/iconstore/83896473dab33da2396fc38209011d4b.png",
+            {}
+        ],
+        [
+            "7324",
+            "Sploosh",
+            "//gxicon.static.homeii.info/iconstore/5e5d03522d88a84b6033bd25dd9a1bb3.png",
+            {}
+        ],
+        [
+            "7325",
+            "Sploosh",
+            "//gxicon.static.homeii.info/iconstore/23c55171121bea57efc97c8dd09fc80f.png",
+            {}
+        ],
+        [
+            "7326",
+            "Sploosh",
+            "//gxicon.static.homeii.info/iconstore/349254c86edcd098a48a190addd7c224.png",
+            {}
+        ],
+        [
+            "7327",
+            "Sploosh",
+            "//gxicon.static.homeii.info/iconstore/9b2edde3da0129bdcf000e0ceec96642.png",
             {}
         ]
     ]
