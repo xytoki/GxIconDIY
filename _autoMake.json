@@ -1,36 +1,21 @@
 {
-    "pkg": "com.gxicon.icode",
-    "app": "共享图标包",
-    "vname": "1.0.0.0",
-    "vcode": "191121",
-    "author": "[奔跑的小胖乔](copy:奔跑的小胖乔)",
-    "color_primary": "#2D8CF0",
-    "color_primary_dark": "#2D8CF0",
-    "color_accent": "#2D8CF0",
+    "pkg": "com.gxicon.444",
+    "app": "没有",
+    "vname": "啥",
+    "vcode": "12",
+    "author": "[没有](copy:没有)",
+    "color_primary": "#f44336",
+    "color_primary_dark": "#d80f00",
+    "color_accent": "#ff5252",
     "icons": [
         [
-            "7328",
-            "cn.lunkr.android",
-            "//gxicon.static.homeii.info/iconstore/e87bd0c0efa44fdf22a2dd0db72f9243.png",
-            {}
-        ],
-        [
-            "7327",
-            "Sploosh",
-            "//gxicon.static.homeii.info/iconstore/9b2edde3da0129bdcf000e0ceec96642.png",
-            {}
-        ],
-        [
-            "7326",
-            "Sploosh",
-            "//gxicon.static.homeii.info/iconstore/349254c86edcd098a48a190addd7c224.png",
-            {}
-        ],
-        [
-            "7325",
-            "Sploosh",
-            "//gxicon.static.homeii.info/iconstore/23c55171121bea57efc97c8dd09fc80f.png",
-            {}
+            "7330",
+            "com.ss.android.ugc.trill",
+            "//gxicon.static.homeii.info/iconstore/cd6db191fc1c041b678fb66456a7520f.png",
+            {
+                "appfilter": "",
+                "drawable": "id7330"
+            }
         ]
     ]
 }
