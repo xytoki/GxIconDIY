@@ -1,21 +1,24 @@
 {
-    "pkg": "com.gxicon.444",
-    "app": "没有",
-    "vname": "啥",
-    "vcode": "12",
-    "author": "[没有](copy:没有)",
+    "pkg": "com.gxicon.gxdiy",
+    "app": "谈",
+    "vname": "1.0",
+    "vcode": "22",
+    "author": "[谈](copy:谈)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
     "icons": [
         [
-            "7330",
-            "com.ss.android.ugc.trill",
-            "//gxicon.static.homeii.info/iconstore/cd6db191fc1c041b678fb66456a7520f.png",
-            {
-                "appfilter": "",
-                "drawable": "id7330"
-            }
+            "7318",
+            "Sploosh",
+            "//gxicon.static.homeii.info/iconstore/4e9974e44274790cbabbd007427bb2ea.png",
+            {}
+        ],
+        [
+            "331",
+            "com.netease.cloudmusic",
+            "//gxicon.static.homeii.info/2017/08/26/14/20170826022632_513abaabf4099004bdceb23be47bdbed.png",
+            {}
         ]
     ]
 }
