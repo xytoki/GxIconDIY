@@ -1,9 +1,9 @@
 {
     "pkg": "com.gxicon.gxdiy",
-    "app": "谈",
-    "vname": "1.0",
-    "vcode": "22",
-    "author": "[谈](copy:谈)",
+    "app": "1",
+    "vname": "1.1.1.1",
+    "vcode": "181881",
+    "author": "[1](copy:1)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
@@ -15,9 +15,9 @@
             {}
         ],
         [
-            "331",
-            "com.netease.cloudmusic",
-            "//gxicon.static.homeii.info/2017/08/26/14/20170826022632_513abaabf4099004bdceb23be47bdbed.png",
+            "7317",
+            "Sploosh",
+            "//gxicon.static.homeii.info/iconstore/0a6e6239f3c655d42b1e8974cb15f72f.png",
             {}
         ]
     ]
