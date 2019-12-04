@@ -1,13 +1,19 @@
 {
-    "pkg": "com.gxicon.gxdiy",
-    "app": "1",
-    "vname": "1.1.1.1",
-    "vcode": "181881",
-    "author": "[1](copy:1)",
+    "pkg": "com.gxicon.diy",
+    "app": "8h",
+    "vname": "1.0.0.1",
+    "vcode": "8966999",
+    "author": "[kjb](copy:kjb)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
     "icons": [
+        [
+            "7326",
+            "Sploosh",
+            "//gxicon.static.homeii.info/iconstore/349254c86edcd098a48a190addd7c224.png",
+            {}
+        ],
         [
             "7318",
             "Sploosh",
@@ -15,9 +21,21 @@
             {}
         ],
         [
-            "7317",
+            "7299",
             "Sploosh",
-            "//gxicon.static.homeii.info/iconstore/0a6e6239f3c655d42b1e8974cb15f72f.png",
+            "//gxicon.static.homeii.info/iconstore/95395ec1054b4583f077755eab4cbf0a.png",
+            {}
+        ],
+        [
+            "7297",
+            "Sploosh",
+            "//gxicon.static.homeii.info/iconstore/f5cf971d5d2c0177f67324121c1de2e5.png",
+            {}
+        ],
+        [
+            "7296",
+            "Sploosh",
+            "//gxicon.static.homeii.info/iconstore/b4163efaee7923895f45895bc65ec615.png",
             {}
         ]
     ]
