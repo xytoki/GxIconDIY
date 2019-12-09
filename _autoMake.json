@@ -1,12 +1,12 @@
 {
     "pkg": "com.gxicon.one ui",
     "app": "one ui",
-    "vname": "1.0",
+    "vname": "1.0.0",
     "vcode": "191209",
     "author": "[奥巴牛](copy:奥巴牛)",
-    "color_primary": "#2DA9ED",
-    "color_primary_dark": "#23ABE7",
-    "color_accent": "#000000",
+    "color_primary": "#f44336",
+    "color_primary_dark": "#d80f00",
+    "color_accent": "#060606",
     "icons": [
         [
             "7348",
@@ -81,27 +81,9 @@
             {}
         ],
         [
-            "7336",
-            "google camera",
-            "//gxicon.static.homeii.info/iconstore/9d9c9044167cb64a55fa711602bd4757.png",
-            {}
-        ],
-        [
-            "7337",
-            "heartstone",
-            "//gxicon.static.homeii.info/iconstore/64f95dc2104ff75cfe5f613b954d969d.png",
-            {}
-        ],
-        [
-            "7335",
-            "com.coolapk.market",
-            "//gxicon.static.homeii.info/iconstore/273218249b37fa3d10615dfe7d84b8dc.png",
-            {}
-        ],
-        [
-            "7334",
-            "com.campmobile.snowcamera",
-            "//gxicon.static.homeii.info/iconstore/f3266aed289389697354c0c356ef2dd9.png",
+            "7332",
+            "com.quark.browser",
+            "//gxicon.static.homeii.info/iconstore/c0d7c6b6e2acb312fbdb2fce8ac1569a.png",
             {}
         ],
         [
@@ -111,9 +93,27 @@
             {}
         ],
         [
-            "7332",
-            "com.quark.browser",
-            "//gxicon.static.homeii.info/iconstore/c0d7c6b6e2acb312fbdb2fce8ac1569a.png",
+            "7334",
+            "com.campmobile.snowcamera",
+            "//gxicon.static.homeii.info/iconstore/f3266aed289389697354c0c356ef2dd9.png",
+            {}
+        ],
+        [
+            "7335",
+            "com.coolapk.market",
+            "//gxicon.static.homeii.info/iconstore/273218249b37fa3d10615dfe7d84b8dc.png",
+            {}
+        ],
+        [
+            "7336",
+            "google camera",
+            "//gxicon.static.homeii.info/iconstore/9d9c9044167cb64a55fa711602bd4757.png",
+            {}
+        ],
+        [
+            "7337",
+            "heartstone",
+            "//gxicon.static.homeii.info/iconstore/64f95dc2104ff75cfe5f613b954d969d.png",
             {}
         ],
         [
