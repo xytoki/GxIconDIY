@@ -1,12 +1,12 @@
 {
-    "pkg": "com.gxicon.123",
-    "app": "123123",
+    "pkg": "com.gxicon.one ui",
+    "app": "one ui",
     "vname": "1.0",
     "vcode": "191209",
     "author": "[奥巴牛](copy:奥巴牛)",
-    "color_primary": "#f44336",
-    "color_primary_dark": "#d80f00",
-    "color_accent": "#ff5252",
+    "color_primary": "#2DA9ED",
+    "color_primary_dark": "#23ABE7",
+    "color_accent": "#000000",
     "icons": [
         [
             "7348",
