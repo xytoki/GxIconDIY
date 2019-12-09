@@ -1,41 +1,131 @@
 {
-    "pkg": "com.gxicon.diy",
-    "app": "8h",
-    "vname": "1.0.0.1",
-    "vcode": "8966999",
-    "author": "[kjb](copy:kjb)",
+    "pkg": "com.gxicon.123",
+    "app": "123123",
+    "vname": "1.0",
+    "vcode": "191209",
+    "author": "[奥巴牛](copy:奥巴牛)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
     "icons": [
         [
-            "7326",
-            "Sploosh",
-            "//gxicon.static.homeii.info/iconstore/349254c86edcd098a48a190addd7c224.png",
+            "7348",
+            "com.zhihu.android",
+            "//gxicon.static.homeii.info/iconstore/f20f7f08e340d03c349d01073dcdffd6.png",
             {}
         ],
         [
-            "7318",
-            "Sploosh",
-            "//gxicon.static.homeii.info/iconstore/4e9974e44274790cbabbd007427bb2ea.png",
+            "7349",
+            "com.taobao.taobao",
+            "//gxicon.static.homeii.info/iconstore/8ef5fd4a6023cd51207b5e26e78a5fb7.png",
             {}
         ],
         [
-            "7299",
-            "Sploosh",
-            "//gxicon.static.homeii.info/iconstore/95395ec1054b4583f077755eab4cbf0a.png",
+            "7350",
+            "com.android.settings",
+            "//gxicon.static.homeii.info/iconstore/48dde07df0ec4214e9a89c6c9541357d.png",
             {}
         ],
         [
-            "7297",
-            "Sploosh",
-            "//gxicon.static.homeii.info/iconstore/f5cf971d5d2c0177f67324121c1de2e5.png",
+            "7345",
+            "com.android.dialer",
+            "//gxicon.static.homeii.info/iconstore/9cd2b8ae1c904eae253395e8562d6daa.png",
             {}
         ],
         [
-            "7296",
-            "Sploosh",
-            "//gxicon.static.homeii.info/iconstore/b4163efaee7923895f45895bc65ec615.png",
+            "7346",
+            "com.android.dialer",
+            "//gxicon.static.homeii.info/iconstore/4756f2b0b216d1cefa274240daf19d16.png",
+            {}
+        ],
+        [
+            "7347",
+            "com.android.dialer",
+            "//gxicon.static.homeii.info/iconstore/5f03f0c59ac9f7445400c0f4302dda43.png",
+            {}
+        ],
+        [
+            "7342",
+            "com.google.android.apps.googlevoice",
+            "//gxicon.static.homeii.info/iconstore/7e27468ad23c96761a6ebeabf6cc57df.png",
+            {}
+        ],
+        [
+            "7343",
+            "com.android.browser",
+            "//gxicon.static.homeii.info/iconstore/5df663de178ba543693f3cdef739812f.png",
+            {}
+        ],
+        [
+            "7344",
+            "com.tencent.mm",
+            "//gxicon.static.homeii.info/iconstore/f8b14d99a21ada408a7952babf8b0e87.png",
+            {}
+        ],
+        [
+            "7340",
+            "com.android.settings",
+            "//gxicon.static.homeii.info/iconstore/fd4465596c53ed347c2cc4ee09754511.png",
+            {}
+        ],
+        [
+            "7341",
+            "com.google.android.apps.plus",
+            "//gxicon.static.homeii.info/iconstore/ebdf23581c4c678a82e381ee2feab4d9.png",
+            {}
+        ],
+        [
+            "7331",
+            "com.google.android.calculator",
+            "//gxicon.static.homeii.info/iconstore/ee9d15dff62a40840b8d2642fae185f1.png",
+            {}
+        ],
+        [
+            "7336",
+            "google camera",
+            "//gxicon.static.homeii.info/iconstore/9d9c9044167cb64a55fa711602bd4757.png",
+            {}
+        ],
+        [
+            "7337",
+            "heartstone",
+            "//gxicon.static.homeii.info/iconstore/64f95dc2104ff75cfe5f613b954d969d.png",
+            {}
+        ],
+        [
+            "7335",
+            "com.coolapk.market",
+            "//gxicon.static.homeii.info/iconstore/273218249b37fa3d10615dfe7d84b8dc.png",
+            {}
+        ],
+        [
+            "7334",
+            "com.campmobile.snowcamera",
+            "//gxicon.static.homeii.info/iconstore/f3266aed289389697354c0c356ef2dd9.png",
+            {}
+        ],
+        [
+            "7333",
+            "game oneplus",
+            "//gxicon.static.homeii.info/iconstore/92052e281a93881ba0dc02ebb57f57f7.png",
+            {}
+        ],
+        [
+            "7332",
+            "com.quark.browser",
+            "//gxicon.static.homeii.info/iconstore/c0d7c6b6e2acb312fbdb2fce8ac1569a.png",
+            {}
+        ],
+        [
+            "7338",
+            "com.smartisanos.smartfolder.aoa",
+            "//gxicon.static.homeii.info/iconstore/907698b91d00f580ddff6cfa823d3f85.png",
+            {}
+        ],
+        [
+            "7339",
+            "google keep",
+            "//gxicon.static.homeii.info/iconstore/c8da5b2529889bfc089243b15f335a7e.png",
             {}
         ]
     ]
