@@ -9,12 +9,6 @@
     "color_accent": "#0E0E0E",
     "icons": [
         [
-            "7349",
-            "com.taobao.taobao",
-            "//gxicon.static.homeii.info/iconstore/8ef5fd4a6023cd51207b5e26e78a5fb7.png",
-            {}
-        ],
-        [
             "7350",
             "com.android.settings",
             "//gxicon.static.homeii.info/iconstore/48dde07df0ec4214e9a89c6c9541357d.png",
@@ -84,6 +78,12 @@
             "7338",
             "com.smartisanos.smartfolder.aoa",
             "//gxicon.static.homeii.info/iconstore/907698b91d00f580ddff6cfa823d3f85.png",
+            {}
+        ],
+        [
+            "7349",
+            "com.taobao.taobao",
+            "//gxicon.static.homeii.info/iconstore/8ef5fd4a6023cd51207b5e26e78a5fb7.png",
             {}
         ]
     ]
