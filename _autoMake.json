@@ -1,83 +1,209 @@
 {
     "pkg": "com.gxicon.oneui",
-    "app": "oneui图标包",
-    "vname": "1.0.0.1",
-    "vcode": "20191209",
+    "app": "oneui",
+    "vname": "1.0.0",
+    "vcode": "191210",
     "author": "[奥巴牛](copy:奥巴牛)",
-    "color_primary": "#f44336",
-    "color_primary_dark": "#d80f00",
-    "color_accent": "#0E0E0E",
+    "color_primary": "#4296F5",
+    "color_primary_dark": "#2D8CF0",
+    "color_accent": "#060606",
     "icons": [
         [
-            "7350",
-            "com.android.settings",
-            "//gxicon.static.homeii.info/iconstore/48dde07df0ec4214e9a89c6c9541357d.png",
-            {}
-        ],
-        [
-            "7345",
-            "com.android.dialer",
-            "//gxicon.static.homeii.info/iconstore/9cd2b8ae1c904eae253395e8562d6daa.png",
-            {}
-        ],
-        [
-            "7347",
-            "com.android.dialer",
-            "//gxicon.static.homeii.info/iconstore/5f03f0c59ac9f7445400c0f4302dda43.png",
-            {}
-        ],
-        [
-            "7343",
-            "com.android.browser",
-            "//gxicon.static.homeii.info/iconstore/5df663de178ba543693f3cdef739812f.png",
-            {}
-        ],
-        [
-            "7344",
-            "com.tencent.mm",
-            "//gxicon.static.homeii.info/iconstore/f8b14d99a21ada408a7952babf8b0e87.png",
-            {}
-        ],
-        [
-            "7340",
-            "com.android.settings",
-            "//gxicon.static.homeii.info/iconstore/fd4465596c53ed347c2cc4ee09754511.png",
-            {}
-        ],
-        [
-            "7332",
-            "com.quark.browser",
-            "//gxicon.static.homeii.info/iconstore/c0d7c6b6e2acb312fbdb2fce8ac1569a.png",
-            {}
-        ],
-        [
-            "7333",
-            "game oneplus",
-            "//gxicon.static.homeii.info/iconstore/92052e281a93881ba0dc02ebb57f57f7.png",
-            {}
-        ],
-        [
-            "7334",
+            "7376",
             "com.campmobile.snowcamera",
             "//gxicon.static.homeii.info/iconstore/f3266aed289389697354c0c356ef2dd9.png",
             {}
         ],
         [
-            "7336",
-            "google camera",
-            "//gxicon.static.homeii.info/iconstore/9d9c9044167cb64a55fa711602bd4757.png",
+            "7377",
+            "com.quark.browser",
+            "//gxicon.static.homeii.info/iconstore/c0d7c6b6e2acb312fbdb2fce8ac1569a.png",
             {}
         ],
         [
-            "7337",
-            "heartstone",
-            "//gxicon.static.homeii.info/iconstore/64f95dc2104ff75cfe5f613b954d969d.png",
+            "7378",
+            "com.sec.android.app.sbrowser",
+            "//gxicon.static.homeii.info/iconstore/cc6ff196a83ae6bd5a549abc4a48138f.png",
             {}
         ],
         [
-            "7338",
-            "com.smartisanos.smartfolder.aoa",
-            "//gxicon.static.homeii.info/iconstore/907698b91d00f580ddff6cfa823d3f85.png",
+            "7379",
+            "ugc_aweme",
+            "//gxicon.static.homeii.info/iconstore/8882c5bc5e591e0911ff043e2cf3cd0e.png",
+            {}
+        ],
+        [
+            "7380",
+            "game_clash_royale",
+            "//gxicon.static.homeii.info/iconstore/26b520478d63ef00486be41769f6c83f.png",
+            {}
+        ],
+        [
+            "7381",
+            "system_browser",
+            "//gxicon.static.homeii.info/iconstore/5df663de178ba543693f3cdef739812f.png",
+            {}
+        ],
+        [
+            "7382",
+            "com.shortcuts.wx",
+            "//gxicon.static.homeii.info/iconstore/f8b14d99a21ada408a7952babf8b0e87.png",
+            {}
+        ],
+        [
+            "7374",
+            "com.xiaomi.gamecenter",
+            "//gxicon.static.homeii.info/iconstore/92052e281a93881ba0dc02ebb57f57f7.png",
+            {}
+        ],
+        [
+            "7375",
+            "com.bbk.cloud",
+            "//gxicon.static.homeii.info/iconstore/7a4d37763d27a5e09b3f4130f26f5c38.png",
+            {}
+        ],
+        [
+            "7368",
+            "system_filemanager",
+            "//gxicon.static.homeii.info/iconstore/61235114035c88d11e8a0d1acf52b7d2.png",
+            {}
+        ],
+        [
+            "7369",
+            "samsung_game_launcher",
+            "//gxicon.static.homeii.info/iconstore/e3877c3699d8e64552e25f0a0e33245d.png",
+            {}
+        ],
+        [
+            "7370",
+            "system_phone",
+            "//gxicon.static.homeii.info/iconstore/1c44c208fed41078768df1978c051056.png",
+            {}
+        ],
+        [
+            "7371",
+            "system_settings",
+            "//gxicon.static.homeii.info/iconstore/48dde07df0ec4214e9a89c6c9541357d.png",
+            {}
+        ],
+        [
+            "7372",
+            "system_soundrecorder",
+            "//gxicon.static.homeii.info/iconstore/c9742d41f6b91aa8ecc68106fd8afd4c.png",
+            {}
+        ],
+        [
+            "7373",
+            "yandex_weather",
+            "//gxicon.static.homeii.info/iconstore/85a575b9430b5d62d5ef672af8d9cb69.png",
+            {}
+        ],
+        [
+            "7365",
+            "meizu_security",
+            "//gxicon.static.homeii.info/iconstore/e2d37bcd6b52f60841397b60d79b1fff.png",
+            {}
+        ],
+        [
+            "7366",
+            "com.xiaomi.hm.health",
+            "//gxicon.static.homeii.info/iconstore/a4964d7a16db70c541fd612fe8f04524.png",
+            {}
+        ],
+        [
+            "7367",
+            "microsoft_edge",
+            "//gxicon.static.homeii.info/iconstore/5178a092af5e16a99a1eed4cb9663c7b.png",
+            {}
+        ],
+        [
+            "7356",
+            "org.chromium.webapk.af0022e0238a4550b",
+            "//gxicon.static.homeii.info/iconstore/ebdf23581c4c678a82e381ee2feab4d9.png",
+            {}
+        ],
+        [
+            "7357",
+            "google_playgames",
+            "//gxicon.static.homeii.info/iconstore/08e5dad10de5daf95ebb98c39dd19ece.png",
+            {}
+        ],
+        [
+            "7358",
+            "google_tasks",
+            "//gxicon.static.homeii.info/iconstore/bc2863ee9517111772fbd4e51bd0f9db.png",
+            {}
+        ],
+        [
+            "7359",
+            "google_earth",
+            "//gxicon.static.homeii.info/iconstore/7a9a3ffbab2655daeb287311391b3f3e.png",
+            {}
+        ],
+        [
+            "7360",
+            "com.google.android.apps.travel.onthego",
+            "//gxicon.static.homeii.info/iconstore/12b6f852f4669af6cad36340c4b4e3e1.png",
+            {}
+        ],
+        [
+            "7361",
+            "com.jsdev.instasizelegacy",
+            "//gxicon.static.homeii.info/iconstore/f54c507d084ee6b13167bc367bf0b058.png",
+            {}
+        ],
+        [
+            "7362",
+            "com.iqiyi.i18n",
+            "//gxicon.static.homeii.info/iconstore/71f0bd863cdb0b94012e53ecd209f0d2.png",
+            {}
+        ],
+        [
+            "7363",
+            "meizu_smartvoice",
+            "//gxicon.static.homeii.info/iconstore/7e27468ad23c96761a6ebeabf6cc57df.png",
+            {}
+        ],
+        [
+            "7364",
+            "meizu_user_support",
+            "//gxicon.static.homeii.info/iconstore/b0d540a25bb445f5eb8a3039622e8e32.png",
+            {}
+        ],
+        [
+            "7351",
+            "com.ws3dm.app",
+            "//gxicon.static.homeii.info/iconstore/83f6ef0d014736c89200c86f40abfe56.png",
+            {}
+        ],
+        [
+            "7352",
+            "com.nexdev.blurone",
+            "//gxicon.static.homeii.info/iconstore/1b8ff23b9f71e175d032eacde89c7ef7.png",
+            {}
+        ],
+        [
+            "7353",
+            "all.in.one.calculator",
+            "//gxicon.static.homeii.info/iconstore/ee9d15dff62a40840b8d2642fae185f1.png",
+            {}
+        ],
+        [
+            "7354",
+            "com.joe.holi",
+            "//gxicon.static.homeii.info/iconstore/d3dd313375966f20fa3452e7ba0e03b4.png",
+            {}
+        ],
+        [
+            "7355",
+            "com.android.chrome",
+            "//gxicon.static.homeii.info/iconstore/1963737dec3de14b8c6e9a5ba8812d12.png",
+            {}
+        ],
+        [
+            "7348",
+            "com.zhihu.android",
+            "//gxicon.static.homeii.info/iconstore/f20f7f08e340d03c349d01073dcdffd6.png",
             {}
         ],
         [
