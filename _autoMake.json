@@ -1,9 +1,9 @@
 {
-    "pkg": "com.gxicon.cdin",
-    "app": "普通的图标包",
-    "vname": "6.6.6.6",
-    "vcode": "20191210",
-    "author": "[小何](copy:小何)",
+    "pkg": "com.gxicon.gxdiy",
+    "app": "好看",
+    "vname": "1.1.1.1",
+    "vcode": "191217",
+    "author": "[不知道](copy:不知道)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
@@ -15,75 +15,9 @@
             {}
         ],
         [
-            "7413",
-            "com.tencent.mm",
-            "//gxicon.static.homeii.info/iconstore/2a0bac35cca3a8e047e9204eaed50336.png",
-            {}
-        ],
-        [
-            "7412",
-            "tv.danmaku.bili",
-            "//gxicon.static.homeii.info/iconstore/31e7fd67a72b7cca72ccb51054956ee7.png",
-            {}
-        ],
-        [
-            "7413",
-            "com.tencent.mm",
-            "//gxicon.static.homeii.info/iconstore/2a0bac35cca3a8e047e9204eaed50336.png",
-            {}
-        ],
-        [
-            "7414",
-            "com.sina.weibo",
-            "//gxicon.static.homeii.info/iconstore/fe811bba31718da0c3e6570698c547d4.png",
-            {}
-        ],
-        [
-            "7410",
-            "com.tencent.mm",
-            "//gxicon.static.homeii.info/iconstore/2a0bac35cca3a8e047e9204eaed50336.png",
-            {}
-        ],
-        [
-            "7411",
-            "com.tencent.tim",
-            "//gxicon.static.homeii.info/iconstore/4348af2076e486416732c6a85ebdfa4c.png",
-            {}
-        ],
-        [
-            "7409",
-            "com.iudesk.android.photo.editor",
-            "//gxicon.static.homeii.info/iconstore/f09fd0f3afd2647f0e284ade5eecd0c3.png",
-            {}
-        ],
-        [
-            "7408",
-            "com.coolapk.market",
-            "//gxicon.static.homeii.info/iconstore/da2711bbc01c322cc0c3ca60a8ad0c7c.png",
-            {}
-        ],
-        [
-            "7406",
-            "com.android.camera2",
-            "//gxicon.static.homeii.info/iconstore/963b0f4a5307ff7f4118f88c2637dea1.png",
-            {}
-        ],
-        [
-            "7407",
-            "com.android.gallery3d",
-            "//gxicon.static.homeii.info/iconstore/068e39e552ec4259732d154892f90655.png",
-            {}
-        ],
-        [
-            "7404",
-            "com.miHoYo.enterprise.NGHSoD",
-            "//gxicon.static.homeii.info/iconstore/f11dcd226f19edd31744634352db39c2.png",
-            {}
-        ],
-        [
-            "7405",
-            "com.sankuai.movie",
-            "//gxicon.static.homeii.info/iconstore/c316f08fc57ef1c5c14441056f0dae8d.png",
+            "7399",
+            "com.ss.android.ugc.aweme",
+            "//gxicon.static.homeii.info/iconstore/81d13429f03f1afad9dd18130ce399f0.png",
             {}
         ],
         [
@@ -93,117 +27,15 @@
             {}
         ],
         [
-            "7402",
-            "com.android.providers.telephony",
-            "//gxicon.static.homeii.info/iconstore/0e2b1ed7f11684ca92cfda701b640c5d.png",
-            {}
-        ],
-        [
-            "7401",
-            "com.android.email",
-            "//gxicon.static.homeii.info/iconstore/e759550be85aff3488069897de5c0219.png",
-            {}
-        ],
-        [
-            "7400",
-            "com.android.chrome",
-            "//gxicon.static.homeii.info/iconstore/5b14f1c02f77e84fbccd95f6709308d8.png",
-            {}
-        ],
-        [
-            "7398",
-            "com.tencent.ig",
-            "//gxicon.static.homeii.info/iconstore/9947b5bc887c25b3c0726bf957cb60d0.png",
-            {}
-        ],
-        [
-            "7399",
-            "com.ss.android.ugc.aweme",
-            "//gxicon.static.homeii.info/iconstore/81d13429f03f1afad9dd18130ce399f0.png",
-            {}
-        ],
-        [
-            "7397",
-            "com.netease.cloudmusic",
-            "//gxicon.static.homeii.info/iconstore/6f9579429fb1eb523dfc9b4a0f596d7b.png",
-            {}
-        ],
-        [
-            "7396",
-            "com.cl.newt66y",
-            "//gxicon.static.homeii.info/iconstore/bbc5b5fdf89dbb4440f4d27844483626.png",
-            {}
-        ],
-        [
-            "7394",
-            "com.cubic.autohome",
-            "//gxicon.static.homeii.info/iconstore/3ceddc4edac12bebfaa485853c44bcd5.png",
-            {}
-        ],
-        [
-            "7395",
-            "com.kingpoint.gmcchh",
-            "//gxicon.static.homeii.info/iconstore/9f7f5dd35687dcc45ccb47a279d164a7.png",
-            {}
-        ],
-        [
-            "7392",
-            "com.chinatelecom.bestpayclient",
-            "//gxicon.static.homeii.info/iconstore/218f417ec35e39a1f2259c6638218007.png",
-            {}
-        ],
-        [
-            "7393",
-            "com.black.unique",
-            "//gxicon.static.homeii.info/iconstore/2050a22a7c65a07209339476283ebece.png",
-            {}
-        ],
-        [
-            "7390",
-            "com.sankuai.meituan",
-            "//gxicon.static.homeii.info/iconstore/fbd9e9c3f9171d3725801465530fc93d.png",
-            {}
-        ],
-        [
-            "7391",
-            "com.tencent.qt.qtl",
-            "//gxicon.static.homeii.info/iconstore/5bbbfbc7f0ed864b9b5aeffe99fef176.png",
-            {}
-        ],
-        [
-            "7388",
-            "com.tencent.qqlive",
-            "//gxicon.static.homeii.info/iconstore/9aa5d94977e513575f3e4e3e57fc5f4d.png",
-            {}
-        ],
-        [
-            "7389",
-            "com.bilibili.app.in",
-            "//gxicon.static.homeii.info/iconstore/31e7fd67a72b7cca72ccb51054956ee7.png",
-            {}
-        ],
-        [
-            "7387",
-            "air.tv.douyu.android",
-            "//gxicon.static.homeii.info/iconstore/f20441a34733a88e23af1c605bc8e5b0.png",
+            "7385",
+            "com.coolapk.market",
+            "//gxicon.static.homeii.info/iconstore/da2711bbc01c322cc0c3ca60a8ad0c7c.png",
             {}
         ],
         [
             "7386",
             "com.tencent.tmgp.sgame",
             "//gxicon.static.homeii.info/iconstore/e5cc07a506780c3566ec413483e8dad3.png",
-            {}
-        ],
-        [
-            "7384",
-            "aihuishou.aihuishouapp",
-            "//gxicon.static.homeii.info/iconstore/f6ed3f705e878cbe27018cb1a4e9d6f5.png",
-            {}
-        ],
-        [
-            "7385",
-            "com.coolapk.market",
-            "//gxicon.static.homeii.info/iconstore/da2711bbc01c322cc0c3ca60a8ad0c7c.png",
             {}
         ]
     ]
