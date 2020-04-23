@@ -1,12 +1,12 @@
 {
-    "pkg": "com.gxicon.color",
-    "app": "color os7",
-    "vname": "1.0.0.1",
-    "vcode": "20200423",
+    "pkg": "com.gxicon.coloros",
+    "app": "coloros",
+    "vname": "1.0.1",
+    "vcode": "15648",
     "author": "[aobaniu](copy:aobaniu)",
-    "color_primary": "#418DEE",
-    "color_primary_dark": "#498AE4",
-    "color_accent": "#F8F5F5",
+    "color_primary": "#47ABDD",
+    "color_primary_dark": "#4EA2EA",
+    "color_accent": "#F6F2F2",
     "icons": [
         [
             "7561",
@@ -45,21 +45,9 @@
             {}
         ],
         [
-            "7572",
-            "tv.danmaku.bili",
-            "//gxicon.static.homeii.info/iconstore/e6afeec9dd42e7a10bb2130944021c39.png",
-            {}
-        ],
-        [
-            "7571",
-            "me.ele",
-            "//gxicon.static.homeii.info/iconstore/a07f97ced8ce81f1aa6b07c21efed77f.png",
-            {}
-        ],
-        [
-            "7570",
-            "huawei.com.android.manager",
-            "//gxicon.static.homeii.info/iconstore/50afa000141186bf0ee03d72f6b8e649.png",
+            "7567",
+            "com.xiaomi.hm.health",
+            "//gxicon.static.homeii.info/iconstore/5a5f21845335431b6f37fbdd0a593e23.png",
             {}
         ],
         [
@@ -69,9 +57,33 @@
             {}
         ],
         [
-            "7567",
-            "com.xiaomi.hm.health",
-            "//gxicon.static.homeii.info/iconstore/5a5f21845335431b6f37fbdd0a593e23.png",
+            "7570",
+            "huawei.com.android.manager",
+            "//gxicon.static.homeii.info/iconstore/50afa000141186bf0ee03d72f6b8e649.png",
+            {}
+        ],
+        [
+            "7571",
+            "me.ele",
+            "//gxicon.static.homeii.info/iconstore/a07f97ced8ce81f1aa6b07c21efed77f.png",
+            {}
+        ],
+        [
+            "7572",
+            "tv.danmaku.bili",
+            "//gxicon.static.homeii.info/iconstore/e6afeec9dd42e7a10bb2130944021c39.png",
+            {}
+        ],
+        [
+            "7542",
+            "com.huawei.remoteassistant",
+            "//gxicon.static.homeii.info/iconstore/4021e3934a7754b1c8d599515dc93847.png",
+            {}
+        ],
+        [
+            "7543",
+            "com.huawei.systemmanager",
+            "//gxicon.static.homeii.info/iconstore/8a3dcbe63756415441403593e102f874.png",
             {}
         ],
         [
@@ -84,6 +96,12 @@
             "7545",
             "com.huawei.vassistant",
             "//gxicon.static.homeii.info/iconstore/26eac8b001c08561b327200a8ab6ad09.png",
+            {}
+        ],
+        [
+            "7546",
+            "com.huawei.wallet",
+            "//gxicon.static.homeii.info/iconstore/76c84b569033b65e0886ef6a45c4f2f3.png",
             {}
         ],
         [
@@ -105,6 +123,12 @@
             {}
         ],
         [
+            "7552",
+            "com.sankuai.meituan.takeoutnew",
+            "//gxicon.static.homeii.info/iconstore/23cdf149ed130ffd759ccaed9bed8160.png",
+            {}
+        ],
+        [
             "7553",
             "com.sec.android.app.sbrowser",
             "//gxicon.static.homeii.info/iconstore/8a399502c5ea104b7580253700088150.png",
@@ -117,9 +141,9 @@
             {}
         ],
         [
-            "7558",
-            "com.ss.android.ugc.aweme",
-            "//gxicon.static.homeii.info/iconstore/d68dd16020102dccb750244f536b645e.png",
+            "7555",
+            "com.sina.weibo",
+            "//gxicon.static.homeii.info/iconstore/d2939f070e18fb9ef984436672b10398.png",
             {}
         ],
         [
@@ -129,15 +153,15 @@
             {}
         ],
         [
-            "7559",
-            "com.taobao.etao",
-            "//gxicon.static.homeii.info/iconstore/ecc4ff0dba4e95393d99d371ca5196f1.png",
+            "7558",
+            "com.ss.android.ugc.aweme",
+            "//gxicon.static.homeii.info/iconstore/d68dd16020102dccb750244f536b645e.png",
             {}
         ],
         [
-            "7555",
-            "com.sina.weibo",
-            "//gxicon.static.homeii.info/iconstore/d2939f070e18fb9ef984436672b10398.png",
+            "7559",
+            "com.taobao.etao",
+            "//gxicon.static.homeii.info/iconstore/ecc4ff0dba4e95393d99d371ca5196f1.png",
             {}
         ],
         [
@@ -168,6 +192,12 @@
             "7531",
             "com.huawei.bluetooth",
             "//gxicon.static.homeii.info/iconstore/37c29e58c99accb3a58dc73307be6983.png",
+            {}
+        ],
+        [
+            "7532",
+            "com.huawei.browser",
+            "//gxicon.static.homeii.info/iconstore/a33fa561b3c8d864f1f2b617250f98f9.png",
             {}
         ],
         [
@@ -267,27 +297,9 @@
             {}
         ],
         [
-            "7512",
-            "com.android.deskclock",
-            "//gxicon.static.homeii.info/iconstore/917a766d2f306c313f6327f18d0941a2.png",
-            {}
-        ],
-        [
-            "7511",
-            "com.android.contacts",
-            "//gxicon.static.homeii.info/iconstore/a31395bf5a9cd1695921c5b2d1d33b9a.png",
-            {}
-        ],
-        [
-            "7510",
-            "com.android.contacts.activities.DialtactsActivity",
-            "//gxicon.static.homeii.info/iconstore/a3b2f087930e2213828286c9690e0c65.png",
-            {}
-        ],
-        [
-            "7509",
-            "com.android.calendar",
-            "//gxicon.static.homeii.info/iconstore/1509934c8ec23043b0dec0254532c196.png",
+            "7507",
+            "com.android.browser",
+            "//gxicon.static.homeii.info/iconstore/a33fa561b3c8d864f1f2b617250f98f9.png",
             {}
         ],
         [
@@ -297,9 +309,33 @@
             {}
         ],
         [
-            "7507",
-            "com.android.browser",
-            "//gxicon.static.homeii.info/iconstore/a33fa561b3c8d864f1f2b617250f98f9.png",
+            "7509",
+            "com.android.calendar",
+            "//gxicon.static.homeii.info/iconstore/1509934c8ec23043b0dec0254532c196.png",
+            {}
+        ],
+        [
+            "7510",
+            "com.android.contacts.activities.DialtactsActivity",
+            "//gxicon.static.homeii.info/iconstore/a3b2f087930e2213828286c9690e0c65.png",
+            {}
+        ],
+        [
+            "7511",
+            "com.android.contacts",
+            "//gxicon.static.homeii.info/iconstore/a31395bf5a9cd1695921c5b2d1d33b9a.png",
+            {}
+        ],
+        [
+            "7512",
+            "com.android.deskclock",
+            "//gxicon.static.homeii.info/iconstore/917a766d2f306c313f6327f18d0941a2.png",
+            {}
+        ],
+        [
+            "7513",
+            "com.android.documentsui",
+            "//gxicon.static.homeii.info/iconstore/2b36af225520e842f97f6a0d35ce585c.png",
             {}
         ],
         [
