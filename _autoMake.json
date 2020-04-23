@@ -1,12 +1,12 @@
 {
-    "pkg": "com.gxicon.color os7",
-    "app": "color os",
-    "vname": "1.0.0",
+    "pkg": "com.gxicon.color",
+    "app": "color os7",
+    "vname": "1.0.0.1",
     "vcode": "20200423",
-    "author": "[奥巴牛](copy:奥巴牛)",
-    "color_primary": "#3693F4",
-    "color_primary_dark": "#008BD8",
-    "color_accent": "#FBF9F9",
+    "author": "[aobaniu](copy:aobaniu)",
+    "color_primary": "#418DEE",
+    "color_primary_dark": "#498AE4",
+    "color_accent": "#F8F5F5",
     "icons": [
         [
             "7561",
@@ -75,12 +75,6 @@
             {}
         ],
         [
-            "7542",
-            "com.huawei.remoteassistant",
-            "//gxicon.static.homeii.info/iconstore/4021e3934a7754b1c8d599515dc93847.png",
-            {}
-        ],
-        [
             "7544",
             "com.huawei.tips",
             "//gxicon.static.homeii.info/iconstore/12f10e16fc18fab008fbbb576406212a.png",
@@ -93,21 +87,15 @@
             {}
         ],
         [
-            "7546",
-            "com.huawei.wallet",
-            "//gxicon.static.homeii.info/iconstore/76c84b569033b65e0886ef6a45c4f2f3.png",
+            "7548",
+            "com.netease.cloudmusic",
+            "//gxicon.static.homeii.info/iconstore/1d3dc16aca4742a710a51ba6cbd88c4a.png",
             {}
         ],
         [
             "7549",
             "com.niksoftware.snapseed",
             "//gxicon.static.homeii.info/iconstore/dc354509e558c39639a7a6d804d9ecbc.png",
-            {}
-        ],
-        [
-            "7548",
-            "com.netease.cloudmusic",
-            "//gxicon.static.homeii.info/iconstore/1d3dc16aca4742a710a51ba6cbd88c4a.png",
             {}
         ],
         [
@@ -129,12 +117,6 @@
             {}
         ],
         [
-            "7555",
-            "com.sina.weibo",
-            "//gxicon.static.homeii.info/iconstore/d2939f070e18fb9ef984436672b10398.png",
-            {}
-        ],
-        [
             "7558",
             "com.ss.android.ugc.aweme",
             "//gxicon.static.homeii.info/iconstore/d68dd16020102dccb750244f536b645e.png",
@@ -153,21 +135,9 @@
             {}
         ],
         [
-            "7530",
-            "com.huawei.appmarket",
-            "//gxicon.static.homeii.info/iconstore/f99cbd70324f093753cc5c2fe607ad5b.png",
-            {}
-        ],
-        [
-            "7529",
-            "com.huawei.android.totemweather",
-            "//gxicon.static.homeii.info/iconstore/408c7cc1f5ef96acf1a8fc12d2228a37.png",
-            {}
-        ],
-        [
-            "7528",
-            "com.hengye.share",
-            "//gxicon.static.homeii.info/iconstore/26bc27fdb25f03a14c5fb8a34782e8b2.png",
+            "7555",
+            "com.sina.weibo",
+            "//gxicon.static.homeii.info/iconstore/d2939f070e18fb9ef984436672b10398.png",
             {}
         ],
         [
@@ -177,27 +147,27 @@
             {}
         ],
         [
+            "7528",
+            "com.hengye.share",
+            "//gxicon.static.homeii.info/iconstore/26bc27fdb25f03a14c5fb8a34782e8b2.png",
+            {}
+        ],
+        [
+            "7529",
+            "com.huawei.android.totemweather",
+            "//gxicon.static.homeii.info/iconstore/408c7cc1f5ef96acf1a8fc12d2228a37.png",
+            {}
+        ],
+        [
+            "7530",
+            "com.huawei.appmarket",
+            "//gxicon.static.homeii.info/iconstore/f99cbd70324f093753cc5c2fe607ad5b.png",
+            {}
+        ],
+        [
             "7531",
             "com.huawei.bluetooth",
             "//gxicon.static.homeii.info/iconstore/37c29e58c99accb3a58dc73307be6983.png",
-            {}
-        ],
-        [
-            "7532",
-            "com.huawei.browser",
-            "//gxicon.static.homeii.info/iconstore/a33fa561b3c8d864f1f2b617250f98f9.png",
-            {}
-        ],
-        [
-            "7533",
-            "com.huawei.calculator",
-            "//gxicon.static.homeii.info/iconstore/9ef9150613143148b0a6bd01268c4936.png",
-            {}
-        ],
-        [
-            "7534",
-            "com.huawei.calendar",
-            "//gxicon.static.homeii.info/iconstore/1509934c8ec23043b0dec0254532c196.png",
             {}
         ],
         [
@@ -210,12 +180,6 @@
             "7536",
             "com.huawei.desktop.explorer",
             "//gxicon.static.homeii.info/iconstore/da72d65d7be7e1ee2cf3cafeb41d59a8.png",
-            {}
-        ],
-        [
-            "7537",
-            "com.huawei.email",
-            "//gxicon.static.homeii.info/iconstore/7535cbaa2ba87dbf70b5b08702425c18.png",
             {}
         ],
         [
@@ -303,27 +267,9 @@
             {}
         ],
         [
-            "7507",
-            "com.android.browser",
-            "//gxicon.static.homeii.info/iconstore/a33fa561b3c8d864f1f2b617250f98f9.png",
-            {}
-        ],
-        [
-            "7508",
-            "com.android.calculator2",
-            "//gxicon.static.homeii.info/iconstore/9ef9150613143148b0a6bd01268c4936.png",
-            {}
-        ],
-        [
-            "7509",
-            "com.android.calendar",
-            "//gxicon.static.homeii.info/iconstore/1509934c8ec23043b0dec0254532c196.png",
-            {}
-        ],
-        [
-            "7510",
-            "com.android.contacts.activities.DialtactsActivity",
-            "//gxicon.static.homeii.info/iconstore/a3b2f087930e2213828286c9690e0c65.png",
+            "7512",
+            "com.android.deskclock",
+            "//gxicon.static.homeii.info/iconstore/917a766d2f306c313f6327f18d0941a2.png",
             {}
         ],
         [
@@ -333,9 +279,27 @@
             {}
         ],
         [
-            "7512",
-            "com.android.deskclock",
-            "//gxicon.static.homeii.info/iconstore/917a766d2f306c313f6327f18d0941a2.png",
+            "7510",
+            "com.android.contacts.activities.DialtactsActivity",
+            "//gxicon.static.homeii.info/iconstore/a3b2f087930e2213828286c9690e0c65.png",
+            {}
+        ],
+        [
+            "7509",
+            "com.android.calendar",
+            "//gxicon.static.homeii.info/iconstore/1509934c8ec23043b0dec0254532c196.png",
+            {}
+        ],
+        [
+            "7508",
+            "com.android.calculator2",
+            "//gxicon.static.homeii.info/iconstore/9ef9150613143148b0a6bd01268c4936.png",
+            {}
+        ],
+        [
+            "7507",
+            "com.android.browser",
+            "//gxicon.static.homeii.info/iconstore/a33fa561b3c8d864f1f2b617250f98f9.png",
             {}
         ],
         [
