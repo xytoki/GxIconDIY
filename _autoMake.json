@@ -355,6 +355,36 @@
             "com.lenovo.club.app",
             "//gxicon.static.homeii.info/iconstore/16013b35b245285dd3c1433232f6f6b1.png",
             {}
+        ],
+        [
+            "7205",
+            "com.android.contacts",
+            "//gxicon.static.homeii.info/iconstore/682bb3782b675e89c1318c0c5fc64b91.png",
+            {}
+        ],
+        [
+            "7206",
+            "com.android.dialer",
+            "//gxicon.static.homeii.info/iconstore/a62ebe5e73dc278e8adb8a6c45cbc904.png",
+            {}
+        ],
+        [
+            "7211",
+            "com.android.mms",
+            "//gxicon.static.homeii.info/iconstore/a383a1f44032f6546c60d1d6c946a16e.png",
+            {}
+        ],
+        [
+            "7200",
+            "com.android.chrome",
+            "//gxicon.static.homeii.info/iconstore/6420c0d28f597387a9f4afa05e0126cc.png",
+            {}
+        ],
+        [
+            "7204",
+            "com.android.alarmclock",
+            "//gxicon.static.homeii.info/iconstore/880c038f95670fe0cd4cc778458652c5.png",
+            {}
         ]
     ]
 }
