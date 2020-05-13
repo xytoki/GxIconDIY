@@ -1,17 +1,23 @@
 {
-    "pkg": "com.gxicon.gxdiy",
-    "app": "无",
-    "vname": "1.0.0.0",
-    "vcode": "123",
-    "author": "[无](copy:无)",
-    "color_primary": "#36F4E6",
-    "color_primary_dark": "#00D8BD",
-    "color_accent": "#52FFE9",
+    "pkg": "com.gxicon.gxd1",
+    "app": "123123",
+    "vname": "1.0.0.1",
+    "vcode": "123123",
+    "author": "[1231231](copy:1231231)",
+    "color_primary": "#f44336",
+    "color_primary_dark": "#d80f00",
+    "color_accent": "#ff5252",
     "icons": [
         [
-            "7564",
-            "com.tencent.mobileqq",
-            "//gxicon.static.homeii.info/iconstore/84d973ee04e50d87954b6075b61d8858.png",
+            "7576",
+            "com.lenovo.club.app",
+            "//gxicon.static.homeii.info/iconstore/16013b35b245285dd3c1433232f6f6b1.png",
+            {}
+        ],
+        [
+            "7575",
+            "com.hexin.plat.android.supremacy",
+            "//gxicon.static.homeii.info/iconstore/e230473ec4d93d5f1aeaf707018ccfe5.png",
             {}
         ]
     ]
