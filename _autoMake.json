@@ -1,9 +1,9 @@
 {
-    "pkg": "com.gxicon.gbgb",
-    "app": "uuu",
-    "vname": "1.0",
-    "vcode": "1",
-    "author": "[ioioi](copy:ioioi)",
+    "pkg": "com.gxicon.engm",
+    "app": "GG",
+    "vname": "1.1",
+    "vcode": "12112",
+    "author": "[GG](copy:GG)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
@@ -27,9 +27,15 @@
             {}
         ],
         [
-            "7565",
-            "com.tencent.tim",
-            "//gxicon.static.homeii.info/iconstore/27953e1bc9354b0955de46414423ecb8.png",
+            "7573",
+            "com.cmri.universalapp",
+            "//gxicon.static.homeii.info/iconstore/1c9cd36349672c4fab4270f344b6c6b4.png",
+            {}
+        ],
+        [
+            "7563",
+            "com.tencent.mm",
+            "//gxicon.static.homeii.info/iconstore/b34fab817bb00ae2b67fbecebbc34634.png",
             {}
         ],
         [
@@ -39,9 +45,27 @@
             {}
         ],
         [
-            "7563",
-            "com.tencent.mm",
-            "//gxicon.static.homeii.info/iconstore/b34fab817bb00ae2b67fbecebbc34634.png",
+            "7565",
+            "com.tencent.tim",
+            "//gxicon.static.homeii.info/iconstore/27953e1bc9354b0955de46414423ecb8.png",
+            {}
+        ],
+        [
+            "7566",
+            "com.weico.international",
+            "//gxicon.static.homeii.info/iconstore/15ba4fa58d018512167f6cb5feef3801.png",
+            {}
+        ],
+        [
+            "7540",
+            "com.huawei.hwireader",
+            "//gxicon.static.homeii.info/iconstore/3cb1ab7479f9d1ef077ff82bbc1ccea8.png",
+            {}
+        ],
+        [
+            "7541",
+            "com.huawei.notepad",
+            "//gxicon.static.homeii.info/iconstore/c3a9b3a8b767d8a66ec4304e4f600a65.png",
             {}
         ]
     ]
