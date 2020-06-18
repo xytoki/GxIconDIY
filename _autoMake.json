@@ -1,71 +1,59 @@
 {
-    "pkg": "com.gxicon.engm",
-    "app": "GG",
-    "vname": "1.1",
-    "vcode": "12112",
-    "author": "[GG](copy:GG)",
+    "pkg": "com.gxicon.gxdiy",
+    "app": "共享图标包",
+    "vname": "1.1.0.1",
+    "vcode": "17090101",
+    "author": "[@煨墨](copy:@煨墨)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
     "icons": [
         [
-            "7576",
-            "com.lenovo.club.app",
-            "//gxicon.static.homeii.info/iconstore/16013b35b245285dd3c1433232f6f6b1.png",
+            "5836",
+            "com.xiaomi.mico",
+            "//gxicon.static.homeii.info/2018/02/27/16/20180227040158_cc3732b9023674dc1326bd284e1079c1.png",
             {}
         ],
         [
-            "7575",
-            "com.hexin.plat.android.supremacy",
-            "//gxicon.static.homeii.info/iconstore/e230473ec4d93d5f1aeaf707018ccfe5.png",
+            "7577",
+            "com.xiaomi.xiaoailite",
+            "//gxicon.static.homeii.info/iconstore/e7e783c22f3af23f09747bce2fd25d6f.png",
             {}
         ],
         [
-            "7574",
-            "com.xunmeng.pinduoduo",
-            "//gxicon.static.homeii.info/iconstore/7673ce5e734a03b6f3319a4070ecc497.png",
+            "7568",
+            "com.xiaomi.smarthome",
+            "//gxicon.static.homeii.info/iconstore/85c2e2ed34e3fac5ad6ecd662dc46bc9.png",
             {}
         ],
         [
-            "7573",
-            "com.cmri.universalapp",
-            "//gxicon.static.homeii.info/iconstore/1c9cd36349672c4fab4270f344b6c6b4.png",
+            "6963",
+            "cn.com.bookan",
+            "//gxicon.static.homeii.info/iconstore/b148ee71607a2ae4958ad81c3278f370.png",
             {}
         ],
         [
-            "7563",
-            "com.tencent.mm",
-            "//gxicon.static.homeii.info/iconstore/b34fab817bb00ae2b67fbecebbc34634.png",
+            "6964",
+            "com.miaodu.reader",
+            "//gxicon.static.homeii.info/iconstore/7bf89ae0a56b94f259c2bb02152f1ec4.png",
             {}
         ],
         [
-            "7564",
-            "com.tencent.mobileqq",
-            "//gxicon.static.homeii.info/iconstore/84d973ee04e50d87954b6075b61d8858.png",
+            "7218",
+            "com.onewaystreet.weread",
+            "//gxicon.static.homeii.info/iconstore/ef564a54bded987a4b5bac1971219dc6.png",
             {}
         ],
         [
-            "7565",
-            "com.tencent.tim",
-            "//gxicon.static.homeii.info/iconstore/27953e1bc9354b0955de46414423ecb8.png",
+            "7215",
+            "com.netease.snailread",
+            "//gxicon.static.homeii.info/iconstore/ca7c91bae42e962f821ee3aa49e51b6c.png",
             {}
         ],
         [
-            "7566",
-            "com.weico.international",
-            "//gxicon.static.homeii.info/iconstore/15ba4fa58d018512167f6cb5feef3801.png",
-            {}
-        ],
-        [
-            "7540",
-            "com.huawei.hwireader",
-            "//gxicon.static.homeii.info/iconstore/3cb1ab7479f9d1ef077ff82bbc1ccea8.png",
-            {}
-        ],
-        [
-            "7541",
-            "com.huawei.notepad",
-            "//gxicon.static.homeii.info/iconstore/c3a9b3a8b767d8a66ec4304e4f600a65.png",
+            "7214",
+            "com.allhistory.dls.marble",
+            "//gxicon.static.homeii.info/iconstore/1cf935b44292ae1f2d5cf8779a60baf9.png",
             {}
         ]
     ]
