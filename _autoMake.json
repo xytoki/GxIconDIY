@@ -1,17 +1,17 @@
 {
-    "pkg": "com.gxicon.gg",
+    "pkg": "com.gxicon.zigbee",
     "app": "小",
     "vname": "1.0",
-    "vcode": "121",
-    "author": "[小](copy:小)",
+    "vcode": "11",
+    "author": "[df](copy:df)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
     "icons": [
         [
-            "7577",
-            "com.xiaomi.xiaoailite",
-            "//gxicon.static.homeii.info/iconstore/e7e783c22f3af23f09747bce2fd25d6f.png",
+            "100",
+            "com.coolapk.market",
+            "//gxicon.static.homeii.info/2017/08/23/13/20170823014902_ae5327f400724b7be0d872283b46e7ae.png",
             {}
         ]
     ]
