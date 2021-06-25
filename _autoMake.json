@@ -1,17 +1,17 @@
 {
-    "pkg": "com.gxicon.zigbee",
-    "app": "小",
-    "vname": "1.0",
-    "vcode": "11",
-    "author": "[df](copy:df)",
+    "pkg": "com.gxicon.das",
+    "app": "asdasd",
+    "vname": "1.1.1",
+    "vcode": "1",
+    "author": "[asdas](copy:asdas)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
     "icons": [
         [
-            "100",
-            "com.coolapk.market",
-            "//gxicon.static.homeii.info/2017/08/23/13/20170823014902_ae5327f400724b7be0d872283b46e7ae.png",
+            "1121",
+            "setting",
+            "//gxicon.static.homeii.info/2017/10/06/01/20171006014906_b8f89e10ad6b19f1829479b8fe4b4fa6.png",
             {}
         ]
     ]
