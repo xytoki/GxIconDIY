@@ -1,29 +1,35 @@
 {
-    "pkg": "com.gxicon.samsung",
-    "app": "samsung",
-    "vname": "1.0",
-    "vcode": "10",
-    "author": "[samsung](copy:samsung)",
+    "pkg": "com.gxicon.isky",
+    "app": "元OS",
+    "vname": "1.0.0.0",
+    "vcode": "21112401",
+    "author": "[icode_isky](copy:icode_isky)",
     "color_primary": "#f44336",
     "color_primary_dark": "#d80f00",
     "color_accent": "#ff5252",
     "icons": [
         [
-            "7563",
-            "com.tencent.mm",
-            "//gxicon.static.homeii.info/iconstore/b34fab817bb00ae2b67fbecebbc34634.png",
+            "7546",
+            "com.huawei.wallet",
+            "//gxicon.static.homeii.info/iconstore/76c84b569033b65e0886ef6a45c4f2f3.png",
             {}
         ],
         [
-            "7564",
-            "com.tencent.mobileqq",
-            "//gxicon.static.homeii.info/iconstore/84d973ee04e50d87954b6075b61d8858.png",
+            "7550",
+            "com.qiyi.video",
+            "//gxicon.static.homeii.info/iconstore/e8a0bd42997eb69d0ced9a24e07a2f30.png",
             {}
         ],
         [
-            "7565",
-            "com.tencent.tim",
-            "//gxicon.static.homeii.info/iconstore/27953e1bc9354b0955de46414423ecb8.png",
+            "7558",
+            "com.ss.android.ugc.aweme",
+            "//gxicon.static.homeii.info/iconstore/d68dd16020102dccb750244f536b645e.png",
+            {}
+        ],
+        [
+            "7560",
+            "com.taobao.taobao",
+            "//gxicon.static.homeii.info/iconstore/ce93ab6cf65e980a828f608d0f297619.png",
             {}
         ],
         [
@@ -33,33 +39,27 @@
             {}
         ],
         [
-            "7568",
-            "com.xiaomi.smarthome",
-            "//gxicon.static.homeii.info/iconstore/85c2e2ed34e3fac5ad6ecd662dc46bc9.png",
+            "7565",
+            "com.tencent.tim",
+            "//gxicon.static.homeii.info/iconstore/27953e1bc9354b0955de46414423ecb8.png",
             {}
         ],
         [
-            "7569",
-            "com.xunmeng.pinduoduo",
-            "//gxicon.static.homeii.info/iconstore/030a6eefd13d63959aba14fa61a8cad1.png",
+            "7564",
+            "com.tencent.mobileqq",
+            "//gxicon.static.homeii.info/iconstore/84d973ee04e50d87954b6075b61d8858.png",
             {}
         ],
         [
-            "7571",
-            "me.ele",
-            "//gxicon.static.homeii.info/iconstore/a07f97ced8ce81f1aa6b07c21efed77f.png",
+            "7563",
+            "com.tencent.mm",
+            "//gxicon.static.homeii.info/iconstore/b34fab817bb00ae2b67fbecebbc34634.png",
             {}
         ],
         [
             "7572",
             "tv.danmaku.bili",
             "//gxicon.static.homeii.info/iconstore/e6afeec9dd42e7a10bb2130944021c39.png",
-            {}
-        ],
-        [
-            "7548",
-            "com.netease.cloudmusic",
-            "//gxicon.static.homeii.info/iconstore/1d3dc16aca4742a710a51ba6cbd88c4a.png",
             {}
         ]
     ]
